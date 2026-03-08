@@ -1,0 +1,347 @@
+{
+  "bullish_views": [
+    {
+      "company": "MongoDB",
+      "ticker": "MDB",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Insulated from seat disruption fears and faces limited displacement risk; strategic role of operational databases will grow.",
+      "exact_sentences_in_the_file": "MongoDB is insulated from seat disruption fears and faces limited displacement risk; the strategic role of operational databases should grow, not shrink, in an AI world"
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "MDB",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Core business is inflecting, supporting larger and more mission-critical workload deployments.",
+      "exact_sentences_in_the_file": "The core business is inflecting as the company shifts upmarket, supporting larger and more mission-critical workload deployments"
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "MDB",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "AI contributions are early but growing, expected to ramp in FY27.",
+      "exact_sentences_in_the_file": "AI is early but growing \u2013 we expect contributions to ramp in FY27."
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "MDB",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Atlas platform is expected to grow high-20s in FY27, benefiting from a stable core and gradual ramp in AI workloads.",
+      "exact_sentences_in_the_file": "Bottom line: we continue to see an upside case for Atlas growing high-20s in FY27, benefiting from a stable core and a gradual ramp in AI workloads."
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "MDB",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "AI expands the need for modern operational data platforms, which MongoDB's architecture is well-suited for.",
+      "exact_sentences_in_the_file": "MongoDB\u2019s relevance to AI is grounded in a simple structural reality: AI expands the need for modern operational data platforms. AI applications still need to persist data, maintain state, manage transactions and support real-time reads and writes. Those requirements do not disappear as agents become more capable; they become more demanding. MongoDB\u2019s document-oriented architecture is particularly well-suited to flexible, rapidly evolving data structures that AI-native applications generate."
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "MDB",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Consumption-based model is directly levered to higher workload activity, hedging against seat-based risks.",
+      "exact_sentences_in_the_file": "MongoDB\u2019s consumption-based model is directly levered to higher workload activity, which aligns well with the way AI workloads are likely to scale over time; it also naturally hedges against seat-based risks facing many software vendors."
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "MDB",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Positioned at the core of the AI stack as AI shifts from model training to powering live, interactive applications.",
+      "exact_sentences_in_the_file": "As the center of gravity for AI shifts from model training to powering live, interactive applications, the operational database becomes the architectural centerpiece for delivering real-time context. For AI agents and Copilots to be effective, they must interact with live, stateful enterprise data, positioning platforms like MongoDB at the core of the AI stack."
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "MDB",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Developer-centric approach and product velocity secure its position for high-value, mission-critical AI applications.",
+      "exact_sentences_in_the_file": "MongoDB\u2019s developer-centric approach and product velocity continue to secure its position as a primary platform for high-value, mission-critical AI applications. We point to MongoDB\u2019s recent announcement that Anthropic is a customer to underscore this point."
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "MDB",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Strategically evolving into an integrated platform for AI-native development, building a durable competitive moat.",
+      "exact_sentences_in_the_file": "MongoDB is strategically evolving from a database into an integrated platform for AI-native development, thereby building a durable competitive moat."
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "MDB",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Acquisition of Voyage AI and native integration of Vector Search and Embedding models reduce developer friction and increase switching costs.",
+      "exact_sentences_in_the_file": "The acquisition of Voyage AI and the native integration of Vector Search and Embedding models into the Atlas platform are critical moves that reduce developer friction for building sophisticated AI applications. By embedding these essential AI capabilities directly within the data platform, MongoDB simplifies the tech stack, accelerates time-to-market, and increases switching costs."
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "MDB",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Integrated strategy will capture significant incremental consumption from AI workloads, reinforcing long-term growth.",
+      "exact_sentences_in_the_file": "We believe this integrated strategy will allow MongoDB to capture significant incremental consumption from AI workloads as they move from experimentation to production, reinforcing the long-term growth durability of the Atlas platform."
+    },
+    {
+      "company": "Rubrik",
+      "ticker": "RBRK",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Continues to establish itself as the primary consolidator within backup and recovery, with expanding wallet share opportunities in security and operations budgets.",
+      "exact_sentences_in_the_file": "Rubrik continues to establish itself as the primary consolidator within backup and recovery (displacement bookings accelerated in F3Q), with expanding wallet share opportunities in more strategic security and operations budgets tied to identity recovery, cyber-resilience and its newer Agent Cloud platform."
+    },
+    {
+      "company": "Rubrik",
+      "ticker": "RBRK",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Best-in-class execution relative to software peers, with underappreciated durable high-20\u2019s to low-30\u2019s ARR growth and rapidly improving profitability.",
+      "exact_sentences_in_the_file": "Execution has been best-in-class relative to software peers, and the combination of durable high-20\u2019s to low-30\u2019s ARR growth with rapidly improving profitability remains underappreciated."
+    },
+    {
+      "company": "Rubrik",
+      "ticker": "RBRK",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Preliminary F4Q results exceeded all guidance metrics, indicating strong performance.",
+      "exact_sentences_in_the_file": "We are constructive on Rubrik\u2019s announcement (2/4) that preliminary F4Q results exceeded all guidance metrics."
+    },
+    {
+      "company": "Rubrik",
+      "ticker": "RBRK",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Attractive risk-reward due to significant dislocation relative to high-growth peers.",
+      "exact_sentences_in_the_file": "With significant dislocation relative to high-growth peers, we see an attractive risk-reward."
+    },
+    {
+      "company": "Rubrik",
+      "ticker": "RBRK",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Evolved into a data security platform engineered for the AI era, with value magnified by AI adoption.",
+      "exact_sentences_in_the_file": "Rubrik\u2019s strategic identity has evolved beyond data protection; it is now fundamentally a data security platform engineered for the AI era. Its value proposition is magnified as AI adoption accelerates data proliferation, automates high-stakes actions, and increases the blast radius of security incidents."
+    },
+    {
+      "company": "Rubrik",
+      "ticker": "RBRK",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Monetization model (data under management) is structurally aligned with exponential data growth and AI activity, insulating it from seat reduction.",
+      "exact_sentences_in_the_file": "Critically, Rubrik\u2019s monetization model, based on data under management rather than seats, is structurally aligned with the exponential growth of data and AI-driven activity, insulating it from automation-led seat reduction."
+    },
+    {
+      "company": "Rubrik",
+      "ticker": "RBRK",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Positioned as an essential governance plane for AI orchestration layers, managing critical data, identity, and recovery control points.",
+      "exact_sentences_in_the_file": "Instead of being disintermediated by emerging AI orchestration layers, Rubrik is positioned to serve as an essential governance plane for them. Enterprises will need guardrails around how AI agents access data, make changes, and recover from errors. Rubrik\u2019s platform already manages the critical intersection of data, identity and recovery, which are exactly the control points required in an agentic environment."
+    },
+    {
+      "company": "Rubrik",
+      "ticker": "RBRK",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "AI structurally expands Rubrik\u2019s addressable opportunity rather than compressing it, increasing the value of remediation.",
+      "exact_sentences_in_the_file": "The primary implication is that AI structurally expands Rubrik\u2019s addressable opportunity rather than compressing it. As automation scales, the value of instantaneous, reliable remediation rises in tandem."
+    },
+    {
+      "company": "Rubrik",
+      "ticker": "RBRK",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Assessed as a durable tailwind that deepens strategic relevance across cybersecurity and IT operations.",
+      "exact_sentences_in_the_file": "We therefore assess AI not as a disruptive risk, but as a durable tailwind that deepens Rubrik\u2019s strategic relevance across both cybersecurity and IT operations."
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "PCOR",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Operates from a strong position as the primary data aggregation and execution layer for complex construction workflows, giving it structural relevance.",
+      "exact_sentences_in_the_file": "However, we believe Procore operates from a strong position as the primary data aggregation and execution layer for complex construction workflows, giving it structural relevance even as agent interfaces evolve."
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "PCOR",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Attractive risk-reward profile, trading at a wide discount to vertical SaaS peers on a growth-adjusted FCF basis.",
+      "exact_sentences_in_the_file": "At 5x EV/S and mid-20\u2019s EV/FCF, we see an increasingly attractive risk-reward profile, now trading a wide discount to vertical SaaS peers on a growth-adjusted FCF basis."
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "PCOR",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Market underappreciates its ability to compound growth steadily in the low-to-mid-teens while expanding FCFMs towards 30%+.",
+      "exact_sentences_in_the_file": "We believe the market increasingly underappreciates Procore\u2019s ability to compound growth steadily in the low-to-mid-teens \u2013 with current growth trends reflective of a construction downcycle - all while steadily expanding FCFMs towards 30%+."
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "PCOR",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Volume-linked model limits AI threat of seat compression, as pricing is based on construction volume, not users.",
+      "exact_sentences_in_the_file": "Procore\u2019s volume-linked model materially limits the most obvious AI threat. The company prices primarily on basis points of annual construction volume, not on seats. That structural fact limits the most common AI fear \u2013 seat compression."
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "PCOR",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "AI-driven efficiencies in construction planning and coordination have the potential to expand the amount of work flowing through the platform.",
+      "exact_sentences_in_the_file": "To that end, AI-driven efficiencies in construction planning and coordination have the potential to expand the amount of working flowing through the platform."
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "PCOR",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Deep integration into a high-liability, highly governed construction environment provides structural leverage, making disintermediation difficult.",
+      "exact_sentences_in_the_file": "However, construction is a high-liability, highly governed environment where controlled execution \u2013 approvals, change orders, compliance documentation, and audit trails \u2013 is non-negotiable. The platform that owns those workflows retains structural leverage, making true disintermediation difficult to achieve."
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "PCOR",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Long runway for platform adoption and workflow standardization due to construction being one of the least digitized industries.",
+      "exact_sentences_in_the_file": "At the same time, construction remains one of the least digitized industries. That creates a long runway for Procore to drive platform adoption and workflow standardization regardless of how agent layers evolve."
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "PCOR",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "AI is more likely to accelerate the industry\u2019s shift toward centralized digital workflows than to displace platforms like Procore.",
+      "exact_sentences_in_the_file": "In our view, AI is more likely to accelerate the industry\u2019s shift toward centralized digital workflows than to displace the platforms that enable them."
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "PCOR",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Positioning AI as a native enhancement through Helix intelligence layer and agent-building capabilities, defending the execution layer and monetizing outcomes.",
+      "exact_sentences_in_the_file": "We believe Procore\u2019s opportunity is defending the execution layer and monetizing outcomes. Through its Helix intelligence layer and agent-building capabilities, Procore is positioning AI as a native enhancement to the platform."
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "PCOR",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Proactive AI roadmap, activity-based monetization, and deep process integration position it to participate in AI orchestration rather than be displaced.",
+      "exact_sentences_in_the_file": "While Procore has more direct workflow exposure than other names in our coverage, we believe its activity-based monetization, deep process integration and proactive AI roadmap leave it well-positioned to participate in \u2013 rather than be displaced by \u2013 the rise of agent orchestration."
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "PCOR",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Expected modest revenue beat for F4Q25 and management guidance in-line to slightly-above Consensus, with margin expansion.",
+      "exact_sentences_in_the_file": "Procore reports F4Q25 earnings on 2/12. We expect a modest revenue beat of +2-3%, consistent with the last few quarters, and Management to guide Revenue broadly in-line to slightly-above Consensus at $1.47B coupled with +300-400 bps of margin expansion as Procore laps a higher investment cycle tied to the GTM evolution."
+    },
+    {
+      "company": "Nutanix",
+      "ticker": "NTNX",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Market increasingly discounting its durable low double-digit growth potential.",
+      "exact_sentences_in_the_file": "At 10x EV/FCF, we believe the market is increasingly discounting Nutanix\u2019s durable low double-digit growth potential."
+    },
+    {
+      "company": "Nutanix",
+      "ticker": "NTNX",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Hybrid multi-cloud opportunity remains intact despite complex setup into F2Q results.",
+      "exact_sentences_in_the_file": "In short, we acknowledge a complex setup into F2Q results (re: memory concerns) but believe the company\u2019s hybrid multi-cloud opportunity remains intact"
+    },
+    {
+      "company": "Nutanix",
+      "ticker": "NTNX",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Recent AI-related selloff misconstrues Nutanix\u2019s positioning within the tech stack.",
+      "exact_sentences_in_the_file": "the recent AI-related selloff misconstrues Nutanix\u2019s positioning within the tech stack."
+    },
+    {
+      "company": "Nutanix",
+      "ticker": "NTNX",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Inherently insulated because it operates at the infrastructure layer, monetizing based on environments and workloads rather than users.",
+      "exact_sentences_in_the_file": "Nutanix is inherently insulated because it operates at the infrastructure layer. The company monetizes based on environments and workloads rather than on users, making it highly resilient to AI-driven automation of human tasks."
+    },
+    {
+      "company": "Nutanix",
+      "ticker": "NTNX",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "AI generally increases the strategic importance of hybrid infrastructure, aligning with Nutanix's budget.",
+      "exact_sentences_in_the_file": "From a budget alignment perspective, AI generally increases the strategic importance of hybrid infrastructure rather than reducing it."
+    },
+    {
+      "company": "Nutanix",
+      "ticker": "NTNX",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Significant portion of enterprise AI deployments will reside outside the public cloud, which Nutanix is positioning for with GPT-in-a-Box.",
+      "exact_sentences_in_the_file": "However, we believe a significant portion of enterprise AI deployments will ultimately reside outside the public cloud due to data locality, cost predictability and governance requirements. Nutanix is positioning for that scenario through GPT-in-a-Box, which provides customers with a practical, enterprise-ready path to deploy and manage AI workloads on Nutanix infrastructure."
+    },
+    {
+      "company": "Nutanix",
+      "ticker": "NTNX",
+      "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bullish_debate_point": "Strategically aligned with AI infrastructure demand, with its core value proposition of simplification and lifecycle management becoming more relevant as AI increases operational complexity.",
+      "exact_sentences_in_the_file": "We view Nutanix as strategically aligned with AI infrastructure demand, even if near-term proof points are still emerging. As AI increases operational complexity across mixed environments, Nutanix\u2019s core value proposition of simplification and lifecycle management becomes more relevant."
+    }
+  ],
+  "file_Id": "Americas Technology_ Software_ Addressing AI Disruption Debate Across SMID Coverage .pdf"
+}

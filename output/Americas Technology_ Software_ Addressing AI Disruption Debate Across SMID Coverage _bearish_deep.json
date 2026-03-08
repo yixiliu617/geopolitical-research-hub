@@ -1,0 +1,356 @@
+{
+  "bearish_views": [
+    {
+      "company": "Software Sector (General)",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "AI disruption concerns have led to a meaningful reset in software valuations.",
+      "exact_sentences_in_the_file": "Software valuations have reset meaningfully as AI disruption concerns have moved to the center of the investment debate."
+    },
+    {
+      "company": "Software Sector (General)",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "New agent orchestration platforms (like Claude Cowork and OpenAI\u2019s Frontier) create a narrative that horizontal AI layers will capture a disproportionate share of software budgets.",
+      "exact_sentences_in_the_file": "Over the past several weeks, announcements around new agent orchestration platforms \u2013 Claude Cowork and OpenAI\u2019s Frontier \u2013 have created a powerful narrative that horizontal AI layers will coordinate enterprise workflows, automate complex tasks and ultimately capture a disproportionate share of software budgets."
+    },
+    {
+      "company": "Software Sector (General)",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "If AI agents become the primary interface for work, traditional software platforms could be relegated to passive data stores, losing pricing power and strategic relevance.",
+      "exact_sentences_in_the_file": "The concern is that if AI agents become the primary interface for executing work, traditional platforms could be relegated to passive data stores, with pricing power and strategic relevance migrating elsewhere."
+    },
+    {
+      "company": "Software Sector (General)",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "The narrative of AI disruption has led to aggressive multiple compression across software companies, often without considering differences in business models or AI execution.",
+      "exact_sentences_in_the_file": "That narrative has contributed to aggressive multiple compression across the group, often with little regard for differences in business model, end-market, or actual AI execution."
+    },
+    {
+      "company": "Software Sector (General)",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Compression in software valuations implies a meaningful step-down in expected medium-term growth, with current multiples embedding a 10-point reduction in forward revenue growth assumptions.",
+      "exact_sentences_in_the_file": "GS Portfolio Strategy suggests that the compression in software valuations now implies a meaningful step-down in expected medium-term growth. Their analysis indicates that today\u2019s multiples embed roughly a 10-point reduction in forward revenue growth assumptions (CY28) versus prior peaks (5-10% vs. 15-20%)."
+    },
+    {
+      "company": "Software Sector (General)",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Rapid AI innovation creates legitimate uncertainty and warrants a higher risk premium for software companies.",
+      "exact_sentences_in_the_file": "We recognize that rapid AI innovation creates legitimate uncertainty and warrants a higher risk premium."
+    },
+    {
+      "company": "Software Sector (General)",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Productivity-oriented applications that primarily monetize on users are more exposed to shifts in engagement due to AI agents.",
+      "exact_sentences_in_the_file": "Productivity-oriented applications that primarily monetize on users are more exposed to shifts in engagement, but even within that segment the picture is nuanced \u2013 many application vendors are embedding AI directly into their products and remain deeply integrated into mission-critical processes."
+    },
+    {
+      "company": "Software Sector (General)",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Agent orchestration could shift engagement and value capture over time for application software products that function primarily as lightweight UIs and monetize predominantly on seats.",
+      "exact_sentences_in_the_file": "In parts of application software, there is a reasonable view that agent orchestration could shift engagement and value capture over time, particularly for products that function primarily as lightweight UIs and monetize predominantly on seats."
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Persistent competition from Hyperscaler-native databases and the Postgres ecosystem poses a risk to MongoDB.",
+      "exact_sentences_in_the_file": "The principal risk to MongoDB is not AI-driven disintermediation but the persistent competition from Hyperscaler-native databases and the Postgres ecosystem."
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Increased competitive pressure from relational database incumbents, particularly Hyperscalers like Oracle, Microsoft, AWS, and GCP.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Increased competitive pressure from relational database incumbents, particularly from Hyperscalers like Oracle, Microsoft, AWS, and GCP"
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Broader standardization around Postgres could impact MongoDB\u2019s win rates and expansion opportunities.",
+      "exact_sentences_in_the_file": "2) Broader standardization around Postgres impacts MongoDB\u2019s win rates and expansion opportunities"
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Slowing pace in cloud migration, multi-cloud adoption, digital transformation, and application modernization.",
+      "exact_sentences_in_the_file": "3) Slowing pace in cloud migration, multi-cloud adoption, digital transformation, and application modernization"
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "The AI cycle may prove to be a less meaningful tailwind than initially contemplated.",
+      "exact_sentences_in_the_file": "4) AI cycle proves to be a less meaningful tailwind than initially contemplated"
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Margin degradation due to required reinvestment or unanticipated headwinds from the EA business.",
+      "exact_sentences_in_the_file": "5) Margin degradation due to required reinvestment or unanticipated headwinds from the EA business"
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Adverse changes in the IT spending environment.",
+      "exact_sentences_in_the_file": "6) Adverse changes in the IT spending environment."
+    },
+    {
+      "company": "Rubrik",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Rubrik's stock underperformance is partly due to negative read-across from weaker prints by peers Commvault and Varonis.",
+      "exact_sentences_in_the_file": "We view the recent selling pressure as driven partly by sector-wide de-rating, but also by negative read-across due to weaker prints from peers Commvault and Varonis."
+    },
+    {
+      "company": "Rubrik",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Heightened competition from Cohesity, Commvault, and Veeam could limit Rubrik\u2019s ability to capture market share in backup and recovery.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Heightened competition from Cohesity, Commvault and Veeam, among others, limits Rubrik\u2019s ability to capture a sizable portion of the legacy Backup and Recovery market"
+    },
+    {
+      "company": "Rubrik",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Industry consolidation, such as Cohesity combining with Veritas\u2019 data protection business, could lead to better-resourced peers and impact Rubrik\u2019s win rates.",
+      "exact_sentences_in_the_file": "2) Industry consolidation, akin to Cohesity combining with Veritas\u2019 data protection business, leading to better-resourced peers with improved distribution footprints and more competitive product offerings, impacting Rubrik\u2019s win rates"
+    },
+    {
+      "company": "Rubrik",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Elevated product development and sales and marketing expenditures could hinder further operating leverage.",
+      "exact_sentences_in_the_file": "3) Elevated product development and sales and marketing expenditures hinder further operating leverage"
+    },
+    {
+      "company": "Rubrik",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Slower-than-expected adoption of next-generation backup and recovery solutions could limit Rubrik\u2019s addressable market opportunity.",
+      "exact_sentences_in_the_file": "4) Slower-than-expected adoption of next-generation backup and recovery solutions limits Rubrik\u2019s addressable market opportunity."
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Procore's stock underperformance reflects growing investor concern around its workflow exposure and role as a system-of-record due to AI disruption fears.",
+      "exact_sentences_in_the_file": "We believe the recent underperformance in Procore relative to broader software at least partially reflects growing investor concern around its workflow exposure and role as a system-of-record given heightened AI disruption fears."
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Procore has more direct workflow exposure and greater sensitivity to how agent interfaces evolve compared to other covered companies.",
+      "exact_sentences_in_the_file": "Procore has more direct workflow exposure and therefore somewhat greater sensitivity to how agent interfaces evolve."
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "An external agent layer could become the primary interface, relegating Procore to a lower-value system of record.",
+      "exact_sentences_in_the_file": "The more nuanced risk is whether an external agent layer becomes the primary interface, relegating Procore to a lower-value system of record."
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "AI tools could capture some peripheral workloads, such as drafting communications or coordinating routine tasks.",
+      "exact_sentences_in_the_file": "We acknowledge that AI tools could capture some peripheral workloads \u2013 such as drafting communications or coordinating routine tasks \u2013 and we are monitoring that dynamic in real time."
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Heightened competition from vendors like Autodesk, which is focused on scaling its construction offering (Autodesk Construction Cloud).",
+      "exact_sentences_in_the_file": "Key downside risks to our thesis include: 1) Heightened competition from a number of vendors, including Autodesk, which remains focused on scaling its construction offering, Autodesk Construction Cloud"
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Lower-than-expected product attach rates or construction volume expansion within the installed base could weigh on revenue outperformance.",
+      "exact_sentences_in_the_file": "2) Lower-than-expected product attach rates or construction volume expansion within the company\u2019s installed base, weighing on potential revenue outperformance"
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "A longer-than-expected Go-To-Market (GTM) transition.",
+      "exact_sentences_in_the_file": "3) Longer-than-expected GTM transition"
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Execution challenges in re-accelerating the international business, which could limit the durability of double-digit revenue growth.",
+      "exact_sentences_in_the_file": "4) Execution challenges in re-accelerating the international business, which remains a key long-term growth vector for the company (and thus limiting the durability of double-digit revenue growth)"
+    },
+    {
+      "company": "Procore Technologies",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Slower-than-expected digitization within the construction industry, limiting Procore\u2019s overall addressable market opportunity.",
+      "exact_sentences_in_the_file": "5) Slower-than-expected digitization within the construction industry, limiting Procore\u2019s overall addressable market opportunity."
+    },
+    {
+      "company": "Nutanix",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Nutanix's stock underperformance is partly due to concerns over demand elasticity tied to servers given rising memory prices and component shortages.",
+      "exact_sentences_in_the_file": "the initial leg down had to do with a timing-related guide-down on FY26 Revenue (more here) but the price action in the past several weeks has been two-fold: 1) Concerns over demand elasticity tied to servers given rising memory prices and component shortages"
+    },
+    {
+      "company": "Nutanix",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Nutanix's stock underperformance is partly due to the broader software sector de-rating on AI disruption fears.",
+      "exact_sentences_in_the_file": "2) Software sector de-rating on AI disruption fears."
+    },
+    {
+      "company": "Nutanix",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "A risk exists that AI workloads consolidate around public cloud, rather than expanding to hybrid and on-prem environments, limiting Nutanix's opportunity.",
+      "exact_sentences_in_the_file": "The relevant AI debate for Nutanix is not disintermediation, but whether AI workloads consolidate around public cloud or expand to hybrid and on-prem environments."
+    },
+    {
+      "company": "Nutanix",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Tangible AI-driven demand for Nutanix's solutions has been limited to date.",
+      "exact_sentences_in_the_file": "We recognize that risk and also acknowledge that tangible AI-driven demand has been limited to date."
+    },
+    {
+      "company": "Nutanix",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Risk of lack of participation in upside from AI if workloads consolidate in the public cloud.",
+      "exact_sentences_in_the_file": "Risk is lack of participation in upside from AI if workloads consolidate in public cloud."
+    },
+    {
+      "company": "Nutanix",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "If public cloud adoption accelerates beyond expectations, Nutanix\u2019s ability to retain and expand with existing customers, and land new business, may be negatively impacted.",
+      "exact_sentences_in_the_file": "Key downside risks: 1) Nutanix\u2019s ability to sustainably grow Revenue/ARR mid-to-high-teens longer-term hinges on enterprises continuing to maintain and invest in their on-premise footprints; to the extent public cloud adoption accelerates (vs. expectations), Nutanix\u2019s ability to retain and expand with existing customers, as well as land new business, may be negatively impacted"
+    },
+    {
+      "company": "Nutanix",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Attach rates across emerging products (NDB, NKP, NCM, NC2, NUS, and GPT-in-a-Box) are lower than anticipated, potentially relegating Nutanix's role solely to Hyperconverged Infrastructure (HCI) and impacting growth.",
+      "exact_sentences_in_the_file": "2) Attach rates across emerging products \u2013 NDB, NKP , NCM, NC2, NUS, and GPT-in-a-Box \u2013 are lower than anticipated and Nutanix\u2019s role in enterprise infrastructure is relegated solely to Hyperconverged Infrastructure (HCI), potentially impacting the durability of its high-teens growth profile"
+    },
+    {
+      "company": "Nutanix",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "The VMware displacement opportunity may prove to be a less significant contributor to Nutanix\u2019s growth profile due to product limitations, GTM misalignment, or sales inefficiencies.",
+      "exact_sentences_in_the_file": "3) The VMware displacement opportunity proves to be a less significant contributor to Nutanix\u2019s growth profile over the mid-term, either due to product limitations, GTM misalignment or sales inefficiencies \u2013 impacting both sentiment and growth expectations"
+    },
+    {
+      "company": "Nutanix",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Rising competitive intensity and new, differentiated offerings in the hybrid multi-cloud space could force Nutanix to accelerate innovation and dilute its strong FCFM profile.",
+      "exact_sentences_in_the_file": "4) Rising competitive intensity and new, differentiated offerings emerging in the hybrid multi-cloud space could obligate Nutanix to accelerate innovation and dilute its strong FCFM profile"
+    },
+    {
+      "company": "Nutanix",
+      "ticker": "",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-02-09",
+      "bearish_debate_point": "Macro headwinds (supply chain disruptions, tariffs, geopolitical instability) could drive deal cycle elongation and reduce pipeline conversion, impacting Nutanix\u2019s growth trajectory.",
+      "exact_sentences_in_the_file": "5) Macro headwinds \u2013 supply chain disruptions, tariffs, or broader geopolitical instability \u2013 could drive deal cycle elongation and reduce pipeline conversion, impacting Nutanix\u2019s growth trajectory."
+    }
+  ],
+  "file_Id": "Americas Technology_ Software_ Addressing AI Disruption Debate Across SMID Coverage .pdf"
+}

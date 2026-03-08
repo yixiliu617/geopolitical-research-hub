@@ -1,0 +1,482 @@
+{
+  "relationships": [
+    {
+      "source_company": "Samsung",
+      "target_company": "Hynix",
+      "ticker": "Hynix",
+      "relationship_type": "Peer",
+      "relationship_description": "Asian memory company",
+      "quantifier": "",
+      "original_sentence": "Asian memory rolled hard over overnight \u2013 Samsung -10%, Hynix -11%, Nanya Tech -10%, Winbond -10%, PSMC ()-10%, Macronix -10%"
+    },
+    {
+      "source_company": "Samsung",
+      "target_company": "Nanya Tech",
+      "ticker": "Nanya Tech",
+      "relationship_type": "Peer",
+      "relationship_description": "Asian memory company",
+      "quantifier": "",
+      "original_sentence": "Asian memory rolled hard over overnight \u2013 Samsung -10%, Hynix -11%, Nanya Tech -10%, Winbond -10%, PSMC ()-10%, Macronix -10%"
+    },
+    {
+      "source_company": "Samsung",
+      "target_company": "Winbond",
+      "ticker": "Winbond",
+      "relationship_type": "Peer",
+      "relationship_description": "Asian memory company",
+      "quantifier": "",
+      "original_sentence": "Asian memory rolled hard over overnight \u2013 Samsung -10%, Hynix -11%, Nanya Tech -10%, Winbond -10%, PSMC ()-10%, Macronix -10%"
+    },
+    {
+      "source_company": "Samsung",
+      "target_company": "PSMC",
+      "ticker": "PSMC",
+      "relationship_type": "Peer",
+      "relationship_description": "Asian memory company",
+      "quantifier": "",
+      "original_sentence": "Asian memory rolled hard over overnight \u2013 Samsung -10%, Hynix -11%, Nanya Tech -10%, Winbond -10%, PSMC ()-10%, Macronix -10%"
+    },
+    {
+      "source_company": "Samsung",
+      "target_company": "Macronix",
+      "ticker": "Macronix",
+      "relationship_type": "Peer",
+      "relationship_description": "Asian memory company",
+      "quantifier": "",
+      "original_sentence": "Asian memory rolled hard over overnight \u2013 Samsung -10%, Hynix -11%, Nanya Tech -10%, Winbond -10%, PSMC ()-10%, Macronix -10%"
+    },
+    {
+      "source_company": "SAP",
+      "target_company": "RELX",
+      "ticker": "RELX",
+      "relationship_type": "Peer",
+      "relationship_description": "European software company",
+      "quantifier": "",
+      "original_sentence": "in Europe the only names defended in our flows SAP (one can question whether that will remain given announcement on the board restructure) and RELX."
+    },
+    {
+      "source_company": "Nvidia",
+      "target_company": "Lumentum",
+      "ticker": "Lumentum",
+      "relationship_type": "Partner",
+      "relationship_description": "Nvidia investing in and purchasing components from Lumentum",
+      "quantifier": "$2bn apiece",
+      "original_sentence": "Nvidia announced it will invest $2bn apiece in Lumentum (stock +7%) and Coherent (+13%). Deals include purchase agreements and access rights for advanced laser components and are intended to support research, development, and the expansion of US-based manufacturing capabilities for advanced optics, which are critical for high-speed data transmission in AI data centers."
+    },
+    {
+      "source_company": "Nvidia",
+      "target_company": "Coherent",
+      "ticker": "Coherent",
+      "relationship_type": "Partner",
+      "relationship_description": "Nvidia investing in and purchasing components from Coherent",
+      "quantifier": "$2bn apiece",
+      "original_sentence": "Nvidia announced it will invest $2bn apiece in Lumentum (stock +7%) and Coherent (+13%). Deals include purchase agreements and access rights for advanced laser components and are intended to support research, development, and the expansion of US-based manufacturing capabilities for advanced optics, which are critical for high-speed data transmission in AI data centers."
+    },
+    {
+      "source_company": "AIXA GY",
+      "target_company": "HLMA",
+      "ticker": "HLMA",
+      "relationship_type": "Peer",
+      "relationship_description": "European company with optical exposure",
+      "quantifier": "",
+      "original_sentence": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+    },
+    {
+      "source_company": "AIXA GY",
+      "target_company": "BESI",
+      "ticker": "BESI",
+      "relationship_type": "Peer",
+      "relationship_description": "European company with optical exposure",
+      "quantifier": "",
+      "original_sentence": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+    },
+    {
+      "source_company": "AIXA GY",
+      "target_company": "Soitec",
+      "ticker": "Soitec",
+      "relationship_type": "Peer",
+      "relationship_description": "European company with optical exposure",
+      "quantifier": "",
+      "original_sentence": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+    },
+    {
+      "source_company": "AIXA GY",
+      "target_company": "Nokia",
+      "ticker": "Nokia",
+      "relationship_type": "Peer",
+      "relationship_description": "European company with optical exposure",
+      "quantifier": "beneficiary to a lesser extent",
+      "original_sentence": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+    },
+    {
+      "source_company": "AIXA GY",
+      "target_company": "Huber + Suhner",
+      "ticker": "Huber + Suhner",
+      "relationship_type": "Peer",
+      "relationship_description": "European company with optical exposure",
+      "quantifier": "beneficiary to a lesser extent",
+      "original_sentence": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+    },
+    {
+      "source_company": "Anthropic",
+      "target_company": "ChatGPT",
+      "ticker": "ChatGPT",
+      "relationship_type": "Competitor",
+      "relationship_description": "Anthropic tries to win users from ChatGPT",
+      "quantifier": "",
+      "original_sentence": "Plus Anthropic Tries to Win Users From ChatGPT With Memory Feature for free users."
+    },
+    {
+      "source_company": "ElevenLabs",
+      "target_company": "Legora",
+      "ticker": "Legora",
+      "relationship_type": "Peer",
+      "relationship_description": "AI startup",
+      "quantifier": "",
+      "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+    },
+    {
+      "source_company": "ElevenLabs",
+      "target_company": "PhysicsX",
+      "ticker": "PhysicsX",
+      "relationship_type": "Peer",
+      "relationship_description": "AI startup",
+      "quantifier": "",
+      "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+    },
+    {
+      "source_company": "ElevenLabs",
+      "target_company": "Luminance",
+      "ticker": "Luminance",
+      "relationship_type": "Peer",
+      "relationship_description": "AI startup",
+      "quantifier": "",
+      "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+    },
+    {
+      "source_company": "ElevenLabs",
+      "target_company": "Synthesia",
+      "ticker": "Synthesia",
+      "relationship_type": "Peer",
+      "relationship_description": "AI startup",
+      "quantifier": "",
+      "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+    },
+    {
+      "source_company": "ElevenLabs",
+      "target_company": "CausaLens",
+      "ticker": "CausaLens",
+      "relationship_type": "Peer",
+      "relationship_description": "AI startup",
+      "quantifier": "",
+      "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+    },
+    {
+      "source_company": "ElevenLabs",
+      "target_company": "Exein",
+      "ticker": "Exein",
+      "relationship_type": "Peer",
+      "relationship_description": "AI startup",
+      "quantifier": "",
+      "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+    },
+    {
+      "source_company": "ElevenLabs",
+      "target_company": "Harmattan AI",
+      "ticker": "Harmattan AI",
+      "relationship_type": "Peer",
+      "relationship_description": "AI startup",
+      "quantifier": "",
+      "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+    },
+    {
+      "source_company": "ElevenLabs",
+      "target_company": "Quantexa Ltd",
+      "ticker": "Quantexa Ltd",
+      "relationship_type": "Peer",
+      "relationship_description": "AI startup",
+      "quantifier": "",
+      "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+    },
+    {
+      "source_company": "ElevenLabs",
+      "target_company": "Quantum Systems",
+      "ticker": "Quantum Systems",
+      "relationship_type": "Peer",
+      "relationship_description": "AI startup",
+      "quantifier": "",
+      "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+    },
+    {
+      "source_company": "Luminance",
+      "target_company": "Legora",
+      "ticker": "Legora",
+      "relationship_type": "Peer",
+      "relationship_description": "Legal services AI startup, similar to Legora",
+      "quantifier": "",
+      "original_sentence": "Luminance \u2013 legal services similar to Legora."
+    },
+    {
+      "source_company": "NVIDIA",
+      "target_company": "Samsung Electronics",
+      "ticker": "005930",
+      "relationship_type": "Partner",
+      "relationship_description": "Collaboration on high-bandwidth memory (HBM)",
+      "quantifier": "",
+      "original_sentence": "NVIDIA is poised to unveil its next-generation AI chips, including the \"Feynman\" architecture, at GTC 2026 this month, with Samsung Electronics and SK Hynix expected to continue their high-bandwidth memory (HBM) collaboration."
+    },
+    {
+      "source_company": "NVIDIA",
+      "target_company": "SK Hynix",
+      "ticker": "SK Hynix",
+      "relationship_type": "Partner",
+      "relationship_description": "Collaboration on high-bandwidth memory (HBM)",
+      "quantifier": "",
+      "original_sentence": "NVIDIA is poised to unveil its next-generation AI chips, including the \"Feynman\" architecture, at GTC 2026 this month, with Samsung Electronics and SK Hynix expected to continue their high-bandwidth memory (HBM) collaboration."
+    },
+    {
+      "source_company": "Tower",
+      "target_company": "Vanguard",
+      "ticker": "5347",
+      "relationship_type": "Competitor",
+      "relationship_description": "Vanguard expected to see spillover effects from Tower's product shipment constraints",
+      "quantifier": "",
+      "original_sentence": "Israeli\u2019s biggest and the 10th largest semiconductor manufacturer in the world Tower is facing short-term constraints on product shipment due to geopolitical conflicts. Taiwanese matured foundries Vanguard (5347) and PSMC (6770) are expected to see spillover effects, +VE for short term momentum."
+    },
+    {
+      "source_company": "Tower",
+      "target_company": "PSMC",
+      "ticker": "6770",
+      "relationship_type": "Competitor",
+      "relationship_description": "PSMC expected to see spillover effects from Tower's product shipment constraints",
+      "quantifier": "",
+      "original_sentence": "Israeli\u2019s biggest and the 10th largest semiconductor manufacturer in the world Tower is facing short-term constraints on product shipment due to geopolitical conflicts. Taiwanese matured foundries Vanguard (5347) and PSMC (6770) are expected to see spillover effects, +VE for short term momentum."
+    },
+    {
+      "source_company": "Virgin Media O2",
+      "target_company": "TalkTalk",
+      "ticker": "TalkTalk",
+      "relationship_type": "Competitor",
+      "relationship_description": "Considering acquiring TalkTalk's consumer division",
+      "quantifier": "",
+      "original_sentence": "Potential buyers are exploring acquisitions: Virgin Media O2 is considering the consumer division, while private equity funds and Octopus Investments are interested in the business unit"
+    },
+    {
+      "source_company": "Octopus Investments",
+      "target_company": "TalkTalk",
+      "ticker": "TalkTalk",
+      "relationship_type": "Competitor",
+      "relationship_description": "Interested in acquiring TalkTalk's business unit",
+      "quantifier": "",
+      "original_sentence": "Potential buyers are exploring acquisitions: Virgin Media O2 is considering the consumer division, while private equity funds and Octopus Investments are interested in the business unit"
+    },
+    {
+      "source_company": "Vodafone",
+      "target_company": "Amazon Leo",
+      "ticker": "Amazon Leo",
+      "relationship_type": "Partner",
+      "relationship_description": "Partnered to expand 4G and 5G mobile coverage",
+      "quantifier": "",
+      "original_sentence": "Vodafone has partnered with Amazon Leo to expand 4G and 5G mobile coverage in remote areas across Europe and Africa."
+    },
+    {
+      "source_company": "Vodacom",
+      "target_company": "Starlink",
+      "ticker": "Starlink",
+      "relationship_type": "Customer",
+      "relationship_description": "Signed a deal to use Starlink",
+      "quantifier": "",
+      "original_sentence": "Vodacom late 2025 signed a deal to use Starlink."
+    },
+    {
+      "source_company": "Scout24",
+      "target_company": "Fotocasa",
+      "ticker": "Fotocasa",
+      "relationship_type": "Partner",
+      "relationship_description": "Acquired Fotocasa",
+      "quantifier": "",
+      "original_sentence": "Scout24 closes acquisition of Fotocasa, Habitaclia."
+    },
+    {
+      "source_company": "Scout24",
+      "target_company": "Habitaclia",
+      "ticker": "Habitaclia",
+      "relationship_type": "Partner",
+      "relationship_description": "Acquired Habitaclia",
+      "quantifier": "",
+      "original_sentence": "Scout24 closes acquisition of Fotocasa, Habitaclia."
+    },
+    {
+      "source_company": "Fotocasa",
+      "target_company": "Idealista",
+      "ticker": "Idealista",
+      "relationship_type": "Competitor",
+      "relationship_description": "Fotocasa is the No. 2 real estate marketplace behind Idealista",
+      "quantifier": "No. 2",
+      "original_sentence": "Fotocasa is the No. 2 real estate marketplace in Spain, behind Idealista."
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "Waystar Holding",
+      "ticker": "WAY",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "Orange [ORAN PA] | 20 Feb (Paris, Virtual), 23 Feb (London) | CEO, CFO, IR Waystar Holding [WAY] | 23 Feb | Virtual | CEO, CFO"
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "Hoya",
+      "ticker": "7741 JP",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "Hoya [7741 JP] | 2 Mar | Virtual | IR"
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "Ebara",
+      "ticker": "6361 JP",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "Ebara [6361 JP] | 4 Mar | Virtual | IR"
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "DNA plc",
+      "ticker": "DNA plc",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "Nordics Telecoms Fieldtrip [DNA plc, ELISA, Finnish Ministry of Finance and Communication, Norwegian Communications Authority, Swedish Post and Telecom Authority, TEL2B, TEL, TELIA, Finnish Transport and Communications Agency - Traficom] | 4 Mar (Helsinki), 5 Mar (Stockholm), 6 Mar (Oslo), 9 Mar (Virtual) | Field Trip"
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "ELISA",
+      "ticker": "ELISA",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "Nordics Telecoms Fieldtrip [DNA plc, ELISA, Finnish Ministry of Finance and Communication, Norwegian Communications Authority, Swedish Post and Telecom Authority, TEL2B, TEL, TELIA, Finnish Transport and Communications Agency - Traficom] | 4 Mar (Helsinki), 5 Mar (Stockholm), 6 Mar (Oslo), 9 Mar (Virtual) | Field Trip"
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "TEL2B",
+      "ticker": "TEL2B",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "Nordics Telecoms Fieldtrip [DNA plc, ELISA, Finnish Ministry of Finance and Communication, Norwegian Communications Authority, Swedish Post and Telecom Authority, TEL2B, TEL, TELIA, Finnish Transport and Communications Agency - Traficom] | 4 Mar (Helsinki), 5 Mar (Stockholm), 6 Mar (Oslo), 9 Mar (Virtual) | Field Trip"
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "TEL",
+      "ticker": "TEL",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "Nordics Telecoms Fieldtrip [DNA plc, ELISA, Finnish Ministry of Finance and Communication, Norwegian Communications Authority, Swedish Post and Telecom Authority, TEL2B, TEL, TELIA, Finnish Transport and Communications Agency - Traficom] | 4 Mar (Helsinki), 5 Mar (Stockholm), 6 Mar (Oslo), 9 Mar (Virtual) | Field Trip"
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "TELIA",
+      "ticker": "TELIA",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "Nordics Telecoms Fieldtrip [DNA plc, ELISA, Finnish Ministry of Finance and Communication, Norwegian Communications Authority, Swedish Post and Telecom Authority, TEL2B, TEL, TELIA, Finnish Transport and Communications Agency - Traficom] | 4 Mar (Helsinki), 5 Mar (Stockholm), 6 Mar (Oslo), 9 Mar (Virtual) | Field Trip"
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "Flywire Corp",
+      "ticker": "FLYW",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "Flywire Corp [FLYW] | 5 Mar | London | CEO, IR"
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "Wisetech Global",
+      "ticker": "WTC AX",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "Wisetech Global [WTC AX] | 9-10 Mar | London | CEO, Interim CFO, IR"
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "Auto1 Group",
+      "ticker": "AG1 GY",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "Auto1 Group [AG1 GY] | 10 Mar (Boston), 11 Mar (New York) | CFO, IR"
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "SCREEN Holdings",
+      "ticker": "7735 JP",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "SCREEN Holdings [7735 JP] | 13 Mar | Virtual | IR"
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "Stroeer",
+      "ticker": "SAXG DE",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "Stroeer [SAXG DE] | 16 Mar (Paris), 17 Mar (London) | CFO, IR | New"
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "International Business Machines Corp",
+      "ticker": "IBM",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "International Business Machines Corp [IBM] | 16 Mar (Paris), 17-18 Mar (London)) | SVP & Chair of IBM EMEA & Growth Markets, IR"
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "Fujikura",
+      "ticker": "5803 JP",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "Era of Optics Call Series - Fujikura [5803 JP] | 17 Mar | Virtual | CEO, CFO, Corporate Officer"
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "Nebius Group NV",
+      "ticker": "NBIS",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "Nebius Group NV [NBIS] | 17 Mar | San Jose, CA | CEO, COO, IR"
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "Springer Nature AG",
+      "ticker": "SPGG DE",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "Springer Nature AG [SPGG DE] | 18-19 Mar (London), 20 Mar (Virtual) | CEO, CFO, IR | New"
+    },
+    {
+      "source_company": "Orange",
+      "target_company": "ASML",
+      "ticker": "ASML AS",
+      "relationship_type": "Peer",
+      "relationship_description": "Company attending TMT conference/field trip",
+      "quantifier": "",
+      "original_sentence": "ASML HQ Visit [ASML AS] | 26 May | Veldhoven | Field Trip | New"
+    }
+  ],
+  "file_Id": "GS TMT SPEC SALES_ Memory profit taking; VAT Q1 guide light; MDB rolls on Q1 guide; Lotto ahead; Disruptive Tech Conference starts today.pdf"
+}

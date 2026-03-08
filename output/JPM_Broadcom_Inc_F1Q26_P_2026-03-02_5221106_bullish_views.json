@@ -1,0 +1,302 @@
+{
+  "bullish_views": [
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Expectation of strong financial performance driven by AI products.",
+      "exact_sentences_in_the_file": "F1Q26 Preview: Expect Solid Beat/Raise on TPU Upside and AI Networking Strength"
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Future growth driver from next-generation AI product ramp.",
+      "exact_sentences_in_the_file": "Next Gen TPU Set to Ramp Mid CY26"
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Strong future AI revenue growth and reduced customer concentration risk.",
+      "exact_sentences_in_the_file": "FY27 Backlog Reflects ~2x AI Growth and Customer Diversification"
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Robust demand for AI products.",
+      "exact_sentences_in_the_file": "we continue to see a strong demand profile for its AI products driven by Google TPU upside, AI networking strength."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Improvement in non-AI semiconductor segments.",
+      "exact_sentences_in_the_file": "The non-AI semiconductor business (enterprise, server/storage, broadband) should continue to gradually improve"
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Positive financial impact from VMware integration.",
+      "exact_sentences_in_the_file": "and we anticipate continued revenue synergy unlock from VMware."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Strong Q1 financial results exceeding market expectations.",
+      "exact_sentences_in_the_file": "As a result, we expect January quarter revenue, earnings, and free cash flow to exceed our and consensus expectations."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Higher-than-expected AI revenues in Q1 driven by specific products.",
+      "exact_sentences_in_the_file": "For the Jan quarter, we expect AI revenues to exceed $9B (vs. consensus of $8.1B), driven by continued upside from Google\u2019s TPU 3nm (Ironwood) ASIC chip and strong demand for networking (Tomahawk 5 and initial ramp of Tomahawk 6 switching chips)."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Strong Q2 revenue guidance exceeding market expectations due to AI demand.",
+      "exact_sentences_in_the_file": "Building off a higher January quarter revenue base, we see April quarter revenue guidance of $21-22B, ahead of consensus expectations of $20.5B, on continued AI demand strength."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Higher-than-expected AI revenues in Q2 driven by diverse AI programs.",
+      "exact_sentences_in_the_file": "We estimate AI revenues of $10-11B+ for the April quarter (vs. consensus of $8.96B), supported by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Significant projected AI revenue growth in FY26 and FY27 from new and existing programs.",
+      "exact_sentences_in_the_file": "In total, we expect Broadcom to generate >$65B+ in AI revenues in FY26 and >$120B in FY27 as new products and programs ramp, including increased shipments of the current generation TPU 3nm Ironwood, the start of the TPU v8 (Sunfish) 3nm ramp, and new programs with SoftBank/ARM, OpenAI 2nm/3nm ASICs, and Anthropic."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Substantial increase in Google TPU unit shipments, indicating strong underlying demand for Broadcom's components.",
+      "exact_sentences_in_the_file": "we believe Google is set to drive 3.5M TPU units this year and 6\u20137M TPU processors in CY27, given their increasing success at supporting external customer AI workloads."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Demand for Broadcom's TPUs exceeds current supply, indicating strong market position and potential for further upside.",
+      "exact_sentences_in_the_file": "We believe Broadcom is seeing even higher TPU demand (FY26 and FY27) than its supply chain capabilities (continued upside to existing backlog), and the team is working to unlock more supply over the next few months."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Broadcom's next-gen TPUs are central to Google's external AI workload support, ensuring future relevance and revenue.",
+      "exact_sentences_in_the_file": "For FY27, we believe a majority of TPU shipments will support external customer AI workloads, all powered by Broadcom\u2019s/Google\u2019s next-gen 3nm TPU ASIC."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Continued significant ASIC revenue from Meta's current generation programs.",
+      "exact_sentences_in_the_file": "continue to see current gen programs (Athena, Iris, Arke) driving $5\u2013$6B in ASIC revenues this year and next and the overall commitment to ASICs/Broadcom remains high at Meta."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Diversified customer base reduces risk and ensures stable growth.",
+      "exact_sentences_in_the_file": "The diversity of Broadcom\u2019s ASIC customer base and programs (Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple, etc), combined with a continued tight demand/supply outlook will mitigate any slowdown in growth due to any one customer (this has always been the ASIC business model- diversification of customers/programs reduces risk)."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Gradual improvement in non-AI semiconductor business due to cyclical trends.",
+      "exact_sentences_in_the_file": "The non-AI semi business should continue to gradually improve in FY26 on improving cyclical trends in broadband/storage/enterprise."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Strong performance and revenue growth in the VMware software infrastructure business.",
+      "exact_sentences_in_the_file": "In the software infrastructure business, we continue to see strong momentum in its VMware business on strong software renewals (with conversion/upsell to its VCF full stack solution with higher ASPs) with its large corporate customers."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Strong analyst recommendation.",
+      "exact_sentences_in_the_file": "Broadcom remains our top pick in semiconductor coverage"
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Market leadership in key AI infrastructure segments.",
+      "exact_sentences_in_the_file": "given its leading exposure to AI infrastructure spending (#2 global AI semi supplier, #1 custom chip AI ASIC supplier, and #1 cloud/AI networking switch/routing chip supplier)"
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Reduced risk due to broad market presence.",
+      "exact_sentences_in_the_file": "diversified end-market exposure"
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Superior financial efficiency.",
+      "exact_sentences_in_the_file": "and best-in-class gross, operating, and free cash flow margins."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Continued positive analyst rating.",
+      "exact_sentences_in_the_file": "We reiterate our Overweight (OW) rating."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Strong overall demand across AI and non-AI segments in Q1.",
+      "exact_sentences_in_the_file": "We believe total orders/revenues in the Jan-Qtr were strong on continued strong demand in AI networking and custom ASICs combined with gradually improving demand trends in telecom, server/storage, broadband."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Q1 financial results exceeded expectations due to AI and VMware strength.",
+      "exact_sentences_in_the_file": "We believe that Jan quarter revenue/earnings/FCF were better than our/consensus expectations on AI strength, driven by upside demand strength in TPUv6 3nm TPU (Ironwood) and continued solid software renewals in its VMware business."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Strong Q2 guidance driven by continued AI strength and new programs.",
+      "exact_sentences_in_the_file": "Expect Apr-Qtr guide to be better vs expectations on continued AI strength (custom ASICs and networking)... $21-22B+ in total revenues\u2026 $10-$11B in AI revenues on strong 3nm TPU ASIC demand, strong networking, initial revenues from 1st gen ASIC programs from OpenAI and Softbank/ARM and run-rate business with ByteDance/Meta."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "AI strength is broad-based across networking and multiple ASIC programs.",
+      "exact_sentences_in_the_file": "Strength in AI is led by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Very strong future AI revenue growth driven by next-gen and new customer programs.",
+      "exact_sentences_in_the_file": "Strong AI growth outlook driven by lead customer\u2019s next-gen XPU program ramp, ramp of new customer XPU programs and continued strong networking demand \u2013 we expect >$65B in FY26 and $120B+ in FY27"
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Customer diversification in AI XPU programs reduces risk.",
+      "exact_sentences_in_the_file": "AI XPU customer diversity will help to mitigate a slowdown by any one customer"
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Decreasing reliance on Google for AI revenues despite overall AI revenue growth, indicating successful diversification.",
+      "exact_sentences_in_the_file": "As a reflection of the AI customer diversification, we estimate Google TPU business will decline to <45% of overall AI revenues in CY27 from 50-52% in FY26 and versus 60% in FY25 - and that\u2019s with total AI revenues growing to >$120B in FY27."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Market leadership across multiple high-growth technology segments.",
+      "exact_sentences_in_the_file": "We see Broadcom as a leader in wireless, data center networking, AI/deep learning ASICs, storage, and infrastructure silicon, hardware, software with broad-based exposure to positive trends in these end markets."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Unmatched scale and technology capabilities solidify market leadership.",
+      "exact_sentences_in_the_file": "Broadcom is a technology infrastructure powerhouse with unmatched scale and technology capabilities in the industry, securing its leadership positions in a diverse set of end markets."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bullish_debate_point": "Favorable valuation relative to peers, supported by strong fundamentals and leadership.",
+      "exact_sentences_in_the_file": "Our Dec-26 PT assumes A VGO trades at a 32x multiple (broadly in-line with AI peers trading at 30-35x given its best-in-class operating/free cash flow margins, diversified business, AI ASIC/networking leadership) applied to our CY26E exit run-rate earnings power of ~$15.00 per share."
+    }
+  ],
+  "file_Id": "JPM_Broadcom_Inc_F1Q26_P_2026-03-02_5221106.pdf"
+}

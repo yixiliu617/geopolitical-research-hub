@@ -1,0 +1,65 @@
+{
+  "bullish_views": [
+    {
+      "company": "Broadcom Inc",
+      "observation_date": "03 June 2025",
+      "bullish_debate_point": "Strong demand for AI products (custom ASICs and networking solutions).",
+      "exact_sentences_in_the_file": "we continued to see a strong demand profile for its AI products (custom ASICs and networking solutions)"
+    },
+    {
+      "company": "Broadcom Inc",
+      "observation_date": "03 June 2025",
+      "bullish_debate_point": "Stabilization and gradual improvement in non-AI semiconductor businesses.",
+      "exact_sentences_in_the_file": "stabilization in the non-AI semi business (e.g., enterprise, server/storage, broadband, wireless)"
+    },
+    {
+      "company": "Broadcom Inc",
+      "observation_date": "03 June 2025",
+      "bullish_debate_point": "Continued strong momentum and revenue synergy unlock from VMware.",
+      "exact_sentences_in_the_file": "continued VMware revenue synergy unlock."
+    },
+    {
+      "company": "Broadcom Inc",
+      "observation_date": "03 June 2025",
+      "bullish_debate_point": "Anticipated in-line to slightly better Apr-Qtr results and Jul-Qtr guidance.",
+      "exact_sentences_in_the_file": "As a result, we expect Apr-qtr revenue/earnings/FCF to be in-line to slightly better vs our/consensus expectations. Off of a higher Apr-rev Qtr base, we see Jul-Qtr revenue guidance up 5-7% Q/Q growth, in-line to slightly better than consensus expectation and closer to our above-Street estimates of $16.1B led by AI demand strength (we estimate AI revenues of $5B+ vs consensus of $4.8B)."
+    },
+    {
+      "company": "Broadcom Inc",
+      "observation_date": "03 June 2025",
+      "bullish_debate_point": "Significant growth driver from Google TPU v6 3nm ASIC chip production ramp, expected to generate >$15B in lifetime revenues.",
+      "exact_sentences_in_the_file": "This is driven by continued strong demand in AI networking and start of the Google TPU v6 3nm ASIC chip production ramp which should be a strong growth driver for the Jul-Qtr and remainder of the year. We estimate the Google TPUv6 3nm (2 compute die, 8 stacks HBM3e) should drive >$15B in lifetime revenues and will be the most powerful custom XPU AI accelerator in the world."
+    },
+    {
+      "company": "Broadcom Inc",
+      "observation_date": "03 June 2025",
+      "bullish_debate_point": "Expected ~$19-$20B in AI revenues in FY25 (up 60% Y/Y) from various ASIC programs and networking products.",
+      "exact_sentences_in_the_file": "In total, we expect the team to drive~$19-$20B (up 60% Y/Y) in AI revenues in FY25 on continued strong ramp of Google\u2019s TPU AI processor, continued ramp up of its other ASIC programs ( e.g. Meta/ByteDance) and sustained demand for its AI networking products (Tomahawk 5/Jericho 3 AI) and start of Tomahawk 6 ramp."
+    },
+    {
+      "company": "Broadcom Inc",
+      "observation_date": "03 June 2025",
+      "bullish_debate_point": "Broadcom's leadership position in AI infrastructure.",
+      "exact_sentences_in_the_file": "Broadcom remains our overall top pick in our semiconductor coverage given their exposure to AI infrastructure spending trends (#2 global AI semi supplier and # 1 custom chip AI ASIC supplier and #1 cloud/AI networking switch/routing chip supplier)"
+    },
+    {
+      "company": "Broadcom Inc",
+      "observation_date": "03 June 2025",
+      "bullish_debate_point": "Diversified end market exposure and best-in-class margins.",
+      "exact_sentences_in_the_file": "combined with their diversified end market exposure and best in-class gross, operation, and free cash flow margins"
+    },
+    {
+      "company": "Broadcom Inc",
+      "observation_date": "03 June 2025",
+      "bullish_debate_point": "Strong Free Cash Flow (FCF) growth and capital return outlook, supporting dividend growth and balance sheet de-leveraging.",
+      "exact_sentences_in_the_file": "Strong FCF growth and capital return outlook. We expect the team to drive double-digit% FCF growth, which will be supportive of continued strong dividend growth over the next several years. In addition, we expect the team to continue to de-lever its balance sheet, which should help reduce its interest expense burden and drive earnings power."
+    },
+    {
+      "company": "Broadcom Inc",
+      "observation_date": "03 June 2025",
+      "bullish_debate_point": "Progress on new AI ASIC chips with OpenAI and Softbank/ARM, and Meta 3nm MTIA program ramp for FY26.",
+      "exact_sentences_in_the_file": "We believe the team continues to make good progress at OpenAI and Softbank/ARM and should be on track to tape-out these new AI ASIC chips in 2H25. The Meta 3nm MTIA program is on track to ramp in 1H CY26 and should contribute to a strong FY26 AI revenue growth profile."
+    }
+  ],
+  "file_Id": "JPM_Broadcom_Inc_Earning_2025-06-03_4998241.pdf"
+}

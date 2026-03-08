@@ -1,0 +1,68 @@
+{
+  "relationships": [
+    {
+      "source_company": "NVIDIA Corporation",
+      "target_company": "META",
+      "ticker": "META",
+      "relationship_type": "Partner",
+      "relationship_description": "Partnership for large-scale Blackwell/Rubin GPU/CPU/networking deployments.",
+      "quantifier": "large-scale",
+      "original_sentence": "NVDA\u2019s recently announced partnership with META for large-scale Blackwell/Rubin GPU/CPU/networking deployments)."
+    },
+    {
+      "source_company": "NVIDIA Corporation",
+      "target_company": "Groq",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "NVIDIA leverages Groq IP for specialized, low-latency inference at scale.",
+      "quantifier": "at scale",
+      "original_sentence": "at least lift the veil slightly on products currently in the pipeline that leverage Groq IP for specialized, low-latency inference at scale (though we do concede that any meaningful disclosure on plans for Groq will likely be saved for GTC)."
+    },
+    {
+      "source_company": "NVIDIA Corporation",
+      "target_company": "AWS",
+      "ticker": "AMZN",
+      "relationship_type": "Customer",
+      "relationship_description": "Provides cloud instances using NVIDIA GPUs (A100, H100).",
+      "quantifier": "A100 pricing $1.23-$1.61, H100 pricing $3.80-$4.12",
+      "original_sentence": "AWS A100 $1.23 $1.61 +30% H100 $3.80 $4.12 +8%"
+    },
+    {
+      "source_company": "NVIDIA Corporation",
+      "target_company": "Lambda",
+      "ticker": "N/A",
+      "relationship_type": "Customer",
+      "relationship_description": "Provides cloud instances using NVIDIA GPUs (A100, H100).",
+      "quantifier": "A100 pricing $1.79-$2.06, H100 pricing $2.99-$3.44",
+      "original_sentence": "Lambda A100 $1.79 $2.06 +15% H100 $2.99 $3.44 +15%"
+    },
+    {
+      "source_company": "NVIDIA Corporation",
+      "target_company": "AMD",
+      "ticker": "AMD",
+      "relationship_type": "Competitor",
+      "relationship_description": "Competitor in compute platforms with products like MI450 Helios and MI500.",
+      "quantifier": "Compared in 'revenue per gigawatt' in Figure 5.",
+      "original_sentence": "Figure 5: Comparison of revenue per gigawatt for NVDA, AVGO and AMD"
+    },
+    {
+      "source_company": "NVIDIA Corporation",
+      "target_company": "Broadcom",
+      "ticker": "AVGO",
+      "relationship_type": "Competitor",
+      "relationship_description": "Competitor in compute platforms with products like OpenAI XPU.",
+      "quantifier": "Compared in 'revenue per gigawatt' in Figure 5.",
+      "original_sentence": "Figure 5: Comparison of revenue per gigawatt for NVDA, AVGO and AMD"
+    },
+    {
+      "source_company": "NVIDIA Corporation",
+      "target_company": "Micron Technology",
+      "ticker": "MU",
+      "relationship_type": "Supplier",
+      "relationship_description": "Supplier of memory, an input component for NVIDIA's products.",
+      "quantifier": "rising input costs (particularly memory)",
+      "original_sentence": "margin expectations amid rising input costs (particularly memory)"
+    }
+  ],
+  "file_Id": "JPM_NVIDIA_Corporation_F_2026-02-23_5212308.pdf"
+}

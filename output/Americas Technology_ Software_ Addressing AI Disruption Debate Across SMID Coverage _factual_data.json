@@ -1,0 +1,453 @@
+{
+  "facts": [
+    {
+      "company": "Procore",
+      "fact_category": "Company Update",
+      "fact_summary": "Procore's F4Q earnings are scheduled for February 12.",
+      "is_recent_update": true,
+      "original_sentence": "We are updating price targets to reflect lower peer multiples and also address expectations for Procore\u2019s upcoming F4Q earnings (Feb. 12) within the report."
+    },
+    {
+      "company": "Industry",
+      "fact_category": "Product",
+      "fact_summary": "Claude Cowork and OpenAI\u2019s Frontier are recent AI developments.",
+      "is_recent_update": true,
+      "original_sentence": "AI innovation is accelerating, not slowing, as recent developments like Claude Cowork and OpenAI\u2019s Frontier make clear, and we are cautious over-anchoring to any single view."
+    },
+    {
+      "company": "N/A",
+      "fact_category": "Document Information",
+      "fact_summary": "The document is dated February 9, 2026, 5:26 AM EST.",
+      "is_recent_update": true,
+      "original_sentence": "9 February 2026 | 5:26AM EST"
+    },
+    {
+      "company": "Industry",
+      "fact_category": "Financials",
+      "fact_summary": "The average NTM EV/FCF multiple is 37.5x.",
+      "is_recent_update": false,
+      "original_sentence": "Average: 37.5x"
+    },
+    {
+      "company": "Industry",
+      "fact_category": "Financials",
+      "fact_summary": "The average NTM Rule Of Profile is 33%.",
+      "is_recent_update": false,
+      "original_sentence": "Average: 33%"
+    },
+    {
+      "company": "Industry",
+      "fact_category": "Financials",
+      "fact_summary": "The NTM EV/FCF multiple during the COVID trough was 35.1x.",
+      "is_recent_update": false,
+      "original_sentence": "COVID Trough (35.1x)"
+    },
+    {
+      "company": "Industry",
+      "fact_category": "Financials",
+      "fact_summary": "The NTM EV/FCF multiple peaked at 54.3x in November 2021.",
+      "is_recent_update": false,
+      "original_sentence": "November 2021 Peak (54.3x)"
+    },
+    {
+      "company": "Industry",
+      "fact_category": "Financials",
+      "fact_summary": "Current NTM EV/FCF multiples are 23.0x.",
+      "is_recent_update": true,
+      "original_sentence": "Current Levels (23.0x)"
+    },
+    {
+      "company": "Industry",
+      "fact_category": "Financials",
+      "fact_summary": "The NTM EV/FCF multiple pre-COVID peak was 44.4x.",
+      "is_recent_update": false,
+      "original_sentence": "Pre-COVID Peak (44.4x)"
+    },
+    {
+      "company": "Industry",
+      "fact_category": "Financials",
+      "fact_summary": "The recent NTM EV/FCF peak was 35x.",
+      "is_recent_update": true,
+      "original_sentence": "Recent Peak (35x)"
+    },
+    {
+      "company": "MongoDB",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's stock is down 18% year-to-date, compared to IGV being down 22%.",
+      "is_recent_update": true,
+      "original_sentence": "MongoDB is down -18% YTD vs. IGV -22%."
+    },
+    {
+      "company": "MongoDB",
+      "fact_category": "Product",
+      "fact_summary": "MongoDB has a document-oriented architecture.",
+      "is_recent_update": false,
+      "original_sentence": "MongoDB\u2019s document-oriented architecture is particularly well-suited to flexible, rapidly evolving data structures that AI-native applications generate."
+    },
+    {
+      "company": "MongoDB",
+      "fact_category": "Business Model",
+      "fact_summary": "MongoDB uses a consumption-based monetization model.",
+      "is_recent_update": false,
+      "original_sentence": "MongoDB\u2019s consumption-based model is directly levered to higher workload activity, which aligns well with the way AI workloads are likely to scale over time; it also naturally hedges against seat-based risks facing many software vendors."
+    },
+    {
+      "company": "MongoDB",
+      "fact_category": "Customer",
+      "fact_summary": "MongoDB recently announced that Anthropic is a customer.",
+      "is_recent_update": true,
+      "original_sentence": "We point to MongoDB\u2019s recent announcement that Anthropic is a customer to underscore this point."
+    },
+    {
+      "company": "MongoDB",
+      "fact_category": "Product",
+      "fact_summary": "MongoDB acquired Voyage AI and natively integrated Vector Search and Embedding models into its Atlas platform.",
+      "is_recent_update": true,
+      "original_sentence": "The acquisition of Voyage AI and the native integration of Vector Search and Embedding models into the Atlas platform are critical moves that reduce developer friction for building sophisticated AI applications."
+    },
+    {
+      "company": "Rubrik",
+      "fact_category": "Financials",
+      "fact_summary": "Rubrik's stock is down 33% year-to-date, compared to IGV being down 22%.",
+      "is_recent_update": true,
+      "original_sentence": "Rubrik is down -33% YTD vs. IGV -22%."
+    },
+    {
+      "company": "Rubrik",
+      "fact_category": "Financials",
+      "fact_summary": "Rubrik reported mid-30s ARR growth and record FCFM (+22%) in F3Q.",
+      "is_recent_update": true,
+      "original_sentence": "Rubrik has considerably underperformed broader software despite impressive F3Q results, including mid-30\u2019s ARR growth and record FCFM (+22%)."
+    },
+    {
+      "company": "Rubrik",
+      "fact_category": "Business Performance",
+      "fact_summary": "Rubrik's displacement bookings accelerated in F3Q.",
+      "is_recent_update": true,
+      "original_sentence": "Rubrik continues to establish itself as the primary consolidator within backup and recovery (displacement bookings accelerated in F3Q), with expanding wallet share opportunities in more strategic security and operations budgets tied to identity recovery, cyber-resilience and its newer Agent Cloud platform."
+    },
+    {
+      "company": "Rubrik",
+      "fact_category": "Product",
+      "fact_summary": "Rubrik has an Agent Cloud platform.",
+      "is_recent_update": false,
+      "original_sentence": "Rubrik continues to establish itself as the primary consolidator within backup and recovery (displacement bookings accelerated in F3Q), with expanding wallet share opportunities in more strategic security and operations budgets tied to identity recovery, cyber-resilience and its newer Agent Cloud platform."
+    },
+    {
+      "company": "Rubrik",
+      "fact_category": "Company Update",
+      "fact_summary": "Rubrik announced on February 4 that preliminary F4Q results exceeded all guidance metrics.",
+      "is_recent_update": true,
+      "original_sentence": "We are constructive on Rubrik\u2019s announcement (2/4) that preliminary F4Q results exceeded all guidance metrics."
+    },
+    {
+      "company": "Rubrik",
+      "fact_category": "Business Model",
+      "fact_summary": "Rubrik's monetization model is based on data under management, not seats.",
+      "is_recent_update": false,
+      "original_sentence": "Critically, Rubrik\u2019s monetization model, based on data under management rather than seats, is structurally aligned with the exponential growth of data and AI-driven activity, insulating it from automation-led seat reduction."
+    },
+    {
+      "company": "Procore",
+      "fact_category": "Financials",
+      "fact_summary": "Procore's stock is down 30% year-to-date, compared to IGV being down 22%.",
+      "is_recent_update": true,
+      "original_sentence": "Procore is down -30% YTD vs. IGV -22%."
+    },
+    {
+      "company": "Procore",
+      "fact_category": "Financials",
+      "fact_summary": "Procore is trading at 5x EV/S and mid-20s EV/FCF.",
+      "is_recent_update": true,
+      "original_sentence": "At 5x EV/S and mid-20\u2019s EV/FCF, we see an increasingly attractive risk-reward profile, now trading a wide discount to vertical SaaS peers on a growth-adjusted FCF basis."
+    },
+    {
+      "company": "Procore",
+      "fact_category": "Business Model",
+      "fact_summary": "Procore's pricing model is primarily based on basis points of annual construction volume, not on seats.",
+      "is_recent_update": false,
+      "original_sentence": "The company prices primarily on basis points of annual construction volume, not on seats."
+    },
+    {
+      "company": "Industry",
+      "fact_category": "Industry Trend",
+      "fact_summary": "Construction is one of the least digitized industries.",
+      "is_recent_update": false,
+      "original_sentence": "At the same time, construction remains one of the least digitized industries."
+    },
+    {
+      "company": "Procore",
+      "fact_category": "Product",
+      "fact_summary": "Procore has a Helix intelligence layer and agent-building capabilities.",
+      "is_recent_update": false,
+      "original_sentence": "Through its Helix intelligence layer and agent-building capabilities, Procore is positioning AI as a native enhancement to the platform."
+    },
+    {
+      "company": "Procore",
+      "fact_category": "Product",
+      "fact_summary": "Procore has delivered tangible AI capabilities within its product.",
+      "is_recent_update": false,
+      "original_sentence": "From an AI execution standpoint, Procore has already delivered tangible capabilities that help customers surface insights, automate routine tasks and streamline collaboration directly within the product."
+    },
+    {
+      "company": "Procore",
+      "fact_category": "Company Update",
+      "fact_summary": "Procore is scheduled to report F4Q25 earnings on February 12.",
+      "is_recent_update": true,
+      "original_sentence": "Procore reports F4Q25 earnings on 2/12."
+    },
+    {
+      "company": "Nutanix",
+      "fact_category": "Financials",
+      "fact_summary": "Nutanix's stock is down 22% YTD and 47% in the last 6 months, compared to IGV being down 22% YTD and 26% in the last 6 months.",
+      "is_recent_update": true,
+      "original_sentence": "Nutanix is down -22% YTD vs. IGV -22%; in the L6M, shares are down -47% vs. IGV -26%."
+    },
+    {
+      "company": "Nutanix",
+      "fact_category": "Financials",
+      "fact_summary": "Nutanix is trading at 10x EV/FCF.",
+      "is_recent_update": true,
+      "original_sentence": "At 10x EV/FCF, we believe the market is increasingly discounting Nutanix\u2019s durable low double-digit growth potential."
+    },
+    {
+      "company": "Nutanix",
+      "fact_category": "Product",
+      "fact_summary": "Nutanix offers GPT-in-a-Box for deploying and managing AI workloads on its infrastructure.",
+      "is_recent_update": false,
+      "original_sentence": "Nutanix is positioning for that scenario through GPT-in-a-Box, which provides customers with a practical, enterprise-ready path to deploy and manage AI workloads on Nutanix infrastructure."
+    },
+    {
+      "company": "MongoDB",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB has a Buy rating and a price target of $475.",
+      "is_recent_update": true,
+      "original_sentence": "We reiterate our Buy rating our Price Target of $475."
+    },
+    {
+      "company": "MongoDB",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's EV/FCF valuation is based on 65x Q5-Q8 FCF estimate, and EV/S valuation is based on 12x Q5-Q8 Revenue estimate.",
+      "is_recent_update": true,
+      "original_sentence": "Our EV/FCF valuation is based on 65x (unchanged) our Q5-Q8 FCF estimate and EV/S based on 12x (unchanged) Q5-Q8 Revenue estimate."
+    },
+    {
+      "company": "Rubrik",
+      "fact_category": "Financials",
+      "fact_summary": "Rubrik has a Buy rating and a 12-month price target of $80, lowered from $120.",
+      "is_recent_update": true,
+      "original_sentence": "We reiterate our Buy rating and lower our 12-month Price Target to $80 (vs. $120 previously)."
+    },
+    {
+      "company": "Rubrik",
+      "fact_category": "Financials",
+      "fact_summary": "Rubrik's valuation applies a 48x EV/FCF multiple to Q5-Q8 FCF estimate and 10x EV/S multiple to Q5-Q8 Revenue estimate.",
+      "is_recent_update": true,
+      "original_sentence": "We apply a 48x EV/FCF multiple to our Q5-Q8 FCF estimate and 10x EV/S multiple to our Q5-Q8 Revenue estimate."
+    },
+    {
+      "company": "Procore",
+      "fact_category": "Financials",
+      "fact_summary": "Procore has a Buy rating and a 12-month price target of $75, lowered from $90. The EV/S and DCF components have been removed from its valuation methodology.",
+      "is_recent_update": true,
+      "original_sentence": "We reiterate our Buy rating and lower our 12-month Price Target to $75 (vs. $90 previously); we are removing the EV/S and DCF components from our valuation methodology."
+    },
+    {
+      "company": "Procore",
+      "fact_category": "Financials",
+      "fact_summary": "Procore's valuation applies a 32x EV/FCF multiple to Q5-Q8 FCF estimate.",
+      "is_recent_update": true,
+      "original_sentence": "We apply a 32x EV/FCF multiple to our Q5-Q8 FCF estimate to arrive at our Price Target."
+    },
+    {
+      "company": "Nutanix",
+      "fact_category": "Financials",
+      "fact_summary": "Nutanix has a Buy rating and a 12-month price target of $60.",
+      "is_recent_update": true,
+      "original_sentence": "We reiterate our Buy rating and maintain our 12-month price target of $60."
+    },
+    {
+      "company": "Nutanix",
+      "fact_category": "Financials",
+      "fact_summary": "Nutanix's valuation methodology is based on an 85% weighting to EV/uFCF and a 15% weighting to M&A.",
+      "is_recent_update": true,
+      "original_sentence": "Our valuation methodology is based on an 85% weighting to EV/uFCF and a 15% weighting to M&A."
+    },
+    {
+      "company": "Nutanix",
+      "fact_category": "Financials",
+      "fact_summary": "For Nutanix, an 85% weighting to EV/uFCF implies a $57 fundamental value, and M&A weighting implies a $70 theoretical value.",
+      "is_recent_update": true,
+      "original_sentence": "Our 85% weighting implies a $57 fundamental value and M&A weighting implies a $70 theoretical value."
+    },
+    {
+      "company": "Goldman Sachs",
+      "fact_category": "Company Information",
+      "fact_summary": "As of January 1, 2026, Goldman Sachs Global Investment Research had investment ratings on 3,055 equity securities.",
+      "is_recent_update": true,
+      "original_sentence": "As of January 1, 2026, Goldman Sachs Global Investment Research had investment ratings on 3,055 equity securities."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "fact_category": "Financials/Disclosure",
+      "fact_summary": "Goldman Sachs received $344.35 in compensation for investment banking services from MongoDB Inc. in the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs has received compensation for investment banking services in the past 12 months: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "Nutanix Inc.",
+      "fact_category": "Financials/Disclosure",
+      "fact_summary": "Goldman Sachs received $40.26 in compensation for investment banking services from Nutanix Inc. in the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs has received compensation for investment banking services in the past 12 months: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "Procore Technologies Inc.",
+      "fact_category": "Financials/Disclosure",
+      "fact_summary": "Goldman Sachs received $51.29 in compensation for investment banking services from Procore Technologies Inc. in the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs has received compensation for investment banking services in the past 12 months: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "Rubrik Inc.",
+      "fact_category": "Financials/Disclosure",
+      "fact_summary": "Goldman Sachs received $51.07 in compensation for investment banking services from Rubrik Inc. in the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs has received compensation for investment banking services in the past 12 months: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "fact_category": "Financials/Disclosure",
+      "fact_summary": "Goldman Sachs expects to receive or intends to seek $344.35 in compensation for investment banking services from MongoDB Inc. in the next 3 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs expects to receive or intends to seek compensation for investment banking services in the next 3 months: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "Nutanix Inc.",
+      "fact_category": "Financials/Disclosure",
+      "fact_summary": "Goldman Sachs expects to receive or intends to seek $40.26 in compensation for investment banking services from Nutanix Inc. in the next 3 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs expects to receive or intends to seek compensation for investment banking services in the next 3 months: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "Procore Technologies Inc.",
+      "fact_category": "Financials/Disclosure",
+      "fact_summary": "Goldman Sachs expects to receive or intends to seek $51.29 in compensation for investment banking services from Procore Technologies Inc. in the next 3 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs expects to receive or intends to seek compensation for investment banking services in the next 3 months: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "Rubrik Inc.",
+      "fact_category": "Financials/Disclosure",
+      "fact_summary": "Goldman Sachs expects to receive or intends to seek $51.07 in compensation for investment banking services from Rubrik Inc. in the next 3 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs expects to receive or intends to seek compensation for investment banking services in the next 3 months: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "fact_category": "Financials/Disclosure",
+      "fact_summary": "Goldman Sachs received $344.35 in compensation for non-investment banking services from MongoDB Inc. during the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs has received compensation for non-investment banking services during the past 12 months: MongoDB Inc. ($344.35) and Procore Technologies Inc. ($51.29)"
+    },
+    {
+      "company": "Procore Technologies Inc.",
+      "fact_category": "Financials/Disclosure",
+      "fact_summary": "Goldman Sachs received $51.29 in compensation for non-investment banking services from Procore Technologies Inc. during the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs has received compensation for non-investment banking services during the past 12 months: MongoDB Inc. ($344.35) and Procore Technologies Inc. ($51.29)"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "fact_category": "Company Information/Disclosure",
+      "fact_summary": "Goldman Sachs had an investment banking services client relationship with MongoDB Inc. ($344.35) during the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs had an investment banking services client relationship during the past 12 months with: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "Nutanix Inc.",
+      "fact_category": "Company Information/Disclosure",
+      "fact_summary": "Goldman Sachs had an investment banking services client relationship with Nutanix Inc. ($40.26) during the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs had an investment banking services client relationship during the past 12 months with: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "Procore Technologies Inc.",
+      "fact_category": "Company Information/Disclosure",
+      "fact_summary": "Goldman Sachs had an investment banking services client relationship with Procore Technologies Inc. ($51.29) during the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs had an investment banking services client relationship during the past 12 months with: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "Rubrik Inc.",
+      "fact_category": "Company Information/Disclosure",
+      "fact_summary": "Goldman Sachs had an investment banking services client relationship with Rubrik Inc. ($51.07) during the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs had an investment banking services client relationship during the past 12 months with: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "fact_category": "Company Information/Disclosure",
+      "fact_summary": "Goldman Sachs had a non-investment banking securities-related services client relationship with MongoDB Inc. ($344.35) during the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs had a non-investment banking securities-related services client relationship during the past 12 months with: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "Nutanix Inc.",
+      "fact_category": "Company Information/Disclosure",
+      "fact_summary": "Goldman Sachs had a non-investment banking securities-related services client relationship with Nutanix Inc. ($40.26) during the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs had a non-investment banking securities-related services client relationship during the past 12 months with: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "Procore Technologies Inc.",
+      "fact_category": "Company Information/Disclosure",
+      "fact_summary": "Goldman Sachs had a non-investment banking securities-related services client relationship with Procore Technologies Inc. ($51.29) during the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs had a non-investment banking securities-related services client relationship during the past 12 months with: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "Rubrik Inc.",
+      "fact_category": "Company Information/Disclosure",
+      "fact_summary": "Goldman Sachs had a non-investment banking securities-related services client relationship with Rubrik Inc. ($51.07) during the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs had a non-investment banking securities-related services client relationship during the past 12 months with: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "Nutanix Inc.",
+      "fact_category": "Company Information/Disclosure",
+      "fact_summary": "Goldman Sachs had a non-securities services client relationship with Nutanix Inc. ($40.26) during the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs had a non-securities services client relationship during the past 12 months with: Nutanix Inc. ($40.26)"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "fact_category": "Company Information/Disclosure",
+      "fact_summary": "Goldman Sachs makes a market in the securities or derivatives of MongoDB Inc. ($344.35).",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs makes a market in the securities or derivatives thereof: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "Nutanix Inc.",
+      "fact_category": "Company Information/Disclosure",
+      "fact_summary": "Goldman Sachs makes a market in the securities or derivatives of Nutanix Inc. ($40.26).",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs makes a market in the securities or derivatives thereof: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "Procore Technologies Inc.",
+      "fact_category": "Company Information/Disclosure",
+      "fact_summary": "Goldman Sachs makes a market in the securities or derivatives of Procore Technologies Inc. ($51.29).",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs makes a market in the securities or derivatives thereof: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    },
+    {
+      "company": "Rubrik Inc.",
+      "fact_category": "Company Information/Disclosure",
+      "fact_summary": "Goldman Sachs makes a market in the securities or derivatives of Rubrik Inc. ($51.07).",
+      "is_recent_update": true,
+      "original_sentence": "Goldman Sachs makes a market in the securities or derivatives thereof: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+    }
+  ],
+  "file_Id": "Americas Technology_ Software_ Addressing AI Disruption Debate Across SMID Coverage .pdf"
+}

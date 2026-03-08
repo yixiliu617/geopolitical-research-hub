@@ -1,0 +1,1370 @@
+{
+  "facts": [
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's market capitalization is $28.6 billion.",
+      "is_recent_update": false,
+      "original_sentence": "Market cap: $28.6bn"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's enterprise value is $26.3 billion.",
+      "is_recent_update": false,
+      "original_sentence": "Enterprise value: $26.3bn"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's 3-month Average Daily Trading Volume (ADTV) is $609.4 million.",
+      "is_recent_update": false,
+      "original_sentence": "3m ADTV: $609.4mn"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Company Operations",
+      "fact_summary": "MongoDB has an M&A Rank of 3.",
+      "is_recent_update": false,
+      "original_sentence": "M&A Rank: 3"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's revenue for 1/25 was $2,006.4 million.",
+      "is_recent_update": false,
+      "original_sentence": "Revenue ($mn) New 2,006.4"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's EBITDA for 1/25 was $336.2 million.",
+      "is_recent_update": false,
+      "original_sentence": "EBITDA ($mn) 336.2"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's EBIT for 1/25 was $299.3 million.",
+      "is_recent_update": false,
+      "original_sentence": "EBIT ($mn) 299.3"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's EPS for 1/25 was $3.66.",
+      "is_recent_update": false,
+      "original_sentence": "EPS ($) New 3.66"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's P/E ratio for 1/25 was 83.0X.",
+      "is_recent_update": false,
+      "original_sentence": "P/E (X) 83.0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's dividend yield for 1/25 was 0.0%.",
+      "is_recent_update": false,
+      "original_sentence": "Dividend yield (%) 0.0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's net debt/EBITDA ratio for 1/25 was (7.0)X.",
+      "is_recent_update": false,
+      "original_sentence": "Net debt/EBITDA (X) (7.0)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's EPS for 10/25 was $1.32.",
+      "is_recent_update": false,
+      "original_sentence": "EPS ($) 1.32"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's EV/EBITDA ratio for 1/25 was 60.5X.",
+      "is_recent_update": false,
+      "original_sentence": "EV/EBITDA (X) 60.5"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's EV/sales ratio for 1/25 was 10.1X.",
+      "is_recent_update": false,
+      "original_sentence": "EV/sales (X) 10.1"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's FCF yield for 1/25 was 0.5%.",
+      "is_recent_update": false,
+      "original_sentence": "FCF yield (%) 0.5"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's EV/DACF ratio for 1/25 was 78.9X.",
+      "is_recent_update": false,
+      "original_sentence": "EV/DACF (X) 78.9"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's CROCI for 1/25 was 14.6%.",
+      "is_recent_update": false,
+      "original_sentence": "CROCI (%) 14.6"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's ROE for 1/25 was 16.0%.",
+      "is_recent_update": false,
+      "original_sentence": "ROE (%) 16.0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's net debt/equity ratio for 1/25 was (84.0)%.",
+      "is_recent_update": false,
+      "original_sentence": "Net debt /equity (%) (84.0)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's interest cover for 1/25 was 37.0X.",
+      "is_recent_update": false,
+      "original_sentence": "Interest cover (X) 37.0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's receivable days for 1/25 were 65.4.",
+      "is_recent_update": false,
+      "original_sentence": "Receivable days 65.4"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's days payable outstanding for 1/25 were 7.6.",
+      "is_recent_update": false,
+      "original_sentence": "Days payable outstanding 7.6"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's total revenue growth for 1/25 was 19.2%.",
+      "is_recent_update": false,
+      "original_sentence": "Tot al r evenue gr ow t h 19.2"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's EBITDA growth for 1/25 was 18.8%.",
+      "is_recent_update": false,
+      "original_sentence": "EBITDA gr ow t h 18.8"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's EPS growth for 1/25 was 11.0%.",
+      "is_recent_update": false,
+      "original_sentence": "EPS growth 11.0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's gross margin for 1/25 was 75.6%.",
+      "is_recent_update": false,
+      "original_sentence": "Gr oss mar gin 75.6"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's EBIT margin for 1/25 was 14.9%.",
+      "is_recent_update": false,
+      "original_sentence": "EBIT mar gin 14.9"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Stock Performance",
+      "fact_summary": "MongoDB's absolute price performance over 3 months was 4.2%.",
+      "is_recent_update": false,
+      "original_sentence": "Absolut e 4.2%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Stock Performance",
+      "fact_summary": "MongoDB's absolute price performance over 6 months was 74.2%.",
+      "is_recent_update": false,
+      "original_sentence": "Absolut e 74.2%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Stock Performance",
+      "fact_summary": "MongoDB's absolute price performance over 12 months was 2.0%.",
+      "is_recent_update": false,
+      "original_sentence": "Absolut e 2.0%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Stock Performance",
+      "fact_summary": "MongoDB's relative performance to the S&P 500 over 3 months was (1.7)%.",
+      "is_recent_update": false,
+      "original_sentence": "Rel. t o t he S&P 500 (1.7)%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Stock Performance",
+      "fact_summary": "MongoDB's relative performance to the S&P 500 over 6 months was 50.3%.",
+      "is_recent_update": false,
+      "original_sentence": "Rel. t o t he S&P 500 50.3%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Stock Performance",
+      "fact_summary": "MongoDB's relative performance to the S&P 500 over 12 months was (10.2)%.",
+      "is_recent_update": false,
+      "original_sentence": "Rel. t o t he S&P 500 (10.2)%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's total revenue for 1/25 was $2,006.4 million.",
+      "is_recent_update": false,
+      "original_sentence": "Total revenue 2,006.4"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's cost of goods sold for 1/25 was ($490.4) million.",
+      "is_recent_update": false,
+      "original_sentence": "Cost of goods sold (490.4)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's SG&A for 1/25 was ($857.2) million.",
+      "is_recent_update": false,
+      "original_sentence": "SG&A (857. 2)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's R&D for 1/25 was ($359.5) million.",
+      "is_recent_update": false,
+      "original_sentence": "R&D (359.5)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's depreciation & amortization for 1/25 was ($36.9) million.",
+      "is_recent_update": false,
+      "original_sentence": "Depr eciat ion & amor t iz at ion (3 6.9)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's net interest income/(expense) for 1/25 was $87.6 million.",
+      "is_recent_update": false,
+      "original_sentence": "Net interest inc./(exp.) 87. 6"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's pre-tax profit for 1/25 was $305.7 million.",
+      "is_recent_update": false,
+      "original_sentence": "Pre- tax profit3 0 5.7"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's provision for taxes for 1/25 was ($77.0) million.",
+      "is_recent_update": false,
+      "original_sentence": "Pr ovision f or t axes (77.0)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's net income (pre-exceptionals) for 1/25 was $308.2 million.",
+      "is_recent_update": false,
+      "original_sentence": "Net inc. (pre- exceptiona ls) 308.2"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's net income (post-exceptionals) for 1/25 was ($129.1) million.",
+      "is_recent_update": false,
+      "original_sentence": "Net inc. (post-exceptionals) (12 9.1)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's basic EPS (pre-exceptionals) for 1/25 was $4.13.",
+      "is_recent_update": false,
+      "original_sentence": "EPS (basic, pre-except) ($ ) 4.13"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's diluted EPS (pre-exceptionals) for 1/25 was $3.66.",
+      "is_recent_update": false,
+      "original_sentence": "EPS (diluted, pre-except) ($ ) 3.66"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's diluted EPS (ex-ESO exp.) for 1/25 was $3.66.",
+      "is_recent_update": false,
+      "original_sentence": "EPS (ex-ESO exp., dil.) ($ ) 3.66"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's dividend payout ratio for 1/25 was 0.0%.",
+      "is_recent_update": false,
+      "original_sentence": "Div. payout ratio (%) 0.0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's weighted average basic shares outstanding for 1/25 were 74.5 million.",
+      "is_recent_update": false,
+      "original_sentence": "Wtd avg shares out. (basic) (mn) 74.5"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's weighted average diluted shares outstanding for 1/25 were 84.0 million.",
+      "is_recent_update": false,
+      "original_sentence": "Wtd avg shares out. (diluted) (mn) 84.0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's cash & cash equivalents for 1/25 were $490.1 million.",
+      "is_recent_update": false,
+      "original_sentence": "Cash & cash equivalent s 490.1"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's accounts receivable for 1/25 were $393.1 million.",
+      "is_recent_update": false,
+      "original_sentence": "Account s r eceivable 393.1"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's inventory for 1/25 was $0.0 million.",
+      "is_recent_update": false,
+      "original_sentence": "Inventory 0.0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's other current assets for 1/25 were $2,040.3 million.",
+      "is_recent_update": false,
+      "original_sentence": "Ot her cur r ent asset s 2,040.3"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's total current assets for 1/25 were $2,923.5 million.",
+      "is_recent_update": false,
+      "original_sentence": "Total current assets 2,923.5"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's net PP&E for 1/25 was $81.0 million.",
+      "is_recent_update": false,
+      "original_sentence": "Net PP&E 81.0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's net intangibles for 1/25 were $94.3 million.",
+      "is_recent_update": false,
+      "original_sentence": "Net intangibles 94.3"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's total investments for 1/25 were $0.0 million.",
+      "is_recent_update": false,
+      "original_sentence": "Total invest ment s 0.0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's other long-term assets for 1/25 were $331.5 million.",
+      "is_recent_update": false,
+      "original_sentence": "Ot her long-t er m asset s 331.5"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's total assets for 1/25 were $3,430.3 million.",
+      "is_recent_update": false,
+      "original_sentence": "Total assets 3 ,430.3"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's accounts payable for 1/25 were $10.5 million.",
+      "is_recent_update": false,
+      "original_sentence": "Account s payable 10.5"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's short-term debt for 1/25 was $0.0 million.",
+      "is_recent_update": false,
+      "original_sentence": "Shor t -t er m debt 0.0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's current lease liabilities for 1/25 were $9.1 million.",
+      "is_recent_update": false,
+      "original_sentence": "Cur r ent lease liabilities 9.1"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's other current liabilities for 1/25 were $542.4 million.",
+      "is_recent_update": false,
+      "original_sentence": "Ot her cur r ent liabilities 542.4"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's total current liabilities for 1/25 were $562.0 million.",
+      "is_recent_update": false,
+      "original_sentence": "Total current liabilities 562.0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's long-term debt for 1/25 was $0.0 million.",
+      "is_recent_update": false,
+      "original_sentence": "Long-t er m debt 0.0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's non-current lease liabilities for 1/25 were $27.4 million.",
+      "is_recent_update": false,
+      "original_sentence": "Non-cur r ent lease liabilities 27.4"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's other long-term liabilities for 1/25 were $33.3 million.",
+      "is_recent_update": false,
+      "original_sentence": "Ot her long-t er m liabilities 33.3"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's total long-term liabilities for 1/25 were $86.1 million.",
+      "is_recent_update": false,
+      "original_sentence": "Total long-term liabilities 86.1"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's total liabilities for 1/25 were $648.1 million.",
+      "is_recent_update": false,
+      "original_sentence": "Total liabilities 648.1"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's total common equity for 1/25 was $2,782.2 million.",
+      "is_recent_update": false,
+      "original_sentence": "Total common equity 2,782.2"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's minority interest for 1/25 was $0.0 million.",
+      "is_recent_update": false,
+      "original_sentence": "M inor it y int er est 0.0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's total liabilities & equity for 1/25 was $3,430.3 million.",
+      "is_recent_update": false,
+      "original_sentence": "Total liabilities & equity 3 ,430.3"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's Book Value Per Share (BVPS) for 1/25 was $33.14.",
+      "is_recent_update": false,
+      "original_sentence": "BVPS ($) 33.14"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's net income for 1/25 was ($129.1) million.",
+      "is_recent_update": false,
+      "original_sentence": "Net income (1 29.1)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's D&A add-back for 1/25 was $29.4 million.",
+      "is_recent_update": false,
+      "original_sentence": "D&A add-back 29.4"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's net (increase)/decrease in working capital for 1/25 was ($177.9) million.",
+      "is_recent_update": false,
+      "original_sentence": "Net (inc)/dec w or king capit al (177 .9)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's cash flow from operations for 1/25 was $150.2 million.",
+      "is_recent_update": false,
+      "original_sentence": "Cash flow from operations 150.2"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's capital expenditures for 1/25 were ($29.6) million.",
+      "is_recent_update": false,
+      "original_sentence": "Capit al expendit ur es ( 29.6)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's acquisitions for 1/25 were ($1,425.5) million.",
+      "is_recent_update": false,
+      "original_sentence": "Acquisit ions (1,4 25.5)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's divestitures for 1/25 were $752.6 million.",
+      "is_recent_update": false,
+      "original_sentence": "Dive stitu re s 7 5 2.6"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's cash flow from investing for 1/25 was ($657.4) million.",
+      "is_recent_update": false,
+      "original_sentence": "Cash flow from investing ( 657.4)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's dividends paid for 1/25 were $0.0 million.",
+      "is_recent_update": false,
+      "original_sentence": "Dividends paid 0 .0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's share issuance/(repurchase) for 1/25 was $38.0 million.",
+      "is_recent_update": false,
+      "original_sentence": "Shar e issuance/(r epur chase) 38 .0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's cash flow from financing for 1/25 was $198.3 million.",
+      "is_recent_update": false,
+      "original_sentence": "Cash flow from financing 198.3"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's total cash flow for 1/25 was ($312.8) million.",
+      "is_recent_update": false,
+      "original_sentence": "Total cash flow (3 12.8)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's free cash flow for 1/25 was $120.6 million.",
+      "is_recent_update": false,
+      "original_sentence": "Free cash flow 1 20.6"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's basic free cash flow per share for 1/25 was $1.54.",
+      "is_recent_update": false,
+      "original_sentence": "Free cash flow per share (basic) ($)1 .54"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Company Operations",
+      "fact_summary": "Matthew Martino assumed primary coverage of MongoDB.",
+      "is_recent_update": true,
+      "original_sentence": "With this note Matthew Martino assumes primary coverage of MongoDB."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Company Operations",
+      "fact_summary": "MongoDB stock remains under the Americas Software coverage group.",
+      "is_recent_update": false,
+      "original_sentence": "The stock remains under the Americas Software coverage group (Buy-rated)."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's Revenue was +5.8% above Consensus in F3Q26.",
+      "is_recent_update": true,
+      "original_sentence": "Revenue was +5.8% above Consensus"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Atlas Revenue growth accelerated for a third consecutive quarter to +30% in F3Q26, up from +29% in F2Q26.",
+      "is_recent_update": true,
+      "original_sentence": "Atlas Revenue growth accelerated a third consecutive quarter to +30% (from +29% in F2Q26)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Non-Atlas revenue outperformed largely due to higher multi-year deals in F3Q26.",
+      "is_recent_update": true,
+      "original_sentence": "Non-Atlas outperformed largely on higher multi-year deals"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Operating Margin (OpM) and Free Cash Flow Margin (FCFM) came in +800 bps and +1800 bps ahead, respectively, in F3Q26.",
+      "is_recent_update": true,
+      "original_sentence": "OpM / FCFM came in +800 bps / + 1800 bps ahead on Revenue outperformance and higher cash collections."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB delivered a second quarter in FY26 at a Rule of 40+, which is the highest since F1Q24.",
+      "is_recent_update": true,
+      "original_sentence": "Importantly, MongoDB delivered a second quarter in FY26 at a Rule of 40+, highest since F1Q24."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Stock Performance",
+      "fact_summary": "MongoDB's stock moved +22% after hours, reflecting F3Q momentum.",
+      "is_recent_update": true,
+      "original_sentence": "The +22% AH stock move reflects F3Q momentum plus F4Q Revenue and Op. Income guidance +6.6% / +59% above Street (incl. Atlas guidance +27% vs. Street +24%)."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Customer Data",
+      "fact_summary": "MongoDB added +2500 new Atlas customers in F3Q26, which is stable compared to F2Q and well-above the +1800 baseline over the past three years.",
+      "is_recent_update": true,
+      "original_sentence": "New logo activity stood out again with +2500 new Atlas customers (stable vs. F2Q) and well-above the +1800 baseline over the past three years, underscoring a strengthening PLG motion that could benefit further as MongoDB\u2019s incremental Bay Area investments in developer awareness mature and MongoDB\u2019s AI capabilities make their way to Community Edition."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's price as of 1 Dec 2025 close was $328.87.",
+      "is_recent_update": false,
+      "original_sentence": "Price: $328.87"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Company Operations",
+      "fact_summary": "MongoDB Inc. (MDB) has held a 'BUY' rating since May 14, 2021.",
+      "is_recent_update": false,
+      "original_sentence": "Rating since May 14, 2021BUY"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's F3Q26 Revenue came in +5.8% above Consensus, driven by a +3.4% beat on Atlas.",
+      "is_recent_update": true,
+      "original_sentence": "Revenue came in +5.8% above Consensus, driven by a +3.4% beat on Atlas"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Two-thirds of the Non-Atlas outperformance in F3Q26 was driven by multi-year deals.",
+      "is_recent_update": true,
+      "original_sentence": "Management noted that two-thirds of the Non-Atlas outperformance (vs. high-end of guidance) was driven by multi-year deals."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's Net ARR Expansion Rate improved to 120% in F3Q26 from 119% in the prior quarter.",
+      "is_recent_update": true,
+      "original_sentence": "Note Net ARR Expansion Rate improved to 120% from 119% in the prior Q."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Customer Data",
+      "fact_summary": "Atlas delivered +2500 net logo adds in F3Q26, stable compared to F2Q, and well-above the +1800 baseline over the last three years.",
+      "is_recent_update": true,
+      "original_sentence": "Atlas again delivered +2500 net logo adds (stable vs. F2Q), remaining well-above the +1800 baseline over the L3Y."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Atlas consumption growth from F1Q-3Q26 was consistent with comparable FY25 periods.",
+      "is_recent_update": true,
+      "original_sentence": "Further, Management noted that Atlas consumption growth from F1Q-3Q was consistent to comparable FY25 periods, supporting Atlas growth acceleration."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's Gross Margin declined to 74% in F3Q26, compared to 77% in F3Q25, as Atlas mix expanded.",
+      "is_recent_update": true,
+      "original_sentence": "On margins: GM declined to 74% (vs. 77% in F3Q25) as Atlas mix expanded."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's Operating Margin (OpM) came in +800 bps ahead of expectations in F3Q26 due to Revenue outperformance and lower-than-expected OpEx.",
+      "is_recent_update": true,
+      "original_sentence": "That said, OpM came in +800 bps ahead on Revenue outperformance and lower-than-expected OpEx, as planned S&M and R&D investments took longer to implement and are now shifting into F4Q26 and FY27."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's Free Cash Flow Margin (FCFM) came in +1800 bps ahead of Consensus in F3Q26, driven by Op. Income outperformance and higher cash collections.",
+      "is_recent_update": true,
+      "original_sentence": "FCFM came in +1800 bps ahead of Consensus, with Op. Income outperformance and higher cash collections driving the upside."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Product",
+      "fact_summary": "Atlas is a fully-managed, multi-cloud service available across AWS, Azure, and GCP.",
+      "is_recent_update": false,
+      "original_sentence": "Atlas - the fully-managed, multi-cloud service across AWS, Azure, and GCP - has become the core monetization driver."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Product Features",
+      "fact_summary": "The MongoDB platform spans full-text search, vector search, stream processing, data federation, time-series, and robust security, including queryable encryption.",
+      "is_recent_update": false,
+      "original_sentence": "The platform now spans full-text search, vector search, stream processing, data federation, time-series, and robust security (including queryable encryption), collapsing moving parts and speeding time-to-value."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB\u2019s revenue scale is now over $2.5 billion.",
+      "is_recent_update": false,
+      "original_sentence": "While MongoDB\u2019s revenue scale is now $2.5B+, its market share remains roughly 2%, leaving substantial runway as applications modernize, buyers standardize on managed services, and AI becomes embedded in software."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Market Share",
+      "fact_summary": "MongoDB's market share remains roughly 2%.",
+      "is_recent_update": false,
+      "original_sentence": "While MongoDB\u2019s revenue scale is now $2.5B+, its market share remains roughly 2%, leaving substantial runway as applications modernize, buyers standardize on managed services, and AI becomes embedded in software."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Atlas revenue has compounded at over 60% from FY19-26E to more than $1.8 billion in run-rate revenue.",
+      "is_recent_update": false,
+      "original_sentence": "Atlas has compounded at over 60% from FY19-26E to more than $1.8B in run-rate Revenue despite native cloud and open-source alternatives, validating product\u2013market fit and customer trust."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Product Performance",
+      "fact_summary": "In Version 8.0, MongoDB delivered 36% faster reads and 59% higher update throughput.",
+      "is_recent_update": true,
+      "original_sentence": "In Version 8.0, MongoDB delivered considerable performance gains \u2013 36% faster reads and 59% higher update throughput; we believe this matters as customers move larger and more business-critical systems onto Atlas."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Product Features",
+      "fact_summary": "Atlas acts as a hub for adjacent capabilities, including full-text search, vector search, stream processing, and lightweight analytics, all running in the same environment.",
+      "is_recent_update": false,
+      "original_sentence": "On top of the core database, Atlas now acts as a hub for adjacent capabilities: full-text search, vector search, stream processing and lightweight analytics all run in the same environment."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Market Share",
+      "fact_summary": "MongoDB is the 5th most popular database overall according to DB-Engines and the leading document database.",
+      "is_recent_update": false,
+      "original_sentence": "MongoDB shows up as the 5th most popular database overall (DB-Engines) and the leading document database (Exhibit 8), with developer usage steady in the mid-20\u2019s in recent Stack Overflow survey\u2019s, not collapsing."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Product Architecture",
+      "fact_summary": "MongoDB is architecturally better suited for horizontal scalability, designed to distribute data and load across many servers.",
+      "is_recent_update": false,
+      "original_sentence": "It is also architecturally better suited for horizontal scalability: MongoDB is designed from the ground up to distribute data and load across many servers, while scaling Postgres to similar levels requires additional tooling and engineering effort."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Atlas growth has accelerated for three consecutive quarters, reaching +30% in F3Q26.",
+      "is_recent_update": true,
+      "original_sentence": "Atlas growth has accelerated for three consecutive quarters (+30% in F3Q26, Exhibit 5)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Customer Data",
+      "fact_summary": "Atlas new logo adds are at record highs (2500+), compared to an average of 1800 from FY23-25.",
+      "is_recent_update": true,
+      "original_sentence": "Atlas new logo adds are at record highs (2500+ vs. 1800 average from FY23-25, Exhibit 4)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's Net Expansion Rates are stable at 120%.",
+      "is_recent_update": true,
+      "original_sentence": "Net Expansion Rates are stable at 120%, all of which are inconsistent with a story of mounting competitive displacement."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Atlas Revenue has scaled past a $1.8 billion run-rate with a 60%+ CAGR from FY19\u2013FY26E.",
+      "is_recent_update": false,
+      "original_sentence": "Atlas Revenue has scaled past a $1.8B run-rate at a 60%+ CAGR from FY19\u2013FY26E with sustained share gains among pure-plays (Exhibit 7)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Partnerships",
+      "fact_summary": "MongoDB was AWS\u2019s North America Partner of the Year in 2024.",
+      "is_recent_update": true,
+      "original_sentence": "MongoDB was AWS\u2019s North America Partner of the Year in 2024 and Microsoft\u2019s in 2025"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Partnerships",
+      "fact_summary": "MongoDB was Microsoft\u2019s Partner of the Year in 2025.",
+      "is_recent_update": true,
+      "original_sentence": "MongoDB was AWS\u2019s North America Partner of the Year in 2024 and Microsoft\u2019s in 2025"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Product/Legal",
+      "fact_summary": "The SSPL license, introduced in 2018, continues to discourage direct reselling of MongoDB's latest code.",
+      "is_recent_update": false,
+      "original_sentence": "Co-sell and marketplace momentum underscore this trajectory - MongoDB was AWS\u2019s North America Partner of the Year in 2024 and Microsoft\u2019s in 2025 - and the SSPL license (2018) continues to discourage direct reselling of the latest code."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Product Features",
+      "fact_summary": "Atlas Vector Search is built into the database, allowing teams to store vectors alongside documents and run semantic, hybrid text, and filtered queries.",
+      "is_recent_update": false,
+      "original_sentence": "Atlas Vector Search is already built into the database, letting teams store vectors alongside documents and run semantic, hybrid text and filtered queries all in one place \u2013 well-suited for RAG, semantic search, recommendations and anomaly detection."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "M&A",
+      "fact_summary": "MongoDB acquired Voyage AI in February 2025.",
+      "is_recent_update": true,
+      "original_sentence": "The Feb. 2025 Voyage AI acquisition tightens this loop."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Product Development",
+      "fact_summary": "MongoDB is integrating Voyage\u2019s embedding and reranking models to make high-quality retrieval a native capability of the platform.",
+      "is_recent_update": true,
+      "original_sentence": "MongoDB is integrating Voyage\u2019s embedding and reranking models so that high-quality retrieval becomes a native capability of the platform, not a separate service bolted on the side."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Customer Data",
+      "fact_summary": "Roughly 8,000 startups were building on the MongoDB platform as of August 2025.",
+      "is_recent_update": true,
+      "original_sentence": "MongoDB has roughly 8,000 startups building on the platform (as of Aug. 2025)"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Customer Data",
+      "fact_summary": "MongoDB has 200,000 new developer registrations monthly.",
+      "is_recent_update": true,
+      "original_sentence": "200K new developer registrations monthly and 30% of Atlas ARR is generated from customers with at least one AI use case."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "30% of Atlas ARR is generated from customers with at least one AI use case.",
+      "is_recent_update": true,
+      "original_sentence": "200K new developer registrations monthly and 30% of Atlas ARR is generated from customers with at least one AI use case."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Partnerships",
+      "fact_summary": "MongoDB is expanding its partner set with major ecosystem players including LangChain, Galileo, Temporal, Vercel, Anthropic, and Cohere.",
+      "is_recent_update": false,
+      "original_sentence": "MongoDB\u2019s broader emphasis on expanding its partner set with major ecosystem players \u2013 LangChain, Galileo, Temporal, Vercel, Anthropic, Cohere \u2013 helping customers shorten time-to-production by pairing the platform with critical tools and services in the AI value chain."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Atlas growth accelerated from +24% in F4Q25 to +30% in F3Q26.",
+      "is_recent_update": true,
+      "original_sentence": "multi-quarter acceleration in Atlas growth from +24% in F4Q25 to +30% in F3Q26"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Customer Data",
+      "fact_summary": "Self-serve net customer adds increased by +93% from F1Q-F3Q26 compared to the same period in FY25.",
+      "is_recent_update": true,
+      "original_sentence": "At the same time, the company continues to benefit from a robust self-serve channel that feeds high-quality top-of-funnel activity; self-serve net customer adds are up +93% from F1Q-F3Q26 vs. the same period in FY25."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Customer Data",
+      "fact_summary": "25% of customers with over $1 million in Annual Recurring Revenue (ARR) were sourced through the self-serve channel.",
+      "is_recent_update": false,
+      "original_sentence": "Note that 25% of >$1M ARR Customers were sourced through the self-serve channel and scaled to $1M+ 15% faster than those that came through other channels."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Customer Data",
+      "fact_summary": "Customers sourced through the self-serve channel scaled to over $1 million in ARR 15% faster than those from other channels.",
+      "is_recent_update": false,
+      "original_sentence": "Note that 25% of >$1M ARR Customers were sourced through the self-serve channel and scaled to $1M+ 15% faster than those that came through other channels."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "70% of Atlas ARR is driven by customers adopting at least one additional capability.",
+      "is_recent_update": false,
+      "original_sentence": "customers are not just consuming the core database, but attaching additional services such as search, vector search and stream processing, effectively consolidating multiple data patterns and deepening dependence on the platform over time; 70% of Atlas ARR is driven by customers adopting at least one additional capability."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "In FY26, MongoDB initially provided an outlook for 10% Operating Margin (OpM) but subsequently raised guidance to 18% in F3Q26.",
+      "is_recent_update": true,
+      "original_sentence": "FY26 is representative: the company initially provided an outlook for 10% OpM but subsequently raised guidance to 18% (F3Q26), largely on Revenue outperformance from both Atlas and non-Atlas."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Atlas now represents 75% of MongoDB's total Revenue.",
+      "is_recent_update": true,
+      "original_sentence": "Atlas now represents the clear majority of Revenue (75%) and continues to grow materially faster than the company overall (+30% in F3Q26), reflecting both ongoing app modernization and broader multi-cloud workload expansion."
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Atlas Revenue for 2Q26 was $438.2 million.",
+      "is_recent_update": true,
+      "original_sentence": "Atlas Revenue $438.2"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Atlas Revenue for 3Q26 was $471.4 million.",
+      "is_recent_update": true,
+      "original_sentence": "Atlas Revenue $471.4"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Atlas Revenue Year-over-Year growth for 2Q26 was 29%.",
+      "is_recent_update": true,
+      "original_sentence": "YoY 29%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Atlas Revenue Year-over-Year growth for 3Q26 was 30%.",
+      "is_recent_update": true,
+      "original_sentence": "YoY 30%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Atlas Revenue Quarter-over-Quarter growth for 2Q26 was 11%.",
+      "is_recent_update": true,
+      "original_sentence": "QoQ 11%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Atlas Revenue Quarter-over-Quarter growth for 3Q26 was 8%.",
+      "is_recent_update": true,
+      "original_sentence": "QoQ 8%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Subscription Revenue for 2Q26 was $572.4 million.",
+      "is_recent_update": true,
+      "original_sentence": "Subscription Revenue $572.4"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Subscription Revenue for 3Q26 was $609.1 million.",
+      "is_recent_update": true,
+      "original_sentence": "Subscription Revenue $609.1"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Subscription Revenue Year-over-Year growth for 2Q26 was 23%.",
+      "is_recent_update": true,
+      "original_sentence": "YoY 23%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Subscription Revenue Year-over-Year growth for 3Q26 was 19%.",
+      "is_recent_update": true,
+      "original_sentence": "YoY 19%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Subscription Revenue Quarter-over-Quarter growth for 2Q26 was 8%.",
+      "is_recent_update": true,
+      "original_sentence": "QoQ 8%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Subscription Revenue Quarter-over-Quarter growth for 3Q26 was 6%.",
+      "is_recent_update": true,
+      "original_sentence": "QoQ 6%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Services Revenue for 2Q26 was $19.0 million.",
+      "is_recent_update": true,
+      "original_sentence": "Services Revenue $19.0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Services Revenue for 3Q26 was $19.2 million.",
+      "is_recent_update": true,
+      "original_sentence": "Services Revenue $19.2"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Services Revenue Year-over-Year growth for 2Q26 was 33%.",
+      "is_recent_update": true,
+      "original_sentence": "YoY 33%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Services Revenue Year-over-Year growth for 3Q26 was 12%.",
+      "is_recent_update": true,
+      "original_sentence": "YoY 12%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Services Revenue Quarter-over-Quarter growth for 2Q26 was 8%.",
+      "is_recent_update": true,
+      "original_sentence": "QoQ 8%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Services Revenue Quarter-over-Quarter growth for 3Q26 was 1%.",
+      "is_recent_update": true,
+      "original_sentence": "QoQ 1%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Revenue for 2Q26 was $591.4 million.",
+      "is_recent_update": true,
+      "original_sentence": "Total Revenue $591.4"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Revenue for 3Q26 was $628.3 million.",
+      "is_recent_update": true,
+      "original_sentence": "Total Revenue $628.3"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Revenue Year-over-Year growth for 2Q26 was 24%.",
+      "is_recent_update": true,
+      "original_sentence": "YoY 24%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Revenue Year-over-Year growth for 3Q26 was 19%.",
+      "is_recent_update": true,
+      "original_sentence": "YoY 19%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Revenue Quarter-over-Quarter growth for 2Q26 was 8%.",
+      "is_recent_update": true,
+      "original_sentence": "QoQ 8%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Revenue Quarter-over-Quarter growth for 3Q26 was 6%.",
+      "is_recent_update": true,
+      "original_sentence": "QoQ 6%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Non-GAAP Gross Profit for 2Q26 was $436.4 million.",
+      "is_recent_update": true,
+      "original_sentence": "Non-GAAP Gross Profit $436.4"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Non-GAAP Gross Profit for 3Q26 was $466.2 million.",
+      "is_recent_update": true,
+      "original_sentence": "Non-GAAP Gross Profit $466.2"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Gross Margin for 2Q26 was 74%.",
+      "is_recent_update": true,
+      "original_sentence": "Gross Margin 74%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Gross Margin for 3Q26 was 74%.",
+      "is_recent_update": true,
+      "original_sentence": "Gross Margin 74%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Non-GAAP Operating Income for 2Q26 was $86.8 million.",
+      "is_recent_update": true,
+      "original_sentence": "Non-GAAP Operating Income $86.8"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Non-GAAP Operating Income for 3Q26 was $123.1 million.",
+      "is_recent_update": true,
+      "original_sentence": "Non-GAAP Operating Income $123.1"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Operating Margin for 2Q26 was 15%.",
+      "is_recent_update": true,
+      "original_sentence": "Operating Margin 15%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Operating Margin for 3Q26 was 20%.",
+      "is_recent_update": true,
+      "original_sentence": "Operating Margin 20%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Non-GAAP EPS for 2Q26 was $1.0.",
+      "is_recent_update": true,
+      "original_sentence": "Non-GAAP EPS $1.0"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Non-GAAP EPS for 3Q26 was $1.41.",
+      "is_recent_update": true,
+      "original_sentence": "Non-GAAP EPS $1.41"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Billings (Balance Sheet) for 2Q26 were $580 million.",
+      "is_recent_update": true,
+      "original_sentence": "Total Billings (Balance Sheet) $580"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Billings (Balance Sheet) for 3Q26 were $686 million.",
+      "is_recent_update": true,
+      "original_sentence": "Total Billings (Balance Sheet) $686"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Billings (Balance Sheet) Year-over-Year growth for 2Q26 was 26%.",
+      "is_recent_update": true,
+      "original_sentence": "YoY 26%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Billings (Balance Sheet) Year-over-Year growth for 3Q26 was 34%.",
+      "is_recent_update": true,
+      "original_sentence": "YoY 34%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Billings (Balance Sheet) Quarter-over-Quarter growth for 2Q26 was 14%.",
+      "is_recent_update": true,
+      "original_sentence": "QoQ 14%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Billings (Balance Sheet) Quarter-over-Quarter growth for 3Q26 was 18%.",
+      "is_recent_update": true,
+      "original_sentence": "QoQ 18%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Deferred Revenue for 2Q26 was $309 million.",
+      "is_recent_update": true,
+      "original_sentence": "Total Deferred Revenue $309"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Deferred Revenue for 3Q26 was $367 million.",
+      "is_recent_update": true,
+      "original_sentence": "Total Deferred Revenue $367"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Deferred Revenue Year-over-Year growth for 2Q26 was (4)%.",
+      "is_recent_update": true,
+      "original_sentence": "YoY (4)%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Deferred Revenue Year-over-Year growth for 3Q26 was 20%.",
+      "is_recent_update": true,
+      "original_sentence": "YoY 20%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Deferred Revenue Quarter-over-Quarter growth for 2Q26 was (3)%.",
+      "is_recent_update": true,
+      "original_sentence": "QoQ (3)%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Total Deferred Revenue Quarter-over-Quarter growth for 3Q26 was 19%.",
+      "is_recent_update": true,
+      "original_sentence": "QoQ 19%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Cash Flow from Operations for 2Q26 was $72 million.",
+      "is_recent_update": true,
+      "original_sentence": "Cash Flow from Operations $72"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Cash Flow from Operations for 3Q26 was $144 million.",
+      "is_recent_update": true,
+      "original_sentence": "Cash Flow from Operations $144"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "CFO Margin for 2Q26 was 12.2%.",
+      "is_recent_update": true,
+      "original_sentence": "CFO Margin 12.2%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "CFO Margin for 3Q26 was 23%.",
+      "is_recent_update": true,
+      "original_sentence": "CFO Margin 23%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Free Cash Flow for 2Q26 was $70 million.",
+      "is_recent_update": true,
+      "original_sentence": "Free Cash Flow $70"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "Free Cash Flow for 3Q26 was $140 million.",
+      "is_recent_update": true,
+      "original_sentence": "Free Cash Flow $140"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "FCF Margin for 2Q26 was 12%.",
+      "is_recent_update": true,
+      "original_sentence": "FCF Margin 12%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "FCF Margin for 3Q26 was 22%.",
+      "is_recent_update": true,
+      "original_sentence": "FCF Margin 22%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Market Share",
+      "fact_summary": "MongoDB's estimated revenue for 2024 was $1,915 million.",
+      "is_recent_update": false,
+      "original_sentence": "MongoDB 1,915 $       1.6% +76 bps 36.6%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Market Share",
+      "fact_summary": "MongoDB's market share in 2024 was 1.6%.",
+      "is_recent_update": false,
+      "original_sentence": "MongoDB 1,915 $       1.6% +76 bps 36.6%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Market Share",
+      "fact_summary": "MongoDB gained +76 basis points in market share from 2020-2024.",
+      "is_recent_update": false,
+      "original_sentence": "MongoDB 1,915 $       1.6% +76 bps 36.6%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Financials",
+      "fact_summary": "MongoDB's estimated CAGR from 2020-2024 was 36.6%.",
+      "is_recent_update": false,
+      "original_sentence": "MongoDB 1,915 $       1.6% +76 bps 36.6%"
+    },
+    {
+      "company": "MongoDB Inc. (MDB)",
+      "fact_category": "Product Ranking",
+      "fact_summary": "MongoDB has a DB-Engines Score of 372.3, making it the runaway leader in the document database category and #5 in overall DB-Engines ranking.",
+      "is_recent_update": false,
+      "original_sentence": "MongoDB 372.3"
+    }
+  ],
+  "file_Id": "MongoDB Inc. (MDB)_ Atlas Acceleration Underscores GTM Execution and Expanding Platform Relevance.pdf"
+}

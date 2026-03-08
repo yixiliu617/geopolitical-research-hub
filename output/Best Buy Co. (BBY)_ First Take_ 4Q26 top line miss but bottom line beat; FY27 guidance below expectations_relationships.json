@@ -1,0 +1,554 @@
+{
+  "relationships": [
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Provides estimates for BBY's 4Q26 adjusted EPS.",
+      "quantifier": "estimate of $2.50",
+      "original_sentence": "BBY reported 4Q26 adj. EPS of $2.61, above the GS estimate of $2.50 and consensus (Factset) of $2.46."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Factset",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Source of consensus estimates for BBY's 4Q26 adjusted EPS.",
+      "quantifier": "consensus (Factset) of $2.46",
+      "original_sentence": "BBY reported 4Q26 adj. EPS of $2.61, above the GS estimate of $2.50 and consensus (Factset) of $2.46."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Provides estimates for BBY's enterprise comparable sales.",
+      "quantifier": "GS estimate of +1.2%",
+      "original_sentence": "Sales decreased -1.0% y/y to $13.8bn and enterprise comparable sales decreased -0.8% y/y, below the GS estimate of +1.2% and consensus of +0.1%."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Consensus",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Provides consensus estimates for BBY's enterprise comparable sales.",
+      "quantifier": "consensus of +0.1%",
+      "original_sentence": "Sales decreased -1.0% y/y to $13.8bn and enterprise comparable sales decreased -0.8% y/y, below the GS estimate of +1.2% and consensus of +0.1%."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Provides estimates for BBY's adjusted EBIT margin.",
+      "quantifier": "GS/Cons. estimates of 4.9%/4.9%",
+      "original_sentence": "Adj. EBIT margin increased 8 bps y/y to 5.0%, above GS/Cons. estimates of 4.9%/4.9%."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Consensus",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Provides consensus estimates for BBY's adjusted EBIT margin.",
+      "quantifier": "GS/Cons. estimates of 4.9%/4.9%",
+      "original_sentence": "Adj. EBIT margin increased 8 bps y/y to 5.0%, above GS/Cons. estimates of 4.9%/4.9%."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Consensus",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Provides consensus estimates for BBY's FY27 revenue guidance.",
+      "quantifier": "consensus of $42.2bn",
+      "original_sentence": "BBY introduced FY27 guidance, including revenue of $41.2bn-$42.1bn (vs. consensus of $42.2bn), comparable sales of -1.0% to +1.0% (vs. consensus of +1.4%), adj. EBIT margin of 4.3% to 4.4% (vs. consensus 4.3%), and adj. EPS of $6.30-$6.60 (vs. consensus of $6.63)."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Consensus",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Provides consensus estimates for BBY's FY27 comparable sales guidance.",
+      "quantifier": "consensus of +1.4%",
+      "original_sentence": "BBY introduced FY27 guidance, including revenue of $41.2bn-$42.1bn (vs. consensus of $42.2bn), comparable sales of -1.0% to +1.0% (vs. consensus of +1.4%), adj. EBIT margin of 4.3% to 4.4% (vs. consensus 4.3%), and adj. EPS of $6.30-$6.60 (vs. consensus of $6.63)."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Consensus",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Provides consensus estimates for BBY's FY27 adjusted EBIT margin guidance.",
+      "quantifier": "consensus 4.3%",
+      "original_sentence": "BBY introduced FY27 guidance, including revenue of $41.2bn-$42.1bn (vs. consensus of $42.2bn), comparable sales of -1.0% to +1.0% (vs. consensus of +1.4%), adj. EBIT margin of 4.3% to 4.4% (vs. consensus 4.3%), and adj. EPS of $6.30-$6.60 (vs. consensus of $6.63)."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Consensus",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Provides consensus estimates for BBY's FY27 adjusted EPS guidance.",
+      "quantifier": "consensus of $6.63",
+      "original_sentence": "BBY introduced FY27 guidance, including revenue of $41.2bn-$42.1bn (vs. consensus of $42.2bn), comparable sales of -1.0% to +1.0% (vs. consensus of +1.4%), adj. EBIT margin of 4.3% to 4.4% (vs. consensus 4.3%), and adj. EPS of $6.30-$6.60 (vs. consensus of $6.63)."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Provides estimates for BBY's enterprise comparable sales.",
+      "quantifier": "GS/consensus of n +1.2%/+0.1%",
+      "original_sentence": "Enterprise comparable sales decreased -0.8% y/y (vs. GS/consensus of n +1.2%/+0.1%) as domestic comparable sales decreased -0.8% (vs. GS/consensus of +1.2%/+0.3%) and international comparable sales decreased -1.3% (vs. GS/consensus of +1.3%/+1.7%)."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Consensus",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Provides consensus estimates for BBY's enterprise comparable sales.",
+      "quantifier": "GS/consensus of n +1.2%/+0.1%",
+      "original_sentence": "Enterprise comparable sales decreased -0.8% y/y (vs. GS/consensus of n +1.2%/+0.1%) as domestic comparable sales decreased -0.8% (vs. GS/consensus of +1.2%/+0.3%) and international comparable sales decreased -1.3% (vs. GS/consensus of +1.3%/+1.7%)."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Provides estimates for BBY's domestic comparable sales.",
+      "quantifier": "GS/consensus of +1.2%/+0.3%",
+      "original_sentence": "Enterprise comparable sales decreased -0.8% y/y (vs. GS/consensus of n +1.2%/+0.1%) as domestic comparable sales decreased -0.8% (vs. GS/consensus of +1.2%/+0.3%) and international comparable sales decreased -1.3% (vs. GS/consensus of +1.3%/+1.7%)."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Consensus",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Provides consensus estimates for BBY's domestic comparable sales.",
+      "quantifier": "GS/consensus of +1.2%/+0.3%",
+      "original_sentence": "Enterprise comparable sales decreased -0.8% y/y (vs. GS/consensus of n +1.2%/+0.1%) as domestic comparable sales decreased -0.8% (vs. GS/consensus of +1.2%/+0.3%) and international comparable sales decreased -1.3% (vs. GS/consensus of +1.3%/+1.7%)."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Provides estimates for BBY's international comparable sales.",
+      "quantifier": "GS/consensus of +1.3%/+1.7%",
+      "original_sentence": "Enterprise comparable sales decreased -0.8% y/y (vs. GS/consensus of n +1.2%/+0.1%) as domestic comparable sales decreased -0.8% (vs. GS/consensus of +1.2%/+0.3%) and international comparable sales decreased -1.3% (vs. GS/consensus of +1.3%/+1.7%)."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Consensus",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Provides consensus estimates for BBY's international comparable sales.",
+      "quantifier": "GS/consensus of +1.3%/+1.7%",
+      "original_sentence": "Enterprise comparable sales decreased -0.8% y/y (vs. GS/consensus of n +1.2%/+0.1%) as domestic comparable sales decreased -0.8% (vs. GS/consensus of +1.2%/+0.3%) and international comparable sales decreased -1.3% (vs. GS/consensus of +1.3%/+1.7%)."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Provides estimates for BBY's domestic gross margin.",
+      "quantifier": "GS estimate of n 20.8%",
+      "original_sentence": "Domestic gross margin increased 3 bps y/y to 20.9%, above the GS estimate of n 20.8%."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Provides estimates for BBY's adjusted SG&A expense ratio.",
+      "quantifier": "GS estimate of 15.9%",
+      "original_sentence": "The adj. SG&A expense ratio decreased 11 bps y/y to 15.9%, in-line with the GS estimate of 15.9%."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Other retailers",
+      "ticker": "N/A",
+      "relationship_type": "Competitor",
+      "relationship_description": "BBY risks losing market share to other retailers.",
+      "quantifier": "N/A",
+      "original_sentence": "Downside risks include if demand for consumer electronics remains pressured for longer than expected, weighing on BBY\u2019s top line and margin; if the upgrade/replacement cycle is deferred for longer than normal, limiting BBY\u2019s potential sales growth; if innovation fails to drive demand, or if the level of innovation is less than expected; if the broader macro environment continues to weigh on demand for higher-ticket items; if BBY loses share to other retailers, particularly online-only retailers; if industry-wide promotional levels increase, weighing on gross margin; if wage and other costs are higher than expected, driving further operating margin compression; if consumers trade down into lower-priced products and or seek value at other retailers; and if shrink increases, creating a more intense margin headwind."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Online-only retailers",
+      "ticker": "N/A",
+      "relationship_type": "Competitor",
+      "relationship_description": "BBY risks losing market share to online-only retailers.",
+      "quantifier": "N/A",
+      "original_sentence": "Downside risks include if demand for consumer electronics remains pressured for longer than expected, weighing on BBY\u2019s top line and margin; if the upgrade/replacement cycle is deferred for longer than normal, limiting BBY\u2019s potential sales growth; if innovation fails to drive demand, or if the level of innovation is less than expected; if the broader macro environment continues to weigh on demand for higher-ticket items; if BBY loses share to other retailers, particularly online-only retailers; if industry-wide promotional levels increase, weighing on gross margin; if wage and other costs are higher than expected, driving further operating margin compression; if consumers trade down into lower-priced products and or seek value at other retailers; and if shrink increases, creating a more intense margin headwind."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs Global Investment Research",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Source of data and research for BBY.",
+      "quantifier": "N/A",
+      "original_sentence": "Source: Company data, Goldman Sachs Global Investment Research, FactSet"
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "FactSet",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Source of data for BBY.",
+      "quantifier": "N/A",
+      "original_sentence": "Source: Company data, Goldman Sachs Global Investment Research, FactSet"
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs Research",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Source of research estimates for BBY.",
+      "quantifier": "N/A",
+      "original_sentence": "Source: Company data, Goldman Sachs Research estimates, FactSet. Price as of 2 Mar 2026 close."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Academy Sports & Outdoors Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Advance Auto Parts Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "AutoZone Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "BJ\u2019s Wholesale Club Holdings",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Bath & Body Works Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Bob\u2019s Discount Furniture Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Boyd Group",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Costco Wholesale",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Dick\u2019s Sporting Goods",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Dollar General Corp.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Dollar Tree Stores Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Driven Brands Holdings",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Five Below Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Floor & Decor Holdings",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Genuine Parts Co.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Home Depot Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Life Time Group Holdings",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Lithia Motors Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Lowe\u2019s Cos.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "National Vision Holdings",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "O\u2019Reilly Automotive Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Ollie\u2019s Bargain Outlet Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Petco Health and Wellness Co.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "RH",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Target Corp.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Tractor Supply Co.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Ulta Beauty Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Valvoline Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Walmart Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Williams-Sonoma Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Beneficially owned 1% or more of Best Buy Co.'s common equity.",
+      "quantifier": "1% or more",
+      "original_sentence": "Goldman Sachs beneficially owned 1% or more of common equity (excluding positions managed by affiliates and business units not required to be aggregated under US securities law) as of the second most recent month end: Best Buy Co. ($61.59)"
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Received compensation for investment banking services from Best Buy Co. in the past 12 months.",
+      "quantifier": "N/A",
+      "original_sentence": "Goldman Sachs has received compensation for investment banking services in the past 12 months: Best Buy Co. ($61.59)"
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Expects to receive or intends to seek compensation for investment banking services from Best Buy Co. in the next 3 months.",
+      "quantifier": "N/A",
+      "original_sentence": "Goldman Sachs expects to receive or intends to seek compensation for investment banking services in the next 3 months: Best Buy Co. ($61.59)"
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Received compensation for non-investment banking services from Best Buy Co. during the past 12 months.",
+      "quantifier": "N/A",
+      "original_sentence": "Goldman Sachs has received compensation for non-investment banking services during the past 12 months: Best Buy Co. ($61.59)"
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Had an investment banking services client relationship with Best Buy Co. during the past 12 months.",
+      "quantifier": "N/A",
+      "original_sentence": "Goldman Sachs had an investment banking services client relationship during the past 12 months with: Best Buy Co. ($61.59)"
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Had a non-investment banking securities-related services client relationship with Best Buy Co. during the past 12 months.",
+      "quantifier": "N/A",
+      "original_sentence": "Goldman Sachs had a non-investment banking securities-related services client relationship during the past 12 months with: Best Buy Co. ($61.59)"
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Had a non-securities services client relationship with Best Buy Co. during the past 12 months.",
+      "quantifier": "N/A",
+      "original_sentence": "Goldman Sachs had a non-securities services client relationship during the past 12 months with: Best Buy Co. ($61.59)"
+    },
+    {
+      "source_company": "Best Buy Co.",
+      "target_company": "Goldman Sachs",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Makes a market in Best Buy Co.'s securities or derivatives.",
+      "quantifier": "N/A",
+      "original_sentence": "Goldman Sachs makes a market in the securities or derivatives thereof: Best Buy Co. ($61.59)"
+    }
+  ],
+  "file_Id": "Best Buy Co. (BBY)_ First Take_ 4Q26 top line miss but bottom line beat; FY27 guidance below expectations.pdf"
+}

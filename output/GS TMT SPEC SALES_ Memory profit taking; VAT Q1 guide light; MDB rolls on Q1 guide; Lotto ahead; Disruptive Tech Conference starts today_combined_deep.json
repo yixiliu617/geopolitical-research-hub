@@ -1,0 +1,2545 @@
+{
+  "catalyst_analysis": {
+    "catalysts": [
+      {
+        "company": "Samsung, Hynix, Nanya Tech, Winbond, PSMC, Macronix",
+        "ticker": "SEC, Hynix, Nanya Tech, Winbond, PSMC, Macronix",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "catalyst_type": "Market Trend / Geopolitical Event",
+        "catalyst_topic": "Memory profit taking and Middle East tension causing stock declines",
+        "catalyst_details": "Asian memory stocks (Samsung, Hynix, Nanya Tech, Winbond, PSMC, Macronix) experienced significant declines (10-11%) overnight, attributed to unwinding due to Iran/Middle East tension and profit taking. Concerns about NAND cycle peaking with increased supply and waning consumer demand also contribute.",
+        "status": "Ongoing",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-03",
+        "exact_sentences_in_the_file": "However Asia this morning not shrugging it off and in TMT Asian memory rolled hard over overnight \u2013 Samsung -10%, Hynix -11%, Nanya Tech -10%, Winbond -10%, PSMC ()-10%, Macronix -10%, it feels like unwinding due to Iran/Middle East tension and PROFIT TAKING \u2013 Samsung is up 62% & Hynix 44% even after the fall as memory is one of the MOST Mo' exposed trade to date. We have also seen the debate around the cycle picking up, in particular for NAND, as people worry about peaking when supply kicks in and consumer demand wanes to a point where price & margin simply cannot sustain, adding to the broader worry of monetization/ funding/ credit risk of AI."
+      },
+      {
+        "company": "VAT",
+        "ticker": "VAT",
+        "sector": "Technology",
+        "industry": "Semiconductor Equipment",
+        "catalyst_type": "Earnings Guidance",
+        "catalyst_topic": "Q1 2026 sales guidance below consensus",
+        "catalyst_details": "VAT is under pressure due to its Q1 2026 sales guidance (CHF240-260mn) being lower than consensus (CHF270mn), despite strong orders in Q4 2025 and a book-to-bill ratio expected substantially above 1. FY26 guidance expects overall growth.",
+        "status": "Completed",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-03",
+        "exact_sentences_in_the_file": "VAT under pressureas Q1 guide looks low and the key question for call given the orders seen in 4Q25, will be why is 1Q26 sales guidance relatively low, and what level of book to bill does this imply? While 1Q26 sales is guided at CHF240-260mn (vs consensus already above the top end at CHF270mn), but the book-to-bill ratio is expected to be substantially above 1 (consensus at 1.05x)."
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Earnings Guidance / Management Change",
+        "catalyst_topic": "Q1 2026 guidance, Atlas segment deceleration, CRO turnover",
+        "catalyst_details": "MongoDB's stock is down -25% after hours following Atlas segment deceleration (to +29% y/y vs +30% last qtr), a mixed FY Total Revenue outlook (FY27 growth ~17% vs FY26 23%), and the announcement of CRO turnover.",
+        "status": "Completed",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-03",
+        "exact_sentences_in_the_file": "Note MDB down -25% AHs (basically back to last Summers\u2019 levels, before that inflection print in August) will again raise debate \u2013 down after Mongo\u2019s Atlas segment decelerated in the qtr (to +29% y/y vs +30% last qtR), offered a more mixed FY Total Revs outlook (FY27 total revenue growth ~17% vs FY26 23% (Atlas slowing to 21\u201323%). Visibility on back-half consumption is limited.) and announced turnover at the CRO position (recall, new CEO last year) .."
+      },
+      {
+        "company": "Lottomatica",
+        "ticker": "LTMC",
+        "sector": "Consumer Discretionary",
+        "industry": "Gambling",
+        "catalyst_type": "Earnings Guidance / Shareholder Return",
+        "catalyst_topic": "FY26 EBITDA guidance slightly ahead, request for share buyback authorization",
+        "catalyst_details": "Lottomatica reported in-line results, with FY26 EBITDA guidance slightly ahead at the midpoint. The company is requesting authorization for a share buyback of up to 12.5% of share capital, expected to be positive.",
+        "status": "Completed",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-03",
+        "exact_sentences_in_the_file": "Lottomatica: Results in-line; FY26 EBITDA guide slightly ahead at the midpoint; requesting buyback authorisation for up to 12.5% of share capital. Should be positive today"
+      },
+      {
+        "company": "Lumentum, Coherent, Nvidia",
+        "ticker": "LITE, COHR, NVDA",
+        "sector": "Technology",
+        "industry": "Optical Components, Semiconductors",
+        "catalyst_type": "Investment / Partnership",
+        "catalyst_topic": "Nvidia's $2bn investment in Lumentum and Coherent for advanced optics",
+        "catalyst_details": "Nvidia invested $2bn apiece in Lumentum and Coherent, including purchase agreements and access rights for advanced laser components. This supports R&D and expansion of US-based manufacturing for optics critical to AI data centers.",
+        "status": "Completed",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-02",
+        "exact_sentences_in_the_file": "DATA CENTER OPTICAL STOCKS ripped yesterday after Nvidia announced it will invest $2bn apiece in Lumentum (stock +7%) and Coherent (+13%). Deals include purchase agreements and access rights for advanced laser components and are intended to support research, development, and the expansion of US-based manufacturing capabilities for advanced optics, which are critical for high-speed data transmission in AI data centers. The investments will support R&D."
+      },
+      {
+        "company": "Anthropic",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Artificial Intelligence",
+        "catalyst_type": "Product Performance / Product Feature / Geopolitical Risk",
+        "catalyst_topic": "Claude elevated errors, new memory feature, tensions with Trump administration",
+        "catalyst_details": "Anthropic's Claude experienced \"elevated errors\" on Monday. The company is introducing a memory feature for free users to compete with ChatGPT. Tensions with the Trump administration are reportedly risking $60B in VC cash.",
+        "status": "Ongoing",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-02",
+        "exact_sentences_in_the_file": "Anthropic says Claude had \"elevated errors\" on Monday, though holding at top spot in App Store \u2013 (while ChatGPT uninstalls surged by 295% after DoD deal). Techcrunch /(CNBC)TechCrunch. Plus Anthropic Tries to Win Users From ChatGPT With Memory Feature for free users. Axios flagging that Anthropic tensions with Trump administration are potentially putting $60B of cash raised from VCs at risk\u2026"
+      },
+      {
+        "company": "Industry-wide",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Artificial Intelligence, Software, Manufacturing, Cybersecurity, Drones, Fintech",
+        "catalyst_type": "Conference / Industry Event",
+        "catalyst_topic": "Disruptive Technology Conference showcasing AI startups",
+        "catalyst_details": "The Disruptive Tech Conference in London provides a platform to observe AI startups that could pose threats or become acquisition targets for listed companies.",
+        "status": "Ongoing",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-03 to 2026-03-04",
+        "exact_sentences_in_the_file": "Disruptive Tech Conference here in London today and tomorrow -register here. To me this a chance to see AI startups who potentially are threats to listed counterparts or takeover targets. The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+      },
+      {
+        "company": "Teleperformance",
+        "ticker": "Teleperformance",
+        "sector": "Industrials",
+        "industry": "Business Process Outsourcing",
+        "catalyst_type": "Analyst Rating Change",
+        "catalyst_topic": "Rating cut to Reduce by AlphaValue/Baader",
+        "catalyst_details": "Teleperformance's rating was cut to Reduce by AlphaValue/Baader.",
+        "status": "Completed",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-03",
+        "exact_sentences_in_the_file": "AWAY FROM GS: Teleperformance Cut to Reduce at AlphaValue/Baader; Delivery Hero Raised to Neutral at Citi."
+      },
+      {
+        "company": "Delivery Hero",
+        "ticker": "Delivery Hero",
+        "sector": "Consumer Discretionary",
+        "industry": "Internet & Direct Marketing Retail",
+        "catalyst_type": "Analyst Rating Change",
+        "catalyst_topic": "Rating raised to Neutral by Citi",
+        "catalyst_details": "Delivery Hero's rating was raised to Neutral by Citi.",
+        "status": "Completed",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-03",
+        "exact_sentences_in_the_file": "AWAY FROM GS: Teleperformance Cut to Reduce at AlphaValue/Baader; Delivery Hero Raised to Neutral at Citi."
+      },
+      {
+        "company": "SAP",
+        "ticker": "SAP",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Management Change / Strategic Shift",
+        "catalyst_topic": "Board restructure, CEO's increased focus on AI & R&D, CTO's planned departure",
+        "catalyst_details": "SAP is restructuring its board, with CEO Christian Klein shifting focus to A&I & R&D, delegating sales to Thomas Saueressig. CTO Muhammad Alam is set to depart in March 2027, raising questions about SAP's AI push.",
+        "status": "Ongoing / Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-03 to 2027-03-31",
+        "exact_sentences_in_the_file": "SAP board restructure \u2013 sees CEO Christian Klein focusing more on A&I & R&D. He is giving running sales that he took on in summer 2024 \u2013 when SAP overhauled the sales strategy. Sales will be run by Thomas Saueressig, (a board member who currently answers for after-sales matters and helping clients to deploy SAP\u2019s software).Board member Muhammad Alam, who leads product and engineering, (seen as CTO and the technical guru on the board and came from MSFT) steps down at ends in March 2027 due to personal reasons \u2013 he is well regarded and do wonder if this is SAP admitting it needs to push hardier on AI."
+      },
+      {
+        "company": "Apple",
+        "ticker": "AAPL",
+        "sector": "Technology",
+        "industry": "Consumer Electronics",
+        "catalyst_type": "Product Launch / Pricing Strategy",
+        "catalyst_topic": "iPhone 17e and M4 iPad Air updates with effective price reductions",
+        "catalyst_details": "Apple announced the iPhone 17e and M4 iPad Airs, featuring stable starting prices for the iPhone 17e ($599 for 256GB) and reduced prices for higher storage tiers, which should support market share growth.",
+        "status": "Completed",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-03",
+        "exact_sentences_in_the_file": "Apple: Per GIR announced the iPhone 17e and M4 iPad Airs, where the most prominent surprises include (a) stable starting price on the iPhone 17e, and (b) 256 GB starting storage for iPhone 17e (v. 128 GB starting iPhone 16e storage). AAPL effectively reduced prices on the iPhone 17e through (a) holding starting iPhone 17e prices flat at $599 (256 GB iPhone 16e models started at $699 last year), and (b) 512 GB iPhone 17e now starting at $799 (v. $899 512 GB iPhone 16e starting price). We believe updates to iPhone 17e and M4 iPad Air should support AAPL's ability to continue growing market share across consumer electronics, particularly amidst industry-wide memory cost pressure."
+      },
+      {
+        "company": "Industry-wide",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Mobile Communications, Semiconductors",
+        "catalyst_type": "Market Trend / Supply Chain",
+        "catalyst_topic": "Expected decline in smartphone shipments and memory price hikes",
+        "catalyst_details": "Counterpoint predicts a 12.4% YoY decline in smartphone shipments in 2026 due to memory shortages, potentially extending into 2027. Korean companies have already previewed a 40% Q2 DRAM contract price hike.",
+        "status": "Ongoing / Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-04-01",
+        "exact_sentences_in_the_file": "Mobile \u2013 last week IDC was IDC warned on mobile and now we Counterpoint saying that smartphone shipment to decline 12.4% YoY in 2026 impacted by memory shortage and the adjustment could last into 2027 while memory spot and contract price gap reaching 40-50% and likely to see contract price hike to narrow the gap while Korea companies already preview Q2 DRAM contract price hike by 40% while NVDA GTC will help drive AI memory momentum."
+      },
+      {
+        "company": "Micron Technology",
+        "ticker": "MU",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "catalyst_type": "Earnings Preview / Product Development",
+        "catalyst_topic": "Strong Q1 outlook driven by pricing and HBM4 ramp",
+        "catalyst_details": "Micron is expected to report a strong quarter with ~4% revenue upside driven by pricing and a focus on HBM4 ramp. Strong QoQ revenue growth is also anticipated for the May quarter.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-01",
+        "exact_sentences_in_the_file": "MU preview- Jim expects another strong quarter driven by pricing upside, with HBM4 ramp in focus. He expects Micron to deliver ~4% upside to Street revenue in the quarter and guide to strong QoQ revenue growth in the May quarter, driven almost entirely by pricing upside... expect revenue/GM/EPS of $19.7 bn/71.0%/$9.33 for the quarter vs. the Street at $19.0 bn/68.6%/$8.59. For May quarter guidance expect revenue/GM/EPS of $23.5 bn/74.8%/$11.95 compared with the Street at $21.6 bn/70.9%/$10.08. For CY26, our revenue/EPS estimates are 5%/10% above Street consensus."
+      },
+      {
+        "company": "Samsung Electronics",
+        "ticker": "SEC",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "catalyst_type": "Production Delay",
+        "catalyst_topic": "Delay in semiconductor mass production at Taylor, Texas plant",
+        "catalyst_details": "Samsung Electronics' Taylor, Texas plant's semiconductor mass production, initially expected for 2026, is now delayed until early 2027.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2027-01-01",
+        "exact_sentences_in_the_file": "SEC: Samsung Electronics' semiconductor mass production at its Taylor, Texas plant, initially anticipated for this year, is now projected to be delayed until early next year."
+      },
+      {
+        "company": "NVIDIA, Samsung Electronics, SK Hynix",
+        "ticker": "NVDA, SEC, Hynix",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "catalyst_type": "Product Launch / Conference / Partnership",
+        "catalyst_topic": "NVIDIA to unveil \"Feynman\" AI chips at GTC 2026, continued HBM collaboration",
+        "catalyst_details": "NVIDIA will unveil its next-generation AI chips, including the \"Feynman\" architecture, at GTC 2026 this month. Samsung Electronics and SK Hynix are expected to continue their HBM collaboration.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-01",
+        "exact_sentences_in_the_file": "SEC (005930): NVIDIA is poised to unveil its next-generation AI chips, including the \"Feynman\" architecture, at GTC 2026 this month, with Samsung Electronics and SK Hynix expected to continue their high-bandwidth memory (HBM) collaboration.https://www.edaily.co.kr/News/Read?newsId=01990966645379384&mediaCodeNo=257"
+      },
+      {
+        "company": "Tower Semiconductor, Vanguard International Semiconductor, PSMC",
+        "ticker": "TSEM, 5347, 6770",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "catalyst_type": "Supply Chain Disruption / Geopolitical Event",
+        "catalyst_topic": "Tower Semiconductor shipment constraints, positive spillover for Taiwanese foundries",
+        "catalyst_details": "Tower Semiconductor faces short-term product shipment constraints due to geopolitical conflicts, which is expected to create positive spillover effects for Taiwanese foundries Vanguard (5347) and PSMC (6770).",
+        "status": "Ongoing",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-03",
+        "exact_sentences_in_the_file": "SEMI: Israeli\u2019s biggest and the 10th largest semiconductor manufacturer in the world Tower is facing short-term constraints on product shipment due to geopolitical conflicts. Taiwanese matured foundries Vanguard (5347) and PSMC (6770) are expected to see spillover effects, +VE for short term momentum. (ED)"
+      },
+      {
+        "company": "TalkTalk, Virgin Media O2, Octopus Investments",
+        "ticker": "N/A",
+        "sector": "Communication Services",
+        "industry": "Telecommunications",
+        "catalyst_type": "Capital Structure / M&A",
+        "catalyst_topic": "Capital injection and potential sale of business divisions to address financial challenges",
+        "catalyst_details": "TalkTalk's shareholders and lenders will inject \u00a3115 million, the third injection since December 2024, to support the indebted UK broadband provider as it explores selling parts of its business to potential buyers like Virgin Media O2 and private equity funds.",
+        "status": "Ongoing / Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2024-12-01",
+        "exact_sentences_in_the_file": "TalkTalk's shareholders and lenders, including Ares Management, will inject an additional \u00a3115 million into the company to bolster its finances. This capital injection, the third since December 2024, aims to support the heavily indebted UK broadband provider as it seeks to sell parts of its business. Potential buyers are exploring acquisitions: Virgin Media O2 is considering the consumer division, while private equity funds and Octopus Investments are interested in the business unit (mmm we have heard this for a long time). TalkTalk has faced significant financial challenges, including payment delays to suppliers and a decline in its retail customer base from over 2.5 million in 2023 to 1.8 million. (Financial Times)"
+      },
+      {
+        "company": "Telef\u00f3nica",
+        "ticker": "TEF",
+        "sector": "Communication Services",
+        "industry": "Telecommunications",
+        "catalyst_type": "Regulatory / Strategic Vision",
+        "catalyst_topic": "Advocacy for European digital autonomy and telecom market consolidation",
+        "catalyst_details": "Telef\u00f3nica's Murtra, during his MWC speech, advocated for European digital autonomy, the creation of a \"European WhatsApp,\" and market consolidation in the European telecom sector to foster larger, more competitive companies.",
+        "status": "Ongoing",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-03",
+        "exact_sentences_in_the_file": "Murtra (Telef\u00f3nica) during his speech at MWC, advocates for European digital autonomy and the creation of a \"European WhatsApp\" for secure messaging. (Vozpopuli). He highlights Europe's reliance on foreign digital products and stresses the importance of developing its own software and investing in Artificial Intelligence. Murtra calls for market consolidation in the European telecom sector, urging regulators to be more permissive to foster larger, more competitive companies."
+      },
+      {
+        "company": "Vodafone, Amazon Leo, Vodacom",
+        "ticker": "VOD",
+        "sector": "Communication Services",
+        "industry": "Telecommunications",
+        "catalyst_type": "Partnership / Network Expansion",
+        "catalyst_topic": "Vodafone partners with Amazon Leo to expand 4G/5G coverage in remote areas",
+        "catalyst_details": "Vodafone has partnered with Amazon Leo to expand 4G and 5G mobile coverage in remote areas across Europe and Africa, aiming for easier/cheaper base station setup and enhanced network resilience. Rollout begins in Germany and other European countries, then Africa via Vodacom, with first mobile sites connected later this year.",
+        "status": "Upcoming / Ongoing",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-01-01",
+        "exact_sentences_in_the_file": "Vodafone has partnered with Amazon Leo to expand 4G and 5G mobile coverage in remote areas across Europe and Africa. (while Vodacom late 2025 signed a deal to use Starlink). The partnership aims to facilitate easier and cheaper setup of base stations, avoiding costly fiber or fixed wireless links. Amazon Leo's service will also enhance network resilience for emergency and critical online services by providing backup if fiber links are damaged. The rollout will begin in Germany and other European countries, followed by expansion across Africa via Vodacom, with the first mobile sites expected to be connected later this year. (Capacity)"
+      },
+      {
+        "company": "Scout24, Fotocasa, Habitaclia",
+        "ticker": "SCO24",
+        "sector": "Real Estate",
+        "industry": "Real Estate Services",
+        "catalyst_type": "Acquisition",
+        "catalyst_topic": "Scout24 acquires Spanish real estate marketplaces Fotocasa and Habitaclia",
+        "catalyst_details": "Scout24 completed the acquisition of Fotocasa, Spain's second-largest real estate marketplace, and Habitaclia, a regional property site.",
+        "status": "Completed",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-03",
+        "exact_sentences_in_the_file": "Scout24 closes acquisition of Fotocasa, Habitaclia. Fotocasa is the No. 2 real estate marketplace in Spain, behind Idealista. As part of the deal, Scout24 has also acquired Habitaclia, a regional property site focused on Catalonia and the Balearic Islands"
+      },
+      {
+        "company": "DraftKings",
+        "ticker": "DKNG",
+        "sector": "Consumer Discretionary",
+        "industry": "Gambling",
+        "catalyst_type": "Investor Event / Strategic Shift",
+        "catalyst_topic": "Investor Day outlining super-app strategy and prediction markets opportunity",
+        "catalyst_details": "DraftKings' Investor Day 2026 detailed a new super-app strategy centered on Sports & Casino, highlighted competitive advantages, and presented the prediction markets opportunity with significant TAM expansion and attractive unit economics.",
+        "status": "Completed",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-03",
+        "exact_sentences_in_the_file": "Draftkings GIR attended DraftKings\u2019 Investor Day 2026, during which the company outlined a forward strategy around several key pillars: a) the announcement of a new super-app strategy centered around DraftKings Sports & Casino; b) highlighted its competitive advantage across product, technology, trust & marketing; c) outlined the prediction markets opportunity (significant TAM expansion + positive/attractive unit economics); & d) provided an updated long-term financial & capital allocation framework."
+      },
+      {
+        "company": "Orange",
+        "ticker": "ORAN PA",
+        "sector": "Communication Services",
+        "industry": "Telecommunications",
+        "catalyst_type": "Investor Event",
+        "catalyst_topic": "Corporate Access Roadshow with CEO, CFO, IR",
+        "catalyst_details": "Orange held a corporate access roadshow in Paris (virtual) and London.",
+        "status": "Completed",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-02-20 to 2026-02-23",
+        "exact_sentences_in_the_file": "Orange [ORAN PA] | 20 Feb (Paris, Virtual), 23 Feb (London) | CEO, CFO, IR"
+      },
+      {
+        "company": "Waystar Holding",
+        "ticker": "WAY",
+        "sector": "Healthcare",
+        "industry": "Healthcare Technology",
+        "catalyst_type": "Investor Event",
+        "catalyst_topic": "Virtual Corporate Access Roadshow with CEO, CFO",
+        "catalyst_details": "Waystar Holding conducted a virtual corporate access roadshow.",
+        "status": "Completed",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-02-23",
+        "exact_sentences_in_the_file": "Waystar Holding [WAY] | 23 Feb | Virtual | CEO, CFO"
+      },
+      {
+        "company": "Industry-wide",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Artificial Intelligence",
+        "catalyst_type": "Expert Call",
+        "catalyst_topic": "Expert call on AI's impact on labor market disruption",
+        "catalyst_details": "An expert call was held to discuss \"AI and the Future of Work: Navigating Labor Market Disruption.\"",
+        "status": "Completed",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-02-23",
+        "exact_sentences_in_the_file": "AI and the Future of Work: Navigating Labor Market Disruption | 23 Feb | Virtual | Managing Director, Christopher Hussey, Managing Director Joseph Briggs, VP, Evan Tylenda | Expert Call | New"
+      },
+      {
+        "company": "Industry-wide",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Technology (General)",
+        "catalyst_type": "Conference / Industry Event",
+        "catalyst_topic": "European Technology Conference",
+        "catalyst_details": "The European Technology Conference took place in London.",
+        "status": "Completed",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-02-24 to 2026-02-25",
+        "exact_sentences_in_the_file": "European Technology Conference | 24-25 Feb | London | Conference | Next W eek"
+      },
+      {
+        "company": "Microsoft",
+        "ticker": "MSFT",
+        "sector": "Technology",
+        "industry": "Cloud Computing, Software",
+        "catalyst_type": "Expert Call",
+        "catalyst_topic": "Insights from former Microsoft Datacenter Advanced Development",
+        "catalyst_details": "A group meeting/expert call was held with Mark Monroe, formerly of Microsoft's Datacenter Advanced Development.",
+        "status": "Completed",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-02-26",
+        "exact_sentences_in_the_file": "Group Meeting with Former Datacenter Advanced Development at Microsoft | 26 Feb | Virtual | Data centre Advanced Development at Microsoft, Mark Monroe | Expert Call"
+      },
+      {
+        "company": "Hoya",
+        "ticker": "7741 JP",
+        "sector": "Healthcare",
+        "industry": "Medical Devices, Optics",
+        "catalyst_type": "Investor Event",
+        "catalyst_topic": "Virtual Corporate Access Roadshow with IR",
+        "catalyst_details": "Hoya participated in a virtual corporate access roadshow.",
+        "status": "Completed",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-02",
+        "exact_sentences_in_the_file": "Hoya [7741 JP] | 2 Mar | Virtual | IR"
+      },
+      {
+        "company": "Ebara",
+        "ticker": "6361 JP",
+        "sector": "Industrials",
+        "industry": "Industrial Machinery",
+        "catalyst_type": "Investor Event",
+        "catalyst_topic": "Virtual Corporate Access Roadshow with IR",
+        "catalyst_details": "Ebara is scheduled to participate in a virtual corporate access roadshow.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-04",
+        "exact_sentences_in_the_file": "Ebara [6361 JP] | 4 Mar | Virtual | IR"
+      },
+      {
+        "company": "DNA plc, ELISA, Finnish Ministry of Finance and Communication, Norwegian Communications Authority, Swedish Post and Telecom Authority, TEL2B, TEL, TELIA, Finnish Transport and Communications Agency - Traficom",
+        "ticker": "N/A",
+        "sector": "Communication Services",
+        "industry": "Telecommunications",
+        "catalyst_type": "Field Trip / Industry Event",
+        "catalyst_topic": "Nordics Telecoms Fieldtrip",
+        "catalyst_details": "A field trip focusing on Nordics Telecoms is scheduled across multiple locations and virtually, involving various companies and regulatory bodies.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-04 to 2026-03-09",
+        "exact_sentences_in_the_file": "Nordics Telecoms Fieldtrip [DNA plc, ELISA, Finnish Ministry of Finance and Communication, Norwegian Communications Authority, Swedish Post and Telecom Authority, TEL2B, TEL, TELIA, Finnish Transport and Communications Agency - Traficom] | 4 Mar (Helsinki), 5 Mar (Stockholm), 6 Mar (Oslo), 9 Mar (Virtual) | Field Trip"
+      },
+      {
+        "company": "Flywire Corp",
+        "ticker": "FLYW",
+        "sector": "Technology",
+        "industry": "Payments",
+        "catalyst_type": "Investor Event",
+        "catalyst_topic": "Corporate Access Roadshow with CEO, IR",
+        "catalyst_details": "Flywire Corp is scheduled to participate in a corporate access roadshow in London.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-05",
+        "exact_sentences_in_the_file": "Flywire Corp [FLYW] | 5 Mar | London | CEO, IR"
+      },
+      {
+        "company": "Wisetech Global",
+        "ticker": "WTC AX",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Investor Event",
+        "catalyst_topic": "Corporate Access Roadshow with CEO, Interim CFO, IR",
+        "catalyst_details": "Wisetech Global is scheduled to participate in a corporate access roadshow in London.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-09 to 2026-03-10",
+        "exact_sentences_in_the_file": "Wisetech Global [WTC AX] | 9-10 Mar | London | CEO, Interim CFO, IR"
+      },
+      {
+        "company": "Auto1 Group",
+        "ticker": "AG1 GY",
+        "sector": "Consumer Discretionary",
+        "industry": "Internet & Direct Marketing Retail",
+        "catalyst_type": "Investor Event",
+        "catalyst_topic": "Corporate Access Roadshow with CFO, IR",
+        "catalyst_details": "Auto1 Group is scheduled to participate in a corporate access roadshow in Boston and New York.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-10 to 2026-03-11",
+        "exact_sentences_in_the_file": "Auto1 Group [AG1 GY] | 10 Mar (Boston), 11 Mar (New York) | CFO, IR"
+      },
+      {
+        "company": "SCREEN Holdings",
+        "ticker": "7735 JP",
+        "sector": "Technology",
+        "industry": "Semiconductor Equipment",
+        "catalyst_type": "Investor Event",
+        "catalyst_topic": "Virtual Corporate Access Roadshow with IR",
+        "catalyst_details": "SCREEN Holdings is scheduled to participate in a virtual corporate access roadshow.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-13",
+        "exact_sentences_in_the_file": "SCREEN Holdings [7735 JP] | 13 Mar | Virtual | IR"
+      },
+      {
+        "company": "Stroeer",
+        "ticker": "SAXG DE",
+        "sector": "Communication Services",
+        "industry": "Advertising",
+        "catalyst_type": "Investor Event",
+        "catalyst_topic": "Corporate Access Roadshow with CFO, IR",
+        "catalyst_details": "Stroeer is scheduled to participate in a corporate access roadshow in Paris and London.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-16 to 2026-03-17",
+        "exact_sentences_in_the_file": "Stroeer [SAXG DE] | 16 Mar (Paris), 17 Mar (London) | CFO, IR | New"
+      },
+      {
+        "company": "International Business Machines Corp",
+        "ticker": "IBM",
+        "sector": "Technology",
+        "industry": "IT Services, Software",
+        "catalyst_type": "Investor Event",
+        "catalyst_topic": "Corporate Access Roadshow with SVP & Chair of IBM EMEA & Growth Markets, IR",
+        "catalyst_details": "IBM is scheduled to participate in a corporate access roadshow in Paris and London.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-16 to 2026-03-18",
+        "exact_sentences_in_the_file": "International Business Machines Corp [IBM] | 16 Mar (Paris), 17-18 Mar (London)) | SVP & Chair of IBM EMEA & Growth Markets, IR"
+      },
+      {
+        "company": "Fujikura",
+        "ticker": "5803 JP",
+        "sector": "Technology",
+        "industry": "Optical Components, Electrical Equipment",
+        "catalyst_type": "Expert Call / Investor Event",
+        "catalyst_topic": "Virtual \"Era of Optics Call Series\" with CEO, CFO, Corporate Officer",
+        "catalyst_details": "Fujikura is scheduled to participate in a virtual \"Era of Optics Call Series\" event.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-17",
+        "exact_sentences_in_the_file": "Era of Optics Call Series - Fujikura [5803 JP] | 17 Mar | Virtual | CEO, CFO, Corporate Officer"
+      },
+      {
+        "company": "Nebius Group NV",
+        "ticker": "NBIS",
+        "sector": "Technology",
+        "industry": "Cloud Computing, Software",
+        "catalyst_type": "Investor Event",
+        "catalyst_topic": "Corporate Access Roadshow with CEO, COO, IR",
+        "catalyst_details": "Nebius Group NV is scheduled to participate in a corporate access roadshow in San Jose, CA.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-17",
+        "exact_sentences_in_the_file": "Nebius Group NV [NBIS] | 17 Mar | San Jose, CA | CEO, COO, IR"
+      },
+      {
+        "company": "Springer Nature AG",
+        "ticker": "SPGG DE",
+        "sector": "Communication Services",
+        "industry": "Publishing",
+        "catalyst_type": "Investor Event",
+        "catalyst_topic": "Corporate Access Roadshow with CEO, CFO, IR",
+        "catalyst_details": "Springer Nature AG is scheduled to participate in a corporate access roadshow in London and virtually.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-03-18 to 2026-03-20",
+        "exact_sentences_in_the_file": "Springer Nature AG [SPGG DE] | 18-19 Mar (London), 20 Mar (Virtual) | CEO, CFO, IR | New"
+      },
+      {
+        "company": "Industry-wide",
+        "ticker": "N/A",
+        "sector": "Industrials",
+        "industry": "Infrastructure",
+        "catalyst_type": "Conference / Industry Event",
+        "catalyst_topic": "Infrastructure Conference",
+        "catalyst_details": "An Infrastructure Conference is scheduled to take place in London.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-05-20",
+        "exact_sentences_in_the_file": "Infrastructure Conference | 20 May | London | Conference | Save the Date"
+      },
+      {
+        "company": "ASML",
+        "ticker": "ASML AS",
+        "sector": "Technology",
+        "industry": "Semiconductor Equipment",
+        "catalyst_type": "Field Trip / Investor Event",
+        "catalyst_topic": "HQ Visit",
+        "catalyst_details": "An HQ visit to ASML in Veldhoven is scheduled.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-05-26",
+        "exact_sentences_in_the_file": "ASML HQ Visit [ASML AS] | 26 May | Veldhoven | Field Trip | New"
+      },
+      {
+        "company": "Industry-wide",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Software, Internet",
+        "catalyst_type": "Conference / Industry Event",
+        "catalyst_topic": "Private Company Software & Internet Conference",
+        "catalyst_details": "A Private Company Software & Internet Conference is scheduled to take place in San Francisco.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-04-08 to 2026-04-09",
+        "exact_sentences_in_the_file": "\u25a0Private Company Software & Internet Conference | 8-9 Apr | San Francisco | TMT | Save the Date"
+      },
+      {
+        "company": "Industry-wide",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Technology (General)",
+        "catalyst_type": "Conference / Industry Event",
+        "catalyst_topic": "Communacopia and Technology Conference",
+        "catalyst_details": "The Communacopia and Technology Conference is scheduled to take place in San Francisco.",
+        "status": "Upcoming",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "2026-09-08 to 2026-09-11",
+        "exact_sentences_in_the_file": "\u25a0Communacopia and Technology Conference | 8-11 Sep | San Francisco | TMT | Save the Date"
+      }
+    ],
+    "file_Id": "GS TMT SPEC SALES_ Memory profit taking; VAT Q1 guide light; MDB rolls on Q1 guide; Lotto ahead; Disruptive Tech Conference starts today.pdf"
+  },
+  "bullish_deep_analysis": {
+    "bullish_views": [
+      {
+        "company": "N/A",
+        "ticker": "SPX, NDX, RTY",
+        "sector": "Market",
+        "industry": "Market",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "US equities showed resilience by rebounding from early losses to close positive despite geopolitical tensions.",
+        "exact_sentences_in_the_file": "US equities shrugged off early losses following the weekend's attacks on Iran, rebounding sharply off early session lows to close the day in the green - SPX +4bps to 6881 (4/11 sectors +ve, Energy +195bps, Consumer Staples -135bps), NDX +13bps to 24,992, RTY +90bps to 2655."
+      },
+      {
+        "company": "N/A",
+        "ticker": "N/A",
+        "sector": "Software",
+        "industry": "Software",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "The Software sector is showing signs of recovery, outperforming the NDX significantly, marking its best run in over a year.",
+        "exact_sentences_in_the_file": "While Software has started to bounce off the lows (Software has o/p the NDX by ~550 bps over 5 days, quietly its best run in >12-months) .. while the \u2018consensus\u2019 view is that the group can \u201cbounce\u201d, but is unlikely to \u201crally\u201d, hard for investors to not at least comb over the group given the drawdown \u2013 in Europe the only names defended in our flows SAP (one can question whether that will remain given announcement on the board restructure) and RELX."
+      },
+      {
+        "company": "Lottomatica",
+        "ticker": "LTMC",
+        "sector": "Gambling",
+        "industry": "Gambling",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Lottomatica's FY26 EBITDA guidance is slightly ahead of expectations, and the company is seeking authorization for a significant share buyback, indicating positive sentiment.",
+        "exact_sentences_in_the_file": "Lottomatica: Results in-line; FY26 EBITDA guide slightly ahead at the midpoint; requesting buyback authorisation for up to 12.5% of share capital. Should be positive today"
+      },
+      {
+        "company": "Lumentum",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Data Center Optical Components",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Nvidia's $2bn investment in Lumentum for advanced laser components and R&D is a strong positive driver for the stock and the data center optical sector.",
+        "exact_sentences_in_the_file": "DATA CENTER OPTICAL STOCKS ripped yesterday after Nvidia announced it will invest $2bn apiece in Lumentum (stock +7%) and Coherent (+13%). Deals include purchase agreements and access rights for advanced laser components and are intended to support research, development, and the expansion of US-based manufacturing capabilities for advanced optics, which are critical for high-speed data transmission in AI data centers. The investments will support R&D."
+      },
+      {
+        "company": "Coherent",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Data Center Optical Components",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Nvidia's $2bn investment in Coherent for advanced laser components and R&D is a strong positive driver for the stock and the data center optical sector.",
+        "exact_sentences_in_the_file": "DATA CENTER OPTICAL STOCKS ripped yesterday after Nvidia announced it will invest $2bn apiece in Lumentum (stock +7%) and Coherent (+13%). Deals include purchase agreements and access rights for advanced laser components and are intended to support research, development, and the expansion of US-based manufacturing capabilities for advanced optics, which are critical for high-speed data transmission in AI data centers. The investments will support R&D."
+      },
+      {
+        "company": "AIXA GY",
+        "ticker": "AIXA GY",
+        "sector": "Technology",
+        "industry": "Data Center Optical Components (Exposure)",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "AIXA GY is a beneficiary of Nvidia's investments in data center optics due to its significant sales exposure (30%).",
+        "exact_sentences_in_the_file": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+      },
+      {
+        "company": "HLMA",
+        "ticker": "HLMA",
+        "sector": "Technology",
+        "industry": "Data Center Optical Components (Exposure)",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "HLMA is a beneficiary of Nvidia's investments in data center optics due to its sales exposure (20%).",
+        "exact_sentences_in_the_file": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+      },
+      {
+        "company": "BESI",
+        "ticker": "BESI",
+        "sector": "Technology",
+        "industry": "Data Center Optical Components (Exposure)",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "BESI is a beneficiary of Nvidia's investments in data center optics due to its sales exposure (10%).",
+        "exact_sentences_in_the_file": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+      },
+      {
+        "company": "Soitec",
+        "ticker": "Soitec",
+        "sector": "Technology",
+        "industry": "Data Center Optical Components (Exposure)",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Soitec is a beneficiary of Nvidia's investments in data center optics due to its sales exposure (5%).",
+        "exact_sentences_in_the_file": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+      },
+      {
+        "company": "Anthropic",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Artificial Intelligence (AI)",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Despite reported errors, Anthropic's Claude AI is maintaining its top position in the App Store, indicating strong user retention or demand.",
+        "exact_sentences_in_the_file": "Anthropic says Claude had \"elevated errors\" on Monday, though holding at top spot in App Store \u2013 (while ChatGPT uninstalls surged by 295% after DoD deal). Techcrunch /(CNBC)TechCrunch. Plus Anthropic Tries to Win Users From ChatGPT With Memory Feature for free users."
+      },
+      {
+        "company": "Anthropic",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Artificial Intelligence (AI)",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Anthropic is actively enhancing its Claude AI with new features like a \"Memory Feature\" for free users to attract and retain users from competitors like ChatGPT.",
+        "exact_sentences_in_the_file": "Plus Anthropic Tries to Win Users From ChatGPT With Memory Feature for free users."
+      },
+      {
+        "company": "N/A",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Disruptive Technology, AI",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "The Disruptive Tech Conference presents opportunities to identify promising AI startups that could become threats to incumbents or attractive acquisition targets.",
+        "exact_sentences_in_the_file": "Disruptive Tech Conference here in London today and tomorrow -register here. To me this a chance to see AI startups who potentially are threats to listed counterparts or takeover targets."
+      },
+      {
+        "company": "VAT",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Semiconductor Equipment",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "VAT's full-year 2026 guidance projects growth across key financial metrics (orders, sales, EBITDA, EBITDA margin, net income, FCF) compared to 2025.",
+        "exact_sentences_in_the_file": "FY26 guidance expects orders, sales, EBITDA, EBITDA margin, net income and FCF to be higher than in 2025."
+      },
+      {
+        "company": "VAT",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Semiconductor Equipment",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "VAT's expected book-to-bill ratio substantially above 1 (consensus 1.05x) indicates strong future sales and demand.",
+        "exact_sentences_in_the_file": "While 1Q26 sales is guided at CHF240-260mn (vs consensus already above the top end at CHF270mn), but the book-to-bill ratio is expected to be substantially above 1 (consensus at 1.05x)."
+      },
+      {
+        "company": "SAP",
+        "ticker": "SAP",
+        "sector": "Software",
+        "industry": "Enterprise Software",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "SAP's CEO focusing more on AI & R&D suggests a strategic pivot towards innovation and growth areas.",
+        "exact_sentences_in_the_file": "SAP board restructure \u2013 sees CEO Christian Klein focusing more on A&I & R&D."
+      },
+      {
+        "company": "Apple",
+        "ticker": "AAPL",
+        "sector": "Technology",
+        "industry": "Consumer Electronics",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Apple's new iPhone 17e and M4 iPad Air, with stable/reduced pricing and increased base storage, are expected to help Apple grow market share despite memory cost pressures.",
+        "exact_sentences_in_the_file": "Apple: Per GIR announced the iPhone 17e and M4 iPad Airs, where the most prominent surprises include (a) stable starting price on the iPhone 17e, and (b) 256 GB starting storage for iPhone 17e (v. 128 GB starting iPhone 16e storage). AAPL effectively reduced prices on the iPhone 17e through (a) holding starting iPhone 17e prices flat at $599 (256 GB iPhone 16e models started at $699 last year), and (b) 512 GB iPhone 17e now starting at $799 (v. $899 512 GB iPhone 16e starting price). We believe updates to iPhone 17e and M4 iPad Air should support AAPL's ability to continue growing market share across consumer electronics, particularly amidst industry-wide memory cost pressure."
+      },
+      {
+        "company": "NVIDIA",
+        "ticker": "NVDA",
+        "sector": "Technology",
+        "industry": "Semiconductors, AI",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "NVIDIA's GTC conference is anticipated to boost momentum in the AI memory market.",
+        "exact_sentences_in_the_file": "while NVDA GTC will help drive AI memory momentum."
+      },
+      {
+        "company": "Micron Technology",
+        "ticker": "MU",
+        "sector": "Technology",
+        "industry": "Semiconductors, Memory",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Micron is expected to report a strong quarter with revenue upside driven by pricing, strong QoQ revenue growth in the May quarter, and CY26 estimates above consensus, with HBM4 ramp in focus.",
+        "exact_sentences_in_the_file": "MU preview- Jim expects another strong quarter driven by pricing upside, with HBM4 ramp in focus. He expects Micron to deliver ~4% upside to Street revenue in the quarter and guide to strong QoQ revenue growth in the May quarter, driven almost entirely by pricing upside... expect revenue/GM/EPS of $19.7 bn/71.0%/$9.33 for the quarter vs. the Street at $19.0 bn/68.6%/$8.59. For May quarter guidance expect revenue/GM/EPS of $23.5 bn/74.8%/$11.95 compared with the Street at $21.6 bn/70.9%/$10.08. For CY26, our revenue/EPS estimates are 5%/10% above Street consensus."
+      },
+      {
+        "company": "Samsung Electronics",
+        "ticker": "005930",
+        "sector": "Technology",
+        "industry": "Semiconductors, Memory",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Samsung Electronics is expected to continue its HBM collaboration with NVIDIA for next-generation AI chips, indicating strong future demand and partnership.",
+        "exact_sentences_in_the_file": "SEC (005930): NVIDIA is poised to unveil its next-generation AI chips, including the \"Feynman\" architecture, at GTC 2026 this month, with Samsung Electronics and SK Hynix expected to continue their high-bandwidth memory (HBM) collaboration."
+      },
+      {
+        "company": "SK Hynix",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Semiconductors, Memory",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "SK Hynix is expected to continue its HBM collaboration with NVIDIA for next-generation AI chips, indicating strong future demand and partnership.",
+        "exact_sentences_in_the_file": "SEC (005930): NVIDIA is poised to unveil its next-generation AI chips, including the \"Feynman\" architecture, at GTC 2026 this month, with Samsung Electronics and SK Hynix expected to continue their high-bandwidth memory (HBM) collaboration."
+      },
+      {
+        "company": "Vanguard International Semiconductor Corporation",
+        "ticker": "5347",
+        "sector": "Technology",
+        "industry": "Semiconductors, Foundries",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Vanguard is expected to benefit from spillover effects due to short-term constraints faced by Tower Semiconductor, leading to positive short-term momentum.",
+        "exact_sentences_in_the_file": "SEMI: Israeli\u2019s biggest and the 10th largest semiconductor manufacturer in the world Tower is facing short-term constraints on product shipment due to geopolitical conflicts. Taiwanese matured foundries Vanguard (5347) and PSMC (6770) are expected to see spillover effects, +VE for short term momentum."
+      },
+      {
+        "company": "Powerchip Semiconductor Manufacturing Corporation",
+        "ticker": "6770",
+        "sector": "Technology",
+        "industry": "Semiconductors, Foundries",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "PSMC is expected to benefit from spillover effects due to short-term constraints faced by Tower Semiconductor, leading to positive short-term momentum.",
+        "exact_sentences_in_the_file": "SEMI: Israeli\u2019s biggest and the 10th largest semiconductor manufacturer in the world Tower is facing short-term constraints on product shipment due to geopolitical conflicts. Taiwanese matured foundries Vanguard (5347) and PSMC (6770) are expected to see spillover effects, +VE for short term momentum."
+      },
+      {
+        "company": "Telef\u00f3nica",
+        "ticker": "N/A",
+        "sector": "Telecommunications",
+        "industry": "Telecommunications Services",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Telef\u00f3nica's executive advocates for European digital autonomy, investment in AI, and market consolidation in European telecoms, which could lead to a stronger, more competitive sector.",
+        "exact_sentences_in_the_file": "Murtra (Telef\u00f3nica) during his speech at MWC, advocates for European digital autonomy and the creation of a \"European WhatsApp\" for secure messaging. (Vozpopuli). He highlights Europe's reliance on foreign digital products and stresses the importance of developing its own software and investing in Artificial Intelligence. Murtra calls for market consolidation in the European telecom sector, urging regulators to be more permissive to foster larger, more competitive companies."
+      },
+      {
+        "company": "Vodafone",
+        "ticker": "N/A",
+        "sector": "Telecommunications",
+        "industry": "Telecommunications Services",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Vodafone's partnership with Amazon Leo will expand 4G/5G coverage in remote areas, facilitating easier and cheaper base station setup and enhancing network resilience.",
+        "exact_sentences_in_the_file": "Vodafone has partnered with Amazon Leo to expand 4G and 5G mobile coverage in remote areas across Europe and Africa. (while Vodacom late 2025 signed a deal to use Starlink). The partnership aims to facilitate easier and cheaper setup of base stations, avoiding costly fiber or fixed wireless links. Amazon Leo's service will also enhance network resilience for emergency and critical online services by providing backup if fiber links are damaged. The rollout will begin in Germany and other European countries, followed by expansion across Africa via Vodacom, with the first mobile sites expected to be connected later this year."
+      },
+      {
+        "company": "Scout24",
+        "ticker": "N/A",
+        "sector": "Media",
+        "industry": "Online Marketplaces",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Scout24's acquisition of Fotocasa (No. 2 in Spain) and Habitaclia strengthens its position in the Spanish real estate marketplace.",
+        "exact_sentences_in_the_file": "Scout24 closes acquisition of Fotocasa, Habitaclia. Fotocasa is the No. 2 real estate marketplace in Spain, behind Idealista. As part of the deal, Scout24 has also acquired Habitaclia, a regional property site focused on Catalonia and the Balearic Islands"
+      },
+      {
+        "company": "Lottomatica",
+        "ticker": "LTMC",
+        "sector": "Gambling",
+        "industry": "Gambling",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Lottomatica (LTMC) reported Q4 results slightly better than expected, with FY26 guidance ahead of street for EBITDA, strong iGaming market share, and improved PWO market share on track for sustainable growth.",
+        "exact_sentences_in_the_file": "LTMC: Q a touch better and guide slightly ahead of street. Q4 revenues inline, EBIT 4% ahead, DPS 7% ahead. Its given FY 26 guidance of revenue EU2.39 to EU2.46nm vs street at EU2.44 and adjusted EBITDA EU940 to EU980m vs. street EU954m. Lottomatica\u2019s market share was strong in iGaming at 31.9% (vs. 3Q25: 30.6%), but was lower yoy and qoq for iSports at 31.6% (vs. 3Q25: 32.7%). Total Online market share was up +0.4pp yoy, supported by new Online concessions in Italy coming into effect in mid-November, which have led to share losses for tail operators. The company also note that PWO market share improved to 6.3% in 4Q25 and management believe this is on track for sustainable growth post the migration."
+      },
+      {
+        "company": "DraftKings",
+        "ticker": "N/A",
+        "sector": "Gambling",
+        "industry": "Online Gambling, Sports Betting",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "DraftKings outlined a strong forward strategy including a super-app, competitive advantages, significant TAM expansion in prediction markets with attractive unit economics, and a positive long-term financial framework.",
+        "exact_sentences_in_the_file": "Draftkings GIR attended DraftKings\u2019 Investor Day 2026, during which the company outlined a forward strategy around several key pillars: a) the announcement of a new super-app strategy centered around DraftKings Sports & Casino; b) highlighted its competitive advantage across product, technology, trust & marketing; c) outlined the prediction markets opportunity (significant TAM expansion + positive/attractive unit economics); & d) provided an updated long-term financial & capital allocation framework."
+      }
+    ],
+    "thesis_analysis": {
+      "central_thesis": "The market is demonstrating resilience and identifying new growth drivers, particularly in AI-related technologies, memory, and specific regional market opportunities, despite geopolitical tensions and some sector-specific headwinds. Strategic investments, product innovation, and strong financial outlooks for key players are expected to drive future performance.",
+      "sub_claims": [
+        {
+          "claim": "Broader equity markets are showing resilience despite geopolitical concerns.",
+          "evidence_list": [
+            {
+              "evidence_type": "Data/Observation",
+              "content": "US equities shrugged off early losses following the weekend's attacks on Iran, rebounding sharply off early session lows to close the day in the green - SPX +4bps to 6881 (4/11 sectors +ve, Energy +195bps, Consumer Staples -135bps), NDX +13bps to 24,992, RTY +90bps to 2655.",
+              "is_objective": true,
+              "credibility_assessment": "High, as it provides specific index movements and sector performance data."
+            }
+          ]
+        },
+        {
+          "claim": "There is strong growth and innovation in AI and related semiconductor/optical components.",
+          "evidence_list": [
+            {
+              "evidence_type": "Fact/Investment Announcement",
+              "content": "DATA CENTER OPTICAL STOCKS ripped yesterday after Nvidia announced it will invest $2bn apiece in Lumentum (stock +7%) and Coherent (+13%). Deals include purchase agreements and access rights for advanced laser components and are intended to support research, development, and the expansion of US-based manufacturing capabilities for advanced optics, which are critical for high-speed data transmission in AI data centers. The investments will support R&D.",
+              "is_objective": true,
+              "credibility_assessment": "High, as it's a direct announcement of significant investment from a major industry player (Nvidia) with specific financial figures and stock reactions."
+            },
+            {
+              "evidence_type": "Market Observation/Opinion",
+              "content": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent.",
+              "is_objective": false,
+              "credibility_assessment": "Medium, as it's an assessment of beneficiaries based on sales exposure, which is a reasonable proxy for impact."
+            },
+            {
+              "evidence_type": "Opinion/Forecast",
+              "content": "NVDA GTC will help drive AI memory momentum.",
+              "is_objective": false,
+              "credibility_assessment": "Medium, as it's a forward-looking statement from an industry observer, likely based on NVIDIA's influence."
+            },
+            {
+              "evidence_type": "Forecast/Partnership Expectation",
+              "content": "NVIDIA is poised to unveil its next-generation AI chips, including the \"Feynman\" architecture, at GTC 2026 this month, with Samsung Electronics and SK Hynix expected to continue their high-bandwidth memory (HBM) collaboration.",
+              "is_objective": false,
+              "credibility_assessment": "Medium, based on industry expectations and existing partnerships."
+            },
+            {
+              "evidence_type": "Strategic Focus",
+              "content": "SAP board restructure \u2013 sees CEO Christian Klein focusing more on A&I & R&D.",
+              "is_objective": true,
+              "credibility_assessment": "High, as it's a factual statement about a company's internal strategic shift."
+            },
+            {
+              "evidence_type": "Market Event/Opportunity",
+              "content": "Disruptive Tech Conference here in London today and tomorrow -register here. To me this a chance to see AI startups who potentially are threats to listed counterparts or takeover targets.",
+              "is_objective": false,
+              "credibility_assessment": "Medium, as it highlights a relevant industry event and its potential for identifying future growth."
+            }
+          ]
+        },
+        {
+          "claim": "Specific companies across various sectors are demonstrating positive outlooks and strategic advancements.",
+          "evidence_list": [
+            {
+              "evidence_type": "Financial Data/Guidance",
+              "content": "Lottomatica: Results in-line; FY26 EBITDA guide slightly ahead at the midpoint; requesting buyback authorisation for up to 12.5% of share capital. Should be positive today. LTMC: Q a touch better and guide slightly ahead of street. Q4 revenues inline, EBIT 4% ahead, DPS 7% ahead. Its given FY 26 guidance of revenue EU2.39 to EU2.46nm vs street at EU2.44 and adjusted EBITDA EU940 to EU980m vs. street EU954m. Lottomatica\u2019s market share was strong in iGaming at 31.9% (vs. 3Q25: 30.6%), but was lower yoy and qoq for iSports at 31.6% (vs. 3Q25: 32.7%). Total Online market share was up +0.4pp yoy, supported by new Online concessions in Italy coming into effect in mid-November, which have led to share losses for tail operators. The company also note that PWO market share improved to 6.3% in 4Q25 and management believe this is on track for sustainable growth post the migration.",
+              "is_objective": true,
+              "credibility_assessment": "High, based on reported financial results, guidance, and market share data."
+            },
+            {
+              "evidence_type": "Analyst Forecast/Financial Estimates",
+              "content": "MU preview- Jim expects another strong quarter driven by pricing upside, with HBM4 ramp in focus. He expects Micron to deliver ~4% upside to Street revenue in the quarter and guide to strong QoQ revenue growth in the May quarter, driven almost entirely by pricing upside... expect revenue/GM/EPS of $19.7 bn/71.0%/$9.33 for the quarter vs. the Street at $19.0 bn/68.6%/$8.59. For May quarter guidance expect revenue/GM/EPS of $23.5 bn/74.8%/$11.95 compared with the Street at $21.6 bn/70.9%/$10.08. For CY26, our revenue/EPS estimates are 5%/10% above Street consensus.",
+              "is_objective": false,
+              "credibility_assessment": "Medium-High, as it comes from an analyst ('Jim') with specific numerical forecasts that are above consensus."
+            },
+            {
+              "evidence_type": "Product Announcement/Pricing Strategy/Market Share Forecast",
+              "content": "Apple: Per GIR announced the iPhone 17e and M4 iPad Airs, where the most prominent surprises include (a) stable starting price on the iPhone 17e, and (b) 256 GB starting storage for iPhone 17e (v. 128 GB starting iPhone 16e storage). AAPL effectively reduced prices on the iPhone 17e through (a) holding starting iPhone 17e prices flat at $599 (256 GB iPhone 16e models started at $699 last year), and (b) 512 GB iPhone 17e now starting at $799 (v. $899 512 GB iPhone 16e starting price). We believe updates to iPhone 17e and M4 iPad Air should support AAPL's ability to continue growing market share across consumer electronics, particularly amidst industry-wide memory cost pressure.",
+              "is_objective": true,
+              "credibility_assessment": "High for product details and pricing, medium for market share forecast (as it's a belief)."
+            },
+            {
+              "evidence_type": "Financial Guidance/Forecast",
+              "content": "VAT FY26 guidance expects orders, sales, EBITDA, EBITDA margin, net income and FCF to be higher than in 2025. VAT book-to-bill ratio is expected to be substantially above 1 (consensus at 1.05x).",
+              "is_objective": true,
+              "credibility_assessment": "High, as it's direct company guidance on future performance and a key industry metric."
+            },
+            {
+              "evidence_type": "Market Observation/Forecast",
+              "content": "Taiwanese matured foundries Vanguard (5347) and PSMC (6770) are expected to see spillover effects, +VE for short term momentum.",
+              "is_objective": false,
+              "credibility_assessment": "Medium, as it's an analyst's expectation based on a competitor's constraints."
+            },
+            {
+              "evidence_type": "Partnership Announcement/Strategic Initiative",
+              "content": "Vodafone has partnered with Amazon Leo to expand 4G and 5G mobile coverage in remote areas across Europe and Africa. The partnership aims to facilitate easier and cheaper setup of base stations, avoiding costly fiber or fixed wireless links. Amazon Leo's service will also enhance network resilience for emergency and critical online services by providing backup if fiber links are damaged. The rollout will begin in Germany and other European countries, followed by expansion across Africa via Vodacom, with the first mobile sites expected to be connected later this year.",
+              "is_objective": true,
+              "credibility_assessment": "High, as it's a factual announcement of a strategic partnership and its intended benefits."
+            },
+            {
+              "evidence_type": "Acquisition Announcement",
+              "content": "Scout24 closes acquisition of Fotocasa, Habitaclia. Fotocasa is the No. 2 real estate marketplace in Spain, behind Idealista. As part of the deal, Scout24 has also acquired Habitaclia, a regional property site focused on Catalonia and the Balearic Islands",
+              "is_objective": true,
+              "credibility_assessment": "High, as it's a factual announcement of a completed acquisition strengthening market position."
+            },
+            {
+              "evidence_type": "Strategic Outline/Company Presentation",
+              "content": "Draftkings GIR attended DraftKings\u2019 Investor Day 2026, during which the company outlined a forward strategy around several key pillars: a) the announcement of a new super-app strategy centered around DraftKings Sports & Casino; b) highlighted its competitive advantage across product, technology, trust & marketing; c) outlined the prediction markets opportunity (significant TAM expansion + positive/attractive unit economics); & d) provided an updated long-term financial & capital allocation framework.",
+              "is_objective": true,
+              "credibility_assessment": "High, as it reports on a company's official investor day presentation of its strategy and outlook."
+            }
+          ]
+        },
+        {
+          "claim": "The Software sector is showing signs of recovery.",
+          "evidence_list": [
+            {
+              "evidence_type": "Market Observation/Performance Data",
+              "content": "While Software has started to bounce off the lows (Software has o/p the NDX by ~550 bps over 5 days, quietly its best run in >12-months)",
+              "is_objective": true,
+              "credibility_assessment": "High, as it provides specific performance metrics (outperformance against NDX, duration of run)."
+            }
+          ]
+        },
+        {
+          "claim": "Anthropic's Claude AI is maintaining a strong market position and innovating.",
+          "evidence_list": [
+            {
+              "evidence_type": "Market Position/Observation",
+              "content": "Anthropic says Claude had \"elevated errors\" on Monday, though holding at top spot in App Store",
+              "is_objective": true,
+              "credibility_assessment": "High, as it's a verifiable market position."
+            },
+            {
+              "evidence_type": "Product Feature Announcement",
+              "content": "Plus Anthropic Tries to Win Users From ChatGPT With Memory Feature for free users.",
+              "is_objective": true,
+              "credibility_assessment": "High, as it's a factual statement about a new product feature."
+            }
+          ]
+        }
+      ]
+    },
+    "file_Id": "GS TMT SPEC SALES_ Memory profit taking; VAT Q1 guide light; MDB rolls on Q1 guide; Lotto ahead; Disruptive Tech Conference starts today.pdf"
+  },
+  "bearish_analysis": {
+    "bearish_views": [
+      {
+        "company": "N/A",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Asian memory stocks experienced a hard roll-over due to profit taking and geopolitical tensions in the Iran/Middle East region, impacting companies like Samsung, Hynix, Nanya Tech, Winbond, PSMC, and Macronix.",
+        "exact_sentences_in_the_file": "However Asia this morning not shrugging it off and in TMT Asian memory rolled hard over overnight \u2013 Samsung -10%, Hynix -11%, Nanya Tech -10%, Winbond -10%, PSMC ()-10%, Macronix -10%, it feels like unwinding due to Iran/Middle East tension and PROFIT TAKING \u2013 Samsung is up 62% & Hynix 44% even after the fall as memory is one of the MOST Mo' exposed trade to date."
+      },
+      {
+        "company": "N/A",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Concerns are rising about the memory cycle peaking, particularly for NAND, as supply increases and consumer demand wanes, potentially leading to unsustainable prices and margins, compounded by broader AI monetization/funding/credit risks.",
+        "exact_sentences_in_the_file": "We have also seen the debate around the cycle picking up, in particular for NAND, as people worry about peaking when supply kicks in and consumer demand wanes to a point where price & margin simply cannot sustain, adding to the broader worry of monetization/ funding/ credit risk of AI."
+      },
+      {
+        "company": "VAT",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Semiconductor Equipment",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "VAT's Q1 sales guidance is lower than consensus expectations, despite strong orders in Q4 2025, raising questions about the implied book-to-bill ratio and putting pressure on the stock.",
+        "exact_sentences_in_the_file": "VAT under pressureas Q1 guide looks low and the key question for call given the orders seen in 4Q25, will be why is 1Q26 sales guidance relatively low, and what level of book to bill does this imply? ... While 1Q26 sales is guided at CHF240-260mn (vs consensus already above the top end at CHF270mn), but the book-to-bill ratio is expected to be substantially above 1 (consensus at 1.05x)."
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "MongoDB's Atlas segment decelerated in the quarter, the FY total revenue outlook is mixed with slowing Atlas growth, visibility on back-half consumption is limited, and there was a turnover at the CRO position.",
+        "exact_sentences_in_the_file": "Note MDB down -25% AHs (basically back to last Summers\u2019 levels, before that inflection print in August) will again raise debate \u2013 down after Mongo\u2019s Atlas segment decelerated in the qtr (to +29% y/y vs +30% last qtR), offered a more mixed FY Total Revs outlook (FY27 total revenue growth ~17% vs FY26 23% (Atlas slowing to 21\u201323%). Visibility on back-half consumption is limited.) and announced turnover at the CRO position (recall, new CEO last year) .."
+      },
+      {
+        "company": "N/A",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Despite a recent bounce, the consensus view is that the software group is unlikely to rally significantly, making it challenging for investors to fully commit given previous drawdowns.",
+        "exact_sentences_in_the_file": "While Software has started to bounce off the lows (Software has o/p the NDX by ~550 bps over 5 days, quietly its best run in >12-months) .. while the \u2018consensus\u2019 view is that the group can \u201cbounce\u201d, but is unlikely to \u201crally\u201d, hard for investors to not at least comb over the group given the drawdown \u2013 in Europe the only names defended in our flows SAP (one can question whether that will remain given announcement on the board restructure) and RELX."
+      },
+      {
+        "company": "Anthropic",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Software (AI)",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Anthropic's Claude experienced 'elevated errors,' and tensions with the Trump administration are potentially putting $60B of raised capital at risk.",
+        "exact_sentences_in_the_file": "Anthropic says Claude had \"elevated errors\" on Monday, though holding at top spot in App Store \u2013 (while ChatGPT uninstalls surged by 295% after DoD deal). ... Axios flagging that Anthropic tensions with Trump administration are potentially putting $60B of cash raised from VCs at risk\u2026"
+      },
+      {
+        "company": "SAP",
+        "ticker": "SAP",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "The board restructure, with the CEO shifting focus and the CTO stepping down for personal reasons, raises questions about SAP's commitment and aggressive push in AI, potentially impacting its market position.",
+        "exact_sentences_in_the_file": "in Europe the only names defended in our flows SAP (one can question whether that will remain given announcement on the board restructure) ... SAP board restructure \u2013 sees CEO Christian Klein focusing more on A&I & R&D. He is giving running sales that he took on in summer 2024 \u2013 when SAP overhauled the sales strategy. Sales will be run by Thomas Saueressig, (a board member who currently answers for after-sales matters and helping clients to deploy SAP\u2019s software).Board member Muhammad Alam, who leads product and engineering, (seen as CTO and the technical guru on the board and came from MSFT) steps down at ends in March 2027 due to personal reasons \u2013 he is well regarded and do wonder if this is SAP admitting it needs to push hardier on AI."
+      },
+      {
+        "company": "N/A",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Consumer Electronics",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Smartphone shipments are projected to decline by 12.4% YoY in 2026 due to memory shortages, with this adjustment potentially extending into 2027, and significant memory contract price hikes are expected.",
+        "exact_sentences_in_the_file": "Mobile \u2013 last week IDC was IDC warned on mobile and now we Counterpoint saying that smartphone shipment to decline 12.4% YoY in 2026 impacted by memory shortage and the adjustment could last into 2027 while memory spot and contract price gap reaching 40-50% and likely to see contract price hike to narrow the gap while Korea companies already preview Q2 DRAM contract price hike by 40% while NVDA GTC will help drive AI memory momentum."
+      },
+      {
+        "company": "Samsung Electronics",
+        "ticker": "005930",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Samsung Electronics' semiconductor mass production at its Taylor, Texas plant is now projected to be delayed until early next year, from an initial anticipation for this year.",
+        "exact_sentences_in_the_file": "SEC: Samsung Electronics' semiconductor mass production at its Taylor, Texas plant, initially anticipated for this year, is now projected to be delayed until early next year."
+      },
+      {
+        "company": "Tower",
+        "ticker": "N/A",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Tower, a major Israeli semiconductor manufacturer, is facing short-term constraints on product shipment due to geopolitical conflicts.",
+        "exact_sentences_in_the_file": "SEMI: Israeli\u2019s biggest and the 10th largest semiconductor manufacturer in the world Tower is facing short-term constraints on product shipment due to geopolitical conflicts."
+      },
+      {
+        "company": "TalkTalk",
+        "ticker": "N/A",
+        "sector": "Telecommunications",
+        "industry": "Telecommunication Services",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "TalkTalk is a heavily indebted UK broadband provider that has required multiple capital injections, faced significant financial challenges including payment delays to suppliers, and experienced a substantial decline in its retail customer base.",
+        "exact_sentences_in_the_file": "TalkTalk's shareholders and lenders, including Ares Management, will inject an additional \u00a3115 million into the company to bolster its finances. This capital injection, the third since December 2024, aims to support the heavily indebted UK broadband provider as it seeks to sell parts of its business. ... TalkTalk has faced significant financial challenges, including payment delays to suppliers and a decline in its retail customer base from over 2.5 million in 2023 to 1.8 million."
+      }
+    ],
+    "file_Id": "GS TMT SPEC SALES_ Memory profit taking; VAT Q1 guide light; MDB rolls on Q1 guide; Lotto ahead; Disruptive Tech Conference starts today.pdf"
+  },
+  "factual_data": {
+    "facts": [
+      {
+        "company": "Market",
+        "fact_category": "Financials",
+        "fact_summary": "SPX closed up 4bps to 6881.",
+        "is_recent_update": true,
+        "original_sentence": "SPX +4bps to 6881"
+      },
+      {
+        "company": "Market",
+        "fact_category": "Financials",
+        "fact_summary": "NDX closed up 13bps to 24,992.",
+        "is_recent_update": true,
+        "original_sentence": "NDX +13bps to 24,992"
+      },
+      {
+        "company": "Market",
+        "fact_category": "Financials",
+        "fact_summary": "RTY closed up 90bps to 2655.",
+        "is_recent_update": true,
+        "original_sentence": "RTY +90bps to 2655."
+      },
+      {
+        "company": "Market",
+        "fact_category": "Financials",
+        "fact_summary": "4 out of 11 sectors were positive.",
+        "is_recent_update": true,
+        "original_sentence": "(4/11 sectors +ve, Energy +195bps, Consumer Staples -135bps)"
+      },
+      {
+        "company": "Market",
+        "fact_category": "Financials",
+        "fact_summary": "The Energy sector was up 195bps.",
+        "is_recent_update": true,
+        "original_sentence": "Energy +195bps"
+      },
+      {
+        "company": "Market",
+        "fact_category": "Financials",
+        "fact_summary": "The Consumer Staples sector was down 135bps.",
+        "is_recent_update": true,
+        "original_sentence": "Consumer Staples -135bps"
+      },
+      {
+        "company": "Samsung",
+        "fact_category": "Financials",
+        "fact_summary": "Samsung stock was down 10% overnight.",
+        "is_recent_update": true,
+        "original_sentence": "Samsung -10%"
+      },
+      {
+        "company": "Hynix",
+        "fact_category": "Financials",
+        "fact_summary": "Hynix stock was down 11% overnight.",
+        "is_recent_update": true,
+        "original_sentence": "Hynix -11%"
+      },
+      {
+        "company": "Nanya Tech",
+        "fact_category": "Financials",
+        "fact_summary": "Nanya Tech stock was down 10% overnight.",
+        "is_recent_update": true,
+        "original_sentence": "Nanya Tech -10%"
+      },
+      {
+        "company": "Winbond",
+        "fact_category": "Financials",
+        "fact_summary": "Winbond stock was down 10% overnight.",
+        "is_recent_update": true,
+        "original_sentence": "Winbond -10%"
+      },
+      {
+        "company": "PSMC",
+        "fact_category": "Financials",
+        "fact_summary": "PSMC stock was down 10% overnight.",
+        "is_recent_update": true,
+        "original_sentence": "PSMC ()-10%"
+      },
+      {
+        "company": "Macronix",
+        "fact_category": "Financials",
+        "fact_summary": "Macronix stock was down 10% overnight.",
+        "is_recent_update": true,
+        "original_sentence": "Macronix -10%"
+      },
+      {
+        "company": "Samsung",
+        "fact_category": "Financials",
+        "fact_summary": "Samsung stock was up 62% even after the recent fall.",
+        "is_recent_update": false,
+        "original_sentence": "Samsung is up 62% & Hynix 44% even after the fall"
+      },
+      {
+        "company": "Hynix",
+        "fact_category": "Financials",
+        "fact_summary": "Hynix stock was up 44% even after the recent fall.",
+        "is_recent_update": false,
+        "original_sentence": "Samsung is up 62% & Hynix 44% even after the fall"
+      },
+      {
+        "company": "VAT",
+        "fact_category": "Financials",
+        "fact_summary": "VAT's Q1 guide looks low.",
+        "is_recent_update": true,
+        "original_sentence": "VAT under pressureas Q1 guide looks low"
+      },
+      {
+        "company": "VAT",
+        "fact_category": "Financials",
+        "fact_summary": "VAT's stock was down more than 10% on tradegate.",
+        "is_recent_update": true,
+        "original_sentence": "tradegate has it down >10%"
+      },
+      {
+        "company": "MDB",
+        "fact_category": "Financials",
+        "fact_summary": "MDB stock was down 25% after hours.",
+        "is_recent_update": true,
+        "original_sentence": "Note MDB down -25% AHs"
+      },
+      {
+        "company": "Mongo",
+        "fact_category": "Financials",
+        "fact_summary": "Mongo\u2019s Atlas segment decelerated to +29% year-over-year in the quarter.",
+        "is_recent_update": true,
+        "original_sentence": "Mongo\u2019s Atlas segment decelerated in the qtr (to +29% y/y vs +30% last qtR)"
+      },
+      {
+        "company": "Mongo",
+        "fact_category": "Financials",
+        "fact_summary": "Mongo\u2019s Atlas segment grew +30% last quarter.",
+        "is_recent_update": false,
+        "original_sentence": "Mongo\u2019s Atlas segment decelerated in the qtr (to +29% y/y vs +30% last qtR)"
+      },
+      {
+        "company": "Mongo",
+        "fact_category": "Financials",
+        "fact_summary": "Mongo's FY27 total revenue growth outlook is ~17%.",
+        "is_recent_update": true,
+        "original_sentence": "FY27 total revenue growth ~17% vs FY26 23%"
+      },
+      {
+        "company": "Mongo",
+        "fact_category": "Financials",
+        "fact_summary": "Mongo's FY26 total revenue growth was 23%.",
+        "is_recent_update": false,
+        "original_sentence": "FY27 total revenue growth ~17% vs FY26 23%"
+      },
+      {
+        "company": "Mongo",
+        "fact_category": "Financials",
+        "fact_summary": "Mongo's Atlas segment is slowing to 21\u201323%.",
+        "is_recent_update": true,
+        "original_sentence": "Atlas slowing to 21\u201323%"
+      },
+      {
+        "company": "Mongo",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Mongo announced turnover at the CRO position.",
+        "is_recent_update": true,
+        "original_sentence": "announced turnover at the CRO position"
+      },
+      {
+        "company": "Mongo",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Mongo had a new CEO last year.",
+        "is_recent_update": false,
+        "original_sentence": "recall, new CEO last year"
+      },
+      {
+        "company": "Lottomatica",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Lottomatica is requesting buyback authorisation for up to 12.5% of share capital.",
+        "is_recent_update": true,
+        "original_sentence": "requesting buyback authorisation for up to 12.5% of share capital."
+      },
+      {
+        "company": "Nvidia",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Nvidia announced it will invest $2bn in Lumentum.",
+        "is_recent_update": true,
+        "original_sentence": "Nvidia announced it will invest $2bn apiece in Lumentum (stock +7%) and Coherent (+13%)."
+      },
+      {
+        "company": "Nvidia",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Nvidia announced it will invest $2bn in Coherent.",
+        "is_recent_update": true,
+        "original_sentence": "Nvidia announced it will invest $2bn apiece in Lumentum (stock +7%) and Coherent (+13%)."
+      },
+      {
+        "company": "Lumentum",
+        "fact_category": "Financials",
+        "fact_summary": "Lumentum stock was up 7% yesterday.",
+        "is_recent_update": true,
+        "original_sentence": "Lumentum (stock +7%)"
+      },
+      {
+        "company": "Coherent",
+        "fact_category": "Financials",
+        "fact_summary": "Coherent stock was up 13% yesterday.",
+        "is_recent_update": true,
+        "original_sentence": "Coherent (+13%)."
+      },
+      {
+        "company": "Nvidia, Lumentum, Coherent",
+        "fact_category": "Corporate Action",
+        "fact_summary": "The deals include purchase agreements and access rights for advanced laser components.",
+        "is_recent_update": true,
+        "original_sentence": "Deals include purchase agreements and access rights for advanced laser components"
+      },
+      {
+        "company": "Nvidia, Lumentum, Coherent",
+        "fact_category": "Corporate Action",
+        "fact_summary": "The investments are intended to support research, development, and the expansion of US-based manufacturing capabilities for advanced optics.",
+        "is_recent_update": true,
+        "original_sentence": "and are intended to support research, development, and the expansion of US-based manufacturing capabilities for advanced optics, which are critical for high-speed data transmission in AI data centers."
+      },
+      {
+        "company": "Technology",
+        "fact_category": "Product",
+        "fact_summary": "Advanced optics are critical for high-speed data transmission in AI data centers.",
+        "is_recent_update": false,
+        "original_sentence": "advanced optics, which are critical for high-speed data transmission in AI data centers."
+      },
+      {
+        "company": "AIXA GY",
+        "fact_category": "Financials",
+        "fact_summary": "AIXA GY has 30% of its sales from optical exposure.",
+        "is_recent_update": false,
+        "original_sentence": "AIXA GY (30% of sales)"
+      },
+      {
+        "company": "HLMA",
+        "fact_category": "Financials",
+        "fact_summary": "HLMA has 20% of its sales from optical exposure.",
+        "is_recent_update": false,
+        "original_sentence": "HLMA (20%)"
+      },
+      {
+        "company": "BESI",
+        "fact_category": "Financials",
+        "fact_summary": "BESI has 10% of its sales from optical exposure.",
+        "is_recent_update": false,
+        "original_sentence": "BESI (10%)"
+      },
+      {
+        "company": "Soitec",
+        "fact_category": "Financials",
+        "fact_summary": "Soitec has 5% of its sales from optical exposure.",
+        "is_recent_update": false,
+        "original_sentence": "Soitec (5%)."
+      },
+      {
+        "company": "Anthropic",
+        "fact_category": "Product",
+        "fact_summary": "Anthropic's Claude had 'elevated errors' on Monday.",
+        "is_recent_update": true,
+        "original_sentence": "Anthropic says Claude had \"elevated errors\" on Monday"
+      },
+      {
+        "company": "Anthropic",
+        "fact_category": "Product",
+        "fact_summary": "Anthropic's Claude is holding the top spot in the App Store.",
+        "is_recent_update": true,
+        "original_sentence": "holding at top spot in App Store"
+      },
+      {
+        "company": "ChatGPT",
+        "fact_category": "Product",
+        "fact_summary": "ChatGPT uninstalls surged by 295% after a DoD deal.",
+        "is_recent_update": true,
+        "original_sentence": "ChatGPT uninstalls surged by 295% after DoD deal"
+      },
+      {
+        "company": "Anthropic",
+        "fact_category": "Product",
+        "fact_summary": "Anthropic introduced a Memory Feature for free users.",
+        "is_recent_update": true,
+        "original_sentence": "Anthropic Tries to Win Users From ChatGPT With Memory Feature for free users."
+      },
+      {
+        "company": "Anthropic",
+        "fact_category": "Financials",
+        "fact_summary": "Anthropic raised $60B of cash from VCs.",
+        "is_recent_update": false,
+        "original_sentence": "potentially putting $60B of cash raised from VCs at risk"
+      },
+      {
+        "company": "Event",
+        "fact_category": "Corporate Action",
+        "fact_summary": "The Disruptive Tech Conference starts today and runs tomorrow in London.",
+        "is_recent_update": true,
+        "original_sentence": "Disruptive Tech Conference here in London today and tomorrow"
+      },
+      {
+        "company": "ElevenLabs",
+        "fact_category": "Financials",
+        "fact_summary": "ElevenLabs had an $11bn valuation at its last raise.",
+        "is_recent_update": false,
+        "original_sentence": "ElevenLabs - $11bn valuation at last raise."
+      },
+      {
+        "company": "Synthesia",
+        "fact_category": "Financials",
+        "fact_summary": "Synthesia had a $4bn valuation at its last raise.",
+        "is_recent_update": false,
+        "original_sentence": "Synthesia - $4bn last raise"
+      },
+      {
+        "company": "Quantum Systems",
+        "fact_category": "Product",
+        "fact_summary": "Quantum Systems is a German drone manufacturer.",
+        "is_recent_update": false,
+        "original_sentence": "Quantum Systems \u2013 German drone manufacturer"
+      },
+      {
+        "company": "Quantum Systems",
+        "fact_category": "Financials",
+        "fact_summary": "Quantum Systems had a $3bn valuation at its last raise.",
+        "is_recent_update": false,
+        "original_sentence": "Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+      },
+      {
+        "company": "Harmattan AI",
+        "fact_category": "Product",
+        "fact_summary": "Harmattan AI develops French drone hardware and software.",
+        "is_recent_update": false,
+        "original_sentence": "Harmattan AI \u2013 French drone hardware and software."
+      },
+      {
+        "company": "Quantexa Ltd",
+        "fact_category": "Product",
+        "fact_summary": "Quantexa Ltd is a Fintech company.",
+        "is_recent_update": false,
+        "original_sentence": "Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence."
+      },
+      {
+        "company": "Exein",
+        "fact_category": "Product",
+        "fact_summary": "Exein embeds security into device firmware.",
+        "is_recent_update": false,
+        "original_sentence": "Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d."
+      },
+      {
+        "company": "CausaLens",
+        "fact_category": "Product",
+        "fact_summary": "CausaLens offers a no-code causal AI platform.",
+        "is_recent_update": false,
+        "original_sentence": "CausaLens \u2013 no code causal AI platform."
+      },
+      {
+        "company": "Synthesia",
+        "fact_category": "Product",
+        "fact_summary": "Synthesia is an AI video generation platform.",
+        "is_recent_update": false,
+        "original_sentence": "Synthesia - $4bn last raise, AI video generation platform."
+      },
+      {
+        "company": "ElevenLabs",
+        "fact_category": "Product",
+        "fact_summary": "ElevenLabs develops voice agents.",
+        "is_recent_update": false,
+        "original_sentence": "Voice agents replacing call centres."
+      },
+      {
+        "company": "Legora",
+        "fact_category": "Product",
+        "fact_summary": "Legora provides legal services software.",
+        "is_recent_update": false,
+        "original_sentence": "Legal services:"
+      },
+      {
+        "company": "Luminance",
+        "fact_category": "Product",
+        "fact_summary": "Luminance provides legal services software.",
+        "is_recent_update": false,
+        "original_sentence": "Luminance \u2013 legal services similar to Legora."
+      },
+      {
+        "company": "PhysicsX",
+        "fact_category": "Product",
+        "fact_summary": "PhysicsX uses AI to disrupt manufacturing practices.",
+        "is_recent_update": false,
+        "original_sentence": "PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices."
+      },
+      {
+        "company": "Teleperformance",
+        "fact_category": "Analyst Rating",
+        "fact_summary": "Teleperformance was cut to Reduce at AlphaValue/Baader.",
+        "is_recent_update": true,
+        "original_sentence": "Teleperformance Cut to Reduce at AlphaValue/Baader"
+      },
+      {
+        "company": "Delivery Hero",
+        "fact_category": "Analyst Rating",
+        "fact_summary": "Delivery Hero was raised to Neutral at Citi.",
+        "is_recent_update": true,
+        "original_sentence": "Delivery Hero Raised to Neutral at Citi."
+      },
+      {
+        "company": "VAT",
+        "fact_category": "Financials",
+        "fact_summary": "VAT's EBITDA margin came in at 30%.",
+        "is_recent_update": true,
+        "original_sentence": "the EBITDA margin came in at 30%"
+      },
+      {
+        "company": "VAT",
+        "fact_category": "Financials",
+        "fact_summary": "VAT's EBITDA margin was in line with prior guidance.",
+        "is_recent_update": true,
+        "original_sentence": "in line with prior guidance"
+      },
+      {
+        "company": "VAT",
+        "fact_category": "Financials",
+        "fact_summary": "VAT's 1Q26 sales is guided at CHF240-260mn.",
+        "is_recent_update": true,
+        "original_sentence": "1Q26 sales is guided at CHF240-260mn"
+      },
+      {
+        "company": "VAT",
+        "fact_category": "Financials",
+        "fact_summary": "Consensus for VAT's 1Q26 sales is CHF270mn.",
+        "is_recent_update": true,
+        "original_sentence": "consensus already above the top end at CHF270mn"
+      },
+      {
+        "company": "VAT",
+        "fact_category": "Financials",
+        "fact_summary": "VAT's book-to-bill ratio is expected to be substantially above 1.",
+        "is_recent_update": true,
+        "original_sentence": "the book-to-bill ratio is expected to be substantially above 1"
+      },
+      {
+        "company": "VAT",
+        "fact_category": "Financials",
+        "fact_summary": "Consensus for VAT's book-to-bill ratio is 1.05x.",
+        "is_recent_update": true,
+        "original_sentence": "consensus at 1.05x"
+      },
+      {
+        "company": "SAP",
+        "fact_category": "Corporate Action",
+        "fact_summary": "SAP CEO Christian Klein will focus more on A&I & R&D.",
+        "is_recent_update": true,
+        "original_sentence": "sees CEO Christian Klein focusing more on A&I & R&D."
+      },
+      {
+        "company": "SAP",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Christian Klein took on running sales in summer 2024.",
+        "is_recent_update": false,
+        "original_sentence": "He is giving running sales that he took on in summer 2024"
+      },
+      {
+        "company": "SAP",
+        "fact_category": "Corporate Action",
+        "fact_summary": "SAP overhauled its sales strategy in summer 2024.",
+        "is_recent_update": false,
+        "original_sentence": "when SAP overhauled the sales strategy."
+      },
+      {
+        "company": "SAP",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Sales at SAP will be run by Thomas Saueressig.",
+        "is_recent_update": true,
+        "original_sentence": "Sales will be run by Thomas Saueressig"
+      },
+      {
+        "company": "SAP",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Thomas Saueressig is a SAP board member.",
+        "is_recent_update": false,
+        "original_sentence": "Thomas Saueressig, (a board member who currently answers for after-sales matters and helping clients to deploy SAP\u2019s software)"
+      },
+      {
+        "company": "SAP",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Thomas Saueressig currently handles after-sales matters and client deployment of SAP software.",
+        "is_recent_update": false,
+        "original_sentence": "Thomas Saueressig, (a board member who currently answers for after-sales matters and helping clients to deploy SAP\u2019s software)"
+      },
+      {
+        "company": "SAP",
+        "fact_category": "Corporate Action",
+        "fact_summary": "SAP board member Muhammad Alam will step down at the end of March 2027.",
+        "is_recent_update": true,
+        "original_sentence": "Board member Muhammad Alam, who leads product and engineering, ... steps down at ends in March 2027 due to personal reasons"
+      },
+      {
+        "company": "SAP",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Muhammad Alam leads product and engineering at SAP.",
+        "is_recent_update": false,
+        "original_sentence": "Muhammad Alam, who leads product and engineering"
+      },
+      {
+        "company": "SAP",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Muhammad Alam came from Microsoft.",
+        "is_recent_update": false,
+        "original_sentence": "came from MSFT"
+      },
+      {
+        "company": "Apple",
+        "fact_category": "Product",
+        "fact_summary": "Apple announced the iPhone 17e and M4 iPad Airs.",
+        "is_recent_update": true,
+        "original_sentence": "Apple: Per GIR announced the iPhone 17e and M4 iPad Airs"
+      },
+      {
+        "company": "Apple",
+        "fact_category": "Product",
+        "fact_summary": "The iPhone 17e has a stable starting price.",
+        "is_recent_update": true,
+        "original_sentence": "stable starting price on the iPhone 17e"
+      },
+      {
+        "company": "Apple",
+        "fact_category": "Product",
+        "fact_summary": "The iPhone 17e has 256 GB starting storage.",
+        "is_recent_update": true,
+        "original_sentence": "256 GB starting storage for iPhone 17e"
+      },
+      {
+        "company": "Apple",
+        "fact_category": "Product",
+        "fact_summary": "The iPhone 16e had 128 GB starting storage.",
+        "is_recent_update": false,
+        "original_sentence": "128 GB starting iPhone 16e storage"
+      },
+      {
+        "company": "Apple",
+        "fact_category": "Product",
+        "fact_summary": "The starting price for the 256 GB iPhone 17e is $599.",
+        "is_recent_update": true,
+        "original_sentence": "holding starting iPhone 17e prices flat at $599 (256 GB iPhone 16e models started at $699 last year)"
+      },
+      {
+        "company": "Apple",
+        "fact_category": "Product",
+        "fact_summary": "The 256 GB iPhone 16e models started at $699 last year.",
+        "is_recent_update": false,
+        "original_sentence": "256 GB iPhone 16e models started at $699 last year"
+      },
+      {
+        "company": "Apple",
+        "fact_category": "Product",
+        "fact_summary": "The 512 GB iPhone 17e now starts at $799.",
+        "is_recent_update": true,
+        "original_sentence": "512 GB iPhone 17e now starting at $799"
+      },
+      {
+        "company": "Apple",
+        "fact_category": "Product",
+        "fact_summary": "The 512 GB iPhone 16e starting price was $899.",
+        "is_recent_update": false,
+        "original_sentence": "$899 512 GB iPhone 16e starting price"
+      },
+      {
+        "company": "Counterpoint",
+        "fact_category": "Market Trend",
+        "fact_summary": "Counterpoint predicts smartphone shipment to decline 12.4% YoY in 2026.",
+        "is_recent_update": true,
+        "original_sentence": "Counterpoint saying that smartphone shipment to decline 12.4% YoY in 2026"
+      },
+      {
+        "company": "Market",
+        "fact_category": "Financials",
+        "fact_summary": "The memory spot and contract price gap is reaching 40-50%.",
+        "is_recent_update": true,
+        "original_sentence": "memory spot and contract price gap reaching 40-50%"
+      },
+      {
+        "company": "Korean companies",
+        "fact_category": "Financials",
+        "fact_summary": "Korean companies already previewed a Q2 DRAM contract price hike by 40%.",
+        "is_recent_update": true,
+        "original_sentence": "Korea companies already preview Q2 DRAM contract price hike by 40%"
+      },
+      {
+        "company": "Micron",
+        "fact_category": "Financials",
+        "fact_summary": "Street consensus for Micron's revenue/GM/EPS for the quarter is $19.0 bn/68.6%/$8.59.",
+        "is_recent_update": true,
+        "original_sentence": "the Street at $19.0 bn/68.6%/$8.59."
+      },
+      {
+        "company": "Micron",
+        "fact_category": "Financials",
+        "fact_summary": "Street consensus for Micron's May quarter guidance revenue/GM/EPS is $21.6 bn/70.9%/$10.08.",
+        "is_recent_update": true,
+        "original_sentence": "the Street at $21.6 bn/70.9%/$10.08."
+      },
+      {
+        "company": "Samsung Electronics",
+        "fact_category": "Operations",
+        "fact_summary": "Samsung Electronics' semiconductor mass production at its Taylor, Texas plant is projected to be delayed until early next year.",
+        "is_recent_update": true,
+        "original_sentence": "Samsung Electronics' semiconductor mass production at its Taylor, Texas plant, initially anticipated for this year, is now projected to be delayed until early next year."
+      },
+      {
+        "company": "Samsung Electronics",
+        "fact_category": "Operations",
+        "fact_summary": "Samsung Electronics' semiconductor mass production at its Taylor, Texas plant was initially anticipated for this year.",
+        "is_recent_update": false,
+        "original_sentence": "initially anticipated for this year"
+      },
+      {
+        "company": "NVIDIA",
+        "fact_category": "Product",
+        "fact_summary": "NVIDIA is poised to unveil its next-generation AI chips, including the \"Feynman\" architecture, at GTC 2026 this month.",
+        "is_recent_update": true,
+        "original_sentence": "NVIDIA is poised to unveil its next-generation AI chips, including the \"Feynman\" architecture, at GTC 2026 this month"
+      },
+      {
+        "company": "Samsung Electronics, SK Hynix",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Samsung Electronics and SK Hynix are expected to continue their high-bandwidth memory (HBM) collaboration.",
+        "is_recent_update": true,
+        "original_sentence": "Samsung Electronics and SK Hynix expected to continue their high-bandwidth memory (HBM) collaboration."
+      },
+      {
+        "company": "Tower",
+        "fact_category": "Market Share",
+        "fact_summary": "Tower is Israel's biggest semiconductor manufacturer.",
+        "is_recent_update": false,
+        "original_sentence": "Israeli\u2019s biggest and the 10th largest semiconductor manufacturer in the world Tower"
+      },
+      {
+        "company": "Tower",
+        "fact_category": "Market Share",
+        "fact_summary": "Tower is the 10th largest semiconductor manufacturer in the world.",
+        "is_recent_update": false,
+        "original_sentence": "the 10th largest semiconductor manufacturer in the world Tower"
+      },
+      {
+        "company": "Tower",
+        "fact_category": "Operations",
+        "fact_summary": "Tower is facing short-term constraints on product shipment due to geopolitical conflicts.",
+        "is_recent_update": true,
+        "original_sentence": "Tower is facing short-term constraints on product shipment due to geopolitical conflicts."
+      },
+      {
+        "company": "TalkTalk",
+        "fact_category": "Financials",
+        "fact_summary": "TalkTalk's shareholders and lenders, including Ares Management, will inject an additional \u00a3115 million into the company.",
+        "is_recent_update": true,
+        "original_sentence": "TalkTalk's shareholders and lenders, including Ares Management, will inject an additional \u00a3115 million into the company to bolster its finances."
+      },
+      {
+        "company": "TalkTalk",
+        "fact_category": "Financials",
+        "fact_summary": "This capital injection is the third since December 2024.",
+        "is_recent_update": true,
+        "original_sentence": "This capital injection, the third since December 2024"
+      },
+      {
+        "company": "TalkTalk",
+        "fact_category": "Market Share",
+        "fact_summary": "TalkTalk's retail customer base declined from over 2.5 million in 2023 to 1.8 million.",
+        "is_recent_update": false,
+        "original_sentence": "a decline in its retail customer base from over 2.5 million in 2023 to 1.8 million."
+      },
+      {
+        "company": "TalkTalk",
+        "fact_category": "Market Share",
+        "fact_summary": "TalkTalk's retail customer base is 1.8 million.",
+        "is_recent_update": true,
+        "original_sentence": "a decline in its retail customer base from over 2.5 million in 2023 to 1.8 million."
+      },
+      {
+        "company": "Telef\u00f3nica",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Murtra of Telef\u00f3nica advocated for European digital autonomy and the creation of a \"European WhatsApp\" at MWC.",
+        "is_recent_update": true,
+        "original_sentence": "Murtra (Telef\u00f3nica) during his speech at MWC, advocates for European digital autonomy and the creation of a \"European WhatsApp\" for secure messaging."
+      },
+      {
+        "company": "Vodafone, Amazon Leo",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Vodafone has partnered with Amazon Leo to expand 4G and 5G mobile coverage in remote areas across Europe and Africa.",
+        "is_recent_update": true,
+        "original_sentence": "Vodafone has partnered with Amazon Leo to expand 4G and 5G mobile coverage in remote areas across Europe and Africa."
+      },
+      {
+        "company": "Vodacom, Starlink",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Vodacom signed a deal to use Starlink late 2025.",
+        "is_recent_update": false,
+        "original_sentence": "Vodacom late 2025 signed a deal to use Starlink"
+      },
+      {
+        "company": "Scout24",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Scout24 closed the acquisition of Fotocasa and Habitaclia.",
+        "is_recent_update": true,
+        "original_sentence": "Scout24 closes acquisition of Fotocasa, Habitaclia."
+      },
+      {
+        "company": "Fotocasa",
+        "fact_category": "Market Share",
+        "fact_summary": "Fotocasa is the No. 2 real estate marketplace in Spain, behind Idealista.",
+        "is_recent_update": false,
+        "original_sentence": "Fotocasa is the No. 2 real estate marketplace in Spain, behind Idealista."
+      },
+      {
+        "company": "Habitaclia",
+        "fact_category": "Product",
+        "fact_summary": "Habitaclia is a regional property site focused on Catalonia and the Balearic Islands.",
+        "is_recent_update": false,
+        "original_sentence": "Habitaclia, a regional property site focused on Catalonia and the Balearic Islands"
+      },
+      {
+        "company": "Lottomatica",
+        "fact_category": "Financials",
+        "fact_summary": "Lottomatica's Q4 revenues were inline.",
+        "is_recent_update": true,
+        "original_sentence": "Q4 revenues inline"
+      },
+      {
+        "company": "Lottomatica",
+        "fact_category": "Financials",
+        "fact_summary": "Lottomatica's Q4 EBIT was 4% ahead.",
+        "is_recent_update": true,
+        "original_sentence": "EBIT 4% ahead"
+      },
+      {
+        "company": "Lottomatica",
+        "fact_category": "Financials",
+        "fact_summary": "Lottomatica's Q4 DPS was 7% ahead.",
+        "is_recent_update": true,
+        "original_sentence": "DPS 7% ahead."
+      },
+      {
+        "company": "Lottomatica",
+        "fact_category": "Financials",
+        "fact_summary": "Lottomatica's FY26 revenue guidance is EU2.39 to EU2.46bn.",
+        "is_recent_update": true,
+        "original_sentence": "Its given FY 26 guidance of revenue EU2.39 to EU2.46nm"
+      },
+      {
+        "company": "Lottomatica",
+        "fact_category": "Financials",
+        "fact_summary": "Street consensus for Lottomatica's FY26 revenue is EU2.44bn.",
+        "is_recent_update": true,
+        "original_sentence": "street at EU2.44"
+      },
+      {
+        "company": "Lottomatica",
+        "fact_category": "Financials",
+        "fact_summary": "Lottomatica's FY26 adjusted EBITDA guidance is EU940 to EU980m.",
+        "is_recent_update": true,
+        "original_sentence": "adjusted EBITDA EU940 to EU980m"
+      },
+      {
+        "company": "Lottomatica",
+        "fact_category": "Financials",
+        "fact_summary": "Street consensus for Lottomatica's FY26 adjusted EBITDA is EU954m.",
+        "is_recent_update": true,
+        "original_sentence": "street EU954m."
+      },
+      {
+        "company": "Lottomatica",
+        "fact_category": "Market Share",
+        "fact_summary": "Lottomatica\u2019s market share in iGaming was 31.9%.",
+        "is_recent_update": true,
+        "original_sentence": "Lottomatica\u2019s market share was strong in iGaming at 31.9% (vs. 3Q25: 30.6%)"
+      },
+      {
+        "company": "Lottomatica",
+        "fact_category": "Market Share",
+        "fact_summary": "Lottomatica\u2019s market share in iGaming was 30.6% in 3Q25.",
+        "is_recent_update": false,
+        "original_sentence": "3Q25: 30.6%"
+      },
+      {
+        "company": "Lottomatica",
+        "fact_category": "Market Share",
+        "fact_summary": "Lottomatica\u2019s market share for iSports was 31.6%.",
+        "is_recent_update": true,
+        "original_sentence": "iSports at 31.6% (vs. 3Q25: 32.7%)."
+      },
+      {
+        "company": "Lottomatica",
+        "fact_category": "Market Share",
+        "fact_summary": "Lottomatica\u2019s market share for iSports was 32.7% in 3Q25.",
+        "is_recent_update": false,
+        "original_sentence": "3Q25: 32.7%"
+      },
+      {
+        "company": "Lottomatica",
+        "fact_category": "Market Share",
+        "fact_summary": "Lottomatica's Total Online market share was up +0.4pp year-over-year.",
+        "is_recent_update": true,
+        "original_sentence": "Total Online market share was up +0.4pp yoy"
+      },
+      {
+        "company": "Market",
+        "fact_category": "Market Event",
+        "fact_summary": "New Online concessions in Italy came into effect in mid-November.",
+        "is_recent_update": false,
+        "original_sentence": "new Online concessions in Italy coming into effect in mid-November"
+      },
+      {
+        "company": "Lottomatica",
+        "fact_category": "Market Share",
+        "fact_summary": "Lottomatica's PWO market share improved to 6.3% in 4Q25.",
+        "is_recent_update": true,
+        "original_sentence": "PWO market share improved to 6.3% in 4Q25"
+      },
+      {
+        "company": "DraftKings",
+        "fact_category": "Product",
+        "fact_summary": "DraftKings announced a new super-app strategy centered around DraftKings Sports & Casino.",
+        "is_recent_update": true,
+        "original_sentence": "the announcement of a new super-app strategy centered around DraftKings Sports & Casino"
+      },
+      {
+        "company": "DraftKings",
+        "fact_category": "Financials",
+        "fact_summary": "DraftKings provided an updated long-term financial & capital allocation framework.",
+        "is_recent_update": true,
+        "original_sentence": "provided an updated long-term financial & capital allocation framework."
+      },
+      {
+        "company": "Market",
+        "fact_category": "Financials",
+        "fact_summary": "The floor finished +240bps to buy.",
+        "is_recent_update": true,
+        "original_sentence": "Our floor finished +240bps to buy"
+      },
+      {
+        "company": "Market",
+        "fact_category": "Financials",
+        "fact_summary": "The 30-day average for the floor was -21bps.",
+        "is_recent_update": false,
+        "original_sentence": "a 30-day avg of -21bps."
+      },
+      {
+        "company": "Market",
+        "fact_category": "Financials",
+        "fact_summary": "Hedge Funds finished +$1.5b net buyers.",
+        "is_recent_update": true,
+        "original_sentence": "HFs finished +$1.5b net buyers"
+      },
+      {
+        "company": "Market",
+        "fact_category": "Financials",
+        "fact_summary": "ETF % of tape spiked to ~40%.",
+        "is_recent_update": true,
+        "original_sentence": "ETF % of tape spiking to ~40%"
+      },
+      {
+        "company": "Market",
+        "fact_category": "Financials",
+        "fact_summary": "ETF % of tape was back to Apr 2025 highs.",
+        "is_recent_update": false,
+        "original_sentence": "back to Apr 2025 highs"
+      },
+      {
+        "company": "MDB",
+        "fact_category": "Financials",
+        "fact_summary": "MDB was down 20% after hours.",
+        "is_recent_update": true,
+        "original_sentence": "MDB -20% AHs"
+      },
+      {
+        "company": "Event",
+        "fact_category": "Corporate Action",
+        "fact_summary": "The Disruptive Technology Symposium is scheduled for March 3-4 in London with the agenda now available.",
+        "is_recent_update": true,
+        "original_sentence": "Disruptive Technology Symposium | 3-4 Mar | London | Conference | Agenda Now Available"
+      },
+      {
+        "company": "Orange",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Orange had corporate access events on Feb 20 (Paris, Virtual) and Feb 23 (London).",
+        "is_recent_update": true,
+        "original_sentence": "Orange [ORAN PA] | 20 Feb (Paris, Virtual), 23 Feb (London) | CEO, CFO, IR"
+      },
+      {
+        "company": "Waystar Holding",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Waystar Holding had a virtual corporate access event on Feb 23.",
+        "is_recent_update": true,
+        "original_sentence": "Waystar Holding [WAY] | 23 Feb | Virtual | CEO, CFO"
+      },
+      {
+        "company": "Event",
+        "fact_category": "Corporate Action",
+        "fact_summary": "The European Technology Conference was held on Feb 24-25 in London.",
+        "is_recent_update": true,
+        "original_sentence": "European Technology Conference | 24-25 Feb | London | Conference | Next W eek"
+      },
+      {
+        "company": "Microsoft",
+        "fact_category": "Corporate Action",
+        "fact_summary": "A group meeting with Mark Monroe, former Datacenter Advanced Development at Microsoft, was held virtually on Feb 26.",
+        "is_recent_update": true,
+        "original_sentence": "Group Meeting with Former Datacenter Advanced Development at Microsoft | 26 Feb | Virtual | Data centre Advanced Development at Microsoft, Mark Monroe | Expert Call"
+      },
+      {
+        "company": "Hoya",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Hoya had a virtual IR event on March 2.",
+        "is_recent_update": true,
+        "original_sentence": "Hoya [7741 JP] | 2 Mar | Virtual | IR"
+      },
+      {
+        "company": "Ebara",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Ebara has a virtual IR event scheduled for March 4.",
+        "is_recent_update": true,
+        "original_sentence": "Ebara [6361 JP] | 4 Mar | Virtual | IR"
+      },
+      {
+        "company": "DNA plc, ELISA, Finnish Ministry of Finance and Communication, Norwegian Communications Authority, Swedish Post and Telecom Authority, TEL2B, TEL, TELIA, Finnish Transport and Communications Agency - Traficom",
+        "fact_category": "Corporate Action",
+        "fact_summary": "A Nordics Telecoms Fieldtrip is scheduled for March 4 (Helsinki), March 5 (Stockholm), March 6 (Oslo), and March 9 (Virtual).",
+        "is_recent_update": true,
+        "original_sentence": "Nordics Telecoms Fieldtrip [DNA plc, ELISA, Finnish Ministry of Finance and Communication, Norwegian Communications Authority, Swedish Post and Telecom Authority, TEL2B, TEL, TELIA, Finnish Transport and Communications Agency - Traficom] | 4 Mar (Helsinki), 5 Mar (Stockholm), 6 Mar (Oslo), 9 Mar (Virtual) | Field Trip"
+      },
+      {
+        "company": "Flywire Corp",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Flywire Corp has a corporate access event scheduled for March 5 in London.",
+        "is_recent_update": true,
+        "original_sentence": "Flywire Corp [FLYW] | 5 Mar | London | CEO, IR"
+      },
+      {
+        "company": "Wisetech Global",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Wisetech Global has a corporate access event scheduled for March 9-10 in London.",
+        "is_recent_update": true,
+        "original_sentence": "Wisetech Global [WTC AX] | 9-10 Mar | London | CEO, Interim CFO, IR"
+      },
+      {
+        "company": "Auto1 Group",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Auto1 Group has corporate access events scheduled for March 10 (Boston) and March 11 (New York).",
+        "is_recent_update": true,
+        "original_sentence": "Auto1 Group [AG1 GY] | 10 Mar (Boston), 11 Mar (New York) | CFO, IR"
+      },
+      {
+        "company": "SCREEN Holdings",
+        "fact_category": "Corporate Action",
+        "fact_summary": "SCREEN Holdings has a virtual IR event scheduled for March 13.",
+        "is_recent_update": true,
+        "original_sentence": "SCREEN Holdings [7735 JP] | 13 Mar | Virtual | IR"
+      },
+      {
+        "company": "Stroeer",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Stroeer has corporate access events scheduled for March 16 (Paris) and March 17 (London).",
+        "is_recent_update": true,
+        "original_sentence": "Stroeer [SAXG DE] | 16 Mar (Paris), 17 Mar (London) | CFO, IR | New"
+      },
+      {
+        "company": "International Business Machines Corp",
+        "fact_category": "Corporate Action",
+        "fact_summary": "IBM has corporate access events scheduled for March 16 (Paris) and March 17-18 (London).",
+        "is_recent_update": true,
+        "original_sentence": "International Business Machines Corp [IBM] | 16 Mar (Paris), 17-18 Mar (London)) | SVP & Chair of IBM EMEA & Growth Markets, IR"
+      },
+      {
+        "company": "Fujikura",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Fujikura has a virtual call scheduled for March 17.",
+        "is_recent_update": true,
+        "original_sentence": "Era of Optics Call Series - Fujikura [5803 JP] | 17 Mar | Virtual | CEO, CFO, Corporate Officer"
+      },
+      {
+        "company": "Nebius Group NV",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Nebius Group NV has a corporate access event scheduled for March 17 in San Jose, CA.",
+        "is_recent_update": true,
+        "original_sentence": "Nebius Group NV [NBIS] | 17 Mar | San Jose, CA | CEO, COO, IR"
+      },
+      {
+        "company": "Springer Nature AG",
+        "fact_category": "Corporate Action",
+        "fact_summary": "Springer Nature AG has corporate access events scheduled for March 18-19 (London) and March 20 (Virtual).",
+        "is_recent_update": true,
+        "original_sentence": "Springer Nature AG [SPGG DE] | 18-19 Mar (London), 20 Mar (Virtual) | CEO, CFO, IR | New"
+      },
+      {
+        "company": "Event",
+        "fact_category": "Corporate Action",
+        "fact_summary": "The Infrastructure Conference is scheduled for May 20 in London.",
+        "is_recent_update": true,
+        "original_sentence": "Infrastructure Conference | 20 May | London | Conference | Save the Date"
+      },
+      {
+        "company": "ASML",
+        "fact_category": "Corporate Action",
+        "fact_summary": "An ASML HQ Visit is scheduled for May 26 in Veldhoven.",
+        "is_recent_update": true,
+        "original_sentence": "ASML HQ Visit [ASML AS] | 26 May | Veldhoven | Field Trip | New"
+      },
+      {
+        "company": "Event",
+        "fact_category": "Corporate Action",
+        "fact_summary": "The Private Company Software & Internet Conference is scheduled for April 8-9 in San Francisco.",
+        "is_recent_update": true,
+        "original_sentence": "Private Company Software & Internet Conference | 8-9 Apr | San Francisco | TMT | Save the Date"
+      },
+      {
+        "company": "Event",
+        "fact_category": "Corporate Action",
+        "fact_summary": "The Communacopia and Technology Conference is scheduled for September 8-11 in San Francisco.",
+        "is_recent_update": true,
+        "original_sentence": "Communacopia and Technology Conference | 8-11 Sep | San Francisco | TMT | Save the Date"
+      }
+    ],
+    "file_Id": "GS TMT SPEC SALES_ Memory profit taking; VAT Q1 guide light; MDB rolls on Q1 guide; Lotto ahead; Disruptive Tech Conference starts today.pdf"
+  },
+  "relationship_mapping": {
+    "relationships": [
+      {
+        "source_company": "Samsung",
+        "target_company": "Hynix",
+        "ticker": "Hynix",
+        "relationship_type": "Peer",
+        "relationship_description": "Asian memory company",
+        "quantifier": "",
+        "original_sentence": "Asian memory rolled hard over overnight \u2013 Samsung -10%, Hynix -11%, Nanya Tech -10%, Winbond -10%, PSMC ()-10%, Macronix -10%"
+      },
+      {
+        "source_company": "Samsung",
+        "target_company": "Nanya Tech",
+        "ticker": "Nanya Tech",
+        "relationship_type": "Peer",
+        "relationship_description": "Asian memory company",
+        "quantifier": "",
+        "original_sentence": "Asian memory rolled hard over overnight \u2013 Samsung -10%, Hynix -11%, Nanya Tech -10%, Winbond -10%, PSMC ()-10%, Macronix -10%"
+      },
+      {
+        "source_company": "Samsung",
+        "target_company": "Winbond",
+        "ticker": "Winbond",
+        "relationship_type": "Peer",
+        "relationship_description": "Asian memory company",
+        "quantifier": "",
+        "original_sentence": "Asian memory rolled hard over overnight \u2013 Samsung -10%, Hynix -11%, Nanya Tech -10%, Winbond -10%, PSMC ()-10%, Macronix -10%"
+      },
+      {
+        "source_company": "Samsung",
+        "target_company": "PSMC",
+        "ticker": "PSMC",
+        "relationship_type": "Peer",
+        "relationship_description": "Asian memory company",
+        "quantifier": "",
+        "original_sentence": "Asian memory rolled hard over overnight \u2013 Samsung -10%, Hynix -11%, Nanya Tech -10%, Winbond -10%, PSMC ()-10%, Macronix -10%"
+      },
+      {
+        "source_company": "Samsung",
+        "target_company": "Macronix",
+        "ticker": "Macronix",
+        "relationship_type": "Peer",
+        "relationship_description": "Asian memory company",
+        "quantifier": "",
+        "original_sentence": "Asian memory rolled hard over overnight \u2013 Samsung -10%, Hynix -11%, Nanya Tech -10%, Winbond -10%, PSMC ()-10%, Macronix -10%"
+      },
+      {
+        "source_company": "SAP",
+        "target_company": "RELX",
+        "ticker": "RELX",
+        "relationship_type": "Peer",
+        "relationship_description": "European software company",
+        "quantifier": "",
+        "original_sentence": "in Europe the only names defended in our flows SAP (one can question whether that will remain given announcement on the board restructure) and RELX."
+      },
+      {
+        "source_company": "Nvidia",
+        "target_company": "Lumentum",
+        "ticker": "Lumentum",
+        "relationship_type": "Partner",
+        "relationship_description": "Nvidia investing in and purchasing components from Lumentum",
+        "quantifier": "$2bn apiece",
+        "original_sentence": "Nvidia announced it will invest $2bn apiece in Lumentum (stock +7%) and Coherent (+13%). Deals include purchase agreements and access rights for advanced laser components and are intended to support research, development, and the expansion of US-based manufacturing capabilities for advanced optics, which are critical for high-speed data transmission in AI data centers."
+      },
+      {
+        "source_company": "Nvidia",
+        "target_company": "Coherent",
+        "ticker": "Coherent",
+        "relationship_type": "Partner",
+        "relationship_description": "Nvidia investing in and purchasing components from Coherent",
+        "quantifier": "$2bn apiece",
+        "original_sentence": "Nvidia announced it will invest $2bn apiece in Lumentum (stock +7%) and Coherent (+13%). Deals include purchase agreements and access rights for advanced laser components and are intended to support research, development, and the expansion of US-based manufacturing capabilities for advanced optics, which are critical for high-speed data transmission in AI data centers."
+      },
+      {
+        "source_company": "AIXA GY",
+        "target_company": "HLMA",
+        "ticker": "HLMA",
+        "relationship_type": "Peer",
+        "relationship_description": "European company with optical exposure",
+        "quantifier": "",
+        "original_sentence": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+      },
+      {
+        "source_company": "AIXA GY",
+        "target_company": "BESI",
+        "ticker": "BESI",
+        "relationship_type": "Peer",
+        "relationship_description": "European company with optical exposure",
+        "quantifier": "",
+        "original_sentence": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+      },
+      {
+        "source_company": "AIXA GY",
+        "target_company": "Soitec",
+        "ticker": "Soitec",
+        "relationship_type": "Peer",
+        "relationship_description": "European company with optical exposure",
+        "quantifier": "",
+        "original_sentence": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+      },
+      {
+        "source_company": "AIXA GY",
+        "target_company": "Nokia",
+        "ticker": "Nokia",
+        "relationship_type": "Peer",
+        "relationship_description": "European company with optical exposure",
+        "quantifier": "beneficiary to a lesser extent",
+        "original_sentence": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+      },
+      {
+        "source_company": "AIXA GY",
+        "target_company": "Huber + Suhner",
+        "ticker": "Huber + Suhner",
+        "relationship_type": "Peer",
+        "relationship_description": "European company with optical exposure",
+        "quantifier": "beneficiary to a lesser extent",
+        "original_sentence": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+      },
+      {
+        "source_company": "Anthropic",
+        "target_company": "ChatGPT",
+        "ticker": "ChatGPT",
+        "relationship_type": "Competitor",
+        "relationship_description": "Anthropic tries to win users from ChatGPT",
+        "quantifier": "",
+        "original_sentence": "Plus Anthropic Tries to Win Users From ChatGPT With Memory Feature for free users."
+      },
+      {
+        "source_company": "ElevenLabs",
+        "target_company": "Legora",
+        "ticker": "Legora",
+        "relationship_type": "Peer",
+        "relationship_description": "AI startup",
+        "quantifier": "",
+        "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+      },
+      {
+        "source_company": "ElevenLabs",
+        "target_company": "PhysicsX",
+        "ticker": "PhysicsX",
+        "relationship_type": "Peer",
+        "relationship_description": "AI startup",
+        "quantifier": "",
+        "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+      },
+      {
+        "source_company": "ElevenLabs",
+        "target_company": "Luminance",
+        "ticker": "Luminance",
+        "relationship_type": "Peer",
+        "relationship_description": "AI startup",
+        "quantifier": "",
+        "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+      },
+      {
+        "source_company": "ElevenLabs",
+        "target_company": "Synthesia",
+        "ticker": "Synthesia",
+        "relationship_type": "Peer",
+        "relationship_description": "AI startup",
+        "quantifier": "",
+        "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+      },
+      {
+        "source_company": "ElevenLabs",
+        "target_company": "CausaLens",
+        "ticker": "CausaLens",
+        "relationship_type": "Peer",
+        "relationship_description": "AI startup",
+        "quantifier": "",
+        "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+      },
+      {
+        "source_company": "ElevenLabs",
+        "target_company": "Exein",
+        "ticker": "Exein",
+        "relationship_type": "Peer",
+        "relationship_description": "AI startup",
+        "quantifier": "",
+        "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+      },
+      {
+        "source_company": "ElevenLabs",
+        "target_company": "Harmattan AI",
+        "ticker": "Harmattan AI",
+        "relationship_type": "Peer",
+        "relationship_description": "AI startup",
+        "quantifier": "",
+        "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+      },
+      {
+        "source_company": "ElevenLabs",
+        "target_company": "Quantexa Ltd",
+        "ticker": "Quantexa Ltd",
+        "relationship_type": "Peer",
+        "relationship_description": "AI startup",
+        "quantifier": "",
+        "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+      },
+      {
+        "source_company": "ElevenLabs",
+        "target_company": "Quantum Systems",
+        "ticker": "Quantum Systems",
+        "relationship_type": "Peer",
+        "relationship_description": "AI startup",
+        "quantifier": "",
+        "original_sentence": "The Top 10 most requested companies are: ElevenLabs - $11bn valuation at last raise. Voice agents replacing call centres. Legora \u2013 central to the specialised software debate \u2013 Legal services: Post Claude 2 weeks ago will be interesting. PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices. This is the one I have had the most requests for feedback for post. Luminance \u2013 legal services similar to Legora. Synthesia - $4bn last raise, AI video generation platform. CausaLens \u2013 no code causal AI platform. Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d. Harmattan AI \u2013 French drone hardware and software. Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence. Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+      },
+      {
+        "source_company": "Luminance",
+        "target_company": "Legora",
+        "ticker": "Legora",
+        "relationship_type": "Peer",
+        "relationship_description": "Legal services AI startup, similar to Legora",
+        "quantifier": "",
+        "original_sentence": "Luminance \u2013 legal services similar to Legora."
+      },
+      {
+        "source_company": "NVIDIA",
+        "target_company": "Samsung Electronics",
+        "ticker": "005930",
+        "relationship_type": "Partner",
+        "relationship_description": "Collaboration on high-bandwidth memory (HBM)",
+        "quantifier": "",
+        "original_sentence": "NVIDIA is poised to unveil its next-generation AI chips, including the \"Feynman\" architecture, at GTC 2026 this month, with Samsung Electronics and SK Hynix expected to continue their high-bandwidth memory (HBM) collaboration."
+      },
+      {
+        "source_company": "NVIDIA",
+        "target_company": "SK Hynix",
+        "ticker": "SK Hynix",
+        "relationship_type": "Partner",
+        "relationship_description": "Collaboration on high-bandwidth memory (HBM)",
+        "quantifier": "",
+        "original_sentence": "NVIDIA is poised to unveil its next-generation AI chips, including the \"Feynman\" architecture, at GTC 2026 this month, with Samsung Electronics and SK Hynix expected to continue their high-bandwidth memory (HBM) collaboration."
+      },
+      {
+        "source_company": "Tower",
+        "target_company": "Vanguard",
+        "ticker": "5347",
+        "relationship_type": "Competitor",
+        "relationship_description": "Vanguard expected to see spillover effects from Tower's product shipment constraints",
+        "quantifier": "",
+        "original_sentence": "Israeli\u2019s biggest and the 10th largest semiconductor manufacturer in the world Tower is facing short-term constraints on product shipment due to geopolitical conflicts. Taiwanese matured foundries Vanguard (5347) and PSMC (6770) are expected to see spillover effects, +VE for short term momentum."
+      },
+      {
+        "source_company": "Tower",
+        "target_company": "PSMC",
+        "ticker": "6770",
+        "relationship_type": "Competitor",
+        "relationship_description": "PSMC expected to see spillover effects from Tower's product shipment constraints",
+        "quantifier": "",
+        "original_sentence": "Israeli\u2019s biggest and the 10th largest semiconductor manufacturer in the world Tower is facing short-term constraints on product shipment due to geopolitical conflicts. Taiwanese matured foundries Vanguard (5347) and PSMC (6770) are expected to see spillover effects, +VE for short term momentum."
+      },
+      {
+        "source_company": "Virgin Media O2",
+        "target_company": "TalkTalk",
+        "ticker": "TalkTalk",
+        "relationship_type": "Competitor",
+        "relationship_description": "Considering acquiring TalkTalk's consumer division",
+        "quantifier": "",
+        "original_sentence": "Potential buyers are exploring acquisitions: Virgin Media O2 is considering the consumer division, while private equity funds and Octopus Investments are interested in the business unit"
+      },
+      {
+        "source_company": "Octopus Investments",
+        "target_company": "TalkTalk",
+        "ticker": "TalkTalk",
+        "relationship_type": "Competitor",
+        "relationship_description": "Interested in acquiring TalkTalk's business unit",
+        "quantifier": "",
+        "original_sentence": "Potential buyers are exploring acquisitions: Virgin Media O2 is considering the consumer division, while private equity funds and Octopus Investments are interested in the business unit"
+      },
+      {
+        "source_company": "Vodafone",
+        "target_company": "Amazon Leo",
+        "ticker": "Amazon Leo",
+        "relationship_type": "Partner",
+        "relationship_description": "Partnered to expand 4G and 5G mobile coverage",
+        "quantifier": "",
+        "original_sentence": "Vodafone has partnered with Amazon Leo to expand 4G and 5G mobile coverage in remote areas across Europe and Africa."
+      },
+      {
+        "source_company": "Vodacom",
+        "target_company": "Starlink",
+        "ticker": "Starlink",
+        "relationship_type": "Customer",
+        "relationship_description": "Signed a deal to use Starlink",
+        "quantifier": "",
+        "original_sentence": "Vodacom late 2025 signed a deal to use Starlink."
+      },
+      {
+        "source_company": "Scout24",
+        "target_company": "Fotocasa",
+        "ticker": "Fotocasa",
+        "relationship_type": "Partner",
+        "relationship_description": "Acquired Fotocasa",
+        "quantifier": "",
+        "original_sentence": "Scout24 closes acquisition of Fotocasa, Habitaclia."
+      },
+      {
+        "source_company": "Scout24",
+        "target_company": "Habitaclia",
+        "ticker": "Habitaclia",
+        "relationship_type": "Partner",
+        "relationship_description": "Acquired Habitaclia",
+        "quantifier": "",
+        "original_sentence": "Scout24 closes acquisition of Fotocasa, Habitaclia."
+      },
+      {
+        "source_company": "Fotocasa",
+        "target_company": "Idealista",
+        "ticker": "Idealista",
+        "relationship_type": "Competitor",
+        "relationship_description": "Fotocasa is the No. 2 real estate marketplace behind Idealista",
+        "quantifier": "No. 2",
+        "original_sentence": "Fotocasa is the No. 2 real estate marketplace in Spain, behind Idealista."
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "Waystar Holding",
+        "ticker": "WAY",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "Orange [ORAN PA] | 20 Feb (Paris, Virtual), 23 Feb (London) | CEO, CFO, IR Waystar Holding [WAY] | 23 Feb | Virtual | CEO, CFO"
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "Hoya",
+        "ticker": "7741 JP",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "Hoya [7741 JP] | 2 Mar | Virtual | IR"
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "Ebara",
+        "ticker": "6361 JP",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "Ebara [6361 JP] | 4 Mar | Virtual | IR"
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "DNA plc",
+        "ticker": "DNA plc",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "Nordics Telecoms Fieldtrip [DNA plc, ELISA, Finnish Ministry of Finance and Communication, Norwegian Communications Authority, Swedish Post and Telecom Authority, TEL2B, TEL, TELIA, Finnish Transport and Communications Agency - Traficom] | 4 Mar (Helsinki), 5 Mar (Stockholm), 6 Mar (Oslo), 9 Mar (Virtual) | Field Trip"
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "ELISA",
+        "ticker": "ELISA",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "Nordics Telecoms Fieldtrip [DNA plc, ELISA, Finnish Ministry of Finance and Communication, Norwegian Communications Authority, Swedish Post and Telecom Authority, TEL2B, TEL, TELIA, Finnish Transport and Communications Agency - Traficom] | 4 Mar (Helsinki), 5 Mar (Stockholm), 6 Mar (Oslo), 9 Mar (Virtual) | Field Trip"
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "TEL2B",
+        "ticker": "TEL2B",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "Nordics Telecoms Fieldtrip [DNA plc, ELISA, Finnish Ministry of Finance and Communication, Norwegian Communications Authority, Swedish Post and Telecom Authority, TEL2B, TEL, TELIA, Finnish Transport and Communications Agency - Traficom] | 4 Mar (Helsinki), 5 Mar (Stockholm), 6 Mar (Oslo), 9 Mar (Virtual) | Field Trip"
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "TEL",
+        "ticker": "TEL",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "Nordics Telecoms Fieldtrip [DNA plc, ELISA, Finnish Ministry of Finance and Communication, Norwegian Communications Authority, Swedish Post and Telecom Authority, TEL2B, TEL, TELIA, Finnish Transport and Communications Agency - Traficom] | 4 Mar (Helsinki), 5 Mar (Stockholm), 6 Mar (Oslo), 9 Mar (Virtual) | Field Trip"
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "TELIA",
+        "ticker": "TELIA",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "Nordics Telecoms Fieldtrip [DNA plc, ELISA, Finnish Ministry of Finance and Communication, Norwegian Communications Authority, Swedish Post and Telecom Authority, TEL2B, TEL, TELIA, Finnish Transport and Communications Agency - Traficom] | 4 Mar (Helsinki), 5 Mar (Stockholm), 6 Mar (Oslo), 9 Mar (Virtual) | Field Trip"
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "Flywire Corp",
+        "ticker": "FLYW",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "Flywire Corp [FLYW] | 5 Mar | London | CEO, IR"
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "Wisetech Global",
+        "ticker": "WTC AX",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "Wisetech Global [WTC AX] | 9-10 Mar | London | CEO, Interim CFO, IR"
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "Auto1 Group",
+        "ticker": "AG1 GY",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "Auto1 Group [AG1 GY] | 10 Mar (Boston), 11 Mar (New York) | CFO, IR"
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "SCREEN Holdings",
+        "ticker": "7735 JP",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "SCREEN Holdings [7735 JP] | 13 Mar | Virtual | IR"
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "Stroeer",
+        "ticker": "SAXG DE",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "Stroeer [SAXG DE] | 16 Mar (Paris), 17 Mar (London) | CFO, IR | New"
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "International Business Machines Corp",
+        "ticker": "IBM",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "International Business Machines Corp [IBM] | 16 Mar (Paris), 17-18 Mar (London)) | SVP & Chair of IBM EMEA & Growth Markets, IR"
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "Fujikura",
+        "ticker": "5803 JP",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "Era of Optics Call Series - Fujikura [5803 JP] | 17 Mar | Virtual | CEO, CFO, Corporate Officer"
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "Nebius Group NV",
+        "ticker": "NBIS",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "Nebius Group NV [NBIS] | 17 Mar | San Jose, CA | CEO, COO, IR"
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "Springer Nature AG",
+        "ticker": "SPGG DE",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "Springer Nature AG [SPGG DE] | 18-19 Mar (London), 20 Mar (Virtual) | CEO, CFO, IR | New"
+      },
+      {
+        "source_company": "Orange",
+        "target_company": "ASML",
+        "ticker": "ASML AS",
+        "relationship_type": "Peer",
+        "relationship_description": "Company attending TMT conference/field trip",
+        "quantifier": "",
+        "original_sentence": "ASML HQ Visit [ASML AS] | 26 May | Veldhoven | Field Trip | New"
+      }
+    ],
+    "file_Id": "GS TMT SPEC SALES_ Memory profit taking; VAT Q1 guide light; MDB rolls on Q1 guide; Lotto ahead; Disruptive Tech Conference starts today.pdf"
+  }
+}

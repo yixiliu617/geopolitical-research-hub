@@ -1,0 +1,59 @@
+{
+  "bullish_views": [
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2026-02-27",
+      "bullish_debate_point": "Intuit's 2QFY26 results exceeded Street expectations across key financial metrics.",
+      "exact_sentences_in_the_file": "Revenue was 2.6% above, operating margin was ~250bps ahead, and EPS 13% above (FactSet). Within the GBS segment, QBO was 0.8% above and Online Services was 1.3% above. Within Consumer, CK was 8.1% above."
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2026-02-27",
+      "bullish_debate_point": "Intuit is effectively leveraging AI to enhance customer experience and possesses strong competitive moats.",
+      "exact_sentences_in_the_file": "Intuit directly addressed the ongoing market debate around its terminal value and detailed several ways it is leveraging AI to drive better customer experience. Intuit underscored domain expertise, their platform approach, and regulation/financial risk as moats. Intuit\u2019s platform leverages proprietary data, network effects (100m+ customers), domain-specific AI capabilities, and AI-powered human intelligence - with the key vision being AI and human intelligence working together."
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2026-02-27",
+      "bullish_debate_point": "AI-powered agents are seeing significant customer adoption and delivering measurable benefits.",
+      "exact_sentences_in_the_file": "3 mn customers have leveraged agents to do work for them, with an 85% repeat engagement rate. Management noted new AI-enabled QBO features like auto reconciliation, routing, and weather, some of which leverage outside LLMs, to save business owners time. On the tax side, 80% of customers are using automated data entry and their new cost basis agent lowers taxable income by $12,000. Credit Karma\u2019s Refund, Debt, and Tax Assistants aim to deliver done-for-you experiences, while Cards Optimizer and Credit Spark aim to promote engagement throughout the year."
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2026-02-27",
+      "bullish_debate_point": "Intuit is successfully expanding its mid-market presence with attractive unit economics and increased accountant influence.",
+      "exact_sentences_in_the_file": "Intuit continues to see attractive unit economics and are expanding their mid-market sales capacity by nearly 30%. QBO Advanced and IES grew 40%. Intuit signed partnerships with several top 20 accounting firms in 2Q, which coupled with new wholesale billing capabilites drove 1/3 of new contracts influence by accountant recommendations in 2Q vs. ~20% in 1Q."
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2026-02-27",
+      "bullish_debate_point": "TurboTax is gaining market share and the assisted tax segment is showing strong growth despite industry-wide declines in IRS returns.",
+      "exact_sentences_in_the_file": "Through Feb 6th, IRS returns were -5% y/y while TT revenue was +12% y/y; we expect to get more granular data at the Investor Day but management noted assisted was strong and CK continues to drive accelerating tax growth. TT has seen 5.1mn unique visitors to landing pages through 2/6 vs. 4.2mn in 2025, most of which are prior year assisted prospects."
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2026-02-27",
+      "bullish_debate_point": "Intuit is projected to achieve strong and consistent financial growth across key metrics, with a significant price target upside indicating valuation support.",
+      "exact_sentences_in_the_file": "at current valuations it may be possible to arrive at a level of valuation support even when discounting part of the tax business. INTU 12m Price Target: $519.00 Price: $394.42 Upside: 31.6%."
+    }
+  ],
+  "file_Id": "Intuit Inc. (INTU)_ Agent adoption and continued tax share gain will be key to proving out the moat.pdf"
+}

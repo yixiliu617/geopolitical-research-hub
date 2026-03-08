@@ -1,0 +1,491 @@
+{
+  "relationships": [
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Goldman Sachs",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Goldman Sachs Research provides estimates and coverage for MongoDB, and Goldman Sachs does and seeks to do business with companies covered in its research reports.",
+      "quantifier": "N/A",
+      "original_sentence": "Source: Company data, Goldman Sachs Research estimates."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Customers",
+      "ticker": "N/A",
+      "relationship_type": "Customer",
+      "relationship_description": "Larger enterprises are standardizing with strategic multi-year EA commitments and growing higher-for-longer.",
+      "quantifier": "larger enterprises",
+      "original_sentence": "The drivers: healthy Atlas consumption trends as more strategic workloads from larger enterprises grow higher-for-longer and customers standardize with strategic multi-year EA commitments."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Atlas customers",
+      "ticker": "N/A",
+      "relationship_type": "Customer",
+      "relationship_description": "MongoDB gained +2500 new Atlas customers and serves over 60K+ Atlas customers.",
+      "quantifier": "+2500 new Atlas customers, 60K+ Atlas customers",
+      "original_sentence": "New logo activity stood out again with +2500 new Atlas customers (stable vs. F2Q) and well-above the +1800 baseline over the past three years, underscoring a strengthening PLG motion that could benefit further as MongoDB\u2019s incremental Bay Area investments in developer awareness mature and MongoDB\u2019s AI capabilities make their way to Community Edition."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "AWS",
+      "ticker": "AMZN",
+      "relationship_type": "Partner/Competitor",
+      "relationship_description": "AWS is a cloud platform provider for Atlas and was MongoDB's North America Partner of the Year in 2024, but also poses competitive pressure with native database offerings.",
+      "quantifier": "North America Partner of the Year in 2024",
+      "original_sentence": "Co-sell and marketplace momentum underscore this trajectory - MongoDB was AWS\u2019s North America Partner of the Year in 2024 and Microsoft\u2019s in 2025 - and the SSPL license (2018) continues to discourage direct reselling of the latest code."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Azure",
+      "ticker": "MSFT",
+      "relationship_type": "Partner/Competitor",
+      "relationship_description": "Azure is a cloud platform provider for Atlas and Microsoft\u2019s Partner of the Year in 2025, but also poses competitive pressure with native database offerings.",
+      "quantifier": "Partner of the Year in 2025",
+      "original_sentence": "Co-sell and marketplace momentum underscore this trajectory - MongoDB was AWS\u2019s North America Partner of the Year in 2024 and Microsoft\u2019s in 2025 - and the SSPL license (2018) continues to discourage direct reselling of the latest code."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "GCP",
+      "ticker": "GOOGL",
+      "relationship_type": "Partner/Competitor",
+      "relationship_description": "GCP is a cloud platform provider for Atlas, but also poses competitive pressure with native database offerings.",
+      "quantifier": "N/A",
+      "original_sentence": "Atlas - the fully-managed, multi-cloud service across AWS, Azure, and GCP - has become the core monetization driver."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Postgres",
+      "ticker": "N/A",
+      "relationship_type": "Competitor",
+      "relationship_description": "Postgres is an alternative database technology that competes with MongoDB for certain workloads, and its broader standardization could impact MongoDB\u2019s win rates.",
+      "quantifier": "N/A",
+      "original_sentence": "We see Postgres and MongoDB both gaining share in their respective lanes, not primarily from each other."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Snowflake Inc.",
+      "ticker": "SNOW",
+      "relationship_type": "Peer/Competitor",
+      "relationship_description": "Snowflake is a data platform company and a peer in MongoDB's software coverage universe; its acquisition of Crunchy Data validates Postgres's strategic importance, which is an alternative to MongoDB.",
+      "quantifier": "N/A",
+      "original_sentence": "Snowflake\u2019s purchase of Crunchy Data and Databricks\u2019 acquisition of Neon further validate the market perception of Postgres as a strategic anchor for transactional and AI workloads."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Crunchy Data",
+      "ticker": "N/A",
+      "relationship_type": "Indirect Competitor",
+      "relationship_description": "Crunchy Data, acquired by Snowflake, is related to Postgres, an alternative database technology.",
+      "quantifier": "N/A",
+      "original_sentence": "Snowflake\u2019s purchase of Crunchy Data and Databricks\u2019 acquisition of Neon further validate the market perception of Postgres as a strategic anchor for transactional and AI workloads."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Databricks",
+      "ticker": "N/A",
+      "relationship_type": "Peer/Competitor",
+      "relationship_description": "Databricks is a data platform company that acquired Neon, validating Postgres's strategic importance, which is an alternative to MongoDB.",
+      "quantifier": "N/A",
+      "original_sentence": "Snowflake\u2019s purchase of Crunchy Data and Databricks\u2019 acquisition of Neon further validate the market perception of Postgres as a strategic anchor for transactional and AI workloads."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Neon",
+      "ticker": "N/A",
+      "relationship_type": "Indirect Competitor",
+      "relationship_description": "Neon, acquired by Databricks, is related to Postgres, an alternative database technology.",
+      "quantifier": "N/A",
+      "original_sentence": "Snowflake\u2019s purchase of Crunchy Data and Databricks\u2019 acquisition of Neon further validate the market perception of Postgres as a strategic anchor for transactional and AI workloads."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Hyperscalers",
+      "ticker": "N/A",
+      "relationship_type": "Partner/Competitor",
+      "relationship_description": "Hyperscalers are both MongoDB\u2019s most important partners (providing cloud platforms) and most capable competitors (bundling native databases and AI services).",
+      "quantifier": "most important partners and its most capable competitors",
+      "original_sentence": "Hyperscalers are both MongoDB\u2019s most important partners and its most capable competitors."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Couchbase",
+      "ticker": "BASE",
+      "relationship_type": "Competitor",
+      "relationship_description": "Couchbase is a database vendor that hit a growth wall, contrasting with MongoDB's growth.",
+      "quantifier": "N/A",
+      "original_sentence": "While many database vendors hit a growth wall (Couchbase, MarkLogic, Datastax) and consolidated, MongoDB has reached critical mass as a pure-play OLTP platform due to its innovation cadence and developer affinity and, in our view, is positioned to improve its share of net new workloads over time as it leans into enterprise accounts, multi-cloud neutrality, and an integrated feature set that reduces the number of systems teams need to run."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "MarkLogic",
+      "ticker": "N/A",
+      "relationship_type": "Competitor",
+      "relationship_description": "MarkLogic is a database vendor that hit a growth wall, contrasting with MongoDB's growth.",
+      "quantifier": "N/A",
+      "original_sentence": "While many database vendors hit a growth wall (Couchbase, MarkLogic, Datastax) and consolidated, MongoDB has reached critical mass as a pure-play OLTP platform due to its innovation cadence and developer affinity and, in our view, is positioned to improve its share of net new workloads over time as it leans into enterprise accounts, multi-cloud neutrality, and an integrated feature set that reduces the number of systems teams need to run."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Datastax",
+      "ticker": "N/A",
+      "relationship_type": "Competitor",
+      "relationship_description": "Datastax is a database vendor that hit a growth wall, contrasting with MongoDB's growth.",
+      "quantifier": "N/A",
+      "original_sentence": "While many database vendors hit a growth wall (Couchbase, MarkLogic, Datastax) and consolidated, MongoDB has reached critical mass as a pure-play OLTP platform due to its innovation cadence and developer affinity and, in our view, is positioned to improve its share of net new workloads over time as it leans into enterprise accounts, multi-cloud neutrality, and an integrated feature set that reduces the number of systems teams need to run."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Voyage AI",
+      "ticker": "N/A",
+      "relationship_type": "Acquired Company",
+      "relationship_description": "MongoDB acquired Voyage AI in Feb. 2025 to integrate embedding and reranking models.",
+      "quantifier": "N/A",
+      "original_sentence": "The Feb. 2025 Voyage AI acquisition tightens this loop."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Startups",
+      "ticker": "N/A",
+      "relationship_type": "Customer",
+      "relationship_description": "Roughly 8,000 startups are building on the MongoDB platform.",
+      "quantifier": "roughly 8,000 startups",
+      "original_sentence": "MongoDB has roughly 8,000 startups building on the platform (as of Aug. 2025), 200K new developer registrations monthly and 30% of Atlas ARR is generated from customers with at least one AI use case."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "LangChain",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "LangChain is a major ecosystem player partnering with MongoDB to help customers.",
+      "quantifier": "N/A",
+      "original_sentence": "We see MongoDB\u2019s broader emphasis on expanding its partner set with major ecosystem players \u2013 LangChain, Galileo, Temporal, Vercel, Anthropic, Cohere \u2013 helping customers shorten time-to-production by pairing the platform with critical tools and services in the AI value chain."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Galileo",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Galileo is a major ecosystem player partnering with MongoDB to help customers.",
+      "quantifier": "N/A",
+      "original_sentence": "We see MongoDB\u2019s broader emphasis on expanding its partner set with major ecosystem players \u2013 LangChain, Galileo, Temporal, Vercel, Anthropic, Cohere \u2013 helping customers shorten time-to-production by pairing the platform with critical tools and services in the AI value chain."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Temporal",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Temporal is a major ecosystem player partnering with MongoDB to help customers.",
+      "quantifier": "N/A",
+      "original_sentence": "We see MongoDB\u2019s broader emphasis on expanding its partner set with major ecosystem players \u2013 LangChain, Galileo, Temporal, Vercel, Anthropic, Cohere \u2013 helping customers shorten time-to-production by pairing the platform with critical tools and services in the AI value chain."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Vercel",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Vercel is a major ecosystem player partnering with MongoDB to help customers.",
+      "quantifier": "N/A",
+      "original_sentence": "We see MongoDB\u2019s broader emphasis on expanding its partner set with major ecosystem players \u2013 LangChain, Galileo, Temporal, Vercel, Anthropic, Cohere \u2013 helping customers shorten time-to-production by pairing the platform with critical tools and services in the AI value chain."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Anthropic",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Anthropic is a major ecosystem player partnering with MongoDB to help customers.",
+      "quantifier": "N/A",
+      "original_sentence": "We see MongoDB\u2019s broader emphasis on expanding its partner set with major ecosystem players \u2013 LangChain, Galileo, Temporal, Vercel, Anthropic, Cohere \u2013 helping customers shorten time-to-production by pairing the platform with critical tools and services in the AI value chain."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Cohere",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Cohere is a major ecosystem player partnering with MongoDB to help customers.",
+      "quantifier": "N/A",
+      "original_sentence": "We see MongoDB\u2019s broader emphasis on expanding its partner set with major ecosystem players \u2013 LangChain, Galileo, Temporal, Vercel, Anthropic, Cohere \u2013 helping customers shorten time-to-production by pairing the platform with critical tools and services in the AI value chain."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Oracle Corp.",
+      "ticker": "ORCL",
+      "relationship_type": "Competitor/Peer",
+      "relationship_description": "Oracle is a relational database incumbent and Hyperscaler, posing competitive pressure, and is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "Key downside risks include: 1) Increased competitive pressure from relational database incumbents, particularly from Hyperscalers like Oracle, Microsoft, AWS, and GCP"
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Adobe Inc.",
+      "ticker": "ADBE",
+      "relationship_type": "Peer",
+      "relationship_description": "Adobe Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Atlassian Corp.",
+      "ticker": "TEAM",
+      "relationship_type": "Peer",
+      "relationship_description": "Atlassian Corp. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Autodesk Inc.",
+      "ticker": "ADSK",
+      "relationship_type": "Peer",
+      "relationship_description": "Autodesk Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Bentley Systems Inc.",
+      "ticker": "BSY",
+      "relationship_type": "Peer",
+      "relationship_description": "Bentley Systems Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Confluent Inc.",
+      "ticker": "CFLT",
+      "relationship_type": "Peer",
+      "relationship_description": "Confluent Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "CoreWeave Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "CoreWeave Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Datadog Inc.",
+      "ticker": "DDOG",
+      "relationship_type": "Peer",
+      "relationship_description": "Datadog Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Definitive Healthcare Corp.",
+      "ticker": "DH",
+      "relationship_type": "Peer",
+      "relationship_description": "Definitive Healthcare Corp. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Dropbox Inc.",
+      "ticker": "DBX",
+      "relationship_type": "Peer",
+      "relationship_description": "Dropbox Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Dynatrace Inc.",
+      "ticker": "DT",
+      "relationship_type": "Peer",
+      "relationship_description": "Dynatrace Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Elastic NV",
+      "ticker": "ESTC",
+      "relationship_type": "Peer",
+      "relationship_description": "Elastic NV is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Figma Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Figma Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "GitLab Inc.",
+      "ticker": "GTLB",
+      "relationship_type": "Peer",
+      "relationship_description": "GitLab Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Intuit Inc.",
+      "ticker": "INTU",
+      "relationship_type": "Peer",
+      "relationship_description": "Intuit Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Monday.Com Ltd.",
+      "ticker": "MNDY",
+      "relationship_type": "Peer",
+      "relationship_description": "Monday.Com Ltd. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Navan Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "Navan Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Nutanix Inc.",
+      "ticker": "NTNX",
+      "relationship_type": "Peer",
+      "relationship_description": "Nutanix Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "PagerDuty",
+      "ticker": "PD",
+      "relationship_type": "Peer",
+      "relationship_description": "PagerDuty is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Procore Technologies Inc.",
+      "ticker": "PCOR",
+      "relationship_type": "Peer",
+      "relationship_description": "Procore Technologies Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "RingCentral",
+      "ticker": "RNG",
+      "relationship_type": "Peer",
+      "relationship_description": "RingCentral is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Rubrik Inc.",
+      "ticker": "RBRK",
+      "relationship_type": "Peer",
+      "relationship_description": "Rubrik Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Salesforce Inc.",
+      "ticker": "CRM",
+      "relationship_type": "Peer",
+      "relationship_description": "Salesforce Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Samsara Inc.",
+      "ticker": "IOT",
+      "relationship_type": "Peer",
+      "relationship_description": "Samsara Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "ServiceNow Inc.",
+      "ticker": "NOW",
+      "relationship_type": "Peer",
+      "relationship_description": "ServiceNow Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "ServiceTitan Inc.",
+      "ticker": "N/A",
+      "relationship_type": "Peer",
+      "relationship_description": "ServiceTitan Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Twilio",
+      "ticker": "TWLO",
+      "relationship_type": "Peer",
+      "relationship_description": "Twilio is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Weave Communications Inc.",
+      "ticker": "WEAV",
+      "relationship_type": "Peer",
+      "relationship_description": "Weave Communications Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Workday Inc.",
+      "ticker": "WDAY",
+      "relationship_type": "Peer",
+      "relationship_description": "Workday Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "Zoom Video Communications Inc.",
+      "ticker": "ZM",
+      "relationship_type": "Peer",
+      "relationship_description": "Zoom Video Communications Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    },
+    {
+      "source_company": "MongoDB Inc.",
+      "target_company": "ZoomInfo Technologies Inc.",
+      "ticker": "ZI",
+      "relationship_type": "Peer",
+      "relationship_description": "ZoomInfo Technologies Inc. is listed in MongoDB's software coverage universe.",
+      "quantifier": "N/A",
+      "original_sentence": "The rating(s) for MongoDB Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Atlassian Corp., Autodesk Inc., Bentley Systems Inc., Confluent Inc., CoreWeave Inc., Datadog Inc., Definitive Healthcare Corp., Dropbox Inc., Dynatrace Inc., Elastic NV, Figma Inc., GitLab Inc., Intuit Inc., Microsoft Corp., Monday.Com Ltd., MongoDB Inc., Navan Inc., Nutanix Inc., Oracle Corp., PagerDuty, Procore Technologies Inc., RingCentral, Rubrik Inc., Salesforce Inc., Samsara Inc., ServiceNow Inc., ServiceTitan Inc., Snowflake Inc., Twilio, Weave Communications Inc., Workday Inc., Zoom Video Communications Inc., ZoomInfo Technologies Inc."
+    }
+  ],
+  "file_Id": "MongoDB Inc. (MDB)_ Atlas Acceleration Underscores GTM Execution and Expanding Platform Relevance.pdf"
+}

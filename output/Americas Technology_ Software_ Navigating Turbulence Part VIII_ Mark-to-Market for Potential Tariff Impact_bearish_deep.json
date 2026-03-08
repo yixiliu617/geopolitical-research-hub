@@ -1,0 +1,1247 @@
+{
+  "bearish_views": [
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Modest potential risk to estimates from tariffs.",
+      "exact_sentences_in_the_file": "We remain positive on software, especially given recent pullback, while acknowledging modest potential risk to estimates from tariffs."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Potential risk to current guidance (CY25) and possibility of an 'air-pocket' as the year unfolds.",
+      "exact_sentences_in_the_file": "We explore two key themes: 1) Potential risk to current guidance (CY25) and 2) Best positioned software companies. At best, Management teams will hold guidance unchanged near-term, although it\u2019s possible we might enter an air-pocket as the year unfolds as we previously highlighted here."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Worst-case scenarios of -5% to -20% Net New Revenue (NNR) cuts, implying a 100-300 bps reduction in CY25 average revenue growth.",
+      "exact_sentences_in_the_file": "We\u2019ve conducted a sensitivity analysis around net new revenue (NNR), assuming worst-case scenarios of -5% to -20% NNR cuts, though we do not subscribe to this outcome yet. This implies CY25 average revenue growth (GSe +13%) could see a 100\u2013300 bps reduction (albeit -4% drawdown in USD since C1Q close vs. major currencies could be a partial mitigant)."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Recent software multiple compression.",
+      "exact_sentences_in_the_file": "We\u2019re also adjusting our PTs to re\ufb02ect recent software multiple compression but continue to highlight the disconnect between current valuations and fundamentals (GSe 46% discount to Intrinsic Value)."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Modest risk potential that Management teams may opt to provide more conservative guidance on C2Q and CY25 due to tariff uncertainty.",
+      "exact_sentences_in_the_file": "we acknowledge the modest risk potential that Management teams may opt to provide more conservative guidance on C2Q (vs. Street and implied guidance) and CY25."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Management teams are likely to call out deal cycle elongation, reduced contract sizes, and/or broader freezes in software procurement.",
+      "exact_sentences_in_the_file": "For subscription and consumption models alike, Management teams are likely to call out some level of deal cycle elongation, reduced contract sizes and/or broader freezes in software procurement entering the June quarter (April/May); at a minimum, they\u2019re likely to acknowledge the risk of such a dynamic impacting upcoming quarters."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Downside scenario contemplates a slowdown in key drivers of the software growth algorithm (Net expansion, New logos, Customer retention) relative to Management guidance.",
+      "exact_sentences_in_the_file": "Our downside scenario contemplates a slowdown in key drivers of the software growth algorithm relative to Management guidance. To determine the impact, we evaluated the implied Net New Revenue for CY25 based on Management guidance and reduced that assumption anywhere from -5% to -20%, which we see as an appropriate starting point given broad uncertainty as to what shape tariff policy ultimate takes in the comings days, weeks and months. We believe this approach also effectively captures the potential degradation to all or some critical components of the software growth algorithm: 1) Net expansion, 2) New logos and 3) Customer retention."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Average revenue growth for coverage in CY25 could come down -70 bps to -280 bps with NNR cuts.",
+      "exact_sentences_in_the_file": "Our net new revenue sensitivity analysis implies that average revenue growth for our coverage in CY25 (GSe: 13%) could come down -70 bps in a more conservative scenario of a -5% cut to NNR and upwards of -280 bps in a downside scenario where NNR is cut by -20% (Exhibit 2)."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Potential margin degradation if software companies are unable to dynamically adapt to a slower demand environment (e.g., if NNR cuts are not met with operating leverage).",
+      "exact_sentences_in_the_file": "We also provide an illustrative downside scenario analysis where cuts to net new revenue are not met with a commensurate step-up in operating leverage. Assuming a worst-case scenario where CY25 NNR is cut by -10% vs. initial guidance and fully \ufb02ows through to the FCF line, our coverage would see an average ~100 bps reduction in CY25 FCFM\u2019s and a ~200 bps decline in their \u2018Rule of\u2019 pro\ufb01les (Exhibit 3). This downside case assumes no variable cost \ufb02exibility and illustrates the potential margin degradation if software companies are unable to dynamically adapt to a slower demand environment."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Potential for modest cuts to net new revenue if trends softened post-tariff announcement.",
+      "exact_sentences_in_the_file": "Our analysis of net new revenue trends pre- and post-guidance points suggests potential for modest cuts if trends softened post-tariff announcement."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Management teams adjusted to rising interest rates and macroeconomic uncertainty, leading to tightening IT budgets and prioritization of cost optimization over new digital initiatives.",
+      "exact_sentences_in_the_file": "However, in both CY23 and CY24, NNR estimates came down -7% to -10% when company guidance was issued as Management teams adjusted to the new reality of rising interest rates and macroeconomic uncertainty, which led to tightening IT budgets and the relative prioritization of cost optimization over new digital initiatives."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "The software sector has been contending with a sluggish macro environment, leading to growth deceleration from +31% in CY22 to +15% in CY24.",
+      "exact_sentences_in_the_file": "The earliest representation of this dynamic began in C2H22, when net new business growth started to contract sharply for broader software (Exhibit 8). The sector has been contending with a sluggish macro ever since, representative in growth for our coverage decelerating from +31% in CY22 to +15% in CY24 (Exhibit 5)."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "The far-reaching implications of the new Administration\u2019s tariff policy were an unforeseen variable.",
+      "exact_sentences_in_the_file": "While there were reasons to be optimistic that CY25 would mark a year of growth stability \u2013 stabilizing NER, improving new logo acquisition and an emerging Gen-AI product cycle (Exhibit 6, Exhibit 7) \u2013 the far-reaching implications of the new Administration\u2019s tariff policy was an unforeseen variable."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Net new revenue estimates for coverage have come down -1.5% since the announcement of tariffs.",
+      "exact_sentences_in_the_file": "We note that since the announcement of tariffs, net new revenue estimates for our coverage have come down -1 .5% (now -7 .1% vs. pre-guidance); this, however, is still well within the historical window Management teams typically guide to (-7-10%)."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Modest risk potential that Management teams incrementally de-risk expectations for 2Q and CY25 due to short-term demand fallout from tariff uncertainty.",
+      "exact_sentences_in_the_file": "As such, we acknowledge the modest risk potential that Management teams incrementally de-risk expectations for 2Q and CY25 during the upcoming March/April quarter reporting season to better factor for any short-term demand fallout from tariff uncertainty."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Tariff uncertainty may cause Management teams to revisit assumptions around Net Expansion Rate (NER) and new logo acquisition if there is demand degradation.",
+      "exact_sentences_in_the_file": "However, we don\u2019t rule out the possibility that the impact of tariffs may cause Management teams to revisit their assumptions around NER and new logo acquisition if there were to be any demand degradation in the month of April."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "The knock-on effect of tariffs could cause many enterprises to temporarily pause hiring plans, delay ongoing purchasing decisions, and/or generally pull back on more transformational projects.",
+      "exact_sentences_in_the_file": "On net, we anticipate that the knock-on effect of tariffs could cause many enterprises to temporarily pause hiring plans (impacting software seat growth), delay ongoing purchasing decisions, and/or generally pull back on more transformational projects until tariff policies crystallize."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "In periods of uncertainty, software companies tend to observe varying degrees of degradation to cross-sell and upsell, new logo acquisition, and retention rates.",
+      "exact_sentences_in_the_file": "In periods of uncertainty, software companies tend to observe varying degrees of degradation to cross-sell and upsell, new logo acquisition and retention rates."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "2025 may not mark a meaningful inflection point for Gen-AI given potential budgetary constraints against a more volatile macro backdrop.",
+      "exact_sentences_in_the_file": "Albeit, this year may not mark a meaningful in\ufb02ection point for Gen-Al given potential budgetary constraints against a more volatile macro backdrop, but we do expect many software companies to foster engagement and adoption of products that can drive real productivity against across the enterprise."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "The market might be slow to participate in the Gen-AI theme until early signals of a 'killer application' emerge, as AI-native application companies have yet to reach public markets.",
+      "exact_sentences_in_the_file": "AI-native application companies have yet to reach the public markets. While there are early signs of AI revenue contribution from some large public software vendors, the absence of application-layer Gen-Al-native private companies entering the public markets has left investors largely con\ufb01ned to incumbents. As such, we note that the market might be slow to participate in the Gen-AI theme until early signals of an \u2018killer application\u2019 with meaningful utilization and monetization emerges, which we then believe can become a catalyst for the sector."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Investors hesitate to underwrite AI as a material revenue driver in the near-term due to macro and budgetary uncertainty, as most enterprises are still in experimentation/early roll-out phases.",
+      "exact_sentences_in_the_file": "With most enterprises are still in the experimentation and early roll-out phases, we understand investors\u2019 hesitation around underwriting AI as a material revenue driver in the near-term, particularly amidst broader macro and budgetary uncertainty."
+    },
+    {
+      "company": "Software Sector",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Macroeconomic headwinds, tariff concerns, public sector austerity, and broader market volatility have weighed on investor sentiment and raised concerns around weakening enterprise software demand, leading to coverage underperforming NASDAQ.",
+      "exact_sentences_in_the_file": "Our coverage is down -15% YTD, underperforming the NASDAQ by ~2 pp., as a combination of macroeconomic headwinds- tariff concerns, public sector austerity, and broader market volatility- has weighed on investor sentiment and raised concerns around weakening enterprise software demand."
+    },
+    {
+      "company": "Adobe Inc.",
+      "ticker": "ADBE",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower and more volatile Digital Experience growth.",
+      "exact_sentences_in_the_file": "Key risks include: 1) slower and more volatile Digital Experience growth"
+    },
+    {
+      "company": "Adobe Inc.",
+      "ticker": "ADBE",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower net new subscriber additions.",
+      "exact_sentences_in_the_file": "2) slower net new subscriber additions"
+    },
+    {
+      "company": "Adobe Inc.",
+      "ticker": "ADBE",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Higher expense growth limiting margin expansion.",
+      "exact_sentences_in_the_file": "3) higher expense growth limiting margin expansion"
+    },
+    {
+      "company": "Adobe Inc.",
+      "ticker": "ADBE",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Increased competition.",
+      "exact_sentences_in_the_file": "4) increased competition."
+    },
+    {
+      "company": "Autodesk Inc.",
+      "ticker": "ADSK",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "A pressured macro backdrop resulting in continued cost-consciousness amongst end-markets.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) A pressured macro backdrop resulting in continued cost-consciousness amongst end-markets"
+    },
+    {
+      "company": "Autodesk Inc.",
+      "ticker": "ADSK",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Reduced ability to generate pricing leverage should customers decide the inherent value of the product suite doesn\u2019t justify the updated pricing.",
+      "exact_sentences_in_the_file": "2) Reduced ability to generate pricing leverage should customers decide the inherent value of the product suite doesn\u2019t justify the updated pricing"
+    },
+    {
+      "company": "Autodesk Inc.",
+      "ticker": "ADSK",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "The new transaction model roll out in Western Europe and Japan proving more dif\ufb01cult than initial expectations.",
+      "exact_sentences_in_the_file": "3) The new transaction model roll out in Western Europe and Japan proving more dif\ufb01cult than initial expectations."
+    },
+    {
+      "company": "Confluent Inc.",
+      "ticker": "CFLT",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Incremental competition, particularly from CSPs with established go-to-market relationships and broader platform offerings.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) incremental competition, particularly from CSPs with established go-to-market relationships and broader platform offerings"
+    },
+    {
+      "company": "Confluent Inc.",
+      "ticker": "CFLT",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Execution risks, as much of the senior leadership is relatively new to the company.",
+      "exact_sentences_in_the_file": "2) execution risks, as much of the senior leadership is relatively new to the company"
+    },
+    {
+      "company": "Confluent Inc.",
+      "ticker": "CFLT",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Free cash flow burn.",
+      "exact_sentences_in_the_file": "3) free cash \ufb02ow burn"
+    },
+    {
+      "company": "Confluent Inc.",
+      "ticker": "CFLT",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower than expected adoption of event stream processing technology.",
+      "exact_sentences_in_the_file": "4) slower than expected adoption of event stream processing technology."
+    },
+    {
+      "company": "Salesforce Inc.",
+      "ticker": "CRM",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Sales execution challenges.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Sales execution"
+    },
+    {
+      "company": "Salesforce Inc.",
+      "ticker": "CRM",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Macroeconomic slowdown.",
+      "exact_sentences_in_the_file": "2) Macroeconomic slowdown"
+    },
+    {
+      "company": "Salesforce Inc.",
+      "ticker": "CRM",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Unsustainable pace of acquisitions.",
+      "exact_sentences_in_the_file": "3) Unsustainable pace of acquisitions"
+    },
+    {
+      "company": "Salesforce Inc.",
+      "ticker": "CRM",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower than expected operating margin expansion or higher than expected expense growth.",
+      "exact_sentences_in_the_file": "4) Slower than expected operating margin expansion or higher than expected expense growth"
+    },
+    {
+      "company": "Salesforce Inc.",
+      "ticker": "CRM",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Adverse changes in the IT spending environment.",
+      "exact_sentences_in_the_file": "5) Adverse changes in the IT spending environment."
+    },
+    {
+      "company": "Datadog Inc.",
+      "ticker": "DDOG",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Decline in sales growth from lower SMB contribution.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Decline in sales growth from lower SMB contribution"
+    },
+    {
+      "company": "Datadog Inc.",
+      "ticker": "DDOG",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Declining sales productivity.",
+      "exact_sentences_in_the_file": "2) Declining sales productivity"
+    },
+    {
+      "company": "Datadog Inc.",
+      "ticker": "DDOG",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Increased competition from both observability and hyperscaler vendors.",
+      "exact_sentences_in_the_file": "3) Increased competition from both observability and hyperscaler vendors"
+    },
+    {
+      "company": "Datadog Inc.",
+      "ticker": "DDOG",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Lack of traction of newer products.",
+      "exact_sentences_in_the_file": "4) Lack of traction of newer products"
+    },
+    {
+      "company": "Datadog Inc.",
+      "ticker": "DDOG",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Optimization headwinds persist.",
+      "exact_sentences_in_the_file": "5) optimization headwinds persist."
+    },
+    {
+      "company": "Dynatrace Inc.",
+      "ticker": "DT",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Increased competition in observability and monitoring from hyperscale cloud providers and point providers.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Increased competition in observability and monitoring from hyperscale cloud providers such as Microsoft, Google, and AWS, and point providers such as Datadog, Elastic, AppDynamics (Cisco), New Relic"
+    },
+    {
+      "company": "Dynatrace Inc.",
+      "ticker": "DT",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower-than-expected traction with new modules.",
+      "exact_sentences_in_the_file": "2) Slower-than-expected traction with new modules"
+    },
+    {
+      "company": "Dynatrace Inc.",
+      "ticker": "DT",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Execution risk from incremental investments into sales and marketing.",
+      "exact_sentences_in_the_file": "3) Execution risk from incremental investments into sales and marketing"
+    },
+    {
+      "company": "Dynatrace Inc.",
+      "ticker": "DT",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Risk of increased churn from customer renewals.",
+      "exact_sentences_in_the_file": "4) Risk of increased churn from customer renewals"
+    },
+    {
+      "company": "Dynatrace Inc.",
+      "ticker": "DT",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower-than-expected new logo additions.",
+      "exact_sentences_in_the_file": "5) Slower-than-expected new logo additions."
+    },
+    {
+      "company": "Elastic NV",
+      "ticker": "ESTC",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Sales execution challenges.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Sales execution"
+    },
+    {
+      "company": "Elastic NV",
+      "ticker": "ESTC",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Macroeconomic slowdown resulting in increased deal scrutiny and longer sales cycles.",
+      "exact_sentences_in_the_file": "2) Macroeconomic slowdown resulting in increased deal scrutiny and longer sales cycles"
+    },
+    {
+      "company": "Elastic NV",
+      "ticker": "ESTC",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower than expected operating margin expansion or higher than expected expense growth.",
+      "exact_sentences_in_the_file": "3) Slower than expected operating margin expansion or higher than expected expense growth"
+    },
+    {
+      "company": "Elastic NV",
+      "ticker": "ESTC",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Adverse changes in the IT spending environment.",
+      "exact_sentences_in_the_file": "4) Adverse changes in the IT spending environment."
+    },
+    {
+      "company": "GitLab Inc.",
+      "ticker": "GTLB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Incremental competition from large software platform companies and pure-play DevSecOps vendors.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Incremental competition from a number of large software platform companies such as Microsoft and Atlassian, and a number of pure-play DevSecOps vendors such as JFrog, Jenkins, CircleCI, and Grafana"
+    },
+    {
+      "company": "GitLab Inc.",
+      "ticker": "GTLB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower-than-expected adoption of expanded platform stages.",
+      "exact_sentences_in_the_file": "2) Slower-than-expected adoption of expanded platform stages such as Plan, Secure, Package, Verify, and Con\ufb01gure"
+    },
+    {
+      "company": "GitLab Inc.",
+      "ticker": "GTLB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower-than-expected traction with the upmarket motion and enterprise customer growth.",
+      "exact_sentences_in_the_file": "3) Slower-than-expected traction with the upmarket motion and enterprise customer growth"
+    },
+    {
+      "company": "GitLab Inc.",
+      "ticker": "GTLB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Higher-than-expected customer attrition.",
+      "exact_sentences_in_the_file": "4) Higher-than-expected customer attrition"
+    },
+    {
+      "company": "GitLab Inc.",
+      "ticker": "GTLB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Longer-than-expected FCF burn.",
+      "exact_sentences_in_the_file": "5) Longer-than-expected FCF burn."
+    },
+    {
+      "company": "Informatica Inc.",
+      "ticker": "INFA",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Heightened competition from large software companies like Salesforce, Microsoft, AWS.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Heightened competition from large software companies like Salesforce, Microsoft, AWS."
+    },
+    {
+      "company": "Informatica Inc.",
+      "ticker": "INFA",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower than expected enterprise customer growth and upmarket motion.",
+      "exact_sentences_in_the_file": "2) Slower than expected enterprise customer growth and upmarket motion"
+    },
+    {
+      "company": "Informatica Inc.",
+      "ticker": "INFA",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Lower than expected conversion uplift from the Maintenance/Self-Managed ARR base.",
+      "exact_sentences_in_the_file": "3) Lower than expected conversion uplift from the Maintenance/Self-Managed ARR base"
+    },
+    {
+      "company": "Informatica Inc.",
+      "ticker": "INFA",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Higher than expected customer attrition.",
+      "exact_sentences_in_the_file": "4) Higher than expected customer attrition."
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Increased SMB failures and churn related to macro headwinds.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Increased SMB failures and churn related to macro headwinds"
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Higher than expected competition in both SMB and consumer businesses limiting Intuit share gains.",
+      "exact_sentences_in_the_file": "2) Higher than expected competition in both SMB and consumer businesses limiting Intuit share gains"
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Decelerating customer growth and higher than expected attrition.",
+      "exact_sentences_in_the_file": "3) Decelerating customer growth and higher than expected attrition"
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower than expected adoption of QuickBooks Online, QuickBooks Advanced, and TurboTax Live.",
+      "exact_sentences_in_the_file": "4) Slower than expected adoption of QuickBooks Online, QuickBooks Advanced, and TurboTax Live"
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower adoption of Intuit\u2019s higher priced assisted offerings, thereby limiting ARPC growth.",
+      "exact_sentences_in_the_file": "5) Slower adoption of Intuit\u2019s higher priced assisted offerings, thereby limiting ARPC growth"
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Online ecosystem growth slowing and not reaching long-term targets for 30% growth.",
+      "exact_sentences_in_the_file": "6) Online ecosystem growth slowing and not reaching long-term targets for 30% growth"
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Synergies between core Intuit, Credit Karma, and Mailchimp taking longer than expected to materialize.",
+      "exact_sentences_in_the_file": "7) Synergies between core Intuit, Credit Karma, and Mailchimp taking longer than expected to materialize"
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Incremental competition from Microsoft, Salesforce, Hubspot in the SMB segment.",
+      "exact_sentences_in_the_file": "8) Incremental competition from Microsoft, Salesforce, Hubspot in the SMB segment"
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower than expected margin expansion.",
+      "exact_sentences_in_the_file": "9) Slower than expected margin expansion."
+    },
+    {
+      "company": "Samsara Inc.",
+      "ticker": "IOT",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Potential risk of increase in competition from solutions such as Verizon Connect, Omnitracs, etc.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Potential risk of increase in competition from solutions such as Verizon Connect, Omnitracs, etc"
+    },
+    {
+      "company": "Samsara Inc.",
+      "ticker": "IOT",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Higher than expected exposure to industries sensitive to supply chain constraints / macroeconomic uncertainty could result in revenue downside.",
+      "exact_sentences_in_the_file": "2) Higher than expected exposure to industries sensitive to supply chain constraints / macroeconomic uncertainty could result in revenue downside"
+    },
+    {
+      "company": "Samsara Inc.",
+      "ticker": "IOT",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Potential data privacy issues: any breach/delay in the implementation of or attendance to regulatory concerns and demands could negatively affect official views of Samsara and concomitantly reduce customer confidence in the reliability of the company\u2019s data management processes.",
+      "exact_sentences_in_the_file": "3) Potential data privacy issues: any breach/delay in the implementation of or attendance to regulatory concerns and demands could negatively affect of\ufb01cial views of Samsara and concomitantly reduce customer con\ufb01dence in the reliability of the company\u2019s data management processes."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Adverse changes in the IT spending environment and spending priorities.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Adverse changes in the IT spending environment and spending priorities"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Competition in the non-relational database market, particularly from proprietary offerings from cloud service providers (CSPs).",
+      "exact_sentences_in_the_file": "2) Competition in the non-relational database market, particularly from proprietary offerings from cloud service providers (CSPs)"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "The ramp to profitability as the company continues to invest ahead of a large and growing market opportunity.",
+      "exact_sentences_in_the_file": "3) The ramp to pro\ufb01tability as the company continues to invest ahead of a large and growing market opportunity"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slowing pace in public cloud adoption.",
+      "exact_sentences_in_the_file": "4) Slowing pace in public cloud adoption"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Potential for rising interest rates.",
+      "exact_sentences_in_the_file": "5) Potential for rising interest rates."
+    },
+    {
+      "company": "Monday.com Ltd.",
+      "ticker": "MNDY",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Incremental competition from pure-play project management vendors.",
+      "exact_sentences_in_the_file": "Key downside risks to our thesis include: 1) incremental competition as Monday.com faces competition from a number of pure-play project management vendors such as Asana, Smartsheet, Atlassian, and Microsoft"
+    },
+    {
+      "company": "Monday.com Ltd.",
+      "ticker": "MNDY",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower-than-expected adoption of adjacent use-cases.",
+      "exact_sentences_in_the_file": "2) slower-than-expected adoption of adjacent use-cases"
+    },
+    {
+      "company": "Monday.com Ltd.",
+      "ticker": "MNDY",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower-than-expected traction with the upmarket motion and enterprise customer growth.",
+      "exact_sentences_in_the_file": "3) slower-than-expected traction with the upmarket motion and enterprise customer growth"
+    },
+    {
+      "company": "Monday.com Ltd.",
+      "ticker": "MNDY",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Higher-than-expected customer attrition.",
+      "exact_sentences_in_the_file": "4) higher-than-expected customer attrition"
+    },
+    {
+      "company": "Monday.com Ltd.",
+      "ticker": "MNDY",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Longer-than-expected free cash flow burn.",
+      "exact_sentences_in_the_file": "5) longer-than-expected free cash \ufb02ow burn."
+    },
+    {
+      "company": "Microsoft Corp.",
+      "ticker": "MSFT",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower than anticipated public cloud adoption.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) slower than anticipated public cloud adoption"
+    },
+    {
+      "company": "Microsoft Corp.",
+      "ticker": "MSFT",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Overall slowdown in IT spending.",
+      "exact_sentences_in_the_file": "2) overall slowdown in IT spending"
+    },
+    {
+      "company": "Microsoft Corp.",
+      "ticker": "MSFT",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower pace of margin expansion.",
+      "exact_sentences_in_the_file": "3) slower pace of margin expansion"
+    },
+    {
+      "company": "Microsoft Corp.",
+      "ticker": "MSFT",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Adverse competitive landscape.",
+      "exact_sentences_in_the_file": "4) adverse competitive landscape."
+    },
+    {
+      "company": "ServiceNow Inc.",
+      "ticker": "NOW",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Execution risk limiting growth in new markets.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Execution risk limiting growth in new markets"
+    },
+    {
+      "company": "ServiceNow Inc.",
+      "ticker": "NOW",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower new business growth and longer sales cycles.",
+      "exact_sentences_in_the_file": "2) Slower new business growth and longer sales cycles"
+    },
+    {
+      "company": "ServiceNow Inc.",
+      "ticker": "NOW",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Higher expense growth limiting margin expansion.",
+      "exact_sentences_in_the_file": "3) Higher expense growth limiting margin expansion."
+    },
+    {
+      "company": "ServiceNow Inc.",
+      "ticker": "NOW",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Potential slowdown in net new ACV or customer expansion.",
+      "exact_sentences_in_the_file": "We also note a potential slowdown in net new ACV or customer expansion would likely limit revenue growth in the near term."
+    },
+    {
+      "company": "ServiceNow Inc.",
+      "ticker": "NOW",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Investors may view the potential of a large M&A transaction as a risk to margin expansion.",
+      "exact_sentences_in_the_file": "Furthermore, investors may view the potential of a large M&A transaction as a risk to margin expansion"
+    },
+    {
+      "company": "Procore Technologies Inc.",
+      "ticker": "PCOR",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Heightened competition from other vendors, including Autodesk.",
+      "exact_sentences_in_the_file": "Key downside risks to our thesis include: 1) Heightened competition from a number of vendors, including Autodesk, which remains focused on the company\u2019s construction offering, Autodesk Construction Cloud"
+    },
+    {
+      "company": "Procore Technologies Inc.",
+      "ticker": "PCOR",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Lower-than-expected product attach rates or construction volume expansion within the company\u2019s installed base.",
+      "exact_sentences_in_the_file": "2) Lower-than-expected product attach rates or construction volume expansion within the company\u2019s installed base, weighing on potential revenue outperformance"
+    },
+    {
+      "company": "Procore Technologies Inc.",
+      "ticker": "PCOR",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Longer-than-expected GTM transition.",
+      "exact_sentences_in_the_file": "3) Longer-than-expected GTM transition"
+    },
+    {
+      "company": "Procore Technologies Inc.",
+      "ticker": "PCOR",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Execution challenges in re-accelerating the international business.",
+      "exact_sentences_in_the_file": "4) Execution challenges in re-accelerating the international business, which remains a key long-term growth vector for the company (and thus limiting the durability of double-digit revenue growth)"
+    },
+    {
+      "company": "Procore Technologies Inc.",
+      "ticker": "PCOR",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower-than-expected digitization within the construction industry.",
+      "exact_sentences_in_the_file": "5) Slower-than-expected digitization within the construction industry, limiting Procore\u2019s overall addressable market opportunity."
+    },
+    {
+      "company": "PagerDuty",
+      "ticker": "PD",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Increasingly competitive landscape, partially highlighted by DDOG\u2019s recent release of CSM.",
+      "exact_sentences_in_the_file": "Key Downside Risks: 1) Increasingly competitive landscape, partially highlighted by DDOG\u2019s recent release of CSM which appears to compete with PD\u2019s Incident Management product"
+    },
+    {
+      "company": "PagerDuty",
+      "ticker": "PD",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Customers continuing to view PD as a more discretionary offering, evidenced by growth rate halving from F23 to F24.",
+      "exact_sentences_in_the_file": "2) Customers continuing to view PD as a more discretionary offering, partially evidenced by the growth rate halving from F23 (32%) to F24 (16%)"
+    },
+    {
+      "company": "PagerDuty",
+      "ticker": "PD",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "A longer-than-expected timeline to more broad-based product adoption amongst the customer base, leaving PD overly indexed to Incident Management.",
+      "exact_sentences_in_the_file": "3) A longer-than-expected timeline to more broad-based product adoption amongst the customer base, leaving PD overly indexed to Incident Management."
+    },
+    {
+      "company": "Rubrik Inc.",
+      "ticker": "RBRK",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Heightened competition from Cohesity, Commvault and Veeam, amongst others, limits Rubrik\u2019s ability to capture a sizable portion of the legacy Backup and Recovery market.",
+      "exact_sentences_in_the_file": "Key downside risks to our thesis include: 1) Heightened competition from Cohesity, Commvault and Veeam, amongst others, limits Rubrik\u2019s ability to capture a sizable portion of the legacy Backup and Recovery market"
+    },
+    {
+      "company": "Rubrik Inc.",
+      "ticker": "RBRK",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Industry consolidation leading to better-resourced peers with improved distribution footprints and more competitive product offerings, impacting Rubrik\u2019s win rates.",
+      "exact_sentences_in_the_file": "2) Industry consolidation, akin to Cohesity combining with Veritas\u2019 data protection business, leading to better-resourced peers with improved distribution footprints and more competitive product offerings, impacting Rubrik\u2019s win rates"
+    },
+    {
+      "company": "Rubrik Inc.",
+      "ticker": "RBRK",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Elevated product development and sales and marketing expenditures prolong path to breakeven FCF (F26) relative to GSe.",
+      "exact_sentences_in_the_file": "3) Elevated product development and sales and marketing expenditures prolong path to breakeven FCF (F26) relative to GSe"
+    },
+    {
+      "company": "Rubrik Inc.",
+      "ticker": "RBRK",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower-than-expected adoption of next-generation backup and recovery solutions limits Rubrik\u2019s addressable market opportunity.",
+      "exact_sentences_in_the_file": "4) Slower-than-expected adoption of next-generation backup and recovery solutions limits Rubrik\u2019s addressable market opportunity."
+    },
+    {
+      "company": "RingCentral",
+      "ticker": "RNG",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Inability to execute on strategic partnerships.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Inability to execute on the strategic partnerships"
+    },
+    {
+      "company": "RingCentral",
+      "ticker": "RNG",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Significant and sustained increase in competition.",
+      "exact_sentences_in_the_file": "2) Signi\ufb01cant and sustained increase in competition"
+    },
+    {
+      "company": "RingCentral",
+      "ticker": "RNG",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Revenue deceleration.",
+      "exact_sentences_in_the_file": "3) Revenue deceleration"
+    },
+    {
+      "company": "RingCentral",
+      "ticker": "RNG",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Macroeconomic slowdown.",
+      "exact_sentences_in_the_file": "4) Macroeconomic slowdown"
+    },
+    {
+      "company": "RingCentral",
+      "ticker": "RNG",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower-than-expected operating margin expansion or higher than expected expense growth.",
+      "exact_sentences_in_the_file": "5) Slower-than-expected operating margin expansion or higher than expected expense growth"
+    },
+    {
+      "company": "RingCentral",
+      "ticker": "RNG",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Adverse changes in the IT spending environment.",
+      "exact_sentences_in_the_file": "6) Adverse changes in the IT spending environment."
+    },
+    {
+      "company": "Snowflake Inc.",
+      "ticker": "SNOW",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Adverse changes in the IT spending environment.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Adverse changes in the IT spending environment"
+    },
+    {
+      "company": "Snowflake Inc.",
+      "ticker": "SNOW",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Competition - particularly from cloud service providers (CSPs) and Databricks.",
+      "exact_sentences_in_the_file": "2) Competition - particularly from cloud service providers (CSPs) and Databricks"
+    },
+    {
+      "company": "Snowflake Inc.",
+      "ticker": "SNOW",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Outages from reliance on CSPs.",
+      "exact_sentences_in_the_file": "3) Outages from reliance on CSPs."
+    },
+    {
+      "company": "Atlassian",
+      "ticker": "TEAM",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Higher churn from cloud transition, as price increases from cloud products could delay the cloud migration decision.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Higher churn from cloud transition, as price increases from cloud products could delay the cloud migration decision"
+    },
+    {
+      "company": "Atlassian",
+      "ticker": "TEAM",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Potential risk of increase in competition from players like MNDY, GTLB, etc.",
+      "exact_sentences_in_the_file": "2) Potential risk of increase in competition, from players like MNDY , GTLB, etc"
+    },
+    {
+      "company": "Atlassian",
+      "ticker": "TEAM",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Decrease in S&M efficiency as additional investments in the cloud transition journey could potentially impact S&M efficiency.",
+      "exact_sentences_in_the_file": "3) Decrease in S&M ef\ufb01ciency as TEAM has one of the best in class S&M ef\ufb01ciency. Additional investments in the cloud transition journey could potentially impact S&M ef\ufb01ciency"
+    },
+    {
+      "company": "Atlassian",
+      "ticker": "TEAM",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Adverse impact on IT spending environment in the current macroeconomic environment could potentially result in IT budgets being trimmed.",
+      "exact_sentences_in_the_file": "4) Adverse impact on IT spending environment in the current macroeconomic environment could potentially result in IT budgets being trimmed."
+    },
+    {
+      "company": "Twilio",
+      "ticker": "TWLO",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Usage-based model can lead to volatility in quarterly revenue.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Usage-based model can lead to volatility in quarterly revenue"
+    },
+    {
+      "company": "Twilio",
+      "ticker": "TWLO",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Increased competition from Microsoft, AWS, open-source or homegrown solutions.",
+      "exact_sentences_in_the_file": "2) Increased competition from Microsoft, AWS, open-source or homegrown solutions"
+    },
+    {
+      "company": "Twilio",
+      "ticker": "TWLO",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Price competition could lead to customer churn and market share losses.",
+      "exact_sentences_in_the_file": "3) Price competition could lead to customer churn and market share losses"
+    },
+    {
+      "company": "Twilio",
+      "ticker": "TWLO",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Platform outages could risk customer trust.",
+      "exact_sentences_in_the_file": "4) Platform outages could risk customer trust"
+    },
+    {
+      "company": "Twilio",
+      "ticker": "TWLO",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Inability to improve Segment\u2019s operating profile could present a headwind to growth and margins.",
+      "exact_sentences_in_the_file": "5) Inability to improve Segment\u2019s operating pro\ufb01le could present a headwind to growth and margins"
+    },
+    {
+      "company": "Twilio",
+      "ticker": "TWLO",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Inability to drive further operating leverage in the model.",
+      "exact_sentences_in_the_file": "6) Inability to drive further operating leverage in the model."
+    },
+    {
+      "company": "Workday Inc.",
+      "ticker": "WDAY",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Financials traction remains in early innings.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Financials traction remains in early innings"
+    },
+    {
+      "company": "Workday Inc.",
+      "ticker": "WDAY",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Changes in the competitive landscape.",
+      "exact_sentences_in_the_file": "2) Changes in the competitive landscape"
+    },
+    {
+      "company": "Workday Inc.",
+      "ticker": "WDAY",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slowing SaaS adoption in HCM.",
+      "exact_sentences_in_the_file": "3) Slowing SaaS adoption in HCM."
+    },
+    {
+      "company": "Weave Communications Inc.",
+      "ticker": "WEAV",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Incremental competition from a number of large software platform companies.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Incremental competition from a number of large software platform companies such as RingCentral, Twilio, HubSpot, 8x8, Square, and Dentrix"
+    },
+    {
+      "company": "Weave Communications Inc.",
+      "ticker": "WEAV",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "A worsening macro and SMB landscape.",
+      "exact_sentences_in_the_file": "2) A worsening macro and SMB landscape"
+    },
+    {
+      "company": "Weave Communications Inc.",
+      "ticker": "WEAV",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower than expected customer additions.",
+      "exact_sentences_in_the_file": "3) Slower than expected customer additions"
+    },
+    {
+      "company": "Weave Communications Inc.",
+      "ticker": "WEAV",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "A longer than expected return to in-person industry events.",
+      "exact_sentences_in_the_file": "4) A longer than expected return to in-person industry events."
+    },
+    {
+      "company": "Zoom Video Communications Inc.",
+      "ticker": "ZM",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Potential reversals in pre-COVID work mentality.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Potential reversals in pre-COVID work mentality"
+    },
+    {
+      "company": "Zoom Video Communications Inc.",
+      "ticker": "ZM",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Lower-than-expected normalized revenue growth.",
+      "exact_sentences_in_the_file": "2) Lower-than-expected normalized revenue growth"
+    },
+    {
+      "company": "Zoom Video Communications Inc.",
+      "ticker": "ZM",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Significant and sustained increase in competition.",
+      "exact_sentences_in_the_file": "3) Signi\ufb01cant and sustained increase in competition"
+    },
+    {
+      "company": "Zoom Video Communications Inc.",
+      "ticker": "ZM",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Sales execution challenges.",
+      "exact_sentences_in_the_file": "4) Sales execution"
+    },
+    {
+      "company": "Zoom Video Communications Inc.",
+      "ticker": "ZM",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Macroeconomic slowdown.",
+      "exact_sentences_in_the_file": "5) Macroeconomic slowdown"
+    },
+    {
+      "company": "Zoom Video Communications Inc.",
+      "ticker": "ZM",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Slower-than-expected operating margin expansion or higher-than-expected expense growth.",
+      "exact_sentences_in_the_file": "6) Slower-than-expected operating margin expansion or higher-than-expected expense growth"
+    },
+    {
+      "company": "Zoom Video Communications Inc.",
+      "ticker": "ZM",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Adverse changes in the IT spending environment.",
+      "exact_sentences_in_the_file": "7) Adverse changes in the IT spending environment."
+    },
+    {
+      "company": "Intuit Inc., Microsoft Corp., Adobe Inc., Workday Inc., Salesforce Inc.",
+      "ticker": "INTU, MSFT, ADBE, WDAY, CRM",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-04-24",
+      "bearish_debate_point": "Large mature companies will likely be range-bound shorter-term.",
+      "exact_sentences_in_the_file": "While valuations are compelling, large mature companies like INTU, MSFT , ADBE, WDAY , CRM will likely be range-bound shorter-term."
+    }
+  ],
+  "file_Id": "Americas Technology_ Software_ Navigating Turbulence Part VIII_ Mark-to-Market for Potential Tariff Impact.pdf"
+}

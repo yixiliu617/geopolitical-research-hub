@@ -1,0 +1,9 @@
+.env
+*.log
+__pycache__/
+.vscode/
+.streamlit/
+.ipynb_checkpoints/
+*.pdf
+# Optional: If your database is too large for GitHub, you might ignore it, 
+# but for Streamlit Cloud to work, we usually keep the JSON/CSV files.

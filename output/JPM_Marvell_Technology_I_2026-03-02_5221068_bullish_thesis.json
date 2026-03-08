@@ -1,0 +1,157 @@
+{
+  "central_thesis": "Marvell Technology Inc is poised for significant growth and outperformance, driven by its market leadership in optical and copper connectivity, robust demand for its AI custom ASICs (Trainium and MAIA programs), strategic acquisitions enhancing its networking capabilities, and strong tailwinds from increasing AI infrastructure spending by hyperscalers.",
+  "sub_claims": [
+    {
+      "claim": "Marvell is experiencing strong current and near-term financial performance, supported by positive guidance and increasing revenue visibility.",
+      "evidence_list": [
+        {
+          "evidence_type": "Opinion",
+          "content": "Expect Jan-Qtr results and April-Qtr guidance to be in line to slightly ahead of consensus estimates, driven by solid datacenter growth while the non-AI cyclical segment continues to gradually improve.",
+          "is_objective": false,
+          "credibility_assessment": "This is an analyst's forward-looking expectation, based on their market analysis and company insights. It's subjective but from a credible source (J.P. Morgan)."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "Management highlighted that short-term bookings were \u201con fire\u201d and that backlog and revenue visibility continue to expand.",
+          "is_objective": true,
+          "credibility_assessment": "Direct quote from company management, indicating strong operational momentum. This is a factual statement about management's report."
+        },
+        {
+          "evidence_type": "Data",
+          "content": "Datacenter business is expected to grow 25%+ in CY26 and 40%+ in FY27.",
+          "is_objective": false,
+          "credibility_assessment": "This is an analyst's projection based on their models and market outlook, making it a subjective forecast but from a reputable financial institution."
+        },
+        {
+          "evidence_type": "Data",
+          "content": "AI custom revenues are expected to reach ~$1.8B in CY26 (up 20% Y/Y), doubling to $3.6B in CY27.",
+          "is_objective": false,
+          "credibility_assessment": "These are J.P. Morgan's estimates for future revenue, which are subjective but based on their research and industry knowledge."
+        },
+        {
+          "evidence_type": "Data",
+          "content": "Expect the team to drive $2B revenue run-rate for the Trainium program in the second half of the year.",
+          "is_objective": false,
+          "credibility_assessment": "This is an analyst's projection, subjective but informed by company discussions and market trends."
+        },
+        {
+          "evidence_type": "Data",
+          "content": "J.P. Morgan's updated FY28 EPS estimate of $4.95.",
+          "is_objective": false,
+          "credibility_assessment": "This is a specific financial forecast by J.P. Morgan, subjective but a key part of their valuation model."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "Reiteration of Overweight (OW) rating on MRVL and a price target of $130.00 (Dec-26).",
+          "is_objective": false,
+          "credibility_assessment": "This is J.P. Morgan's official investment recommendation, reflecting their strong conviction in the stock's future performance."
+        }
+      ]
+    },
+    {
+      "claim": "Marvell's AI-related custom ASIC programs, including Trainium and MAIA, are demonstrating robust growth and future ramp-up potential.",
+      "evidence_list": [
+        {
+          "evidence_type": "Fact",
+          "content": "Continued solid momentum from its lead custom AI ASIC program (Trainium 2).",
+          "is_objective": true,
+          "credibility_assessment": "This is an observation of current performance, presented as a factual assessment by the analysts."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "The Trainium 2 ASIC ramp remains solid in the 1H of the year.",
+          "is_objective": true,
+          "credibility_assessment": "A factual statement about the ongoing performance of a key product line."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "Next-gen Trainium 3 XPU ASIC program is set to ramp in the middle of the year with volume ramp in the 2H.",
+          "is_objective": true,
+          "credibility_assessment": "This is a statement about a planned product launch and ramp, likely based on company disclosures."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "The team has secured purchase orders in hand for all of CY26 for the Trainium program.",
+          "is_objective": true,
+          "credibility_assessment": "A verifiable fact about secured orders, indicating strong demand and revenue visibility."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "Marvell\u2019s Microsoft AI ASIC MAIA 3nm program is also on track to ramp in the back half of CY26 and into CY27.",
+          "is_objective": true,
+          "credibility_assessment": "A factual statement about the progress and timeline of another significant AI ASIC program."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "Next-gen 2nm ASIC programs (Trainium 4 at AWS and Maia 2nm at Microsoft) are on track for CY27/CY28 ramps.",
+          "is_objective": true,
+          "credibility_assessment": "Statements about future product development and launch timelines, likely based on company roadmaps."
+        }
+      ]
+    },
+    {
+      "claim": "Marvell maintains market leadership and strategic positioning in critical growth areas such as optical connectivity, networking, and storage.",
+      "evidence_list": [
+        {
+          "evidence_type": "Fact",
+          "content": "Strong demand for its optical DSP solutions (1.6T/800G).",
+          "is_objective": true,
+          "credibility_assessment": "An observation of current market demand for Marvell's products."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "Strong trends in storage (cloud HDD/SSD controllers).",
+          "is_objective": true,
+          "credibility_assessment": "An observation of positive market trends impacting Marvell's storage segment."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "Marvell is a strong market leader in optical connectivity after the Inphi acquisition in April 2021.",
+          "is_objective": false,
+          "credibility_assessment": "An analyst's assessment of Marvell's market position, based on their industry expertise."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "The company is reinforcing its strong networking portfolio.",
+          "is_objective": false,
+          "credibility_assessment": "An analyst's assessment of the company's strategic actions and their impact on its portfolio strength."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "Marvell has market leadership in optical and copper connectivity.",
+          "is_objective": false,
+          "credibility_assessment": "An analyst's assessment of Marvell's competitive standing in key connectivity markets."
+        }
+      ]
+    },
+    {
+      "claim": "Favorable industry trends, including increased hyperscaler capex and broader AI semiconductor demand, coupled with strategic acquisitions, will fuel Marvell's long-term growth.",
+      "evidence_list": [
+        {
+          "evidence_type": "Data",
+          "content": "All four U.S. cloud/hyperscalers have increased their capex growth expectations for the upcoming year, with aggregate capex now projected to reach $645B in 2026 (up 56% Y/Y).",
+          "is_objective": true,
+          "credibility_assessment": "Verifiable market data on hyperscaler spending, indicating a strong demand environment for Marvell's products."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "Strong spending environment is further validated by strong beats and guidance raises across the AI semiconductor supply chain (e.g., Macom, Astera Labs, Nvidia).",
+          "is_objective": true,
+          "credibility_assessment": "Factual observations of performance from peer companies, providing external validation of market strength."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "Closure of the Celestial AI and XConn acquisitions, which further enhance Marvell\u2019s scale-up networking capabilities and position the company to be agnostic across a variety of networking technologies.",
+          "is_objective": true,
+          "credibility_assessment": "Factual information about completed acquisitions and their strategic benefits."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "The long-term scale-up opportunity is significant, and Marvell is well positioned to capture a substantial share of the market with Celestial (fabric) and its portfolio of switching products.",
+          "is_objective": false,
+          "credibility_assessment": "An analyst's strategic assessment of market opportunity and Marvell's competitive advantage, subjective but informed."
+        }
+      ]
+    }
+  ]
+}

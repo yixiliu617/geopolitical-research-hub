@@ -1,0 +1,59 @@
+{
+  "bearish_views": [
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bearish_debate_point": "Acquisitions (Celestial and XConn) are expected to be initially dilutive to EPS.",
+      "exact_sentences_in_the_file": "We expect these acquisitions to be initially dilutive by $0.05\u2013$0.06 per quarter, becoming neutral to EPS as revenues ramp meaningfully in F4Q28."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bearish_debate_point": "Risk of reversal or significant slowdown in datacenter build-outs.",
+      "exact_sentences_in_the_file": "Reversal or significant slowdown in datacenter build-outs could jeopardize long-term HDD revenue growth;"
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bearish_debate_point": "Risk of falling behind competitors in next-generation HDD read-channel technology, leading to market share loss.",
+      "exact_sentences_in_the_file": "falling behind competitors and playing catch-up in next-generation HDD read-channel technology could put market share at risk;"
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bearish_debate_point": "Risk of market share losses due to HDD OEMs adopting a dual-source strategy.",
+      "exact_sentences_in_the_file": "adoption of a dual-source strategy by HDD OEMs could also cause market share losses;"
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bearish_debate_point": "Risk of muted wired and wireless communications spending from large telco providers impacting communications revenue growth.",
+      "exact_sentences_in_the_file": "muted wired and wireless communications spending from large telco providers related to 5G could put a lid on communications top line;"
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bearish_debate_point": "Risk of downward revisions in CA VM integration/performance or synergy estimates/timeline, potentially damaging management reputation and leading to estimate revisions.",
+      "exact_sentences_in_the_file": "downward revisions in overall CA VM integration/performance or in synergy estimates/time line could damage management reputation and cause downward revision to estimates."
+    }
+  ],
+  "file_Id": "JPM_Marvell_Technology_I_2026-03-02_5221068.pdf"
+}

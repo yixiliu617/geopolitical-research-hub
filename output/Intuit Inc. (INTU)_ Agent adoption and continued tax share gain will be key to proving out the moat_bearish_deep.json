@@ -1,0 +1,77 @@
+{
+  "bearish_views": [
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2026-02-27",
+      "bearish_debate_point": "3Q EPS guidance is below Street expectations.",
+      "exact_sentences_in_the_file": "INTU is indicated -4% post 2QFY26 results that beat, but 3Q EPS guidance that is below the Street: Revenue was 2.6% above, operating margin was ~250bps ahead, and EPS 13% above (FactSet). FY26 guidance is unchanged (typically unchanged until 3Q when tax season is over) and 3Q revenue guidance is in line with the Street, but 3Q EPS was guided 4% below."
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2026-02-27",
+      "bearish_debate_point": "Signs of new competition in the low-end tax market.",
+      "exact_sentences_in_the_file": "We lean less constructive at the low end, as we believe there are already signs of new competition, LLMs already have consumer distribution, and our 10+ years covering cybersecurity suggest that consumers generally place less weight on security/privacy risks (although this will likely vary by customer cohort)."
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2026-02-27",
+      "bearish_debate_point": "Large Language Models (LLMs) already have consumer distribution, posing a competitive risk in the low-end tax market.",
+      "exact_sentences_in_the_file": "We lean less constructive at the low end, as we believe there are already signs of new competition, LLMs already have consumer distribution, and our 10+ years covering cybersecurity suggest that consumers generally place less weight on security/privacy risks (although this will likely vary by customer cohort)."
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2026-02-27",
+      "bearish_debate_point": "Consumers generally place less weight on security/privacy risks, which could undermine Intuit's competitive moat, especially at the low end of the tax market.",
+      "exact_sentences_in_the_file": "We lean less constructive at the low end, as we believe there are already signs of new competition, LLMs already have consumer distribution, and our 10+ years covering cybersecurity suggest that consumers generally place less weight on security/privacy risks (although this will likely vary by customer cohort)."
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2026-02-27",
+      "bearish_debate_point": "Lowering of the 12-month price target due to lower peer multiples.",
+      "exact_sentences_in_the_file": "We lower our 12-month price target to $519 (from $720), based on 19x (27x previously due to lower peer multiples) our rolled-forward Q5-Q8 EPS."
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2026-02-27",
+      "bearish_debate_point": "Risk from AI impact on tax/accounting.",
+      "exact_sentences_in_the_file": "Key risks: AI impact on tax/accounting; health of SMBs."
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2026-02-27",
+      "bearish_debate_point": "Risk from the health of Small and Medium Businesses (SMBs).",
+      "exact_sentences_in_the_file": "Key risks: AI impact on tax/accounting; health of SMBs."
+    },
+    {
+      "company": "Intuit Inc.",
+      "ticker": "INTU",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2026-02-27",
+      "bearish_debate_point": "Downward revision of revenue estimates for FY26, FY27, and FY28.",
+      "exact_sentences_in_the_file": "We adjust our 2026E/2027E/2028E revenue estimates on the report to $21,319/$23,824mn/$26,350mn from $21,686/$24,534mn/ $27,260mn."
+    }
+  ],
+  "file_Id": "Intuit Inc. (INTU)_ Agent adoption and continued tax share gain will be key to proving out the moat.pdf"
+}

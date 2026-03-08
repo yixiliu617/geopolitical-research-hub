@@ -1,0 +1,1859 @@
+{
+  "catalyst_analysis": {
+    "catalysts": [
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Earnings Report",
+        "catalyst_topic": "Earnings and Guidance Miss",
+        "catalyst_details": "Intuit's stock was indicated -4% after 2QFY26 results beat expectations, but 3Q EPS guidance was 4% below the Street's estimates. Revenue was 2.6% above, operating margin ~250bps ahead, and EPS 13% above. FY26 guidance remained unchanged.",
+        "status": "Past",
+        "observation_date": "2026-02-27",
+        "catalyst_dates": "2QFY26, 3Q, FY26",
+        "exact_sentences_in_the_file": "INTU is indicated -4% post 2QFY26 results that beat, but 3Q EPS guidance that is below the Street: Revenue was 2.6% above, operating margin was ~250bps ahead, and EPS 13% above (FactSet). FY26 guidance is unchanged (typically unchanged until 3Q when tax season is over) and 3Q revenue guidance is in line with the Street, but 3Q EPS was guided 4% below."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Strategic Initiative",
+        "catalyst_topic": "AI Integration for Customer Experience",
+        "catalyst_details": "Intuit is leveraging AI to drive better customer experience, emphasizing domain expertise, a platform approach, and regulation/financial risk as moats. Their platform uses proprietary data, network effects, domain-specific AI, and AI-powered human intelligence.",
+        "status": "Ongoing/Future",
+        "observation_date": "2026-02-27",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "Intuit directly addressed the ongoing market debate around its terminal value and detailed several ways it is leveraging AI to drive better customer experience. Intuit underscored domain expertise, their platform approach, and regulation/financial risk as moats. Intuit\u2019s platform leverages proprietary data, network effects (100m+ customers), domain-specific AI capabilities, and AI-powered human intelligence - with the key vision being AI and human intelligence working together."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Product Development / Strategic Initiative",
+        "catalyst_topic": "AI-powered QuickBooks Agents",
+        "catalyst_details": "Analysts are positive on QuickBooks, believing Intuit can combine its data/LLMs, third-party models, and understanding of small business owners to design AI agents that SMBs will adopt.",
+        "status": "Future",
+        "observation_date": "2026-02-27",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "In this context, we lean more positive on QuickBooks: we think Intuit should be able to marry their own data/LLMs, 3P models where necessary (e.g., a weather engine from Anthropic), and a deep understanding of how small business owners think/approach workflows to design agents that SMBs will actually adopt."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Market Opportunity",
+        "catalyst_topic": "Capturing Share in Assisted Tax Segment",
+        "catalyst_details": "Intuit's key opportunity in the Tax segment is to capture more accretive share in the Assisted segment, especially at the high end where they can offer a better experience and benefit from demographic shifts.",
+        "status": "Future",
+        "observation_date": "2026-02-27",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "In Tax, we believe the key will be to what extent Intuit can capture more accretive share in Assisted while managing competitive risks at the low end. At the high end, we believe Intuit can offer a better experience than peers at better unit economics, and will likely benefit from demographic shifts."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Competitive Threat",
+        "catalyst_topic": "Competition in Low-End Tax Segment",
+        "catalyst_details": "Analysts are less constructive on the low-end Tax segment due to signs of new competition, consumer distribution of LLMs, and consumers placing less weight on security/privacy risks.",
+        "status": "Ongoing/Future",
+        "observation_date": "2026-02-27",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "We lean less constructive at the low end, as we believe there are already signs of new competition, LLMs already have consumer distribution, and our 10+ years covering cybersecurity suggest that consumers generally place less weight on security/privacy risks (although this will likely vary by customer cohort)."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Product Adoption / User Engagement",
+        "catalyst_topic": "AI Agent Adoption and Repeat Engagement",
+        "catalyst_details": "3 million customers have used Intuit's AI agents with an 85% repeat engagement rate, representing a 3% uptake rate of their 100m+ customer base. Growing this adoption is crucial for long-term value.",
+        "status": "Ongoing/Future",
+        "observation_date": "2026-02-27",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "Agent adoption: 3 mn customers have leveraged agents to do work for them, with an 85% repeat engagement rate. Against their 100m+ customer base (some of which is likely lower frequency/less addressible), this implies a 3% uptake rate; growing this over time will be key to establishing Intuit as the starting place for customers to access agents and lower the risk of long-term value abstraction."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Product Enhancement",
+        "catalyst_topic": "AI Features in QBO",
+        "catalyst_details": "Management highlighted new AI-enabled QBO features such as auto reconciliation, routing, and weather integration, some leveraging outside LLMs, designed to save business owners time.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-27",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "Management noted new AI-enabled QBO features like auto reconciliation, routing, and weather, some of which leverage outside LLMs, to save business owners time."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Product Enhancement",
+        "catalyst_topic": "AI Features in Tax Products",
+        "catalyst_details": "On the tax side, 80% of customers use automated data entry, and a new cost basis agent lowers taxable income by $12,000.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-27",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "On the tax side, 80% of customers are using automated data entry and their new cost basis agent lowers taxable income by $12,000."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Product Enhancement",
+        "catalyst_topic": "Credit Karma Product Expansion",
+        "catalyst_details": "Credit Karma introduced Refund, Debt, and Tax Assistants for 'done-for-you' experiences, and Cards Optimizer and Credit Spark to boost year-round engagement.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-27",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "Credit Karma\u2019s Refund, Debt, and Tax Assistants aim to deliver done-for-you experiences, while Cards Optimizer and Credit Spark aim to promote engagement throughout the year."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Strategic Initiative",
+        "catalyst_topic": "Mid-Market Sales Capacity Growth",
+        "catalyst_details": "Intuit is expanding its mid-market sales capacity by nearly 30% due to attractive unit economics, with QBO Advanced and IES growing 40%.",
+        "status": "Ongoing/Future",
+        "observation_date": "2026-02-27",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "Intuit continues to see attractive unit economics and are expanding their mid-market sales capacity by nearly 30%. QBO Advanced and IES grew 40%."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Partnership / Sales Channel Improvement",
+        "catalyst_topic": "Accountant-Influenced Contracts",
+        "catalyst_details": "Intuit signed partnerships with several top 20 accounting firms in 2Q, and new wholesale billing capabilities helped drive 1/3 of new contracts influenced by accountant recommendations in 2Q, up from ~20% in 1Q.",
+        "status": "Past/Ongoing",
+        "observation_date": "2026-02-27",
+        "catalyst_dates": "2Q, 1Q",
+        "exact_sentences_in_the_file": "Intuit signed partnerships with several top 20 accounting firms in 2Q, which coupled with new wholesale billing capabilites drove 1/3 of new contracts influence by accountant recommendations in 2Q vs. ~20% in 1Q."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Market Trend / Regulatory Impact",
+        "catalyst_topic": "Tax Season Industry Growth and Assisted Penetration",
+        "catalyst_details": "Initial expectations for strong industry return growth and Assisted penetration due to the OBBBA were tempered by channel checks suggesting a more gradual impact. Through Feb 6th, IRS returns were -5% y/y, while TurboTax revenue was +12% y/y, with strong assisted growth and Credit Karma driving accelerating tax growth.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-27",
+        "catalyst_dates": "2026-02-06",
+        "exact_sentences_in_the_file": "At the start of the year we had expected strong industry return growth and Assisted penetration due to the effects of the OBBBA, but our channel checks suggested the impact would be more gradual. Through Feb 6th, IRS returns were -5% y/y while TT revenue was +12% y/y; we expect to get more granular data at the Investor Day but management noted assisted was strong and CK continues to drive accelerating tax growth."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "User Engagement",
+        "catalyst_topic": "TurboTax Landing Page Visitors",
+        "catalyst_details": "TurboTax saw 5.1 million unique visitors to landing pages through Feb 6th, compared to 4.2 million in 2025, mostly prior year assisted prospects.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-27",
+        "catalyst_dates": "2026-02-06, 2025-01-01",
+        "exact_sentences_in_the_file": "TT has seen 5.1mn unique visitors to landing pages through 2/6 vs. 4.2mn in 2025, most of which are prior year assisted prospects."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Risk Factor",
+        "catalyst_topic": "AI Impact on Core Business",
+        "catalyst_details": "A key risk identified is the impact of AI on the tax and accounting industries, which could affect Intuit's core business.",
+        "status": "Future",
+        "observation_date": "2026-02-27",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "Key risks: AI impact on tax/accounting; health of SMBs."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Risk Factor",
+        "catalyst_topic": "Small and Medium Business (SMB) Health",
+        "catalyst_details": "The health of Small and Medium Businesses (SMBs) is identified as a key risk, as Intuit's products heavily cater to this market.",
+        "status": "Future",
+        "observation_date": "2026-02-27",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "Key risks: AI impact on tax/accounting; health of SMBs."
+      }
+    ],
+    "file_Id": "Intuit Inc. (INTU)_ Agent adoption and continued tax share gain will be key to proving out the moat.pdf"
+  },
+  "bullish_deep_analysis": {
+    "bullish_views": [
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Americas Software",
+        "industry": "Software",
+        "observation_date": "2026-02-27",
+        "bullish_debate_point": "Intuit's 2QFY26 results exceeded Street expectations across key financial metrics.",
+        "exact_sentences_in_the_file": "Revenue was 2.6% above, operating margin was ~250bps ahead, and EPS 13% above (FactSet). Within the GBS segment, QBO was 0.8% above and Online Services was 1.3% above. Within Consumer, CK was 8.1% above."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Americas Software",
+        "industry": "Software",
+        "observation_date": "2026-02-27",
+        "bullish_debate_point": "Intuit is effectively leveraging AI to enhance customer experience and possesses strong competitive moats.",
+        "exact_sentences_in_the_file": "Intuit directly addressed the ongoing market debate around its terminal value and detailed several ways it is leveraging AI to drive better customer experience. Intuit underscored domain expertise, their platform approach, and regulation/financial risk as moats. Intuit\u2019s platform leverages proprietary data, network effects (100m+ customers), domain-specific AI capabilities, and AI-powered human intelligence - with the key vision being AI and human intelligence working together."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Americas Software",
+        "industry": "Software",
+        "observation_date": "2026-02-27",
+        "bullish_debate_point": "AI-powered agents are seeing significant customer adoption and delivering measurable benefits.",
+        "exact_sentences_in_the_file": "3 mn customers have leveraged agents to do work for them, with an 85% repeat engagement rate. Management noted new AI-enabled QBO features like auto reconciliation, routing, and weather, some of which leverage outside LLMs, to save business owners time. On the tax side, 80% of customers are using automated data entry and their new cost basis agent lowers taxable income by $12,000. Credit Karma\u2019s Refund, Debt, and Tax Assistants aim to deliver done-for-you experiences, while Cards Optimizer and Credit Spark aim to promote engagement throughout the year."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Americas Software",
+        "industry": "Software",
+        "observation_date": "2026-02-27",
+        "bullish_debate_point": "Intuit is successfully expanding its mid-market presence with attractive unit economics and increased accountant influence.",
+        "exact_sentences_in_the_file": "Intuit continues to see attractive unit economics and are expanding their mid-market sales capacity by nearly 30%. QBO Advanced and IES grew 40%. Intuit signed partnerships with several top 20 accounting firms in 2Q, which coupled with new wholesale billing capabilites drove 1/3 of new contracts influence by accountant recommendations in 2Q vs. ~20% in 1Q."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Americas Software",
+        "industry": "Software",
+        "observation_date": "2026-02-27",
+        "bullish_debate_point": "TurboTax is gaining market share and the assisted tax segment is showing strong growth despite industry-wide declines in IRS returns.",
+        "exact_sentences_in_the_file": "Through Feb 6th, IRS returns were -5% y/y while TT revenue was +12% y/y; we expect to get more granular data at the Investor Day but management noted assisted was strong and CK continues to drive accelerating tax growth. TT has seen 5.1mn unique visitors to landing pages through 2/6 vs. 4.2mn in 2025, most of which are prior year assisted prospects."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Americas Software",
+        "industry": "Software",
+        "observation_date": "2026-02-27",
+        "bullish_debate_point": "Intuit is projected to achieve strong and consistent financial growth across key metrics, with a significant price target upside indicating valuation support.",
+        "exact_sentences_in_the_file": "at current valuations it may be possible to arrive at a level of valuation support even when discounting part of the tax business. INTU 12m Price Target: $519.00 Price: $394.42 Upside: 31.6%."
+      }
+    ],
+    "thesis_analysis": {
+      "central_thesis": "Intuit's strategic integration of AI into its core products, combined with its established platform moats and successful expansion into higher-value market segments, positions the company for sustained financial growth and enhanced customer value, despite competitive dynamics in certain areas.",
+      "sub_claims": [
+        {
+          "claim": "Intuit's AI strategy is effectively enhancing customer experience and product differentiation.",
+          "evidence_list": [
+            {
+              "evidence_type": "Company Statement",
+              "content": "Intuit directly addressed the ongoing market debate around its terminal value and detailed several ways it is leveraging AI to drive better customer experience.",
+              "is_objective": false,
+              "credibility_assessment": "High, direct from company."
+            },
+            {
+              "evidence_type": "Company Statement",
+              "content": "Intuit underscored domain expertise, their platform approach, and regulation/financial risk as moats.",
+              "is_objective": false,
+              "credibility_assessment": "High, company's self-assessment of competitive advantages."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "Intuit\u2019s platform leverages proprietary data, network effects (100m+ customers), domain-specific AI capabilities, and AI-powered human intelligence - with the key vision being AI and human intelligence working together.",
+              "is_objective": true,
+              "credibility_assessment": "High, describes existing platform and vision."
+            },
+            {
+              "evidence_type": "Analyst Opinion",
+              "content": "we believe the key to software differentiation with AI will be applying domain experience into better agentic outcomes, and we continue to look for examples of differentiated agentic experiences in Intuit products.",
+              "is_objective": false,
+              "credibility_assessment": "Medium, analyst's belief, but based on industry understanding."
+            },
+            {
+              "evidence_type": "Analyst Opinion",
+              "content": "we lean more positive on QuickBooks: we think Intuit should be able to marry their own data/LLMs, 3P models where necessary (e.g., a weather engine from Anthropic), and a deep understanding of how small business owners think/approach workflows to design agents that SMBs will actually adopt.",
+              "is_objective": false,
+              "credibility_assessment": "Medium, analyst's positive outlook based on Intuit's capabilities."
+            },
+            {
+              "evidence_type": "Analyst Opinion",
+              "content": "In Tax, we believe the key will be to what extent Intuit can capture more accretive share in Assisted while managing competitive risks at the low end. At the high end, we believe Intuit can offer a better experience than peers at better unit economics, and will likely benefit from demographic shifts.",
+              "is_objective": false,
+              "credibility_assessment": "Medium, analyst's strategic assessment."
+            }
+          ]
+        },
+        {
+          "claim": "AI-powered agent adoption is gaining traction and delivering tangible benefits to customers.",
+          "evidence_list": [
+            {
+              "evidence_type": "Fact",
+              "content": "3 mn customers have leveraged agents to do work for them, with an 85% repeat engagement rate.",
+              "is_objective": true,
+              "credibility_assessment": "High, direct company reported metrics."
+            },
+            {
+              "evidence_type": "Company Statement",
+              "content": "Management noted new AI-enabled QBO features like auto reconciliation, routing, and weather, some of which leverage outside LLMs, to save business owners time.",
+              "is_objective": true,
+              "credibility_assessment": "High, company's product announcement."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "On the tax side, 80% of customers are using automated data entry and their new cost basis agent lowers taxable income by $12,000.",
+              "is_objective": true,
+              "credibility_assessment": "High, company reported metrics and benefit."
+            },
+            {
+              "evidence_type": "Company Statement",
+              "content": "Credit Karma\u2019s Refund, Debt, and Tax Assistants aim to deliver done-for-you experiences, while Cards Optimizer and Credit Spark aim to promote engagement throughout the year.",
+              "is_objective": true,
+              "credibility_assessment": "High, company's product strategy."
+            }
+          ]
+        },
+        {
+          "claim": "Intuit is successfully expanding its presence in the higher-value mid-market segment.",
+          "evidence_list": [
+            {
+              "evidence_type": "Company Statement",
+              "content": "Intuit continues to see attractive unit economics and are expanding their mid-market sales capacity by nearly 30%.",
+              "is_objective": true,
+              "credibility_assessment": "High, company's strategic action."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "QBO Advanced and IES grew 40%.",
+              "is_objective": true,
+              "credibility_assessment": "High, company reported financial metric."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "Intuit signed partnerships with several top 20 accounting firms in 2Q, which coupled with new wholesale billing capabilites drove 1/3 of new contracts influence by accountant recommendations in 2Q vs. ~20% in 1Q.",
+              "is_objective": true,
+              "credibility_assessment": "High, company reported business development and sales metrics."
+            }
+          ]
+        },
+        {
+          "claim": "Intuit's financial performance and outlook remain strong, with significant upside potential.",
+          "evidence_list": [
+            {
+              "evidence_type": "Analyst Forecast",
+              "content": "Revenue ($ mn) New 18,831.0 (7/25) 21,319.0 (7/26E) 23,823.7 (7/27E) 26,349.6 (7/28E)",
+              "is_objective": true,
+              "credibility_assessment": "High, Goldman Sachs Research estimates."
+            },
+            {
+              "evidence_type": "Analyst Forecast",
+              "content": "EBITDA ($ mn) 8,381.0 (7/25) 9,581.3 (7/26E) 10,896.0 (7/27E) 12,253.9 (7/28E)",
+              "is_objective": true,
+              "credibility_assessment": "High, Goldman Sachs Research estimates."
+            },
+            {
+              "evidence_type": "Analyst Forecast",
+              "content": "EPS ($) New 20.19 (7/25) 23.07 (7/26E) 27.31 (7/27E) 32.03 (7/28E)",
+              "is_objective": true,
+              "credibility_assessment": "High, Goldman Sachs Research estimates."
+            },
+            {
+              "evidence_type": "Analyst Forecast",
+              "content": "Total revenue growth: 15.6% (7/25), 13.2% (7/26E), 11.7% (7/27E), 10.6% (7/28E)",
+              "is_objective": true,
+              "credibility_assessment": "High, Goldman Sachs Research estimates."
+            },
+            {
+              "evidence_type": "Analyst Forecast",
+              "content": "EPS growth: 19.1% (7/25), 14.3% (7/26E), 18.4% (7/27E), 17.3% (7/28E)",
+              "is_objective": true,
+              "credibility_assessment": "High, Goldman Sachs Research estimates."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "Revenue was 2.6% above, operating margin was ~250bps ahead, and EPS 13% above (FactSet).",
+              "is_objective": true,
+              "credibility_assessment": "High, reported actuals."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "TT revenue was +12% y/y while IRS returns were -5% y/y.",
+              "is_objective": true,
+              "credibility_assessment": "High, reported actuals."
+            },
+            {
+              "evidence_type": "Analyst Opinion",
+              "content": "at current valuations it may be possible to arrive at a level of valuation support even when discounting part of the tax business.",
+              "is_objective": false,
+              "credibility_assessment": "Medium, analyst's assessment of valuation floor."
+            },
+            {
+              "evidence_type": "Analyst Target",
+              "content": "INTU 12m Price Target: $519.00 Price: $394.42 Upside: 31.6%",
+              "is_objective": true,
+              "credibility_assessment": "High, Goldman Sachs official price target."
+            }
+          ]
+        }
+      ]
+    },
+    "file_Id": "Intuit Inc. (INTU)_ Agent adoption and continued tax share gain will be key to proving out the moat.pdf"
+  },
+  "bearish_analysis": {
+    "bearish_views": [
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Americas Software",
+        "industry": "Software",
+        "observation_date": "2026-02-27",
+        "bearish_debate_point": "3Q EPS guidance is below Street expectations.",
+        "exact_sentences_in_the_file": "INTU is indicated -4% post 2QFY26 results that beat, but 3Q EPS guidance that is below the Street: Revenue was 2.6% above, operating margin was ~250bps ahead, and EPS 13% above (FactSet). FY26 guidance is unchanged (typically unchanged until 3Q when tax season is over) and 3Q revenue guidance is in line with the Street, but 3Q EPS was guided 4% below."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Americas Software",
+        "industry": "Software",
+        "observation_date": "2026-02-27",
+        "bearish_debate_point": "Signs of new competition in the low-end tax market.",
+        "exact_sentences_in_the_file": "We lean less constructive at the low end, as we believe there are already signs of new competition, LLMs already have consumer distribution, and our 10+ years covering cybersecurity suggest that consumers generally place less weight on security/privacy risks (although this will likely vary by customer cohort)."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Americas Software",
+        "industry": "Software",
+        "observation_date": "2026-02-27",
+        "bearish_debate_point": "Large Language Models (LLMs) already have consumer distribution, posing a competitive risk in the low-end tax market.",
+        "exact_sentences_in_the_file": "We lean less constructive at the low end, as we believe there are already signs of new competition, LLMs already have consumer distribution, and our 10+ years covering cybersecurity suggest that consumers generally place less weight on security/privacy risks (although this will likely vary by customer cohort)."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Americas Software",
+        "industry": "Software",
+        "observation_date": "2026-02-27",
+        "bearish_debate_point": "Consumers generally place less weight on security/privacy risks, which could undermine Intuit's competitive moat, especially at the low end of the tax market.",
+        "exact_sentences_in_the_file": "We lean less constructive at the low end, as we believe there are already signs of new competition, LLMs already have consumer distribution, and our 10+ years covering cybersecurity suggest that consumers generally place less weight on security/privacy risks (although this will likely vary by customer cohort)."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Americas Software",
+        "industry": "Software",
+        "observation_date": "2026-02-27",
+        "bearish_debate_point": "Lowering of the 12-month price target due to lower peer multiples.",
+        "exact_sentences_in_the_file": "We lower our 12-month price target to $519 (from $720), based on 19x (27x previously due to lower peer multiples) our rolled-forward Q5-Q8 EPS."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Americas Software",
+        "industry": "Software",
+        "observation_date": "2026-02-27",
+        "bearish_debate_point": "Risk from AI impact on tax/accounting.",
+        "exact_sentences_in_the_file": "Key risks: AI impact on tax/accounting; health of SMBs."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Americas Software",
+        "industry": "Software",
+        "observation_date": "2026-02-27",
+        "bearish_debate_point": "Risk from the health of Small and Medium Businesses (SMBs).",
+        "exact_sentences_in_the_file": "Key risks: AI impact on tax/accounting; health of SMBs."
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "sector": "Americas Software",
+        "industry": "Software",
+        "observation_date": "2026-02-27",
+        "bearish_debate_point": "Downward revision of revenue estimates for FY26, FY27, and FY28.",
+        "exact_sentences_in_the_file": "We adjust our 2026E/2027E/2028E revenue estimates on the report to $21,319/$23,824mn/$26,350mn from $21,686/$24,534mn/ $27,260mn."
+      }
+    ],
+    "file_Id": "Intuit Inc. (INTU)_ Agent adoption and continued tax share gain will be key to proving out the moat.pdf"
+  },
+  "factual_data": {
+    "facts": [
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's market capitalization is $115.9 billion.",
+        "is_recent_update": false,
+        "original_sentence": "Market cap: $115.9bn"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's enterprise value is $117.3 billion.",
+        "is_recent_update": false,
+        "original_sentence": "Enterprise value: $117.3bn"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's 3-month average daily trading volume (ADTV) is $1.6 billion.",
+        "is_recent_update": false,
+        "original_sentence": "3m ADTV: $1.6bn"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Company Information",
+        "fact_summary": "Intuit is based in the United States.",
+        "is_recent_update": false,
+        "original_sentence": "United States"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Company Information",
+        "fact_summary": "Intuit operates in the Americas Software sector.",
+        "is_recent_update": false,
+        "original_sentence": "Americas Software"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Company Information",
+        "fact_summary": "Intuit has an M&A Rank of 3.",
+        "is_recent_update": false,
+        "original_sentence": "M&A Rank: 3"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's revenue for July 2025 was $18,831.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Revenue ( $ mn) New 18,831.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's EBITDA for July 2025 was $8,381.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "EBITDA ($ mn) 8,381.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's EBIT for July 2025 was $7,572.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "EBIT ($ mn) 7,572.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's EPS for July 2025 was $20.19.",
+        "is_recent_update": false,
+        "original_sentence": "EPS ( $) New 20.19"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's P/E ratio for July 2025 was 32.2x.",
+        "is_recent_update": false,
+        "original_sentence": "P/E (X) 32.2"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's dividend yield for July 2025 was 0.7%.",
+        "is_recent_update": false,
+        "original_sentence": "Dividend yield (%) 0. 7"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's net debt/EBITDA ratio for July 2025 was 0.4x.",
+        "is_recent_update": false,
+        "original_sentence": "Net debt/EBITDA (X) 0.4"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's EPS for January 2026 was $4.14.",
+        "is_recent_update": false,
+        "original_sentence": "EPS ($) 4.14"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Stock Performance",
+        "fact_summary": "Intuit's stock is indicated -4% after its 2QFY26 results.",
+        "is_recent_update": true,
+        "original_sentence": "INTU is indicated -4% post 2QFY26 results that beat, but 3Q EPS guidance that is below the Street"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's 2QFY26 revenue was 2.6% above estimates.",
+        "is_recent_update": true,
+        "original_sentence": "Revenue was 2.6% above"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's 2QFY26 operating margin was approximately 250 basis points ahead of estimates.",
+        "is_recent_update": true,
+        "original_sentence": "operating margin was ~250bps ahead"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's 2QFY26 EPS was 13% above estimates (FactSet).",
+        "is_recent_update": true,
+        "original_sentence": "and EPS 13% above (FactSet)."
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's FY26 guidance remains unchanged.",
+        "is_recent_update": true,
+        "original_sentence": "FY26 guidance is unchanged (typically unchanged until 3Q when tax season is over)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's 3Q revenue guidance is in line with Street expectations.",
+        "is_recent_update": true,
+        "original_sentence": "and 3Q revenue guidance is in line with the Street"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's 3Q EPS was guided 4% below estimates.",
+        "is_recent_update": true,
+        "original_sentence": "but 3Q EPS was guided 4% below."
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Product Performance",
+        "fact_summary": "Within the GBS segment, QuickBooks Online (QBO) performed 0.8% above estimates.",
+        "is_recent_update": true,
+        "original_sentence": "Within the GBS segment, QBO was 0.8% above"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Product Performance",
+        "fact_summary": "Within the GBS segment, Online Services performed 1.3% above estimates.",
+        "is_recent_update": true,
+        "original_sentence": "and Online Services was 1.3% above."
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Product Performance",
+        "fact_summary": "Within the Consumer segment, TurboTax performed 0.6% below estimates.",
+        "is_recent_update": true,
+        "original_sentence": "Within Consumer, TurboTax was -0.6% below (seasonally less important qtr)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Product Performance",
+        "fact_summary": "Within the Consumer segment, Credit Karma (CK) performed 8.1% above estimates.",
+        "is_recent_update": true,
+        "original_sentence": "and CK was 8.1% above."
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Company Strategy",
+        "fact_summary": "Intuit addressed the market debate around its terminal value and detailed how it leverages AI for customer experience.",
+        "is_recent_update": true,
+        "original_sentence": "Intuit directly addressed the ongoing market debate around its terminal value and detailed several ways it is leveraging AI to drive better customer experience."
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Company Strategy",
+        "fact_summary": "Intuit highlighted domain expertise, its platform approach, and regulation/financial risk as competitive advantages (moats).",
+        "is_recent_update": true,
+        "original_sentence": "Intuit underscored domain expertise, their platform approach, and regulation/financial risk as moats."
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Company Operations",
+        "fact_summary": "Intuit's platform utilizes proprietary data, network effects, domain-specific AI capabilities, and AI-powered human intelligence.",
+        "is_recent_update": false,
+        "original_sentence": "Intuit\u2019s platform leverages proprietary data, network effects (100m+ customers), domain-specific AI capabilities, and AI-powered human intelligence - with the key vision being AI and human intelligence working together."
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Customer Base",
+        "fact_summary": "Intuit has over 100 million customers.",
+        "is_recent_update": false,
+        "original_sentence": "network effects (100m+ customers)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's EV/EBITDA ratio for July 2025 was 22.1x.",
+        "is_recent_update": false,
+        "original_sentence": "EV/EBITDA (X) 22.1"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's EV/sales ratio for July 2025 was 9.8x.",
+        "is_recent_update": false,
+        "original_sentence": "EV/sales (X) 9.8"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's FCF yield for July 2025 was 2.0%.",
+        "is_recent_update": false,
+        "original_sentence": "FCF yield (%) 2.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's EV/DACF ratio for July 2025 was 28.8x.",
+        "is_recent_update": false,
+        "original_sentence": "EV/DACF (X) 28.8"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's CROCI for July 2025 was 23.9%.",
+        "is_recent_update": false,
+        "original_sentence": "CROCI (%) 23.9"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's ROE for July 2025 was 29.9%.",
+        "is_recent_update": false,
+        "original_sentence": "ROE (%) 29.9"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's net debt/equity ratio for July 2025 was 15.7%.",
+        "is_recent_update": false,
+        "original_sentence": "Net debt /equit y (%) 15.7"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's interest cover for July 2025 was 30.7x.",
+        "is_recent_update": false,
+        "original_sentence": "Interest cover (X) 30.7"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's receivable days for July 2025 were 30.7.",
+        "is_recent_update": false,
+        "original_sentence": "Receivable days 30.7"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's days payable outstanding for July 2025 were 698.4.",
+        "is_recent_update": false,
+        "original_sentence": "Days payable outstanding 698.4"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's total revenue growth for July 2025 was 15.6%.",
+        "is_recent_update": false,
+        "original_sentence": "Tot al r evenue gr ow t h 15.6"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's EBITDA growth for July 2025 was 16.6%.",
+        "is_recent_update": false,
+        "original_sentence": "EBITDA gr ow t h 16.6"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's EPS growth for July 2025 was 19.1%.",
+        "is_recent_update": false,
+        "original_sentence": "EPS growth 19.1"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's DPS growth for July 2025 was 15.1%.",
+        "is_recent_update": false,
+        "original_sentence": "DPS gr ow t h 15.1"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's gross margin for July 2025 was 82.6%.",
+        "is_recent_update": false,
+        "original_sentence": "Gr oss mar gin 82.6"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's EBIT margin for July 2025 was 40.2%.",
+        "is_recent_update": false,
+        "original_sentence": "EBIT mar gin 40.2"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Stock Performance",
+        "fact_summary": "Intuit's absolute stock performance over 3 months was -37.3%.",
+        "is_recent_update": false,
+        "original_sentence": "Absolut e (37.3)%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Stock Performance",
+        "fact_summary": "Intuit's absolute stock performance over 6 months was -40.2%.",
+        "is_recent_update": false,
+        "original_sentence": "Absolut e (40.2)%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Stock Performance",
+        "fact_summary": "Intuit's absolute stock performance over 12 months was -36.9%.",
+        "is_recent_update": false,
+        "original_sentence": "Absolut e (36.9)%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Stock Performance",
+        "fact_summary": "Intuit's stock performance relative to the S&P 500 over 3 months was -38.2%.",
+        "is_recent_update": false,
+        "original_sentence": "Rel. t o t he S&P 500 (38.2)%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Stock Performance",
+        "fact_summary": "Intuit's stock performance relative to the S&P 500 over 6 months was -44.0%.",
+        "is_recent_update": false,
+        "original_sentence": "Rel. t o t he S&P 500 (44.0)%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Stock Performance",
+        "fact_summary": "Intuit's stock performance relative to the S&P 500 over 12 months was -45.6%.",
+        "is_recent_update": false,
+        "original_sentence": "Rel. t o t he S&P 500 (45.6)%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's total revenue for July 2025 was $18,831.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Total revenue 18,831.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's cost of goods sold for July 2025 was $(3,269.0) million.",
+        "is_recent_update": false,
+        "original_sentence": "Cost of goods sold (3,269.0)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's SG&A for July 2025 was $(5,720.0) million.",
+        "is_recent_update": false,
+        "original_sentence": "SG&A (5,720.0)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's R&D for July 2025 was $(2,314.0) million.",
+        "is_recent_update": false,
+        "original_sentence": "R&D (2,3 14.0)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's other operating income/(expense) for July 2025 was $44.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Ot her oper at ing inc./(exp.) 44.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's EBITDA for July 2025 was $8,381.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "EBITDA 8,381.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's depreciation & amortization for July 2025 was $(809.0) million.",
+        "is_recent_update": false,
+        "original_sentence": "Depr eciat ion & amor t iz at ion (809.0)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's EBIT for July 2025 was $7,572.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "EBIT 7,572.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's net interest income/(expense) for July 2025 was $(68.0) million.",
+        "is_recent_update": false,
+        "original_sentence": "Net interest inc./(exp.) (68.0)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's pre-tax profit for July 2025 was $7,504.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Pre- tax profit 7,504.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's provision for taxes for July 2025 was $(1,801.0) million.",
+        "is_recent_update": false,
+        "original_sentence": "Pr ovision f or t axes ( 1,801.0)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's net income (pre-exceptionals) for July 2025 was $5,703.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Net inc. (pre- exceptionals) 5 ,703.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's net income (post-exceptionals) for July 2025 was $3,869.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Net inc. (post-exceptionals) 3,869.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's basic EPS (pre-exceptionals) for July 2025 was $20.39.",
+        "is_recent_update": false,
+        "original_sentence": "EPS (basic, pre-except) ($ ) 2 0.39"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's diluted EPS (pre-exceptionals) for July 2025 was $20.19.",
+        "is_recent_update": false,
+        "original_sentence": "EPS (diluted, pre-except) ($ ) 2 0.19"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's DPS for July 2025 was $4.25.",
+        "is_recent_update": false,
+        "original_sentence": "DPS ($) 4.25"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's dividend payout ratio for July 2025 was 20.8%.",
+        "is_recent_update": false,
+        "original_sentence": "Div. payout ratio (%) 20.8"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's weighted average basic shares outstanding for July 2025 was 279.8 million.",
+        "is_recent_update": false,
+        "original_sentence": "Wtd avg shares out. (basic) (mn) 279.8"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's weighted average diluted shares outstanding for July 2025 was 282.5 million.",
+        "is_recent_update": false,
+        "original_sentence": "Wtd avg shares out. (diluted) (mn) 282.5"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's cash & cash equivalents for July 2025 were $2,884.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Cash & cash equivalent s 2,884.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's accounts receivable for July 2025 were $1,933.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Account s r eceivable 1,933.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's other current assets for July 2025 were $9,290.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Ot her cur r ent asset s 9,290.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's total current assets for July 2025 were $14,107.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Total current assets 14,107.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's net PP&E for July 2025 was $1,502.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Net PP&E 1,502.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's net intangibles for July 2025 were $19,282.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Net intangibles 19,282.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's total investments for July 2025 were $94.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Total invest ment s 94.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's other long-term assets for July 2025 were $1,973.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Ot her long-t er m asset s 1,973.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's total assets for July 2025 were $36,958.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Total assets 3 6,958.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's accounts payable for July 2025 were $7,868.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Account s payable 7,868.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's other current liabilities for July 2025 were $2,502.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Ot her cur r ent liabilities 2, 502.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's total current liabilities for July 2025 were $10,370.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Total current liabilities 10,370.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's long-term debt for July 2025 was $5,973.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Long-t er m debt 5,973.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's non-current lease liabilities for July 2025 were $597.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Non-cur r ent lease liabilities 597.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's other long-term liabilities for July 2025 were $308.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Ot her long-t er m liabilities 308.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's total long-term liabilities for July 2025 were $6,878.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Total long-term liabilities 6,878.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's total liabilities for July 2025 were $17,248.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Total liabilities 17,248.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's total common equity for July 2025 was $19,710.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Total common equity 19,710.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's total liabilities & equity for July 2025 was $36,958.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Total liabilities & equity 3 6,958.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's book value per share (BVPS) for July 2025 was $69.77.",
+        "is_recent_update": false,
+        "original_sentence": "BVPS ($) 69.77"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's net income for July 2025 was $3,869.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Net income 3,869.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's D&A add-back for July 2025 was $809.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "D&A add-back 809.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's net (increase)/decrease in working capital for July 2025 was $(206.0) million.",
+        "is_recent_update": false,
+        "original_sentence": "Net (inc)/dec wor king capit al (206.0)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's cash flow from operations for July 2025 was $6,207.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Cash flow from operations 6,207.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's capital expenditures for July 2025 were $(2,487.0) million.",
+        "is_recent_update": false,
+        "original_sentence": "Capit al expendit ur es (2,487.0)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's acquisitions for July 2025 were $(184.0) million.",
+        "is_recent_update": false,
+        "original_sentence": "Acquisit ions (184.0)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's cash flow from investing for July 2025 was $(2,318.0) million.",
+        "is_recent_update": false,
+        "original_sentence": "Cash flow from investing ( 2,318.0)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's dividends paid for July 2025 were $(1,189.0) million.",
+        "is_recent_update": false,
+        "original_sentence": "Dividends paid (1,189.0)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's share issuance/(repurchase) for July 2025 was $(3,356.0) million.",
+        "is_recent_update": false,
+        "original_sentence": "Shar e issuance/(r epur chase) (3,356.0)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's increase/(decrease) in debt for July 2025 was $(71.0) million.",
+        "is_recent_update": false,
+        "original_sentence": "Inc/(dec) in debt (71.0)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's cash flow from financing for July 2025 was $(4,614.0) million.",
+        "is_recent_update": false,
+        "original_sentence": "Cash flow from financing (4, 614.0)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's total cash flow for July 2025 was $(725.0) million.",
+        "is_recent_update": false,
+        "original_sentence": "Total cash flow ( 725.0)"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's free cash flow for July 2025 was $3,720.0 million.",
+        "is_recent_update": false,
+        "original_sentence": "Free cash flow 3,720.0"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's free cash flow per share (basic) for July 2025 was $13.30.",
+        "is_recent_update": false,
+        "original_sentence": "Free cash flow per share (basic) ($) 13.30"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Company Rating",
+        "fact_summary": "Intuit Inc. (INTU) has had a NEUTRAL rating since January 11, 2026.",
+        "is_recent_update": true,
+        "original_sentence": "Intuit Inc. (INTU) Rating since Jan 11, 2026NEUTRAL"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Product Usage",
+        "fact_summary": "3 million customers have leveraged agents to do work for them, with an 85% repeat engagement rate.",
+        "is_recent_update": true,
+        "original_sentence": "3 mn customers have leveraged agents to do work for them, with 1. an 85% repeat engagement rate."
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Product Features",
+        "fact_summary": "New AI-enabled QuickBooks Online (QBO) features include auto reconciliation, routing, and weather.",
+        "is_recent_update": true,
+        "original_sentence": "Management noted new AI-enabled QBO features like auto reconciliation, routing, and weather, some of which leverage outside LLMs, to save business owners time."
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Product Usage",
+        "fact_summary": "On the tax side, 80% of customers are using automated data entry.",
+        "is_recent_update": true,
+        "original_sentence": "On the tax side, 80% of customers are using automated data entry"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Product Features",
+        "fact_summary": "Intuit's new cost basis agent lowers taxable income by $12,000.",
+        "is_recent_update": true,
+        "original_sentence": "and their new cost basis agent lowers taxable income by $12,000."
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Product Strategy",
+        "fact_summary": "Credit Karma\u2019s Refund, Debt, and Tax Assistants aim to deliver done-for-you experiences.",
+        "is_recent_update": true,
+        "original_sentence": "Credit Karma\u2019s Refund, Debt, and Tax Assistants aim to deliver done-for-you experiences, while Cards Optimizer and Credit Spark aim to promote engagement throughout the year."
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Business Development",
+        "fact_summary": "Intuit is expanding its mid-market sales capacity by nearly 30%.",
+        "is_recent_update": true,
+        "original_sentence": "Intuit continues to see attractive unit economics and are expanding their mid-market sales capacity by nearly 30%."
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Product Performance",
+        "fact_summary": "QBO Advanced and IES grew 40%.",
+        "is_recent_update": true,
+        "original_sentence": "QBO Advanced and IES grew 40%."
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Partnerships",
+        "fact_summary": "Intuit signed partnerships with several top 20 accounting firms in 2Q.",
+        "is_recent_update": true,
+        "original_sentence": "Intuit signed partnerships with several top 20 accounting firms in 2Q, which coupled with new wholesale billing capabilites drove 1/3 of new contracts influence by accountant recommendations in 2Q vs. ~20% in 1Q."
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Sales Performance",
+        "fact_summary": "New contracts influenced by accountant recommendations in 2Q accounted for 1/3, compared to approximately 20% in 1Q.",
+        "is_recent_update": true,
+        "original_sentence": "which coupled with new wholesale billing capabilites drove 1/3 of new contracts influence by accountant recommendations in 2Q vs. ~20% in 1Q."
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Market Data",
+        "fact_summary": "Through February 6th, IRS returns were down 5% year-over-year.",
+        "is_recent_update": true,
+        "original_sentence": "Through Feb 6th, IRS returns were -5% y/y while TT revenue was +12% y/y"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Product Performance",
+        "fact_summary": "Through February 6th, TurboTax (TT) revenue was up 12% year-over-year.",
+        "is_recent_update": true,
+        "original_sentence": "Through Feb 6th, IRS returns were -5% y/y while TT revenue was +12% y/y"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Product Usage",
+        "fact_summary": "TurboTax (TT) saw 5.1 million unique visitors to landing pages through February 6th, compared to 4.2 million in 2025.",
+        "is_recent_update": true,
+        "original_sentence": "TT has seen 5.1mn unique visitors to landing pages through 2/6 vs. 4.2mn in 2025, most of which are prior year assisted prospects."
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's actual total revenue for 2QFY26 was $4,651 million.",
+        "is_recent_update": true,
+        "original_sentence": "Total Revenue $4,651"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's total revenue year-over-year growth for 2QFY26 was 17%.",
+        "is_recent_update": true,
+        "original_sentence": "%yoy 17%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's actual gross profit for 2QFY26 was $3,746 million.",
+        "is_recent_update": true,
+        "original_sentence": "Gross Profit $3,746"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's gross profit margin for 2QFY26 was 81%.",
+        "is_recent_update": true,
+        "original_sentence": "% margin 81%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's gross profit year-over-year growth for 2QFY26 was 18%.",
+        "is_recent_update": true,
+        "original_sentence": "% yoy 18%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's actual operating income for 2QFY26 was $1,549 million.",
+        "is_recent_update": true,
+        "original_sentence": "Operating Income $1,549"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's operating income margin for 2QFY26 was 33%.",
+        "is_recent_update": true,
+        "original_sentence": "% margin 33%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's operating income year-over-year growth for 2QFY26 was 23%.",
+        "is_recent_update": true,
+        "original_sentence": "% yoy 23%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's actual adjusted EPS for 2QFY26 was $4.15.",
+        "is_recent_update": true,
+        "original_sentence": "EPS (Adj.) $4.15"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's adjusted EPS year-over-year growth for 2QFY26 was 25.1%.",
+        "is_recent_update": true,
+        "original_sentence": "% yoy 25.1%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's actual free cash flow for 2QFY26 was $1,524 million.",
+        "is_recent_update": true,
+        "original_sentence": "Free Cash Flow $1,524"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's free cash flow margin for 2QFY26 was 33%.",
+        "is_recent_update": true,
+        "original_sentence": "% margin 33%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's free cash flow year-over-year growth for 2QFY26 was 47%.",
+        "is_recent_update": true,
+        "original_sentence": "% yoy 47%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's diluted shares outstanding for 2QFY26 were 280 million.",
+        "is_recent_update": true,
+        "original_sentence": "Dil. Shares Outstanding 280"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Financials",
+        "fact_summary": "Intuit's diluted shares outstanding year-over-year change for 2QFY26 was -1.1%.",
+        "is_recent_update": true,
+        "original_sentence": "%yoy -1.1%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Segment Performance",
+        "fact_summary": "Intuit's Global Business Solutions (GBS) segment revenue for 2QFY26 was $3,164 million.",
+        "is_recent_update": true,
+        "original_sentence": "Global Business Solutions (GBS) $3,164"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Segment Performance",
+        "fact_summary": "Intuit's GBS segment year-over-year growth for 2QFY26 was 18%.",
+        "is_recent_update": true,
+        "original_sentence": "%yoy 18%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Segment Performance",
+        "fact_summary": "Intuit's QuickBooks Online (QBO) revenue for 2QFY26 was $1,248 million.",
+        "is_recent_update": true,
+        "original_sentence": "QuickBooks Online (QBO) $ 1,248"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Segment Performance",
+        "fact_summary": "Intuit's QBO year-over-year growth for 2QFY26 was 24%.",
+        "is_recent_update": true,
+        "original_sentence": "%yoy 24%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Segment Performance",
+        "fact_summary": "Intuit's Online Services revenue for 2QFY26 was $1,219 million.",
+        "is_recent_update": true,
+        "original_sentence": "Online Services $1,219"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Segment Performance",
+        "fact_summary": "Intuit's Online Services year-over-year growth for 2QFY26 was 18%.",
+        "is_recent_update": true,
+        "original_sentence": "%yoy 18%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Segment Performance",
+        "fact_summary": "Intuit's Consumer segment revenue for 2QFY26 was $1,487 million.",
+        "is_recent_update": true,
+        "original_sentence": "Consumer $1,487"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Segment Performance",
+        "fact_summary": "Intuit's Consumer segment year-over-year growth for 2QFY26 was 15%.",
+        "is_recent_update": true,
+        "original_sentence": "%yoy 15%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Segment Performance",
+        "fact_summary": "Intuit's TurboTax revenue for 2QFY26 was $581 million.",
+        "is_recent_update": true,
+        "original_sentence": "TurboTax $581"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Segment Performance",
+        "fact_summary": "Intuit's TurboTax year-over-year growth for 2QFY26 was 12%.",
+        "is_recent_update": true,
+        "original_sentence": "%yoy 12%"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Segment Performance",
+        "fact_summary": "Intuit's Credit Karma revenue for 2QFY26 was $616 million.",
+        "is_recent_update": true,
+        "original_sentence": "CreditKarma $616"
+      },
+      {
+        "company": "Intuit Inc.",
+        "fact_category": "Segment Performance",
+        "fact_summary": "Intuit's Credit Karma year-over-year growth for 2QFY26 was 23%.",
+        "is_recent_update": true,
+        "original_sentence": "%yoy 23%"
+      },
+      {
+        "company": "Goldman Sachs",
+        "fact_category": "Business Relationship",
+        "fact_summary": "Goldman Sachs expects to receive or intends to seek compensation for investment banking services from Intuit Inc. in the next 3 months.",
+        "is_recent_update": false,
+        "original_sentence": "Goldman Sachs expects to receive or intends to seek compensation for investment banking services in the next 3 months: Intuit Inc. ($394.42)"
+      },
+      {
+        "company": "Goldman Sachs",
+        "fact_category": "Business Relationship",
+        "fact_summary": "Goldman Sachs had an investment banking services client relationship with Intuit Inc. during the past 12 months.",
+        "is_recent_update": false,
+        "original_sentence": "Goldman Sachs had an investment banking services client relationship during the past 12 months with: Intuit Inc. ($394.42)"
+      },
+      {
+        "company": "Goldman Sachs",
+        "fact_category": "Business Relationship",
+        "fact_summary": "Goldman Sachs had a non-securities services client relationship with Intuit Inc. during the past 12 months.",
+        "is_recent_update": false,
+        "original_sentence": "Goldman Sachs had a non-securities services client relationship during the past 12 months with: Intuit Inc. ($394.42)"
+      },
+      {
+        "company": "Goldman Sachs",
+        "fact_category": "Business Relationship",
+        "fact_summary": "Goldman Sachs makes a market in the securities or derivatives of Intuit Inc.",
+        "is_recent_update": false,
+        "original_sentence": "Goldman Sachs makes a market in the securities or derivatives thereof: Intuit Inc. ($394.42)"
+      },
+      {
+        "company": "Goldman Sachs",
+        "fact_category": "Company Information",
+        "fact_summary": "As of January 1, 2026, Goldman Sachs Global Investment Research had investment ratings on 3,055 equity securities.",
+        "is_recent_update": false,
+        "original_sentence": "As of January 1, 2026, Goldman Sachs Global Investment Research had investment ratings on 3,055 equity securities."
+      },
+      {
+        "company": "Goldman Sachs",
+        "fact_category": "Company Information",
+        "fact_summary": "Goldman Sachs' global equity coverage universe rating distribution is 50% Buy, 34% Hold, and 16% Sell.",
+        "is_recent_update": false,
+        "original_sentence": "Global 50% 34% 16%"
+      },
+      {
+        "company": "Goldman Sachs",
+        "fact_category": "Company Information",
+        "fact_summary": "Goldman Sachs' investment banking relationships for its global equity coverage universe are 65% for Buy-rated companies, 61% for Hold-rated companies, and 46% for Sell-rated companies.",
+        "is_recent_update": false,
+        "original_sentence": "Investment Banking Relationships Buy 65% 61% 46%"
+      }
+    ],
+    "file_Id": "Intuit Inc. (INTU)_ Agent adoption and continued tax share gain will be key to proving out the moat.pdf"
+  },
+  "relationship_mapping": {
+    "relationships": [
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Goldman Sachs",
+        "ticker": "",
+        "relationship_type": "Partner",
+        "relationship_description": "Goldman Sachs provides investment banking services to Intuit, had a non-securities services client relationship, and makes a market in Intuit's securities.",
+        "quantifier": "expects to receive or intends to seek compensation, had an investment banking services client relationship during the past 12 months, had a non-securities services client relationship during the past 12 months, makes a market",
+        "original_sentence": "Goldman Sachs expects to receive or intends to seek compensation for investment banking services in the next 3 months: Intuit Inc. ($394.42) Goldman Sachs had an investment banking services client relationship during the past 12 months with: Intuit Inc. ($394.42) Goldman Sachs had a non-securities services client relationship during the past 12 months with: Intuit Inc. ($394.42) Goldman Sachs makes a market in the securities or derivatives thereof: Intuit Inc. ($394.42)"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Anthropic",
+        "ticker": "",
+        "relationship_type": "Supplier",
+        "relationship_description": "Intuit leverages Anthropic's 3P models (e.g., a weather engine) for its AI capabilities.",
+        "quantifier": "3P models where necessary",
+        "original_sentence": "we think Intuit should be able to marry their own data/LLMs, 3P models where necessary (e.g., a weather engine from Anthropic), and a deep understanding of how small business owners think/approach workflows to design agents that SMBs will actually adopt."
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Adobe Inc.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Akamai Technologies Inc.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "AvePoint",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Braze Inc.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Check Point",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Cloudflare",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Commerce.com Inc.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "CoreWeave Inc.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "CrowdStrike",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Datadog Inc.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "DigitalOcean Holdings",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "EverCommerce Inc.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Figma Inc.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Fortinet",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "HubSpot Inc.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Klaviyo",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Microsoft Corp.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Navan Inc.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Okta",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Oracle Corp.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Palantir Technologies",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Palo Alto Networks",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "SailPoint Inc.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Salesforce Inc.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "SentinelOne",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "ServiceNow Inc.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Shopify Inc.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Snowflake Inc.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Workday Inc.",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Zeta Global",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      },
+      {
+        "source_company": "Intuit Inc.",
+        "target_company": "Zscaler",
+        "ticker": "",
+        "relationship_type": "Peer",
+        "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+        "quantifier": "other companies in its/their coverage universe",
+        "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+      }
+    ],
+    "file_Id": "Intuit Inc. (INTU)_ Agent adoption and continued tax share gain will be key to proving out the moat.pdf"
+  }
+}

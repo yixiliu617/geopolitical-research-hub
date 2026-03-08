@@ -1,0 +1,68 @@
+{
+  "bearish_views": [
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bearish_debate_point": "Increased competitive pressure from relational database incumbents, particularly from Hyperscalers like Oracle, Microsoft, AWS, and GCP.",
+      "exact_sentences_in_the_file": "Key downside risks include: 1) Increased competitive pressure from relational database incumbents, particularly from Hyperscalers like Oracle, Microsoft, AWS, and GCP"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bearish_debate_point": "Broader standardization around Postgres impacts MongoDB\u2019s win rates and expansion opportunities.",
+      "exact_sentences_in_the_file": "2) Broader standardization around Postgres impacts MongoDB\u2019s win rates and expansion opportunities"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bearish_debate_point": "Slowing pace in cloud migration, multi-cloud adoption, digital transformation, and application modernization.",
+      "exact_sentences_in_the_file": "3) Slowing pace in cloud migration, multi-cloud adoption, digital transformation, and application modernization"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bearish_debate_point": "AI cycle proves to be a less meaningful tailwind than initially contemplated.",
+      "exact_sentences_in_the_file": "4) AI cycle proves to be a less meaningful tailwind than initially contemplated"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bearish_debate_point": "Margin degradation due to required reinvestment or unanticipated headwinds from the EA business.",
+      "exact_sentences_in_the_file": "5) Margin degradation due to required reinvestment or unanticipated headwinds from the EA business"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bearish_debate_point": "Adverse changes in the IT spending environment.",
+      "exact_sentences_in_the_file": "6) Adverse changes in the IT spending environment."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bearish_debate_point": "Potential risks from security breaches and compliance/data residency concerns.",
+      "exact_sentences_in_the_file": "Potential risks from security breaches and compliance/data residency concerns"
+    }
+  ],
+  "file_Id": "MongoDB Inc. (MDB)_ Atlas Acceleration Underscores GTM Execution and Expanding Platform Relevance.pdf"
+}

@@ -1,0 +1,347 @@
+{
+  "relationships": [
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Macom",
+      "ticker": "MTSI",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of the AI semiconductor supply chain, benefiting from similar trends.",
+      "quantifier": "N/A",
+      "original_sentence": "This strong spending environment is further validated by strong beats and guidance raises across the AI semiconductor supply chain (e.g., Macom, Astera Labs, Nvidia), and we expect Marvell to benefit from similar trends."
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Macom",
+      "ticker": "MTSI",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Diversified/Consumer/Standard Components/Other.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Astera Labs",
+      "ticker": "ALAB",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of the AI semiconductor supply chain, benefiting from similar trends.",
+      "quantifier": "N/A",
+      "original_sentence": "This strong spending environment is further validated by strong beats and guidance raises across the AI semiconductor supply chain (e.g., Macom, Astera Labs, Nvidia), and we expect Marvell to benefit from similar trends."
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Astera Labs",
+      "ticker": "ALAB",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Enterprise/Networking/Datacenter Semiconductors.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Nvidia",
+      "ticker": "NVDA",
+      "relationship_type": "Peer",
+      "relationship_description": "Part of the AI semiconductor supply chain, benefiting from similar trends.",
+      "quantifier": "N/A",
+      "original_sentence": "This strong spending environment is further validated by strong beats and guidance raises across the AI semiconductor supply chain (e.g., Macom, Astera Labs, Nvidia), and we expect Marvell to benefit from similar trends."
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Nvidia",
+      "ticker": "NVDA",
+      "relationship_type": "Customer",
+      "relationship_description": "Strong demand pull for 1.6T optical solutions.",
+      "quantifier": "1.6T optical solutions",
+      "original_sentence": "We expect Marvell to post Jan-Qtr results to be in-line to slightly better than consensus (revenues at $2.204B, up 6% Q/Q), reflecting solid sequential growth in the datacenter segment, led by strong demand pull for 1.6T (Nvidia/Google) and 800G (other GPU/XPU programs) optical solutions, sustained strength for Amazon Trainium 2 ASIC, and the initial ramp of XPU attach ASIC programs."
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Nvidia",
+      "ticker": "NVDA",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under PC Semiconductors.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Microsoft",
+      "ticker": "N/A",
+      "relationship_type": "Customer",
+      "relationship_description": "Marvell is developing AI ASIC MAIA 3nm program and next-gen 2nm ASIC (Maia 2nm) programs for Microsoft.",
+      "quantifier": "AI ASIC MAIA 3nm program, next-gen 2nm ASIC Maia 2nm programs",
+      "original_sentence": "Marvell\u2019s Microsoft AI ASIC MAIA 3nm program is also on track to ramp in the back half of CY26 and into CY27. We believe next-gen 2nm ASIC programs (Trainium 4 at AWS and Maia 2nm at Microsoft) are on track for CY27/CY28 ramps. Marvell is well positioned for CY26, with next-generation 2nm programs at AWS (Trainium 4) and Microsoft (Maia 2nm) and a number of new XPU attach ASIC wins - all on track to launch in CY27/CY28. We believe Marvell is actively engaged on next-gen AWS 2nm XPU ASIC (Trainium 4) and Microsoft 2nm XPU ASIC (Maia 2nm) programs, which are on track for CY27/CY28 and should drive accelerated AI and datacenter growth for MRVL."
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "AWS",
+      "ticker": "N/A",
+      "relationship_type": "Customer",
+      "relationship_description": "Sustained demand for Trainium 2 ASICs; next-gen 2nm XPU ASIC (Trainium 4) program.",
+      "quantifier": "Trainium 2 ASICs, Trainium 4 program",
+      "original_sentence": "We believe next-gen 2nm ASIC programs (Trainium 4 at AWS and Maia 2nm at Microsoft) are on track for CY27/CY28 ramps. Expect Jan-Qtr (F4Q26) results (revenues/EPS) to be in-line to slightly better than consensus estimates, reflecting strong demand for optical DSPs (1.6T/800G), sustained demand for Trainium 2 ASICs at AWS, and a steady recovery profile in its cyclical businesses. Marvell is well positioned for CY26, with next-generation 2nm programs at AWS (Trainium 4) and Microsoft (Maia 2nm) and a number of new XPU attach ASIC wins - all on track to launch in CY27/CY28. We believe Marvell is actively engaged on next-gen AWS 2nm XPU ASIC (Trainium 4) and Microsoft 2nm XPU ASIC (Maia 2nm) programs, which are on track for CY27/CY28 and should drive accelerated AI and datacenter growth for MRVL."
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Celestial AI",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Acquired by Marvell, enhancing scale-up networking capabilities. Previously a partner or supplier.",
+      "quantifier": "N/A",
+      "original_sentence": "We are updating our estimates and initiating FY28 estimates which reflect the closure of the Celestial AI and XConn acquisitions, which further enhance Marvell\u2019s scale-up networking capabilities and position the company to be agnostic across a variety of networking technologies, reinforcing its strong networking portfolio. The long-term scale-up opportunity is significant, and Marvell is well positioned to capture a substantial share of the market with Celestial (fabric) and its portfolio of switching products. Updating estimates to incorporate the closure of Celestial and XConn deals, initiating FY28 estimates."
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "XConn",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Acquired by Marvell, enhancing scale-up networking capabilities. Previously a partner or supplier.",
+      "quantifier": "N/A",
+      "original_sentence": "We are updating our estimates and initiating FY28 estimates which reflect the closure of the Celestial AI and XConn acquisitions, which further enhance Marvell\u2019s scale-up networking capabilities and position the company to be agnostic across a variety of networking technologies, reinforcing its strong networking portfolio. Updating estimates to incorporate the closure of Celestial and XConn deals, initiating FY28 estimates."
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Inphi",
+      "ticker": "N/A",
+      "relationship_type": "Partner",
+      "relationship_description": "Acquired by Marvell in April 2021, making Marvell a strong market leader in optical connectivity. Previously a partner or supplier.",
+      "quantifier": "N/A",
+      "original_sentence": "Our Overweight thesis is based on the Marvell team\u2019s creation of a franchise that, after the close of the Inphi acquisition in April 2021, is a strong market leader in optical connectivity and will be very synergistic to Marvell\u2019s Storage (HDD/SSD controllers, Storage adapters), Networking (enterprise and cloud datacenter switching, PHY , NIC), and embedded processing (packet processing, dataplane/control plane processing, security, and encryption/algorithm acceleration) franchises."
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Google",
+      "ticker": "N/A",
+      "relationship_type": "Customer",
+      "relationship_description": "Strong demand pull for 1.6T optical solutions.",
+      "quantifier": "1.6T optical solutions",
+      "original_sentence": "We expect Marvell to post Jan-Qtr results to be in-line to slightly better than consensus (revenues at $2.204B, up 6% Q/Q), reflecting solid sequential growth in the datacenter segment, led by strong demand pull for 1.6T (Nvidia/Google) and 800G (other GPU/XPU programs) optical solutions, sustained strength for Amazon Trainium 2 ASIC, and the initial ramp of XPU attach ASIC programs."
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Amazon",
+      "ticker": "N/A",
+      "relationship_type": "Customer",
+      "relationship_description": "Sustained strength for Amazon Trainium 2 ASIC; continued ramp of shipments/revenues into Amazon.",
+      "quantifier": "Trainium 2 ASIC, shipments/revenues",
+      "original_sentence": "We expect Marvell to post Jan-Qtr results to be in-line to slightly better than consensus (revenues at $2.204B, up 6% Q/Q), reflecting solid sequential growth in the datacenter segment, led by strong demand pull for 1.6T (Nvidia/Google) and 800G (other GPU/XPU programs) optical solutions, sustained strength for Amazon Trainium 2 ASIC, and the initial ramp of XPU attach ASIC programs. Expect Apr-Qtr (F1Q27) revenue outlook to be up low to mid-singe-digit % Q/Q, in line to slightly better than consensus on continued ramp of its shipments/revenues into Amazon and strong growth in optical shipments."
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Intel",
+      "ticker": "INTC",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under PC Semiconductors.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Advanced Micro Devices",
+      "ticker": "AMD",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under PC Semiconductors.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Micron Technology",
+      "ticker": "MU",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Memory.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Western Digital",
+      "ticker": "WDC",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Memory.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Enterprise/Networking/Datacenter Semiconductors.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Skyworks Solutions",
+      "ticker": "SWKS",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Mobile Devices.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Qorvo",
+      "ticker": "QRVO",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Mobile Devices.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Silicon Labs",
+      "ticker": "SLAB",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under IoT.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Synaptics Inc",
+      "ticker": "SYNA",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under IoT.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Texas Instruments",
+      "ticker": "TXN",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Analog/Microcontrollers.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Analog Devices",
+      "ticker": "ADI",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Analog/Microcontrollers.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "NXP Semiconductors",
+      "ticker": "NXPI",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Analog/Microcontrollers.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Microchip Technology",
+      "ticker": "MCHP",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Analog/Microcontrollers.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "ON Semiconductor Corporation",
+      "ticker": "ON",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Diversified/Consumer/Standard Components/Other.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Vishay Intertechnology",
+      "ticker": "VSH",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Diversified/Consumer/Standard Components/Other.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "GlobalFoundries",
+      "ticker": "GFS",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Foundries.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Amkor Technology",
+      "ticker": "AMKR",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under OSAT.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Applied Materials",
+      "ticker": "AMAT",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Semiconductor Capital Equipment.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Lam Research",
+      "ticker": "LRCX",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Semiconductor Capital Equipment.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "KLA Corporation",
+      "ticker": "KLAC",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Semiconductor Capital Equipment.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "MKS Instruments",
+      "ticker": "MKSI",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Semiconductor Capital Equipment.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Arm Holdings Plc",
+      "ticker": "ARM",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Chip Design Automation Software.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Cadence Design Systems",
+      "ticker": "CDNS",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Chip Design Automation Software.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    },
+    {
+      "source_company": "Marvell Technology Inc",
+      "target_company": "Synopsys Inc",
+      "ticker": "SNPS",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed as a comparable company in the Semiconductor Group and Comp Valuation table under Chip Design Automation Software.",
+      "quantifier": "Comparable",
+      "original_sentence": "Table 1: Semiconductor Group and Comp Valuation"
+    }
+  ],
+  "file_Id": "JPM_Marvell_Technology_I_2026-03-02_5221068.pdf"
+}

@@ -1,0 +1,770 @@
+{
+  "bullish_views": [
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Goldman Sachs reiterates Buy rating and raises Price Target to $475 following a standout quarter.",
+      "exact_sentences_in_the_file": "We reiterate our Buy rating and raise our Price Target to $475 on MongoDB following a standout quarter."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Revenue outperformed consensus expectations by +5.8%.",
+      "exact_sentences_in_the_file": "Revenue was +5.8% above Consensus"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Atlas Revenue growth accelerated for a third consecutive quarter to +30%.",
+      "exact_sentences_in_the_file": "Atlas Revenue growth accelerated a third consecutive quarter to +30% (from +29% in F2Q26)"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Non-Atlas revenue outperformed due to higher multi-year deals.",
+      "exact_sentences_in_the_file": "Non-Atlas outperformed largely on higher multi-year deals"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Operating Margin (OpM) and Free Cash Flow Margin (FCFM) significantly exceeded expectations.",
+      "exact_sentences_in_the_file": "OpM / FCFM came in +800 bps / + 1800 bps ahead on Revenue outperformance and higher cash collections."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Achieved Rule of 40+ for the second quarter in FY26, indicating durable and profitable high-growth.",
+      "exact_sentences_in_the_file": "Importantly, MongoDB delivered a second quarter in FY26 at a Rule of 40+, highest since F1Q24. We view this as the best illustration of MongoDB\u2019s transition to durable and profitable high-growth at scale."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "After-hours stock movement reflects strong F3Q momentum and positive F4Q guidance.",
+      "exact_sentences_in_the_file": "The +22% AH stock move reflects F3Q momentum plus F4Q Revenue and Op. Income guidance +6.6% / +59% above Street (incl. Atlas guidance +27% vs. Street +24%)."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Strong new Atlas customer acquisition with 2500 new logos, well above the historical baseline.",
+      "exact_sentences_in_the_file": "New logo activity stood out again with +2500 new Atlas customers (stable vs. F2Q) and well-above the +1800 baseline over the past three years, underscoring a strengthening PLG motion"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Strengthening Product-Led Growth (PLG) motion, benefiting from developer awareness investments and AI capabilities.",
+      "exact_sentences_in_the_file": "underscoring a strengthening PLG motion that could benefit further as MongoDB\u2019s incremental Bay Area investments in developer awareness mature and MongoDB\u2019s AI capabilities make their way to Community Edition."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Near-term upside potential from strong upmarket Go-To-Market (GTM) execution, leading to healthier workload attach and expansion.",
+      "exact_sentences_in_the_file": "We see near-term upside potential anchored in strong upmarket GTM execution, supporting healthier new workload attach and expansion trends"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Ability to attract new customers rapidly and broaden wallet share through lower-friction onboarding and performance gains in Version 8.0.",
+      "exact_sentences_in_the_file": "lower-friction customer onboarding plus performance gains on the core engine (Version 8.0 release) can simultaneously attract new customer at a rapid clip, broadening the wallet share opportunity."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Emerging as the context engine for AI applications with natively integrated Vector Search and Voyage models, unlocking new consumption vectors.",
+      "exact_sentences_in_the_file": "Ultimately, we see MongoDB emerging as the context engine for AI applications with natively integrated Vector Search plus Voyage models, unlocking new consumption vectors across its 60K+ Atlas customers on top of an already $100B+ core operational database market ripe for modernization"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Supporting a durable mid-20s Atlas Revenue growth trajectory with steady margin expansion.",
+      "exact_sentences_in_the_file": "all of which we see supporting a durable mid-20\u2019s Atlas Revenue growth trajectory with steady margin expansion."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Broad-based demand for Atlas across geographies, customer sizes, and industries.",
+      "exact_sentences_in_the_file": "On Atlas, Management highlighted broad-based demand across geographies, customer sizes, and industries, with strength coming from both new and existing workloads."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Net ARR Expansion Rate improved to 120% from 119% in the prior quarter.",
+      "exact_sentences_in_the_file": "Note Net ARR Expansion Rate improved to 120% from 119% in the prior Q."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Consistent Atlas consumption growth with comparable prior periods, supporting acceleration.",
+      "exact_sentences_in_the_file": "Further, Management noted that Atlas consumption growth from F1Q-3Q was consistent to comparable FY25 periods, supporting Atlas growth acceleration."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Management reaffirmed framework for +100-200 bps of OpM expansion in FY27 and beyond.",
+      "exact_sentences_in_the_file": "Despite continued investments in R&D and sales capacity, Management reaffirmed its framework to deliver +100-200 bps of OpM expansion in FY27 and beyond."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "FCF conversion expected to be >100% in FY26 and target 80-100% in FY27 and beyond.",
+      "exact_sentences_in_the_file": "Management now expects FCF conversion to be >100% in FY26 and continues to target 80-100% FCF conversion in FY27 and beyond as telegraphed at the Investor Day."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Attractive compounding growth story in a massive and highly strategic Database Management Systems market.",
+      "exact_sentences_in_the_file": "Attractive compounding growth story in a massive and highly strategic Database Management Systems market."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Leading general-purpose, developer-first database for modern application teams.",
+      "exact_sentences_in_the_file": "MongoDB is the leading general-purpose, developer-first database for modern application teams"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Comprehensive platform spanning full-text search, vector search, stream processing, data federation, time-series, and robust security.",
+      "exact_sentences_in_the_file": "The platform now spans full-text search, vector search, stream processing, data federation, time-series, and robust security (including queryable encryption), collapsing moving parts and speeding time-to-value."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Substantial market share runway with only ~2% share in a $100B+ market.",
+      "exact_sentences_in_the_file": "While MongoDB\u2019s revenue scale is now $2.5B+, its market share remains roughly 2%, leaving substantial runway as applications modernize, buyers standardize on managed services, and AI becomes embedded in software."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Atlas has compounded at over 60% from FY19-26E, validating product-market fit and customer trust.",
+      "exact_sentences_in_the_file": "Atlas has compounded at over 60% from FY19-26E to more than $1.8B in run-rate Revenue despite native cloud and open-source alternatives, validating product\u2013market fit and customer trust."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Combination of developer velocity, enterprise-grade scale, multi-cloud neutrality, and usage-based pricing underpins durable growth.",
+      "exact_sentences_in_the_file": "We believe the combination of developer velocity and enterprise-grade scale, delivered with multi-cloud neutrality and usage-based pricing, underpins durable growth and rising platform relevance."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "MongoDB\u2019s architecture is increasingly aligned with modern software development, offering flexibility and scalability.",
+      "exact_sentences_in_the_file": "MongoDB\u2019s architecture increasingly aligned with the direction of modern software development. MongoDB\u2019s core design allows developers to store complex, real-world data structures in a single flexible format and scale applications across many severs as traffic grows, making it well-suited for modern, fast-changing workloads."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Reduced friction for product evolution due to flexible data model, avoiding constant schema redesigns.",
+      "exact_sentences_in_the_file": "This flexibility reduces friction when products evolve, because teams can adjust how data is captured and used without constantly redesigning a rigid schema."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Closing historical gaps against relational alternatives with stronger consistency, better performance, and richer indexing.",
+      "exact_sentences_in_the_file": "Importantly, MongoDB has spent the last several product cycles closing gaps that historically pushed teams toward relational alternatives: stronger consistency guarantees, better performance, richer indexing and more predictable scaling behavior."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Version 8.0 delivered considerable performance gains (36% faster reads, 59% higher update throughput).",
+      "exact_sentences_in_the_file": "In Version 8.0, MongoDB delivered considerable performance gains \u2013 36% faster reads and 59% higher update throughput"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Atlas acts as a hub for adjacent capabilities like full-text search, vector search, stream processing, and analytics.",
+      "exact_sentences_in_the_file": "On top of the core database, Atlas now acts as a hub for adjacent capabilities: full-text search, vector search, stream processing and lightweight analytics all run in the same environment."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Consolidation of capabilities improves developer productivity, lowers operational complexity, and deepens reliance on MongoDB.",
+      "exact_sentences_in_the_file": "We see this consolidation improving developer productivity, lowering operational complexity and ultimately deepening reliance on MongoDB as the application\u2019s data layer rather than just another database."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "MongoDB is gaining market share in its specific use cases, not primarily at the expense of Postgres.",
+      "exact_sentences_in_the_file": "We see Postgres and MongoDB both gaining share in their respective lanes, not primarily from each other."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Architecturally better suited for horizontal scalability compared to Postgres.",
+      "exact_sentences_in_the_file": "It is also architecturally better suited for horizontal scalability: MongoDB is designed from the ground up to distribute data and load across many servers, while scaling Postgres to similar levels requires additional tooling and engineering effort."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Provides a simpler, more integrated path for AI-enabled applications with flexible data model, built-in search, and vector capabilities.",
+      "exact_sentences_in_the_file": "As AI-enabled applications increasingly mix user context, unstructured content and model embeddings, MongoDB\u2019s combination of a flexible data model with built-in search and vector capabilities often provides a simpler, more integrated path than layering JSON and AI extensions onto a relational core."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Current performance metrics (Atlas growth, new logos, expansion rates) are inconsistent with competitive displacement from Postgres.",
+      "exact_sentences_in_the_file": "If Postgres were truly emerging as a material headwind to MongoDB, we would not be seeing it in the numbers \u2013 and so far, we see the opposite. Atlas growth has accelerated for three consecutive quarters (+30% in F3Q26, Exhibit 5), Atlas new logo adds are at record highs (2500+ vs. 1800 average from FY23-25, Exhibit 4), and Net Expansion Rates are stable at 120%, all of which are inconsistent with a story of mounting competitive displacement."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Continues to win net-new and modernization workloads valuing flexible data models and horizontal scalability, especially for AI use cases.",
+      "exact_sentences_in_the_file": "In our view, the data supports a world where Postgres is successfully replacing older relational systems, while MongoDB continues to win net-new and modernization workloads that value flexible data models and horizontal scalability, particularly as AI use cases become more prominent."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Successfully competing and winning against hyperscalers for years.",
+      "exact_sentences_in_the_file": "Crucially, though, MongoDB has been competing and winning in this environment for years."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Sustained share gains among pure-plays and consistent/growing slice of net new spend.",
+      "exact_sentences_in_the_file": "Atlas Revenue has scaled past a $1.8B run-rate at a 60%+ CAGR from FY19\u2013FY26E with sustained share gains among pure-plays (Exhibit 7), MongoDB\u2019s slice of net new spend has been consistent (or growing)"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Path for share expansion as the company moves upmarket and standardizes in larger enterprises.",
+      "exact_sentences_in_the_file": "we see a path for that share to expand as the company moves upmarket and standardizes in larger enterprises."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Strong co-sell and marketplace momentum, recognized as AWS North America Partner of the Year (2024) and Microsoft Partner of the Year (2025).",
+      "exact_sentences_in_the_file": "Co-sell and marketplace momentum underscore this trajectory - MongoDB was AWS\u2019s North America Partner of the Year in 2024 and Microsoft\u2019s in 2025"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "SSPL license discourages direct reselling of the latest code by competitors.",
+      "exact_sentences_in_the_file": "and the SSPL license (2018) continues to discourage direct reselling of the latest code."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Meaningful capability and adoption edge over look-alike services, particularly in key features like Queryable Encryption and Vector Search.",
+      "exact_sentences_in_the_file": "Public benchmarks point to a meaningful capability and adoption edge versus most look-alike services, which can lag on key features like Queryable Encryption and Vector Search."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Specialists like MongoDB can win by delivering non-substitutable value.",
+      "exact_sentences_in_the_file": "The broader takeaway is that specialists can win when they deliver non-substitutable value."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Reached critical mass as a pure-play OLTP platform due to innovation cadence and developer affinity.",
+      "exact_sentences_in_the_file": "MongoDB has reached critical mass as a pure-play OLTP platform due to its innovation cadence and developer affinity"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Positioned to improve share of net new workloads by focusing on enterprise accounts, multi-cloud neutrality, and integrated features.",
+      "exact_sentences_in_the_file": "in our view, is positioned to improve its share of net new workloads over time as it leans into enterprise accounts, multi-cloud neutrality, and an integrated feature set that reduces the number of systems teams need to run."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "AI is a meaningful catalyst, with MongoDB positioning Atlas as a database-native control plane for AI applications.",
+      "exact_sentences_in_the_file": "AI is a meaningful catalyst, and we see MongoDB working to position Atlas as a database-native control plane for AI applications."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Atlas provides a unified system for storing and retrieving operational data, unstructured content, and vector embeddings for AI.",
+      "exact_sentences_in_the_file": "MongoDB is positioning Atlas as the context engine for AI applications, providing a unified system to store and retrieve operational data, unstructured content, and vector embeddings that models use to understand context."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Atlas Vector Search is natively built into the database, enabling semantic, hybrid text, and filtered queries.",
+      "exact_sentences_in_the_file": "Atlas Vector Search is already built into the database, letting teams store vectors alongside documents and run semantic, hybrid text and filtered queries all in one place \u2013 well-suited for RAG, semantic search, recommendations and anomaly detection."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Voyage AI acquisition (Feb. 2025) integrates embedding and reranking models for high-quality retrieval.",
+      "exact_sentences_in_the_file": "The Feb. 2025 Voyage AI acquisition tightens this loop. MongoDB is integrating Voyage\u2019s embedding and reranking models so that high-quality retrieval becomes a native capability of the platform, not a separate service bolted on the side."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Vertical integration of operational data, search, vectors, and retrieval quality boosts win rates for AI workloads.",
+      "exact_sentences_in_the_file": "that vertical integration \u2013 operational data, search, vectors and retrieval quality under one roof \u2013 should be a boon to win rates as MongoDB compete against stand-alone vector databases, native Hyperscaler services and DIY Postgres builds on complexity, latency and TCO."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Constructive view on early AI activity within MongoDB\u2019s installed base.",
+      "exact_sentences_in_the_file": "We are constructive on the early activity within MongoDB\u2019s installed base."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Large number of startups (8,000 as of Aug. 2025) building on the platform.",
+      "exact_sentences_in_the_file": "MongoDB has roughly 8,000 startups building on the platform (as of Aug. 2025)"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "High monthly new developer registrations (200K).",
+      "exact_sentences_in_the_file": "200K new developer registrations monthly"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "30% of Atlas ARR generated from customers with at least one AI use case.",
+      "exact_sentences_in_the_file": "30% of Atlas ARR is generated from customers with at least one AI use case."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Expanding partner set with major ecosystem players (LangChain, Galileo, Temporal, Vercel, Anthropic, Cohere) to shorten time-to-production for customers.",
+      "exact_sentences_in_the_file": "MongoDB\u2019s broader emphasis on expanding its partner set with major ecosystem players \u2013 LangChain, Galileo, Temporal, Vercel, Anthropic, Cohere \u2013 helping customers shorten time-to-production by pairing the platform with critical tools and services in the AI value chain."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Strong product positioning for AI workloads with native Voyage, Vector, and Hybrid Search.",
+      "exact_sentences_in_the_file": "With Voyage now embedded natively in the developer data platform, along with Vector and Hybrid Search, we believe MongoDB is positioned well from a product perspective"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "AI workloads are expected to be a growing contributor to Atlas consumption through FY27.",
+      "exact_sentences_in_the_file": "AI workloads can be a growing (albeit modest) contributor to Atlas consumption as we progress through FY27."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Core growth engine supported by improved upmarket motion, scaled self-serve funnel, rising multi-product attach, and modernization/AI tailwinds.",
+      "exact_sentences_in_the_file": "MongoDB\u2019s core growth engine is increasingly supported by an improved upmarket motion, a scaled self-serve funnel, rising multi-product attach, and incremental modernization and AI tailwinds."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Deliberate GTM evolution yielding results, evidenced by multi-quarter acceleration in Atlas growth.",
+      "exact_sentences_in_the_file": "We believe this deliberate GTM evolution is now yielding results, evidenced by the multi-quarter acceleration in Atlas growth from +24% in F4Q25 to +30% in F3Q26"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Emerging dynamic of larger customers onboarding mission-critical workloads supports predictable expansion trends.",
+      "exact_sentences_in_the_file": "Management attributes the improvement in consumption trends to larger customer\u2019s onboarding mission-critical workloads that are growing higher-for-longer. We see this emerging dynamic supporting more predictable expansion trends over time as customers increasingly standardize on MongoDB for core application development."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Robust self-serve channel feeding high-quality top-of-funnel activity.",
+      "exact_sentences_in_the_file": "At the same time, the company continues to benefit from a robust self-serve channel that feeds high-quality top-of-funnel activity"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Self-serve net customer adds are up +93% YoY, with self-serve sourced >$1M ARR customers scaling 15% faster.",
+      "exact_sentences_in_the_file": "self-serve net customer adds are up +93% from F1Q-F3Q26 vs. the same period in FY25. Note that 25% of >$1M ARR Customers were sourced through the self-serve channel and scaled to $1M+ 15% faster than those that came through other channels."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "New customer additions are a primary leading indicator for Atlas consumption.",
+      "exact_sentences_in_the_file": "For this reason, we view the recent strength in new customer additions as a primary leading indicator for Atlas consumption."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Steadily improving platform story with customers attaching additional services, deepening dependence.",
+      "exact_sentences_in_the_file": "And once in the base, we see a steadily improving platform story: customers are not just consuming the core database, but attaching additional services such as search, vector search and stream processing, effectively consolidating multiple data patterns and deepening dependence on the platform over time"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "70% of Atlas ARR driven by customers adopting at least one additional capability.",
+      "exact_sentences_in_the_file": "70% of Atlas ARR is driven by customers adopting at least one additional capability."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Growing focus on legacy modernization (AMP program) creates long-tailed opportunity to re-platform existing applications.",
+      "exact_sentences_in_the_file": "Meanwhile, MongoDB\u2019s growing focus on legacy modernization through programs like AMP \u2013 targeting entrenched relational estates \u2013 creates a long-tailed opportunity to re-platform existing applications, not just net-new ones."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "AI application opportunity favors a single system for transactions, search, and vector retrieval.",
+      "exact_sentences_in_the_file": "Layered on top is the AI application opportunity: as customers build context-heavy, AI-enabled experiences, workloads become more data-intensive and increasingly favor a single system that can handle transactions, search and vector retrieval together."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Mutually reinforcing growth model can credibly sustain mid-20s Atlas growth over a multi-year horizon.",
+      "exact_sentences_in_the_file": "In combination, we view the upmarket shift, self-serve funnel, rising multi-product attach, and modernization/AI vectors as mutually reinforcing elements of a growth model that can credibly sustain mid-20\u2019s Atlas growth over a multi-year horizon."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Confident in ability to steadily improve margins (+100-200 bps annually) consistent with mid-term framework.",
+      "exact_sentences_in_the_file": "Constructive on MongoDB\u2019s ability to steadily improve margins +100-200 bps annually, consistent with the mid-term framework."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Accelerating growth profile and mid-70s gross margin provide ample leverage for reinvestment and margin gains.",
+      "exact_sentences_in_the_file": "We highlight the company\u2019s accelerating growth profile and mid-70\u2019s gross margin profile, which provides ample leverage to reinvest back into the business while still delivering modest margin gains."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Sales & Marketing (S&M) expected to be the primary source of leverage over the mid-term.",
+      "exact_sentences_in_the_file": "As is typical with most software companies, we believe S&M will be the primary source of leverage over the mid-term."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Higher incremental S&M efficiency from upmarket reallocation and scaled self-serve motion.",
+      "exact_sentences_in_the_file": "MongoDB\u2019s reallocation of resources upmarket, where rep productivity is historically high, coupled with its pivot towards a scaled and effective self-serve motion for down-market new logo acquisition, should translate to higher incremental S&M efficiency over time."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Lower reliance on proportional sales hiring longer term as Atlas scales, with growth fueled by workload expansion.",
+      "exact_sentences_in_the_file": "And longer term, as Atlas scales, we would expect a lower reliance on proportional sales hiring with growth increasingly fueled by new workload expansion and organic workload growth, rather than new logo acquisition."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Screens well across Goldman Sachs Framework for Investing in Software.",
+      "exact_sentences_in_the_file": "MongoDB screens well across a variety of areas in our GS Framework for Investing in Software."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Exposure to a large and expanding market at the intersection of modern application development, cloud data platforms, and early AI adoption.",
+      "exact_sentences_in_the_file": "MongoDB has exposure to a large and expanding market at the intersection of modern application development, cloud data platforms and early AI adoption."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Secular themes (cloud migration, AI adoption, app modernization) firmly in its favor.",
+      "exact_sentences_in_the_file": "Secular themes are firmly in its favor: enterprises are retiring rigid, legacy databases in favor of cloud-native architectures, consolidating fragmented data stacks and building applications that blend transactions, search, streaming and AI \u2013 all areas where MongoDB\u2019s document model and Atlas platform are directly leveraged."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Attractive unit economics in a usage-based model with high-value workloads growing over time.",
+      "exact_sentences_in_the_file": "We see attractive unit economics in a usage-based model where high-value workloads naturally grow over time, supported by a GTM motion that increasingly targets strategic, higher-quality deployments while still benefiting from a broad self-serve funnel."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Combines best-of-breed developer experience with platform breadth and a defensible competitive moat.",
+      "exact_sentences_in_the_file": "Critically, MongoDB combines best-of-breed developer experience with platform breadth and a defensible competitive moat built on its ecosystem, multi-cloud positioning and integrated capabilities (search, vector, streams) that make it difficult and costly for customers to unwind once MongoDB becomes the application\u2019s data layer of record."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Defensible competitive moat built on ecosystem, multi-cloud positioning, and integrated capabilities.",
+      "exact_sentences_in_the_file": "defensible competitive moat built on its ecosystem, multi-cloud positioning and integrated capabilities (search, vector, streams) that make it difficult and costly for customers to unwind once MongoDB becomes the application\u2019s data layer of record."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Strong developer mindshare with product alignment to everyday developer needs.",
+      "exact_sentences_in_the_file": "Strong developer mindshare with strong product alignment to everyday developer needs"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Multi-cloud neutrality is a key strength.",
+      "exact_sentences_in_the_file": "Multi-cloud neutrality"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Widening ease-of-use and feature gap improves Total Cost of Ownership (TCO) against competitors.",
+      "exact_sentences_in_the_file": "Widening ease-of-use and feature gap to improve TCO in face of competition from relational incuments and specialist databases"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Net Expansion Rates remain 120% as customers add workloads and expand.",
+      "exact_sentences_in_the_file": "While it can take time to ramp consumption, Net Expansion Rates remain 120% as customers add workloads and expand"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Long-term risk/reward is favorable at current levels.",
+      "exact_sentences_in_the_file": "We view the long-term risk / reward as favorable at current levels"
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Raised EV/Sales multiple to 12x Q5-Q8 EV/S, reflecting strong growth and peer comparison.",
+      "exact_sentences_in_the_file": "We raise our EV/Sales multiple to 12x Q5-Q8 EV/S (vs. 11.5x prior) as we mark-to-market with 20%+ growth consumption and Rule-of peers."
+    },
+    {
+      "company": "MongoDB Inc.",
+      "ticker": "MDB",
+      "sector": "Americas Software",
+      "industry": "Software",
+      "observation_date": "2025-12-02",
+      "bullish_debate_point": "Strong FCF growth compounding potential in the mid-20s, comparable to consumption peers.",
+      "exact_sentences_in_the_file": "Our EV/FCF valuation is based on 65x (vs. 75x prior) our Q5-Q8 FCF estimate, comparable to EV/FCF/G of consumption peers (SNOW, DDOG), which is underpinned by our belief that MDB can compound FCF growth in the mid-20\u2019s."
+    }
+  ],
+  "file_Id": "MongoDB Inc. (MDB)_ Atlas Acceleration Underscores GTM Execution and Expanding Platform Relevance.pdf"
+}

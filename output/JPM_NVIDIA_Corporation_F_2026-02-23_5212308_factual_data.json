@@ -1,0 +1,376 @@
+{
+  "facts": [
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Publication",
+      "fact_summary": "The North America Equity Research report was published on February 23, 2026.",
+      "is_recent_update": true,
+      "original_sentence": "23 February 2026"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Financials",
+      "fact_summary": "NVIDIA's stock price was $189.82 on February 20, 2026.",
+      "is_recent_update": true,
+      "original_sentence": "Price (20 Feb 26):$189.82"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Company Profile",
+      "fact_summary": "NVIDIA is classified under Semiconductors & Semiconductor Capital Equipment / IT Hardware.",
+      "is_recent_update": false,
+      "original_sentence": "Semiconductors & Semiconductor Capital Equipment / IT Hardware"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Product/Partnership",
+      "fact_summary": "NVIDIA recently announced a partnership with META for large-scale Blackwell/Rubin GPU/CPU/networking deployments.",
+      "is_recent_update": true,
+      "original_sentence": "NVDA\u2019s recently announced partnership with META for large-scale Blackwell/Rubin GPU/CPU/networking deployments"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Product/Shipments",
+      "fact_summary": "Aggregate Blackwell/Blackwell Ultra rack units for the Jan-Qtr were in the range of ~12k.",
+      "is_recent_update": true,
+      "original_sentence": "aggregate Blackwell/Blackwell Ultra rack units for Jan-Qtr in the range of ~12k"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Product/Shipments",
+      "fact_summary": "Aggregate Blackwell/Blackwell Ultra rack units for the prior quarter were ~10k.",
+      "is_recent_update": true,
+      "original_sentence": "(up from ~10k in the prior qtr)"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Product/Shipments",
+      "fact_summary": "Total FY26 rack shipments reached ~27k.",
+      "is_recent_update": true,
+      "original_sentence": "taking total FY26 rack shipments to ~27k"
+    },
+    {
+      "company": "US Department of Commerce",
+      "fact_category": "Regulatory",
+      "fact_summary": "The US Department of Commerce recently changed its policy, shifting H200 exports to China/Macau from a \u201cpresumption of denial\u201d to \u201ccase-by-case review\u201d.",
+      "is_recent_update": true,
+      "original_sentence": "a recent policy change by the US Department of Commerce that shifts H200 exports to China/Macau from a \u201cpresumption of denial\u201d to \u201ccase-by-case review\u201d"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Financials/Orders",
+      "fact_summary": "NVIDIA's CY26 backlog was initially unveiled last October at GTC in DC, exceeding $500 billion.",
+      "is_recent_update": false,
+      "original_sentence": "the $500B+ CY26 backlog initially unveiled last October at GTC in DC"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Market Share/Segment Exposure",
+      "fact_summary": "NVIDIA has approximately 53% exposure to the PC gaming segment.",
+      "is_recent_update": false,
+      "original_sentence": "NVDA\u2019s ~53% exposure to the PC gaming segment"
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure",
+      "fact_summary": "J.P. Morgan is a market maker and/or liquidity provider in financial instruments related to NVIDIA Corporation or its entities.",
+      "is_recent_update": false,
+      "original_sentence": "J.P. Morgan is a market maker and/or liquidity provider in the financial instruments of/related to NVIDIA Corporation or related entities."
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure",
+      "fact_summary": "J.P. Morgan has had NVIDIA Corporation or related entities as clients within the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "J.P. Morgan currently has, or had within the past 12 months, the following entity(ies) as clients: NVIDIA Corporation or related entities."
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure",
+      "fact_summary": "J.P. Morgan has provided non-investment-banking, securities-related services to NVIDIA Corporation or related entities within the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "J.P. Morgan currently has, or had within the past 12 months, the following entity(ies) as clients, and the services provided were non-investment-banking, securities-related: NVIDIA Corporation or related entities."
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure",
+      "fact_summary": "J.P. Morgan has provided non-securities-related services to NVIDIA Corporation or related entities within the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "J.P. Morgan currently has, or had within the past 12 months, the following entity(ies) as clients, and the services provided were non-securities-related: NVIDIA Corporation or related entities."
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure",
+      "fact_summary": "J.P. Morgan has received compensation for products or services other than investment banking from NVIDIA Corporation or related entities in the past 12 months.",
+      "is_recent_update": true,
+      "original_sentence": "J.P. Morgan has received compensation in the past 12 months for products or services other than investment banking from NVIDIA Corporation or related entities."
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure",
+      "fact_summary": "J.P. Morgan may hold a position in the debt securities of NVIDIA Corporation or related entities.",
+      "is_recent_update": false,
+      "original_sentence": "J.P. Morgan may hold a position in the debt securities of NVIDIA Corporation or related entities, if any."
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Financials/Ratings",
+      "fact_summary": "On November 20, 2025, NVIDIA had an Overweight (OW) rating with a price of $186.52 and a price target of $250.00.",
+      "is_recent_update": true,
+      "original_sentence": "20-Nov-25 OW 186.52 250"
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure/Research Coverage",
+      "fact_summary": "As of January 1, 2026, 51% of J.P. Morgan's Global Equity Research Coverage was rated Overweight.",
+      "is_recent_update": true,
+      "original_sentence": "J.P. Morgan Global Equity Research Coverage* 51% 37% 12%"
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure/Research Coverage",
+      "fact_summary": "As of January 1, 2026, 37% of J.P. Morgan's Global Equity Research Coverage was rated Neutral.",
+      "is_recent_update": true,
+      "original_sentence": "J.P. Morgan Global Equity Research Coverage* 51% 37% 12%"
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure/Research Coverage",
+      "fact_summary": "As of January 1, 2026, 12% of J.P. Morgan's Global Equity Research Coverage was rated Underweight.",
+      "is_recent_update": true,
+      "original_sentence": "J.P. Morgan Global Equity Research Coverage* 51% 37% 12%"
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure/Research Coverage",
+      "fact_summary": "As of January 1, 2026, 47% of J.P. Morgan's Global Equity Research Overweight-rated companies were also Investment Banking clients.",
+      "is_recent_update": true,
+      "original_sentence": "IB clients** 47% 47% 35%"
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure/Research Coverage",
+      "fact_summary": "As of January 1, 2026, 47% of J.P. Morgan's Global Equity Research Neutral-rated companies were also Investment Banking clients.",
+      "is_recent_update": true,
+      "original_sentence": "IB clients** 47% 47% 35%"
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure/Research Coverage",
+      "fact_summary": "As of January 1, 2026, 35% of J.P. Morgan's Global Equity Research Underweight-rated companies were also Investment Banking clients.",
+      "is_recent_update": true,
+      "original_sentence": "IB clients** 47% 47% 35%"
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure/Research Coverage",
+      "fact_summary": "As of January 1, 2026, 49% of J.P. Morgan Securities LLC (JPMS) Equity Research Coverage was rated Overweight.",
+      "is_recent_update": true,
+      "original_sentence": "JPMS Equity Research Coverage* 49% 38% 13%"
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure/Research Coverage",
+      "fact_summary": "As of January 1, 2026, 38% of J.P. Morgan Securities LLC (JPMS) Equity Research Coverage was rated Neutral.",
+      "is_recent_update": true,
+      "original_sentence": "JPMS Equity Research Coverage* 49% 38% 13%"
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure/Research Coverage",
+      "fact_summary": "As of January 1, 2026, 13% of J.P. Morgan Securities LLC (JPMS) Equity Research Coverage was rated Underweight.",
+      "is_recent_update": true,
+      "original_sentence": "JPMS Equity Research Coverage* 49% 38% 13%"
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure/Research Coverage",
+      "fact_summary": "As of January 1, 2026, 72% of J.P. Morgan Securities LLC (JPMS) Equity Research Overweight-rated companies were also Investment Banking clients.",
+      "is_recent_update": true,
+      "original_sentence": "IB clients** 72% 70% 53%"
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure/Research Coverage",
+      "fact_summary": "As of January 1, 2026, 70% of J.P. Morgan Securities LLC (JPMS) Equity Research Neutral-rated companies were also Investment Banking clients.",
+      "is_recent_update": true,
+      "original_sentence": "IB clients** 72% 70% 53%"
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Disclosure/Research Coverage",
+      "fact_summary": "As of January 1, 2026, 53% of J.P. Morgan Securities LLC (JPMS) Equity Research Underweight-rated companies were also Investment Banking clients.",
+      "is_recent_update": true,
+      "original_sentence": "IB clients** 72% 70% 53%"
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Publication",
+      "fact_summary": "The report was completed on February 22, 2026, at 05:28 PM EST.",
+      "is_recent_update": true,
+      "original_sentence": "Completed 22 Feb 2026 05:28 PM EST"
+    },
+    {
+      "company": "J.P. Morgan",
+      "fact_category": "Publication",
+      "fact_summary": "The report was disseminated on February 23, 2026, at 12:00 AM EST.",
+      "is_recent_update": true,
+      "original_sentence": "Disseminated 23 Feb 2026 12:00 AM EST"
+    },
+    {
+      "company": "AWS",
+      "fact_category": "Product/Pricing",
+      "fact_summary": "The price for an AWS A100 GPU cloud instance was $1.23 per hour on January 20, 2026.",
+      "is_recent_update": true,
+      "original_sentence": "$1.23"
+    },
+    {
+      "company": "AWS",
+      "fact_category": "Product/Pricing",
+      "fact_summary": "The price for an AWS A100 GPU cloud instance was $1.61 per hour on February 19, 2026.",
+      "is_recent_update": true,
+      "original_sentence": "$1.61"
+    },
+    {
+      "company": "AWS",
+      "fact_category": "Product/Pricing",
+      "fact_summary": "The price for an AWS A100 GPU cloud instance increased by 30% between January 20 and February 19, 2026.",
+      "is_recent_update": true,
+      "original_sentence": "+30%"
+    },
+    {
+      "company": "AWS",
+      "fact_category": "Product/Pricing",
+      "fact_summary": "The price for an AWS H100 GPU cloud instance was $3.80 per hour on January 20, 2026.",
+      "is_recent_update": true,
+      "original_sentence": "$3.80"
+    },
+    {
+      "company": "AWS",
+      "fact_category": "Product/Pricing",
+      "fact_summary": "The price for an AWS H100 GPU cloud instance was $4.12 per hour on February 19, 2026.",
+      "is_recent_update": true,
+      "original_sentence": "$4.12"
+    },
+    {
+      "company": "AWS",
+      "fact_category": "Product/Pricing",
+      "fact_summary": "The price for an AWS H100 GPU cloud instance increased by 8% between January 20 and February 19, 2026.",
+      "is_recent_update": true,
+      "original_sentence": "+8%"
+    },
+    {
+      "company": "Lambda",
+      "fact_category": "Product/Pricing",
+      "fact_summary": "The price for a Lambda A100 GPU cloud instance was $1.79 per hour on January 20, 2026.",
+      "is_recent_update": true,
+      "original_sentence": "$1.79"
+    },
+    {
+      "company": "Lambda",
+      "fact_category": "Product/Pricing",
+      "fact_summary": "The price for a Lambda A100 GPU cloud instance was $2.06 per hour on February 19, 2026.",
+      "is_recent_update": true,
+      "original_sentence": "$2.06"
+    },
+    {
+      "company": "Lambda",
+      "fact_category": "Product/Pricing",
+      "fact_summary": "The price for a Lambda A100 GPU cloud instance increased by 15% between January 20 and February 19, 2026.",
+      "is_recent_update": true,
+      "original_sentence": "+15%"
+    },
+    {
+      "company": "Lambda",
+      "fact_category": "Product/Pricing",
+      "fact_summary": "The price for a Lambda H100 GPU cloud instance was $2.99 per hour on January 20, 2026.",
+      "is_recent_update": true,
+      "original_sentence": "$2.99"
+    },
+    {
+      "company": "Lambda",
+      "fact_category": "Product/Pricing",
+      "fact_summary": "The price for a Lambda H100 GPU cloud instance was $3.44 per hour on February 19, 2026.",
+      "is_recent_update": true,
+      "original_sentence": "$3.44"
+    },
+    {
+      "company": "Lambda",
+      "fact_category": "Product/Pricing",
+      "fact_summary": "The price for a Lambda H100 GPU cloud instance increased by 15% between January 20 and February 19, 2026.",
+      "is_recent_update": true,
+      "original_sentence": "+15%"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Financials/Stock Performance",
+      "fact_summary": "NVIDIA's stock price changed by -1% in the 30 days prior to the F3Q26 earnings.",
+      "is_recent_update": true,
+      "original_sentence": "-1%"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Financials/Stock Performance",
+      "fact_summary": "NVIDIA's stock price changed by -6% in the 7 days prior to the F3Q26 earnings.",
+      "is_recent_update": true,
+      "original_sentence": "-6%"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Financials/Stock Performance",
+      "fact_summary": "NVIDIA's stock price changed by -3% in the 1 day prior to the F3Q26 earnings.",
+      "is_recent_update": true,
+      "original_sentence": "-3%"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Financials/Guidance",
+      "fact_summary": "NVIDIA's forward quarter revenue guidance midpoint for F3Q26 was $65.0 billion.",
+      "is_recent_update": true,
+      "original_sentence": "$65.0"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Financials/Consensus",
+      "fact_summary": "The consensus forward quarter revenue for NVIDIA in F3Q26 was $62.0 billion.",
+      "is_recent_update": true,
+      "original_sentence": "$62.0"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Financials/Performance",
+      "fact_summary": "NVIDIA's revenue beat/miss percentage for F3Q26 was 5%.",
+      "is_recent_update": true,
+      "original_sentence": "5%"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Financials/Stock Performance",
+      "fact_summary": "NVIDIA's stock price changed by 3% in the 1 day after the F3Q26 earnings.",
+      "is_recent_update": true,
+      "original_sentence": "3%"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Financials/Stock Performance",
+      "fact_summary": "NVIDIA's stock price changed by -2% in the 7 days after the F3Q26 earnings.",
+      "is_recent_update": true,
+      "original_sentence": "-2%"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Financials/Stock Performance",
+      "fact_summary": "NVIDIA's stock price changed by -4% in the 30 days after the F3Q26 earnings.",
+      "is_recent_update": true,
+      "original_sentence": "-4%"
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "fact_category": "Financials/Stock Performance",
+      "fact_summary": "NVIDIA's stock price changed by 1% in the 90 days after the F3Q26 earnings.",
+      "is_recent_update": true,
+      "original_sentence": "1%"
+    }
+  ],
+  "file_Id": "JPM_NVIDIA_Corporation_F_2026-02-23_5212308.pdf"
+}

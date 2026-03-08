@@ -1,0 +1,1765 @@
+{
+  "catalyst_analysis": {
+    "catalysts": [
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Financial Report",
+        "catalyst_topic": "Revenue",
+        "catalyst_details": "Best Buy's 4Q26 top line missed analyst expectations. Sales decreased -1.0% y/y to $13.8bn and enterprise comparable sales decreased -0.8% y/y, below the GS estimate of +1.2% and consensus of +0.1%.",
+        "status": "Occurred",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "4Q26",
+        "exact_sentences_in_the_file": "BBY reported 4Q26 adj. EPS of $2.61, above the GS estimate of $2.50 and consensus (Factset) of $2.46. Sales decreased -1.0% y/y to $13.8bn and enterprise comparable sales decreased -0.8% y/y, below the GS estimate of +1.2% and consensus of +0.1%."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Financial Report",
+        "catalyst_topic": "Earnings",
+        "catalyst_details": "Best Buy's 4Q26 adjusted EPS of $2.61 beat GS estimate of $2.50 and consensus of $2.46. Adj. EBIT margin increased 8 bps y/y to 5.0%, above GS/Cons. estimates of 4.9%/4.9%.",
+        "status": "Occurred",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "4Q26",
+        "exact_sentences_in_the_file": "BBY reported 4Q26 adj. EPS of $2.61, above the GS estimate of $2.50 and consensus (Factset) of $2.46. Adj. EBIT margin increased 8 bps y/y to 5.0%, above GS/Cons. estimates of 4.9%/4.9%."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Guidance",
+        "catalyst_topic": "Future Performance, Revenue, Earnings",
+        "catalyst_details": "Best Buy introduced FY27 guidance, including revenue of $41.2bn-$42.1bn (vs. consensus of $42.2bn), comparable sales of -1.0% to +1.0% (vs. consensus of +1.4%), and adj. EPS of $6.30-$6.60 (vs. consensus of $6.63), all below consensus expectations.",
+        "status": "Future",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "FY27",
+        "exact_sentences_in_the_file": "BBY introduced FY27 guidance, including revenue of $41.2bn-$42.1bn (vs. consensus of $42.2bn), comparable sales of -1.0% to +1.0% (vs. consensus of +1.4%), adj. EBIT margin of 4.3% to 4.4% (vs. consensus 4.3%), and adj. EPS of $6.30-$6.60 (vs. consensus of $6.63)."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Operational Update",
+        "catalyst_topic": "Inventory Management, Sales Performance",
+        "catalyst_details": "Inventory increased +2.9% y/y while sales decreased -1.0% y/y, suggesting potential inventory build-up relative to demand.",
+        "status": "Occurred",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "4Q26",
+        "exact_sentences_in_the_file": "Inventory increased +2.9% y/y (vs. sales of -1.0%), and the payables ratio n decreased to 90.7% from 97.9% in the prior year and compares to 91.6% during 3Q26."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Future Event (Conference Call)",
+        "catalyst_topic": "Business Performance, Sales Trends",
+        "catalyst_details": "Investors will be looking for commentary regarding quarter-to-date sales and operational trends during the upcoming conference call.",
+        "status": "Future",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "On the conference call, we will be looking for commentary regarding quarter-to-date trends;"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Future Event (Conference Call)",
+        "catalyst_topic": "Consumer Demand, Market Outlook",
+        "catalyst_details": "Investors will be looking for commentary on expectations for consumer demand in FY27 during the upcoming conference call.",
+        "status": "Future",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "FY27",
+        "exact_sentences_in_the_file": "expectations for consumer demand in FY27;"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Future Event (Conference Call)",
+        "catalyst_topic": "Pricing, Profitability",
+        "catalyst_details": "Investors will be looking for commentary on promotional levels during the upcoming conference call, which could impact margins.",
+        "status": "Future",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "promotional levels;"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Future Event (Conference Call)",
+        "catalyst_topic": "Consumer Behavior, Sales Mix",
+        "catalyst_details": "Investors will be looking for commentary on trade down trends (consumers opting for lower-priced products) during the upcoming conference call.",
+        "status": "Future",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "trade down trends;"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Future Event (Conference Call)",
+        "catalyst_topic": "Consumer Behavior, Sales Mix",
+        "catalyst_details": "Investors will be looking for commentary on wallet shifts between product categories during the upcoming conference call.",
+        "status": "Future",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "wallet shifts between categories;"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Future Event (Conference Call)",
+        "catalyst_topic": "Supply Chain, Operational Efficiency",
+        "catalyst_details": "Investors will be looking for commentary on inventory availability during the upcoming conference call.",
+        "status": "Future",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "inventory availability;"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Future Event (Conference Call)",
+        "catalyst_topic": "Supply Chain, Operational Efficiency",
+        "catalyst_details": "Investors will be looking for commentary on the state of the supply chain during the upcoming conference call.",
+        "status": "Future",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "the state of the supply chain;"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Future Event (Conference Call)",
+        "catalyst_topic": "Macroeconomic Factors, Profitability",
+        "catalyst_details": "Investors will be looking for commentary on inflation headwinds during the upcoming conference call, which could impact costs and margins.",
+        "status": "Future",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "inflation headwinds;"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Future Event (Conference Call)",
+        "catalyst_topic": "Profitability",
+        "catalyst_details": "Investors will be looking for commentary on future margin expectations during the upcoming conference call.",
+        "status": "Future",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "and margin expectations."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Risk Factor",
+        "catalyst_topic": "Consumer Demand, Revenue, Profitability",
+        "catalyst_details": "Demand for consumer electronics remaining pressured for longer than expected could negatively impact Best Buy's top line and margins.",
+        "status": "Ongoing",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "Downside risks include if demand for consumer electronics remains pressured for longer than expected, weighing on BBY\u2019s top line and margin;"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Risk Factor",
+        "catalyst_topic": "Consumer Behavior, Sales Growth",
+        "catalyst_details": "A longer-than-normal deferral of the upgrade/replacement cycle for consumer electronics could limit Best Buy's potential sales growth.",
+        "status": "Ongoing",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "if the upgrade/replacement cycle is deferred for longer than normal, limiting BBY\u2019s potential sales growth;"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Risk Factor",
+        "catalyst_topic": "Product Innovation, Consumer Demand",
+        "catalyst_details": "If innovation in consumer electronics fails to drive demand or is less than expected, it could negatively impact Best Buy.",
+        "status": "Ongoing",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "if innovation fails to drive demand, or if the level of innovation is less than expected;"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Risk Factor",
+        "catalyst_topic": "Macroeconomic Factors, Consumer Demand",
+        "catalyst_details": "A continued negative impact from the broader macroeconomic environment on demand for higher-ticket items could hurt Best Buy.",
+        "status": "Ongoing",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "if the broader macro environment continues to weigh on demand for higher-ticket items;"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Risk Factor",
+        "catalyst_topic": "Market Competition, Sales Performance",
+        "catalyst_details": "Best Buy losing market share to other retailers, especially online-only competitors, poses a downside risk.",
+        "status": "Ongoing",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "if BBY loses share to other retailers, particularly online-only retailers;"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Risk Factor",
+        "catalyst_topic": "Pricing, Profitability",
+        "catalyst_details": "An increase in industry-wide promotional levels could negatively impact Best Buy's gross margin.",
+        "status": "Ongoing",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "if industry-wide promotional levels increase, weighing on gross margin;"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Risk Factor",
+        "catalyst_topic": "Operating Costs, Profitability",
+        "catalyst_details": "Higher-than-expected wage and other operating costs could lead to further operating margin compression for Best Buy.",
+        "status": "Ongoing",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "if wage and other costs are higher than expected, driving further operating margin compression;"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Risk Factor",
+        "catalyst_topic": "Consumer Behavior, Sales Mix, Market Competition",
+        "catalyst_details": "Consumers trading down to lower-priced products or seeking value at other retailers could negatively impact Best Buy's sales and profitability.",
+        "status": "Ongoing",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "if consumers trade down into lower-priced products and or seek value at other retailers;"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "catalyst_type": "Risk Factor",
+        "catalyst_topic": "Operational Efficiency, Profitability",
+        "catalyst_details": "An increase in shrink (inventory loss due to theft, damage, etc.) could create a more intense margin headwind for Best Buy.",
+        "status": "Ongoing",
+        "observation_date": "2026-03-03",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "and if shrink increases, creating a more intense margin headwind."
+      }
+    ],
+    "file_Id": "Best Buy Co. (BBY)_ First Take_ 4Q26 top line miss but bottom line beat; FY27 guidance below expectations.pdf"
+  },
+  "bullish_deep_analysis": {
+    "bullish_views": [
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "4Q26 adjusted EPS exceeded both Goldman Sachs' estimate and consensus.",
+        "exact_sentences_in_the_file": "BBY reported 4Q26 adj. EPS of $2.61, above the GS estimate of $2.50 and consensus (Factset) of $2.46."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Adjusted EBIT margin increased year-over-year and surpassed estimates.",
+        "exact_sentences_in_the_file": "Adj. EBIT margin increased 8 bps y/y to 5.0%, above GS/Cons. estimates of 4.9%/4.9%."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Domestic gross margin increased year-over-year and was above Goldman Sachs' estimate.",
+        "exact_sentences_in_the_file": "Domestic gross margin increased 3 bps y/y to 20.9%, above the GS estimate of 20.8%."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Growth in Best Buy Ads and Marketplace contributed positively to the gross margin rate.",
+        "exact_sentences_in_the_file": "The approximately flat gross margin rate included growth in Best Buy Ads and Marketplace, which was largely offset by lower product margin rates."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Domestic adjusted SG&A expense decreased year-over-year due to lower compensation and Best Buy Health expenses.",
+        "exact_sentences_in_the_file": "Domestic adj. SG&A expense decreased -1.8% y/y due to lower compensation expenses, and lower Best Buy Health expenses."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "The adjusted SG&A expense ratio decreased year-over-year and was in-line with Goldman Sachs' estimate.",
+        "exact_sentences_in_the_file": "The adj. SG&A expense ratio decreased 11 bps y/y to 15.9%, in-line with the GS estimate of 15.9%."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "The stock is trading up in pre-market, indicating a positive market reaction to the better-than-expected bottom line.",
+        "exact_sentences_in_the_file": "The stock is trading up in the pre-market, likely due to the better than expected bottom line."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Goldman Sachs maintains a 'Buy' rating on BBY.",
+        "exact_sentences_in_the_file": "We are Buy rated on BBY with a 12-month price target of $93 based on our downside/base/upside case EV/EBITDA multiples of 6.5x/7.0x/7.5x."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "There is a significant 51.0% upside potential to the 12-month price target.",
+        "exact_sentences_in_the_file": "BBY 12m Price Target: $93.00 Price: $61.59 Upside: 51.0%"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bullish_debate_point": "Forecasted increasing dividend yield over the next few years.",
+        "exact_sentences_in_the_file": "Dividend yield (%) 4.4 6.2 7.4 8.9"
+      }
+    ],
+    "thesis_analysis": {
+      "central_thesis": "Best Buy (BBY) demonstrates strong profitability and operational efficiency, leading to a 'Buy' rating and significant upside potential despite some top-line challenges.",
+      "sub_claims": [
+        {
+          "claim": "Best Buy exceeded profitability expectations in 4Q26.",
+          "evidence_list": [
+            {
+              "evidence_type": "Fact",
+              "content": "BBY reported 4Q26 adj. EPS of $2.61, above the GS estimate of $2.50 and consensus (Factset) of $2.46.",
+              "is_objective": true,
+              "credibility_assessment": "High, based on reported financial results and comparison to analyst/consensus estimates from Factset."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "Adj. EBIT margin increased 8 bps y/y to 5.0%, above GS/Cons. estimates of 4.9%/4.9%.",
+              "is_objective": true,
+              "credibility_assessment": "High, based on reported financial results and comparison to analyst/consensus estimates."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "Domestic gross margin increased 3 bps y/y to 20.9%, above the GS estimate of 20.8%.",
+              "is_objective": true,
+              "credibility_assessment": "High, based on reported financial results and comparison to analyst estimates."
+            }
+          ]
+        },
+        {
+          "claim": "Operational improvements and cost management are driving margin strength.",
+          "evidence_list": [
+            {
+              "evidence_type": "Fact",
+              "content": "The approximately flat gross margin rate included growth in Best Buy Ads and Marketplace",
+              "is_objective": true,
+              "credibility_assessment": "High, as it details specific operational drivers contributing to gross margin."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "Domestic adj. SG&A expense decreased -1.8% y/y due to lower compensation expenses, and lower Best Buy Health expenses.",
+              "is_objective": true,
+              "credibility_assessment": "High, as it provides specific reasons for the decrease in operating expenses."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "The adj. SG&A expense ratio decreased 11 bps y/y to 15.9%, in-line with the GS estimate of 15.9%.",
+              "is_objective": true,
+              "credibility_assessment": "High, based on reported financial results and comparison to analyst estimates."
+            }
+          ]
+        },
+        {
+          "claim": "Goldman Sachs maintains a strong positive outlook and price target for BBY.",
+          "evidence_list": [
+            {
+              "evidence_type": "Opinion",
+              "content": "We are Buy rated on BBY with a 12-month price target of $93 based on our downside/base/upside case EV/EBITDA multiples of 6.5x/7.0x/7.5x.",
+              "is_objective": false,
+              "credibility_assessment": "High, as it is the direct recommendation from the report's author, Goldman Sachs, supported by a valuation methodology."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "BBY 12m Price Target: $93.00 Price: $61.59 Upside: 51.0%",
+              "is_objective": true,
+              "credibility_assessment": "High, these are specific figures and a calculated upside based on the analyst's target and current market price."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "Dividend yield (%) 4.4 6.2 7.4 8.9",
+              "is_objective": true,
+              "credibility_assessment": "High, these are specific forecasted numbers provided by Goldman Sachs Research estimates, indicating a positive trend."
+            }
+          ]
+        }
+      ]
+    },
+    "file_Id": "Best Buy Co. (BBY)_ First Take_ 4Q26 top line miss but bottom line beat; FY27 guidance below expectations.pdf"
+  },
+  "bearish_analysis": {
+    "bearish_views": [
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "4Q26 top line (sales and comparable sales) missed Goldman Sachs and consensus estimates.",
+        "exact_sentences_in_the_file": "Sales decreased -1.0% y/y to $13.8bn and enterprise comparable sales decreased -0.8% y/y, below the GS estimate of +1.2% and consensus of +0.1%."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "FY27 guidance for revenue, comparable sales, and adjusted EPS is below consensus expectations.",
+        "exact_sentences_in_the_file": "BBY introduced FY27 guidance, including revenue of $41.2bn-$42.1bn (vs. consensus of $42.2bn), comparable sales of -1.0% to +1.0% (vs. consensus of +1.4%), adj. EBIT margin of 4.3% to 4.4% (vs. consensus 4.3%), and adj. EPS of $6.30-$6.60 (vs. consensus of $6.63)."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Domestic online comparable sales decreased year-over-year.",
+        "exact_sentences_in_the_file": "Domestic online comparable sales decreased -2.3% y/y and accounted for 39.0% of domestic sales, up from 39.5% during the prior year."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Enterprise, domestic, and international comparable sales all decreased year-over-year and missed estimates.",
+        "exact_sentences_in_the_file": "Enterprise comparable sales decreased -0.8% y/y (vs. GS/consensus of n+1.2%/+0.1%) as domestic comparable sales decreased -0.8% (vs. GS/consensus of +1.2%/+0.3%) and international comparable sales decreased -1.3% (vs. GS/consensus of +1.3%/+1.7%)."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Lower product margin rates offset growth in other areas, leading to an approximately flat gross margin rate.",
+        "exact_sentences_in_the_file": "The approximately flat gross margin rate included growth in Best Buy Ads and Marketplace, which was largely offset by lower product margin rates."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Inventory increased while sales decreased, indicating potential inventory management issues or slowing demand.",
+        "exact_sentences_in_the_file": "Inventory increased +2.9% y/y (vs. sales of -1.0%), and the payables ratio decreased to 90.7% from 97.9% in the prior year and compares to 91.6% during 3Q26."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "The payables ratio decreased significantly, which could imply less favorable payment terms or faster payments to suppliers, impacting cash flow.",
+        "exact_sentences_in_the_file": "the payables ratio decreased to 90.7% from 97.9% in the prior year and compares to 91.6% during 3Q26."
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Demand for consumer electronics remains pressured for longer than expected, weighing on top line and margin.",
+        "exact_sentences_in_the_file": "Downside risks include if demand for consumer electronics remains pressured for longer than expected, weighing on BBY\u2019s top line and margin"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "The upgrade/replacement cycle for products is deferred for longer than normal, limiting potential sales growth.",
+        "exact_sentences_in_the_file": "if the upgrade/replacement cycle is deferred for longer than normal, limiting BBY\u2019s potential sales growth"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Innovation fails to drive demand, or the level of innovation is less than expected.",
+        "exact_sentences_in_the_file": "if innovation fails to drive demand, or if the level of innovation is less than expected"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "The broader macro environment continues to weigh on demand for higher-ticket items.",
+        "exact_sentences_in_the_file": "if the broader macro environment continues to weigh on demand for higher-ticket items"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Loss of market share to other retailers, particularly online-only retailers.",
+        "exact_sentences_in_the_file": "if BBY loses share to other retailers, particularly online-only retailers"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Industry-wide promotional levels increase, weighing on gross margin.",
+        "exact_sentences_in_the_file": "if industry-wide promotional levels increase, weighing on gross margin"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Wage and other costs are higher than expected, driving further operating margin compression.",
+        "exact_sentences_in_the_file": "if wage and other costs are higher than expected, driving further operating margin compression"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Consumers trade down into lower-priced products or seek value at other retailers.",
+        "exact_sentences_in_the_file": "if consumers trade down into lower-priced products and or seek value at other retailers"
+      },
+      {
+        "company": "Best Buy Co.",
+        "ticker": "BBY",
+        "sector": "Americas Retail Specialty",
+        "industry": "Hardlines, Supermarkets and Discount Stores",
+        "observation_date": "2026-03-03",
+        "bearish_debate_point": "Shrink increases, creating a more intense margin headwind.",
+        "exact_sentences_in_the_file": "and if shrink increases, creating a more intense margin headwind."
+      }
+    ],
+    "file_Id": "Best Buy Co. (BBY)_ First Take_ 4Q26 top line miss but bottom line beat; FY27 guidance below expectations.pdf"
+  },
+  "factual_data": {
+    "facts": [
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's adjusted EPS for 4Q26 was $2.61.",
+        "is_recent_update": true,
+        "original_sentence": "BBY reported 4Q26 adj. EPS of $2.61, above the GS estimate of $2.50 and consensus (Factset) of $2.46."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Sales",
+        "fact_summary": "Best Buy's sales for 4Q26 decreased by 1.0% year-over-year to $13.8 billion.",
+        "is_recent_update": true,
+        "original_sentence": "Sales decreased -1.0% y/y to $13.8bn and enterprise comparable sales decreased -0.8% y/y, below the GS estimate of +1.2% and consensus of +0.1%."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Sales",
+        "fact_summary": "Best Buy's enterprise comparable sales for 4Q26 decreased by 0.8% year-over-year.",
+        "is_recent_update": true,
+        "original_sentence": "Sales decreased -1.0% y/y to $13.8bn and enterprise comparable sales decreased -0.8% y/y, below the GS estimate of +1.2% and consensus of +0.1%."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Sales",
+        "fact_summary": "Best Buy's domestic online comparable sales for 4Q26 decreased by 2.3% year-over-year.",
+        "is_recent_update": true,
+        "original_sentence": "Domestic online comparable sales decreased -2.3% y/y and accounted for 39.0% of domestic sales, up from 39.5% during the prior year."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Sales",
+        "fact_summary": "Domestic online sales accounted for 39.0% of Best Buy's domestic sales in 4Q26.",
+        "is_recent_update": true,
+        "original_sentence": "Domestic online comparable sales decreased -2.3% y/y and accounted for 39.0% of domestic sales, up from 39.5% during the prior year."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Sales",
+        "fact_summary": "Domestic online sales accounted for 39.5% of Best Buy's domestic sales in the prior year (4Q25).",
+        "is_recent_update": false,
+        "original_sentence": "Domestic online comparable sales decreased -2.3% y/y and accounted for 39.0% of domestic sales, up from 39.5% during the prior year."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's adjusted EBIT margin for 4Q26 increased by 8 basis points year-over-year to 5.0%.",
+        "is_recent_update": true,
+        "original_sentence": "Adj. EBIT margin increased 8 bps y/y to 5.0%, above GS/Cons. estimates of 4.9%/4.9%."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Guidance",
+        "fact_summary": "Best Buy introduced FY27 revenue guidance of $41.2 billion to $42.1 billion.",
+        "is_recent_update": true,
+        "original_sentence": "BBY introduced FY27 guidance, including revenue of $41.2bn-$42.1bn (vs. consensus of $42.2bn), comparable sales of -1.0% to +1.0% (vs. consensus of +1.4%), adj. EBIT margin of 4.3% to 4.4% (vs. consensus 4.3%), and adj. EPS of $6.30-$6.60 (vs. consensus of $6.63)."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Guidance",
+        "fact_summary": "Best Buy introduced FY27 comparable sales guidance ranging from -1.0% to +1.0%.",
+        "is_recent_update": true,
+        "original_sentence": "BBY introduced FY27 guidance, including revenue of $41.2bn-$42.1bn (vs. consensus of $42.2bn), comparable sales of -1.0% to +1.0% (vs. consensus of +1.4%), adj. EBIT margin of 4.3% to 4.4% (vs. consensus 4.3%), and adj. EPS of $6.30-$6.60 (vs. consensus of $6.63)."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Guidance",
+        "fact_summary": "Best Buy introduced FY27 adjusted EBIT margin guidance of 4.3% to 4.4%.",
+        "is_recent_update": true,
+        "original_sentence": "BBY introduced FY27 guidance, including revenue of $41.2bn-$42.1bn (vs. consensus of $42.2bn), comparable sales of -1.0% to +1.0% (vs. consensus of +1.4%), adj. EBIT margin of 4.3% to 4.4% (vs. consensus 4.3%), and adj. EPS of $6.30-$6.60 (vs. consensus of $6.63)."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Guidance",
+        "fact_summary": "Best Buy introduced FY27 adjusted EPS guidance of $6.30 to $6.60.",
+        "is_recent_update": true,
+        "original_sentence": "BBY introduced FY27 guidance, including revenue of $41.2bn-$42.1bn (vs. consensus of $42.2bn), comparable sales of -1.0% to +1.0% (vs. consensus of +1.4%), adj. EBIT margin of 4.3% to 4.4% (vs. consensus 4.3%), and adj. EPS of $6.30-$6.60 (vs. consensus of $6.63)."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Guidance",
+        "fact_summary": "Best Buy expects capital expenditures to be $750 million for FY27.",
+        "is_recent_update": true,
+        "original_sentence": "Further, BBY now expects capital expenditures to be $750mn."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Sales",
+        "fact_summary": "Best Buy's domestic comparable sales decreased by 0.8% in 4Q26.",
+        "is_recent_update": true,
+        "original_sentence": "Enterprise comparable sales decreased -0.8% y/y (vs. GS/consensus of n +1.2%/+0.1%) as domestic comparable sales decreased -0.8% (vs. GS/consensus of +1.2%/+0.3%) and international comparable sales decreased -1.3% (vs. GS/consensus of +1.3%/+1.7%)."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Sales",
+        "fact_summary": "Best Buy's international comparable sales decreased by 1.3% in 4Q26.",
+        "is_recent_update": true,
+        "original_sentence": "Enterprise comparable sales decreased -0.8% y/y (vs. GS/consensus of n +1.2%/+0.1%) as domestic comparable sales decreased -0.8% (vs. GS/consensus of +1.2%/+0.3%) and international comparable sales decreased -1.3% (vs. GS/consensus of +1.3%/+1.7%)."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's domestic gross margin for 4Q26 increased by 3 basis points year-over-year to 20.9%.",
+        "is_recent_update": true,
+        "original_sentence": "Domestic gross margin increased 3 bps y/y to 20.9%, above the GS estimate of n 20.8%."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's domestic adjusted SG&A expense decreased by 1.8% year-over-year in 4Q26.",
+        "is_recent_update": true,
+        "original_sentence": "Domestic adj. SG&A expense decreased -1.8% y/y due to lower compensation n expenses, and lower Best Buy Health expenses."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's adjusted SG&A expense ratio for 4Q26 decreased by 11 basis points year-over-year to 15.9%.",
+        "is_recent_update": true,
+        "original_sentence": "The adj. SG&A expense ratio decreased 11 bps y/y to 15.9%, in-line with the GS estimate of 15.9%."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Inventory",
+        "fact_summary": "Best Buy's inventory increased by 2.9% year-over-year in 4Q26.",
+        "is_recent_update": true,
+        "original_sentence": "Inventory increased +2.9% y/y (vs. sales of -1.0%), and the payables ratio n decreased to 90.7% from 97.9% in the prior year and compares to 91.6% during 3Q26."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's payables ratio decreased to 90.7% in 4Q26.",
+        "is_recent_update": true,
+        "original_sentence": "Inventory increased +2.9% y/y (vs. sales of -1.0%), and the payables ratio n decreased to 90.7% from 97.9% in the prior year and compares to 91.6% during 3Q26."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's payables ratio was 97.9% in the prior year (4Q25).",
+        "is_recent_update": false,
+        "original_sentence": "Inventory increased +2.9% y/y (vs. sales of -1.0%), and the payables ratio n decreased to 90.7% from 97.9% in the prior year and compares to 91.6% during 3Q26."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's payables ratio was 91.6% during 3Q26.",
+        "is_recent_update": false,
+        "original_sentence": "Inventory increased +2.9% y/y (vs. sales of -1.0%), and the payables ratio n decreased to 90.7% from 97.9% in the prior year and compares to 91.6% during 3Q26."
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 sales were $13,814 million.",
+        "is_recent_update": true,
+        "original_sentence": "Sales $13,814"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 domestic sales were $12,575 million.",
+        "is_recent_update": true,
+        "original_sentence": "Domestic Sales $12,575"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 international sales were $1,239 million.",
+        "is_recent_update": true,
+        "original_sentence": "International Sales $1,239"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 total sales growth was -1.0%.",
+        "is_recent_update": true,
+        "original_sentence": "Total Sales Growth -1.0%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 domestic gross margin was 20.9%.",
+        "is_recent_update": true,
+        "original_sentence": "Domestic Gross Margin 20.9%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 domestic gross profit was $2,628 million.",
+        "is_recent_update": true,
+        "original_sentence": "Domestic Gross Profit $2,628"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 international gross margin was 20.5%.",
+        "is_recent_update": true,
+        "original_sentence": "Int'l Gross Margin 20.5%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 international gross profit was $254 million.",
+        "is_recent_update": true,
+        "original_sentence": "Int'l Gross Profit $254"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 total gross margin was 20.9%.",
+        "is_recent_update": true,
+        "original_sentence": "Gross Margin % 20.9%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 total gross profit was $2,882 million.",
+        "is_recent_update": true,
+        "original_sentence": "Gross Profit $2,882"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 domestic expense growth was -1.8%.",
+        "is_recent_update": true,
+        "original_sentence": "Domestic Expense Growth -1.8%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 domestic expense ratio was 15.9%.",
+        "is_recent_update": true,
+        "original_sentence": "Domestic Expense Ratio 15.9%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 international expense growth was -2.6%.",
+        "is_recent_update": true,
+        "original_sentence": "Int'l Expense Growth -2.6%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 international expense ratio was 15.3%.",
+        "is_recent_update": true,
+        "original_sentence": "Int'l Expense Ratio 15.3%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 operating expense growth was -1.8%.",
+        "is_recent_update": true,
+        "original_sentence": "Operating Expense Growth -1.8%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 operating expense ratio was 15.8%.",
+        "is_recent_update": true,
+        "original_sentence": "Operating Expense Ratio 15.8%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 domestic operating income was $630 million.",
+        "is_recent_update": true,
+        "original_sentence": "Operating Income-Domestic $630"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 domestic operating margin was 5.0%.",
+        "is_recent_update": true,
+        "original_sentence": "Operating Margin-Domestic 5.0%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 international operating income was $65 million.",
+        "is_recent_update": true,
+        "original_sentence": "Operating Income-Int'l $65"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 international operating margin was 5.2%.",
+        "is_recent_update": true,
+        "original_sentence": "Operating Margin-Int'l 5.2%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 total operating income was $695 million.",
+        "is_recent_update": true,
+        "original_sentence": "Operating Income $695"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 operating income growth was 0.7%.",
+        "is_recent_update": true,
+        "original_sentence": "Op. Income Growth 0.7%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 total operating margin was 5.0%.",
+        "is_recent_update": true,
+        "original_sentence": "Operating Margin 5.0%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q26 EPS growth was 1.3%.",
+        "is_recent_update": true,
+        "original_sentence": "EPS Growth 1.3%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Company Metrics",
+        "fact_summary": "Best Buy's market capitalization is $13.0 billion (as of 2 Mar 2026).",
+        "is_recent_update": true,
+        "original_sentence": "Market cap: $13.0bn"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Company Metrics",
+        "fact_summary": "Best Buy's enterprise value is $12.4 billion (as of 2 Mar 2026).",
+        "is_recent_update": true,
+        "original_sentence": "Enterprise value: $12.4bn"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Company Metrics",
+        "fact_summary": "Best Buy's 3-month average daily trading volume (ADTV) is $310.4 million (as of 2 Mar 2026).",
+        "is_recent_update": true,
+        "original_sentence": "3m ADTV: $310.4mn"
+      },
+      {
+        "company": "Goldman Sachs",
+        "fact_category": "Ownership",
+        "fact_summary": "Goldman Sachs beneficially owned 1% or more of Best Buy Co.'s common equity as of the second most recent month end.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs beneficially owned 1% or more of common equity (excluding positions managed by affiliates and business units not required to be aggregated under US securities law) as of the second most recent month end: Best Buy Co. ($61.59)"
+      },
+      {
+        "company": "Goldman Sachs",
+        "fact_category": "Business Relationship",
+        "fact_summary": "Goldman Sachs received compensation for investment banking services from Best Buy Co. in the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs has received compensation for investment banking services in the past 12 months: Best Buy Co. ($61.59)"
+      },
+      {
+        "company": "Goldman Sachs",
+        "fact_category": "Business Relationship",
+        "fact_summary": "Goldman Sachs received compensation for non-investment banking services from Best Buy Co. during the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs has received compensation for non-investment banking services during the past 12 months: Best Buy Co. ($61.59)"
+      },
+      {
+        "company": "Goldman Sachs",
+        "fact_category": "Business Relationship",
+        "fact_summary": "Goldman Sachs had an investment banking services client relationship with Best Buy Co. during the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs had an investment banking services client relationship during the past 12 months with: Best Buy Co. ($61.59)"
+      },
+      {
+        "company": "Goldman Sachs",
+        "fact_category": "Business Relationship",
+        "fact_summary": "Goldman Sachs had a non-investment banking securities-related services client relationship with Best Buy Co. during the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs had a non-investment banking securities-related services client relationship during the past 12 months with: Best Buy Co. ($61.59)"
+      },
+      {
+        "company": "Goldman Sachs",
+        "fact_category": "Business Relationship",
+        "fact_summary": "Goldman Sachs had a non-securities services client relationship with Best Buy Co. during the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs had a non-securities services client relationship during the past 12 months with: Best Buy Co. ($61.59)"
+      },
+      {
+        "company": "Goldman Sachs",
+        "fact_category": "Market Activity",
+        "fact_summary": "Goldman Sachs makes a market in the securities or derivatives of Best Buy Co.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs makes a market in the securities or derivatives thereof: Best Buy Co. ($61.59)"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Sales",
+        "fact_summary": "Best Buy's 4Q25 domestic same-store sales growth was 0.2%.",
+        "is_recent_update": false,
+        "original_sentence": "Domestic SSS Growth 0.2%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Sales",
+        "fact_summary": "Best Buy's 4Q25 international same-store sales growth was 3.8%.",
+        "is_recent_update": false,
+        "original_sentence": "International SSS Growth 3.8%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Sales",
+        "fact_summary": "Best Buy's 4Q25 total same-store sales growth was 0.5%.",
+        "is_recent_update": false,
+        "original_sentence": "Total same-store sales 0.5%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 sales were $13,948 million.",
+        "is_recent_update": false,
+        "original_sentence": "Sales $13,948"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 domestic sales were $12,715 million.",
+        "is_recent_update": false,
+        "original_sentence": "Domestic Sales $12,715"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 international sales were $1,233 million.",
+        "is_recent_update": false,
+        "original_sentence": "International Sales $1,233"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 total sales growth was -4.8%.",
+        "is_recent_update": false,
+        "original_sentence": "Total Sales Growth -4.8%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 domestic gross margin was 20.9%.",
+        "is_recent_update": false,
+        "original_sentence": "Domestic Gross Margin 20.9%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 domestic gross profit was $2,654 million.",
+        "is_recent_update": false,
+        "original_sentence": "Domestic Gross Profit $2,654"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 international gross margin was 21.4%.",
+        "is_recent_update": false,
+        "original_sentence": "Int'l Gross Margin 21.4%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 international gross profit was $264 million.",
+        "is_recent_update": false,
+        "original_sentence": "Int'l Gross Profit $264"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 total gross margin was 20.9%.",
+        "is_recent_update": false,
+        "original_sentence": "Gross Margin % 20.9%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 total gross profit was $2,918 million.",
+        "is_recent_update": false,
+        "original_sentence": "Gross Profit $2,918"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 domestic expense growth was -1.5%.",
+        "is_recent_update": false,
+        "original_sentence": "Domestic Expense Growth -1.5%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 domestic expense ratio was 16.0%.",
+        "is_recent_update": false,
+        "original_sentence": "Domestic Expense Ratio 16.0%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 international expense growth was -4.0%.",
+        "is_recent_update": false,
+        "original_sentence": "Int'l Expense Growth -4.0%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 international expense ratio was 16.4%.",
+        "is_recent_update": false,
+        "original_sentence": "Int'l Expense Ratio 16.4%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 operating expense growth was -1.7%.",
+        "is_recent_update": false,
+        "original_sentence": "Operating Expense Growth -1.7%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 operating expense ratio was 16.0%.",
+        "is_recent_update": false,
+        "original_sentence": "Operating Expense Ratio 16.0%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 domestic operating income was $620 million.",
+        "is_recent_update": false,
+        "original_sentence": "Operating Income-Domestic $620"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 domestic operating margin was 4.9%.",
+        "is_recent_update": false,
+        "original_sentence": "Operating Margin-Domestic 4.9%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 international operating income was $70 million.",
+        "is_recent_update": false,
+        "original_sentence": "Operating Income-Int'l $70"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 international operating margin was 5.7%.",
+        "is_recent_update": false,
+        "original_sentence": "Operating Margin-Int'l 5.7%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 total operating income was $690 million.",
+        "is_recent_update": false,
+        "original_sentence": "Operating Income $690"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 operating income growth was -6.1%.",
+        "is_recent_update": false,
+        "original_sentence": "Op. Income Growth -6.1%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 total operating margin was 4.9%.",
+        "is_recent_update": false,
+        "original_sentence": "Operating Margin 4.9%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 EPS was $2.58.",
+        "is_recent_update": false,
+        "original_sentence": "EPS $2.58"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 EPS growth was -5.3%.",
+        "is_recent_update": false,
+        "original_sentence": "EPS Growth -5.3%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Inventory",
+        "fact_summary": "Best Buy's 4Q25 inventory growth was 2.6%.",
+        "is_recent_update": false,
+        "original_sentence": "Inventory Growth 2.6%"
+      },
+      {
+        "company": "Best Buy Co. (BBY)",
+        "fact_category": "Financials",
+        "fact_summary": "Best Buy's 4Q25 payables ratio was 97.9%.",
+        "is_recent_update": false,
+        "original_sentence": "Payables ratio 97.9%"
+      }
+    ],
+    "file_Id": "Best Buy Co. (BBY)_ First Take_ 4Q26 top line miss but bottom line beat; FY27 guidance below expectations.pdf"
+  },
+  "relationship_mapping": {
+    "relationships": [
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Provides estimates for BBY's 4Q26 adjusted EPS.",
+        "quantifier": "estimate of $2.50",
+        "original_sentence": "BBY reported 4Q26 adj. EPS of $2.61, above the GS estimate of $2.50 and consensus (Factset) of $2.46."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Factset",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Source of consensus estimates for BBY's 4Q26 adjusted EPS.",
+        "quantifier": "consensus (Factset) of $2.46",
+        "original_sentence": "BBY reported 4Q26 adj. EPS of $2.61, above the GS estimate of $2.50 and consensus (Factset) of $2.46."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Provides estimates for BBY's enterprise comparable sales.",
+        "quantifier": "GS estimate of +1.2%",
+        "original_sentence": "Sales decreased -1.0% y/y to $13.8bn and enterprise comparable sales decreased -0.8% y/y, below the GS estimate of +1.2% and consensus of +0.1%."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Consensus",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Provides consensus estimates for BBY's enterprise comparable sales.",
+        "quantifier": "consensus of +0.1%",
+        "original_sentence": "Sales decreased -1.0% y/y to $13.8bn and enterprise comparable sales decreased -0.8% y/y, below the GS estimate of +1.2% and consensus of +0.1%."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Provides estimates for BBY's adjusted EBIT margin.",
+        "quantifier": "GS/Cons. estimates of 4.9%/4.9%",
+        "original_sentence": "Adj. EBIT margin increased 8 bps y/y to 5.0%, above GS/Cons. estimates of 4.9%/4.9%."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Consensus",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Provides consensus estimates for BBY's adjusted EBIT margin.",
+        "quantifier": "GS/Cons. estimates of 4.9%/4.9%",
+        "original_sentence": "Adj. EBIT margin increased 8 bps y/y to 5.0%, above GS/Cons. estimates of 4.9%/4.9%."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Consensus",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Provides consensus estimates for BBY's FY27 revenue guidance.",
+        "quantifier": "consensus of $42.2bn",
+        "original_sentence": "BBY introduced FY27 guidance, including revenue of $41.2bn-$42.1bn (vs. consensus of $42.2bn), comparable sales of -1.0% to +1.0% (vs. consensus of +1.4%), adj. EBIT margin of 4.3% to 4.4% (vs. consensus 4.3%), and adj. EPS of $6.30-$6.60 (vs. consensus of $6.63)."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Consensus",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Provides consensus estimates for BBY's FY27 comparable sales guidance.",
+        "quantifier": "consensus of +1.4%",
+        "original_sentence": "BBY introduced FY27 guidance, including revenue of $41.2bn-$42.1bn (vs. consensus of $42.2bn), comparable sales of -1.0% to +1.0% (vs. consensus of +1.4%), adj. EBIT margin of 4.3% to 4.4% (vs. consensus 4.3%), and adj. EPS of $6.30-$6.60 (vs. consensus of $6.63)."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Consensus",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Provides consensus estimates for BBY's FY27 adjusted EBIT margin guidance.",
+        "quantifier": "consensus 4.3%",
+        "original_sentence": "BBY introduced FY27 guidance, including revenue of $41.2bn-$42.1bn (vs. consensus of $42.2bn), comparable sales of -1.0% to +1.0% (vs. consensus of +1.4%), adj. EBIT margin of 4.3% to 4.4% (vs. consensus 4.3%), and adj. EPS of $6.30-$6.60 (vs. consensus of $6.63)."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Consensus",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Provides consensus estimates for BBY's FY27 adjusted EPS guidance.",
+        "quantifier": "consensus of $6.63",
+        "original_sentence": "BBY introduced FY27 guidance, including revenue of $41.2bn-$42.1bn (vs. consensus of $42.2bn), comparable sales of -1.0% to +1.0% (vs. consensus of +1.4%), adj. EBIT margin of 4.3% to 4.4% (vs. consensus 4.3%), and adj. EPS of $6.30-$6.60 (vs. consensus of $6.63)."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Provides estimates for BBY's enterprise comparable sales.",
+        "quantifier": "GS/consensus of n +1.2%/+0.1%",
+        "original_sentence": "Enterprise comparable sales decreased -0.8% y/y (vs. GS/consensus of n +1.2%/+0.1%) as domestic comparable sales decreased -0.8% (vs. GS/consensus of +1.2%/+0.3%) and international comparable sales decreased -1.3% (vs. GS/consensus of +1.3%/+1.7%)."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Consensus",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Provides consensus estimates for BBY's enterprise comparable sales.",
+        "quantifier": "GS/consensus of n +1.2%/+0.1%",
+        "original_sentence": "Enterprise comparable sales decreased -0.8% y/y (vs. GS/consensus of n +1.2%/+0.1%) as domestic comparable sales decreased -0.8% (vs. GS/consensus of +1.2%/+0.3%) and international comparable sales decreased -1.3% (vs. GS/consensus of +1.3%/+1.7%)."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Provides estimates for BBY's domestic comparable sales.",
+        "quantifier": "GS/consensus of +1.2%/+0.3%",
+        "original_sentence": "Enterprise comparable sales decreased -0.8% y/y (vs. GS/consensus of n +1.2%/+0.1%) as domestic comparable sales decreased -0.8% (vs. GS/consensus of +1.2%/+0.3%) and international comparable sales decreased -1.3% (vs. GS/consensus of +1.3%/+1.7%)."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Consensus",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Provides consensus estimates for BBY's domestic comparable sales.",
+        "quantifier": "GS/consensus of +1.2%/+0.3%",
+        "original_sentence": "Enterprise comparable sales decreased -0.8% y/y (vs. GS/consensus of n +1.2%/+0.1%) as domestic comparable sales decreased -0.8% (vs. GS/consensus of +1.2%/+0.3%) and international comparable sales decreased -1.3% (vs. GS/consensus of +1.3%/+1.7%)."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Provides estimates for BBY's international comparable sales.",
+        "quantifier": "GS/consensus of +1.3%/+1.7%",
+        "original_sentence": "Enterprise comparable sales decreased -0.8% y/y (vs. GS/consensus of n +1.2%/+0.1%) as domestic comparable sales decreased -0.8% (vs. GS/consensus of +1.2%/+0.3%) and international comparable sales decreased -1.3% (vs. GS/consensus of +1.3%/+1.7%)."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Consensus",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Provides consensus estimates for BBY's international comparable sales.",
+        "quantifier": "GS/consensus of +1.3%/+1.7%",
+        "original_sentence": "Enterprise comparable sales decreased -0.8% y/y (vs. GS/consensus of n +1.2%/+0.1%) as domestic comparable sales decreased -0.8% (vs. GS/consensus of +1.2%/+0.3%) and international comparable sales decreased -1.3% (vs. GS/consensus of +1.3%/+1.7%)."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Provides estimates for BBY's domestic gross margin.",
+        "quantifier": "GS estimate of n 20.8%",
+        "original_sentence": "Domestic gross margin increased 3 bps y/y to 20.9%, above the GS estimate of n 20.8%."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Provides estimates for BBY's adjusted SG&A expense ratio.",
+        "quantifier": "GS estimate of 15.9%",
+        "original_sentence": "The adj. SG&A expense ratio decreased 11 bps y/y to 15.9%, in-line with the GS estimate of 15.9%."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Other retailers",
+        "ticker": "N/A",
+        "relationship_type": "Competitor",
+        "relationship_description": "BBY risks losing market share to other retailers.",
+        "quantifier": "N/A",
+        "original_sentence": "Downside risks include if demand for consumer electronics remains pressured for longer than expected, weighing on BBY\u2019s top line and margin; if the upgrade/replacement cycle is deferred for longer than normal, limiting BBY\u2019s potential sales growth; if innovation fails to drive demand, or if the level of innovation is less than expected; if the broader macro environment continues to weigh on demand for higher-ticket items; if BBY loses share to other retailers, particularly online-only retailers; if industry-wide promotional levels increase, weighing on gross margin; if wage and other costs are higher than expected, driving further operating margin compression; if consumers trade down into lower-priced products and or seek value at other retailers; and if shrink increases, creating a more intense margin headwind."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Online-only retailers",
+        "ticker": "N/A",
+        "relationship_type": "Competitor",
+        "relationship_description": "BBY risks losing market share to online-only retailers.",
+        "quantifier": "N/A",
+        "original_sentence": "Downside risks include if demand for consumer electronics remains pressured for longer than expected, weighing on BBY\u2019s top line and margin; if the upgrade/replacement cycle is deferred for longer than normal, limiting BBY\u2019s potential sales growth; if innovation fails to drive demand, or if the level of innovation is less than expected; if the broader macro environment continues to weigh on demand for higher-ticket items; if BBY loses share to other retailers, particularly online-only retailers; if industry-wide promotional levels increase, weighing on gross margin; if wage and other costs are higher than expected, driving further operating margin compression; if consumers trade down into lower-priced products and or seek value at other retailers; and if shrink increases, creating a more intense margin headwind."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs Global Investment Research",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Source of data and research for BBY.",
+        "quantifier": "N/A",
+        "original_sentence": "Source: Company data, Goldman Sachs Global Investment Research, FactSet"
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "FactSet",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Source of data for BBY.",
+        "quantifier": "N/A",
+        "original_sentence": "Source: Company data, Goldman Sachs Global Investment Research, FactSet"
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs Research",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Source of research estimates for BBY.",
+        "quantifier": "N/A",
+        "original_sentence": "Source: Company data, Goldman Sachs Research estimates, FactSet. Price as of 2 Mar 2026 close."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Academy Sports & Outdoors Inc.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Advance Auto Parts Inc.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "AutoZone Inc.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "BJ\u2019s Wholesale Club Holdings",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Bath & Body Works Inc.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Bob\u2019s Discount Furniture Inc.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Boyd Group",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Costco Wholesale",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Dick\u2019s Sporting Goods",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Dollar General Corp.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Dollar Tree Stores Inc.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Driven Brands Holdings",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Five Below Inc.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Floor & Decor Holdings",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Genuine Parts Co.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Home Depot Inc.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Life Time Group Holdings",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Lithia Motors Inc.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Lowe\u2019s Cos.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "National Vision Holdings",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "O\u2019Reilly Automotive Inc.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Ollie\u2019s Bargain Outlet Inc.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Petco Health and Wellness Co.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "RH",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Target Corp.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Tractor Supply Co.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Ulta Beauty Inc.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Valvoline Inc.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Walmart Inc.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Williams-Sonoma Inc.",
+        "ticker": "N/A",
+        "relationship_type": "Peer",
+        "relationship_description": "Part of Best Buy Co.'s coverage universe.",
+        "quantifier": "N/A",
+        "original_sentence": "The rating(s) for Best Buy Co. is/are relative to the other companies in its/their coverage universe: Academy Sports & Outdoors Inc., Advance Auto Parts Inc., AutoZone Inc., BJ\u2019s Wholesale Club Holdings, Bath & Body Works Inc., Best Buy Co., Bob\u2019s Discount Furniture Inc., Boyd Group, Costco Wholesale, Dick\u2019s Sporting Goods, Dollar General Corp., Dollar Tree Stores Inc., Driven Brands Holdings, Five Below Inc., Floor & Decor Holdings, Genuine Parts Co., Home Depot Inc., Life Time Group Holdings, Lithia Motors Inc., Lowe\u2019s Cos., National Vision Holdings, O\u2019Reilly Automotive Inc., Ollie\u2019s Bargain Outlet Inc., Petco Health and Wellness Co., RH, Target Corp., Tractor Supply Co., Ulta Beauty Inc., Valvoline Inc., Walmart Inc., Williams-Sonoma Inc."
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Beneficially owned 1% or more of Best Buy Co.'s common equity.",
+        "quantifier": "1% or more",
+        "original_sentence": "Goldman Sachs beneficially owned 1% or more of common equity (excluding positions managed by affiliates and business units not required to be aggregated under US securities law) as of the second most recent month end: Best Buy Co. ($61.59)"
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Received compensation for investment banking services from Best Buy Co. in the past 12 months.",
+        "quantifier": "N/A",
+        "original_sentence": "Goldman Sachs has received compensation for investment banking services in the past 12 months: Best Buy Co. ($61.59)"
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Expects to receive or intends to seek compensation for investment banking services from Best Buy Co. in the next 3 months.",
+        "quantifier": "N/A",
+        "original_sentence": "Goldman Sachs expects to receive or intends to seek compensation for investment banking services in the next 3 months: Best Buy Co. ($61.59)"
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Received compensation for non-investment banking services from Best Buy Co. during the past 12 months.",
+        "quantifier": "N/A",
+        "original_sentence": "Goldman Sachs has received compensation for non-investment banking services during the past 12 months: Best Buy Co. ($61.59)"
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Had an investment banking services client relationship with Best Buy Co. during the past 12 months.",
+        "quantifier": "N/A",
+        "original_sentence": "Goldman Sachs had an investment banking services client relationship during the past 12 months with: Best Buy Co. ($61.59)"
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Had a non-investment banking securities-related services client relationship with Best Buy Co. during the past 12 months.",
+        "quantifier": "N/A",
+        "original_sentence": "Goldman Sachs had a non-investment banking securities-related services client relationship during the past 12 months with: Best Buy Co. ($61.59)"
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Had a non-securities services client relationship with Best Buy Co. during the past 12 months.",
+        "quantifier": "N/A",
+        "original_sentence": "Goldman Sachs had a non-securities services client relationship during the past 12 months with: Best Buy Co. ($61.59)"
+      },
+      {
+        "source_company": "Best Buy Co.",
+        "target_company": "Goldman Sachs",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "Makes a market in Best Buy Co.'s securities or derivatives.",
+        "quantifier": "N/A",
+        "original_sentence": "Goldman Sachs makes a market in the securities or derivatives thereof: Best Buy Co. ($61.59)"
+      }
+    ],
+    "file_Id": "Best Buy Co. (BBY)_ First Take_ 4Q26 top line miss but bottom line beat; FY27 guidance below expectations.pdf"
+  }
+}

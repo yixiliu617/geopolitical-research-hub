@@ -1,0 +1,2270 @@
+{
+  "catalyst_analysis": {
+    "catalysts": [
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "catalyst_type": "Earnings Report",
+        "catalyst_topic": "F1Q26 Earnings, AI Product Demand, VMware Synergy",
+        "catalyst_details": "Broadcom is expected to report F1Q26 (Jan quarter) revenue, earnings, and free cash flow exceeding consensus. This is driven by strong AI product demand, specifically Google TPU 3nm (Ironwood) ASIC and AI networking (Tomahawk 5 and initial Tomahawk 6 ramp), and continued revenue synergy from VMware. AI revenues are projected to exceed $9B (vs consensus $8.1B).",
+        "status": "Completed",
+        "observation_date": "2026-03-01",
+        "catalyst_dates": "2026-01-01",
+        "exact_sentences_in_the_file": "Broadcom is set to report Jan quarter (F1Q26) earnings Wednesday, and we continue to see a strong demand profile for its AI products driven by Google TPU upside, AI networking strength. The non-AI semiconductor business (enterprise, server/storage, broadband) should continue to gradually improve, and we anticipate continued revenue synergy unlock from VMware. As a result, we expect January quarter revenue, earnings, and free cash flow to exceed our and consensus expectations. For the Jan quarter, we expect AI revenues to exceed $9B (vs. consensus of $8.1B), driven by continued upside from Google\u2019s TPU 3nm (Ironwood) ASIC chip and strong demand for networking (Tomahawk 5 and initial ramp of Tomahawk 6 switching chips). Expect better Jan-Qtr results (revenues/EPS) on strong TPU upside and strong networking. We believe total orders/revenues in the Jan-Qtr were strong on continued strong demand in AI networking and custom ASICs combined with gradually improving demand trends in telecom, server/storage, broadband. We believe that Jan quarter revenue/earnings/FCF were better than our/consensus expectations on AI strength, driven by upside demand strength in TPUv6 3nm TPU (Ironwood) and continued solid software renewals in its VMware business. Overall, we expect $20B+ in revenues for Jan-Qtr and AI revenues of $9.0B+ (versus consensus of $8.1B)."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "catalyst_type": "Guidance",
+        "catalyst_topic": "F2Q26 Revenue Guidance, AI Demand",
+        "catalyst_details": "Broadcom is expected to provide April quarter (F2Q26) revenue guidance of $21-22B, which is ahead of consensus expectations of $20.5B. This is attributed to continued AI demand strength, including robust AI networking, ongoing ramp of TPU 3nm Ironwood, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs, with AI revenues estimated at $10-11B+ (vs consensus $8.96B).",
+        "status": "Upcoming",
+        "observation_date": "2026-03-01",
+        "catalyst_dates": "2026-04-01",
+        "exact_sentences_in_the_file": "Building off a higher January quarter revenue base, we see April quarter revenue guidance of $21-22B, ahead of consensus expectations of $20.5B, on continued AI demand strength. We estimate AI revenues of $10-11B+ for the April quarter (vs. consensus of $8.96B), supported by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs. Expect Apr-Qtr guide to be better vs expectations on continued AI strength (custom ASICs and networking)... $21-22B+ in total revenues\u2026 $10-$11B in AI revenues on strong 3nm TPU ASIC demand, strong networking, initial revenues from 1st gen ASIC programs from OpenAI and Softbank/ARM and run-rate business with ByteDance/Meta. Off of a higher Jan-rev Qtr base, we see Apr-Qtr revenue guidance better than consensus. We expect $21-22B+ in revenues for the Apr-Qtr and the team to drive $10-11B+ in its AI business (vs consensus of $8.96B) combined with gradual improvements in its non-AI semi businesses. Strength in AI is led by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "catalyst_type": "Product Launch/Revenue Growth",
+        "catalyst_topic": "AI Revenue, TPU 3nm Ironwood, TPU v8 Sunfish, New ASIC Programs (SoftBank/ARM, OpenAI, Anthropic)",
+        "catalyst_details": "Broadcom is projected to generate over $65B in AI revenues in FY26 and over $120B in FY27. This growth is driven by increased shipments of the current generation TPU 3nm Ironwood, the ramp of the next-gen TPU v8 (Sunfish) 3nm starting mid-CY26, and new programs with SoftBank/ARM, OpenAI 2nm/3nm ASICs, and Anthropic. Google is expected to drive 3.5M TPU units in CY26 and 6-7M TPU processors in CY27.",
+        "status": "Projected",
+        "observation_date": "2026-03-01",
+        "catalyst_dates": "FY26, FY27, 2026-07-01, 2027-12-31",
+        "exact_sentences_in_the_file": "In total, we expect Broadcom to generate >$65B+ in AI revenues in FY26 and >$120B in FY27 as new products and programs ramp, including increased shipments of the current generation TPU 3nm Ironwood, the start of the TPU v8 (Sunfish) 3nm ramp, and new programs with SoftBank/ARM, OpenAI 2nm/3nm ASICs, and Anthropic. As we have recently written (see note here), we believe Google is set to drive 3.5M TPU units this year and 6\u20137M TPU processors in CY27, given their increasing success at supporting external customer AI workloads. Strong AI growth outlook driven by lead customer\u2019s next-gen XPU program ramp, ramp of new customer XPU programs and continued strong networking demand \u2013 we expect >$65B in FY26 and $120B+ in FY27\u2026. We expect the team to drive ~$65B+ in AI (ASIC+networking) revenues this year, led by its lead TPU customer, 1st gen ramp by OpenAI and Softbank/ARM XPU ASIC programs, combined with incremental revenue contributions from its other AI ASIC customers (e.g., Meta/Bytedance) combined with continued strong AI networking revenues. For CY27, we believe a majority of TPU shipments (Ironwood and Sunfish) will support external customer AI workloads, all powered by Broadcom\u2019s/Google\u2019s next-gen 3nm TPU ASICs. We anticipate Anthropic and OpenAI driving double-digits billions of dollars for Broadcom in CY27 with sustained revenues from ByteDance and Meta."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "catalyst_type": "Market Trend",
+        "catalyst_topic": "Non-AI Semiconductor Business",
+        "catalyst_details": "Broadcom's non-AI semiconductor business, including enterprise, server/storage, and broadband, is expected to continue its gradual improvement in FY26 due to improving cyclical trends.",
+        "status": "Ongoing/Projected",
+        "observation_date": "2026-03-01",
+        "catalyst_dates": "FY26",
+        "exact_sentences_in_the_file": "The non-AI semiconductor business (enterprise, server/storage, broadband) should continue to gradually improve, and we anticipate continued revenue synergy unlock from VMware. The non-AI semi business should continue to gradually improve in FY26 on improving cyclical trends in broadband/storage/enterprise."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "catalyst_type": "Business Integration",
+        "catalyst_topic": "VMware Performance",
+        "catalyst_details": "Broadcom anticipates continued revenue synergy unlock from its VMware acquisition, with strong momentum in the VMware business driven by robust software renewals and successful conversion/upsell to its VCF full stack solution, leading to higher average selling prices (ASPs).",
+        "status": "Ongoing",
+        "observation_date": "2026-03-01",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "and we anticipate continued revenue synergy unlock from VMware. In the software infrastructure business, we continue to see strong momentum in its VMware business on strong software renewals (with conversion/upsell to its VCF full stack solution with higher ASPs) with its large corporate customers."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "catalyst_type": "Demand/Supply Imbalance",
+        "catalyst_topic": "TPU Supply Chain",
+        "catalyst_details": "Broadcom is experiencing higher TPU demand in FY26 and FY27 than its current supply chain capabilities can meet, leading to continued upside to existing backlog. The company's team is actively working to unlock more supply over the next few months.",
+        "status": "Ongoing",
+        "observation_date": "2026-03-01",
+        "catalyst_dates": "FY26, FY27, 2026-03-01 to 2026-06-01",
+        "exact_sentences_in_the_file": "We believe Broadcom is seeing even higher TPU demand (FY26 and FY27) than its supply chain capabilities (continued upside to existing backlog), and the team is working to unlock more supply over the next few months."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "catalyst_type": "Customer Program Changes",
+        "catalyst_topic": "Meta ASIC Roadmaps (Olympus, Athena, Iris, Arke)",
+        "catalyst_details": "Meta is slowing down its future-generation 2nm Olympus ASIC roadmap, which was targeted for a CY28 ramp. However, current generation programs (Athena, Iris, Arke) are expected to continue driving $5-6B in ASIC revenues in CY26 and CY27, indicating Meta's overall commitment to ASICs and Broadcom remains high.",
+        "status": "Ongoing/Projected",
+        "observation_date": "2026-03-01",
+        "catalyst_dates": "CY26, CY27, 2028-12-31",
+        "exact_sentences_in_the_file": "For Meta, we acknowledge some changes on future-gen programs (2nm Olympus, targeted for CY28 ramp) but continue to see current gen programs (Athena, Iris, Arke) driving $5\u2013$6B in ASIC revenues this year and next and the overall commitment to ASICs/Broadcom remains high at Meta. Meta is slowing down its future gen XPU ASIC roadmaps mid-term, but Broadcom\u2019s other ASIC customers are accelerating their roadmaps - AI XPU customer diversity will help to mitigate a slowdown by any one customer\u2026"
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "catalyst_type": "Business Strategy",
+        "catalyst_topic": "AI Customer Base Diversification",
+        "catalyst_details": "Broadcom's diverse ASIC customer base (including Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple) and programs, combined with a tight demand/supply outlook, are expected to mitigate any slowdown in growth from a single customer. As a result of this diversification, Google TPU business is estimated to decline to less than 45% of overall AI revenues in CY27, down from 50-52% in FY26 and 60% in FY25, even as total AI revenues grow to over $120B in FY27.",
+        "status": "Ongoing/Projected",
+        "observation_date": "2026-03-01",
+        "catalyst_dates": "FY25, FY26, CY27",
+        "exact_sentences_in_the_file": "The diversity of Broadcom\u2019s ASIC customer base and programs (Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple, etc), combined with a continued tight demand/supply outlook will mitigate any slowdown in growth due to any one customer (this has always been the ASIC business model- diversification of customers/programs reduces risk). As a reflection of the AI customer diversification, we estimate Google TPU business will decline to <45% of overall AI revenues in CY27 from 50-52% in FY26 and versus 60% in FY25 - and that\u2019s with total AI revenues growing to >$120B in FY27."
+      }
+    ],
+    "file_Id": "JPM_Broadcom_Inc_F1Q26_P_2026-03-02_5221106.pdf"
+  },
+  "bullish_deep_analysis": {
+    "bullish_views": [
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Expectation of strong financial performance driven by AI products.",
+        "exact_sentences_in_the_file": "F1Q26 Preview: Expect Solid Beat/Raise on TPU Upside and AI Networking Strength"
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Future growth driver from next-generation AI product ramp.",
+        "exact_sentences_in_the_file": "Next Gen TPU Set to Ramp Mid CY26"
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Strong future AI revenue growth and reduced customer concentration risk.",
+        "exact_sentences_in_the_file": "FY27 Backlog Reflects ~2x AI Growth and Customer Diversification"
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Robust demand for AI products.",
+        "exact_sentences_in_the_file": "we continue to see a strong demand profile for its AI products driven by Google TPU upside, AI networking strength."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Improvement in non-AI semiconductor segments.",
+        "exact_sentences_in_the_file": "The non-AI semiconductor business (enterprise, server/storage, broadband) should continue to gradually improve"
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Positive financial impact from VMware integration.",
+        "exact_sentences_in_the_file": "and we anticipate continued revenue synergy unlock from VMware."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Strong Q1 financial results exceeding market expectations.",
+        "exact_sentences_in_the_file": "As a result, we expect January quarter revenue, earnings, and free cash flow to exceed our and consensus expectations."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Higher-than-expected AI revenues in Q1 driven by specific products.",
+        "exact_sentences_in_the_file": "For the Jan quarter, we expect AI revenues to exceed $9B (vs. consensus of $8.1B), driven by continued upside from Google\u2019s TPU 3nm (Ironwood) ASIC chip and strong demand for networking (Tomahawk 5 and initial ramp of Tomahawk 6 switching chips)."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Strong Q2 revenue guidance exceeding market expectations due to AI demand.",
+        "exact_sentences_in_the_file": "Building off a higher January quarter revenue base, we see April quarter revenue guidance of $21-22B, ahead of consensus expectations of $20.5B, on continued AI demand strength."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Higher-than-expected AI revenues in Q2 driven by diverse AI programs.",
+        "exact_sentences_in_the_file": "We estimate AI revenues of $10-11B+ for the April quarter (vs. consensus of $8.96B), supported by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Significant projected AI revenue growth in FY26 and FY27 from new and existing programs.",
+        "exact_sentences_in_the_file": "In total, we expect Broadcom to generate >$65B+ in AI revenues in FY26 and >$120B in FY27 as new products and programs ramp, including increased shipments of the current generation TPU 3nm Ironwood, the start of the TPU v8 (Sunfish) 3nm ramp, and new programs with SoftBank/ARM, OpenAI 2nm/3nm ASICs, and Anthropic."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Substantial increase in Google TPU unit shipments, indicating strong underlying demand for Broadcom's components.",
+        "exact_sentences_in_the_file": "we believe Google is set to drive 3.5M TPU units this year and 6\u20137M TPU processors in CY27, given their increasing success at supporting external customer AI workloads."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Demand for Broadcom's TPUs exceeds current supply, indicating strong market position and potential for further upside.",
+        "exact_sentences_in_the_file": "We believe Broadcom is seeing even higher TPU demand (FY26 and FY27) than its supply chain capabilities (continued upside to existing backlog), and the team is working to unlock more supply over the next few months."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Broadcom's next-gen TPUs are central to Google's external AI workload support, ensuring future relevance and revenue.",
+        "exact_sentences_in_the_file": "For FY27, we believe a majority of TPU shipments will support external customer AI workloads, all powered by Broadcom\u2019s/Google\u2019s next-gen 3nm TPU ASIC."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Continued significant ASIC revenue from Meta's current generation programs.",
+        "exact_sentences_in_the_file": "continue to see current gen programs (Athena, Iris, Arke) driving $5\u2013$6B in ASIC revenues this year and next and the overall commitment to ASICs/Broadcom remains high at Meta."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Diversified customer base reduces risk and ensures stable growth.",
+        "exact_sentences_in_the_file": "The diversity of Broadcom\u2019s ASIC customer base and programs (Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple, etc), combined with a continued tight demand/supply outlook will mitigate any slowdown in growth due to any one customer (this has always been the ASIC business model- diversification of customers/programs reduces risk)."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Gradual improvement in non-AI semiconductor business due to cyclical trends.",
+        "exact_sentences_in_the_file": "The non-AI semi business should continue to gradually improve in FY26 on improving cyclical trends in broadband/storage/enterprise."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Strong performance and revenue growth in the VMware software infrastructure business.",
+        "exact_sentences_in_the_file": "In the software infrastructure business, we continue to see strong momentum in its VMware business on strong software renewals (with conversion/upsell to its VCF full stack solution with higher ASPs) with its large corporate customers."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Strong analyst recommendation.",
+        "exact_sentences_in_the_file": "Broadcom remains our top pick in semiconductor coverage"
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Market leadership in key AI infrastructure segments.",
+        "exact_sentences_in_the_file": "given its leading exposure to AI infrastructure spending (#2 global AI semi supplier, #1 custom chip AI ASIC supplier, and #1 cloud/AI networking switch/routing chip supplier)"
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Reduced risk due to broad market presence.",
+        "exact_sentences_in_the_file": "diversified end-market exposure"
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Superior financial efficiency.",
+        "exact_sentences_in_the_file": "and best-in-class gross, operating, and free cash flow margins."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Continued positive analyst rating.",
+        "exact_sentences_in_the_file": "We reiterate our Overweight (OW) rating."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Strong overall demand across AI and non-AI segments in Q1.",
+        "exact_sentences_in_the_file": "We believe total orders/revenues in the Jan-Qtr were strong on continued strong demand in AI networking and custom ASICs combined with gradually improving demand trends in telecom, server/storage, broadband."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Q1 financial results exceeded expectations due to AI and VMware strength.",
+        "exact_sentences_in_the_file": "We believe that Jan quarter revenue/earnings/FCF were better than our/consensus expectations on AI strength, driven by upside demand strength in TPUv6 3nm TPU (Ironwood) and continued solid software renewals in its VMware business."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Strong Q2 guidance driven by continued AI strength and new programs.",
+        "exact_sentences_in_the_file": "Expect Apr-Qtr guide to be better vs expectations on continued AI strength (custom ASICs and networking)... $21-22B+ in total revenues\u2026 $10-$11B in AI revenues on strong 3nm TPU ASIC demand, strong networking, initial revenues from 1st gen ASIC programs from OpenAI and Softbank/ARM and run-rate business with ByteDance/Meta."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "AI strength is broad-based across networking and multiple ASIC programs.",
+        "exact_sentences_in_the_file": "Strength in AI is led by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Very strong future AI revenue growth driven by next-gen and new customer programs.",
+        "exact_sentences_in_the_file": "Strong AI growth outlook driven by lead customer\u2019s next-gen XPU program ramp, ramp of new customer XPU programs and continued strong networking demand \u2013 we expect >$65B in FY26 and $120B+ in FY27"
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Customer diversification in AI XPU programs reduces risk.",
+        "exact_sentences_in_the_file": "AI XPU customer diversity will help to mitigate a slowdown by any one customer"
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Decreasing reliance on Google for AI revenues despite overall AI revenue growth, indicating successful diversification.",
+        "exact_sentences_in_the_file": "As a reflection of the AI customer diversification, we estimate Google TPU business will decline to <45% of overall AI revenues in CY27 from 50-52% in FY26 and versus 60% in FY25 - and that\u2019s with total AI revenues growing to >$120B in FY27."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Market leadership across multiple high-growth technology segments.",
+        "exact_sentences_in_the_file": "We see Broadcom as a leader in wireless, data center networking, AI/deep learning ASICs, storage, and infrastructure silicon, hardware, software with broad-based exposure to positive trends in these end markets."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Unmatched scale and technology capabilities solidify market leadership.",
+        "exact_sentences_in_the_file": "Broadcom is a technology infrastructure powerhouse with unmatched scale and technology capabilities in the industry, securing its leadership positions in a diverse set of end markets."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bullish_debate_point": "Favorable valuation relative to peers, supported by strong fundamentals and leadership.",
+        "exact_sentences_in_the_file": "Our Dec-26 PT assumes A VGO trades at a 32x multiple (broadly in-line with AI peers trading at 30-35x given its best-in-class operating/free cash flow margins, diversified business, AI ASIC/networking leadership) applied to our CY26E exit run-rate earnings power of ~$15.00 per share."
+      }
+    ],
+    "thesis_analysis": {
+      "central_thesis": "Broadcom is a leading technology infrastructure powerhouse poised for significant growth, primarily driven by its strong position in AI infrastructure spending (ASICs and networking) and supported by improving non-AI semiconductor and VMware businesses, leading to strong financial performance and a favorable valuation.",
+      "sub_claims": [
+        {
+          "claim": "Broadcom's AI business is experiencing robust demand and significant growth, driven by key customer programs and next-generation product ramps.",
+          "evidence_list": [
+            {
+              "evidence_type": "Analyst Expectation",
+              "content": "F1Q26 Preview: Expect Solid Beat/Raise on TPU Upside and AI Networking Strength",
+              "is_objective": false,
+              "credibility_assessment": "Medium"
+            },
+            {
+              "evidence_type": "Financial Projection/Estimate",
+              "content": "For the Jan quarter, we expect AI revenues to exceed $9B (vs. consensus of $8.1B), driven by continued upside from Google\u2019s TPU 3nm (Ironwood) ASIC chip and strong demand for networking (Tomahawk 5 and initial ramp of Tomahawk 6 switching chips).",
+              "is_objective": false,
+              "credibility_assessment": "High"
+            },
+            {
+              "evidence_type": "Financial Projection/Guidance",
+              "content": "Building off a higher January quarter revenue base, we see April quarter revenue guidance of $21-22B, ahead of consensus expectations of $20.5B, on continued AI demand strength.",
+              "is_objective": false,
+              "credibility_assessment": "High"
+            },
+            {
+              "evidence_type": "Financial Projection/Estimate",
+              "content": "In total, we expect Broadcom to generate >$65B+ in AI revenues in FY26 and >$120B in FY27 as new products and programs ramp, including increased shipments of the current generation TPU 3nm Ironwood, the start of the TPU v8 (Sunfish) 3nm ramp, and new programs with SoftBank/ARM, OpenAI 2nm/3nm ASICs, and Anthropic.",
+              "is_objective": false,
+              "credibility_assessment": "High"
+            },
+            {
+              "evidence_type": "Market Data/Projection",
+              "content": "we believe Google is set to drive 3.5M TPU units this year and 6\u20137M TPU processors in CY27, given their increasing success at supporting external customer AI workloads.",
+              "is_objective": false,
+              "credibility_assessment": "Medium"
+            },
+            {
+              "evidence_type": "Product Roadmap/Development",
+              "content": "Next Gen TPU Set to Ramp Mid CY26; the start of the TPU v8 (Sunfish) 3nm ramp",
+              "is_objective": true,
+              "credibility_assessment": "High"
+            },
+            {
+              "evidence_type": "Business Activity/Partnership",
+              "content": "early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs.",
+              "is_objective": true,
+              "credibility_assessment": "High"
+            },
+            {
+              "evidence_type": "Financial Projection/Customer Commitment",
+              "content": "continue to see current gen programs (Athena, Iris, Arke) driving $5\u2013$6B in ASIC revenues this year and next and the overall commitment to ASICs/Broadcom remains high at Meta.",
+              "is_objective": false,
+              "credibility_assessment": "High"
+            },
+            {
+              "evidence_type": "Demand-Supply Imbalance/Management Action",
+              "content": "We believe Broadcom is seeing even higher TPU demand (FY26 and FY27) than its supply chain capabilities (continued upside to existing backlog), and the team is working to unlock more supply over the next few months.",
+              "is_objective": false,
+              "credibility_assessment": "Medium"
+            }
+          ]
+        },
+        {
+          "claim": "Broadcom's diversified customer base and product offerings in AI mitigate risks associated with reliance on a single customer and ensure sustained growth.",
+          "evidence_list": [
+            {
+              "evidence_type": "Financial Outlook/Strategic Trend",
+              "content": "FY27 Backlog Reflects ~2x AI Growth and Customer Diversification",
+              "is_objective": false,
+              "credibility_assessment": "Medium"
+            },
+            {
+              "evidence_type": "Business Strategy/Market Position",
+              "content": "The diversity of Broadcom\u2019s ASIC customer base and programs (Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple, etc), combined with a continued tight demand/supply outlook will mitigate any slowdown in growth due to any one customer (this has always been the ASIC business model- diversification of customers/programs reduces risk).",
+              "is_objective": true,
+              "credibility_assessment": "High"
+            },
+            {
+              "evidence_type": "Financial Projection/Customer Concentration Trend",
+              "content": "As a reflection of the AI customer diversification, we estimate Google TPU business will decline to <45% of overall AI revenues in CY27 from 50-52% in FY26 and versus 60% in FY25 - and that\u2019s with total AI revenues growing to >$120B in FY27.",
+              "is_objective": false,
+              "credibility_assessment": "High"
+            }
+          ]
+        },
+        {
+          "claim": "Broadcom's non-AI semiconductor and software infrastructure (VMware) businesses are showing gradual improvement and strong momentum, contributing to overall financial strength.",
+          "evidence_list": [
+            {
+              "evidence_type": "Market Trend/Outlook",
+              "content": "The non-AI semiconductor business (enterprise, server/storage, broadband) should continue to gradually improve",
+              "is_objective": false,
+              "credibility_assessment": "Medium"
+            },
+            {
+              "evidence_type": "Business Integration Outlook",
+              "content": "and we anticipate continued revenue synergy unlock from VMware.",
+              "is_objective": false,
+              "credibility_assessment": "Medium"
+            },
+            {
+              "evidence_type": "Business Performance/Product Strategy",
+              "content": "In the software infrastructure business, we continue to see strong momentum in its VMware business on strong software renewals (with conversion/upsell to its VCF full stack solution with higher ASPs) with its large corporate customers.",
+              "is_objective": false,
+              "credibility_assessment": "High"
+            }
+          ]
+        },
+        {
+          "claim": "Broadcom demonstrates best-in-class financial performance and market leadership, justifying its premium valuation.",
+          "evidence_list": [
+            {
+              "evidence_type": "Analyst Recommendation",
+              "content": "Broadcom remains our top pick in semiconductor coverage",
+              "is_objective": false,
+              "credibility_assessment": "High"
+            },
+            {
+              "evidence_type": "Market Ranking/Leadership",
+              "content": "given its leading exposure to AI infrastructure spending (#2 global AI semi supplier, #1 custom chip AI ASIC supplier, and #1 cloud/AI networking switch/routing chip supplier)",
+              "is_objective": true,
+              "credibility_assessment": "High"
+            },
+            {
+              "evidence_type": "Financial Performance Metric",
+              "content": "and best-in-class gross, operating, and free cash flow margins.",
+              "is_objective": false,
+              "credibility_assessment": "High"
+            },
+            {
+              "evidence_type": "Company Description/Strategic Position",
+              "content": "Broadcom is a technology infrastructure powerhouse with unmatched scale and technology capabilities in the industry, securing its leadership positions in a diverse set of end markets.",
+              "is_objective": false,
+              "credibility_assessment": "Medium"
+            },
+            {
+              "evidence_type": "Valuation Analysis",
+              "content": "Our Dec-26 PT assumes A VGO trades at a 32x multiple (broadly in-line with AI peers trading at 30-35x given its best-in-class operating/free cash flow margins, diversified business, AI ASIC/networking leadership) applied to our CY26E exit run-rate earnings power of ~$15.00 per share.",
+              "is_objective": false,
+              "credibility_assessment": "High"
+            },
+            {
+              "evidence_type": "Financial Data (Historical/Projected)",
+              "content": "Adj. EPS ($) 2025A 6.82 2026E 10.92",
+              "is_objective": true,
+              "credibility_assessment": "High"
+            },
+            {
+              "evidence_type": "Financial Data (Historical/Projected)",
+              "content": "Revenue Growth Y/Y (%) 23.9% 57.5%",
+              "is_objective": true,
+              "credibility_assessment": "High"
+            },
+            {
+              "evidence_type": "Financial Data (Historical/Projected)",
+              "content": "FCFF 26,914 43,108",
+              "is_objective": true,
+              "credibility_assessment": "High"
+            }
+          ]
+        }
+      ]
+    },
+    "file_Id": "JPM_Broadcom_Inc_F1Q26_P_2026-03-02_5221106.pdf"
+  },
+  "bearish_analysis": {
+    "bearish_views": [
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bearish_debate_point": "Broadcom's supply chain capabilities are currently insufficient to meet the high demand for its TPU products, potentially limiting upside.",
+        "exact_sentences_in_the_file": "We believe Broadcom is seeing even higher TPU demand (FY26 and FY27) than its supply chain capabilities (continued upside to existing backlog), and the team is working to unlock more supply over the next few months."
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bearish_debate_point": "Meta Platforms is slowing down its future-generation XPU ASIC roadmaps mid-term, which could impact Broadcom's long-term revenue from this customer.",
+        "exact_sentences_in_the_file": "For Meta, we acknowledge some changes on future-gen programs (2nm Olympus, targeted for CY28 ramp) but continue to see current gen programs (Athena, Iris, Arke) driving $5\u2013$6B in ASIC revenues this year and next and the overall commitment to ASICs/Broadcom remains high at Meta. Meta is slowing down its future gen XPU ASIC roadmaps mid-term, but Broadcom\u2019s other ASIC customers are accelerating their roadmaps - AI XPU customer diversity will help to mitigate a slowdown by any one customer\u2026"
+      },
+      {
+        "company": "Broadcom Inc",
+        "ticker": "AVGO",
+        "sector": "Semiconductors",
+        "industry": "IT Hardware",
+        "observation_date": "2026-03-01",
+        "bearish_debate_point": "Broadcom faces risk from unexpected negative shocks to the global economy or regional end markets, which could reduce demand for its products.",
+        "exact_sentences_in_the_file": "If the global economy or any regional end market suffers unexpected negative shocks that lead to changes in demand for Broadcom\u2019s products, we may reassess our estimates and our Overweight rating."
+      }
+    ],
+    "file_Id": "JPM_Broadcom_Inc_F1Q26_P_2026-03-02_5221106.pdf"
+  },
+  "factual_data": {
+    "facts": [
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's stock price was $319.55 on February 27, 2026.",
+        "is_recent_update": true,
+        "original_sentence": "Price (27 Feb 26):$319.55"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Company Event",
+        "fact_summary": "Broadcom is scheduled to report its January quarter (F1Q26) earnings on Wednesday.",
+        "is_recent_update": true,
+        "original_sentence": "Broadcom is set to report Jan quarter (F1Q26) earnings Wednesday, and we continue to see a strong demand profile for its AI products driven by Google TPU upside, AI networking strength."
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Product/Customers",
+        "fact_summary": "Broadcom's ASIC customer base includes Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, and Apple.",
+        "is_recent_update": false,
+        "original_sentence": "The diversity of Broadcom\u2019s ASIC customer base and programs (Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple, etc), combined with a continued tight demand/supply outlook will mitigate any slowdown in growth due to any one customer (this has always been the ASIC business model- diversification of customers/programs reduces risk)."
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Year-to-Date (YTD) absolute price performance was -7.7%.",
+        "is_recent_update": true,
+        "original_sentence": "Abs -7.7% -4.0% -19.6% 61.6%"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's 1-month absolute price performance was -4.0%.",
+        "is_recent_update": true,
+        "original_sentence": "Abs -7.7% -4.0% -19.6% 61.6%"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's 3-month absolute price performance was -19.6%.",
+        "is_recent_update": true,
+        "original_sentence": "Abs -7.7% -4.0% -19.6% 61.6%"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's 12-month absolute price performance was 61.6%.",
+        "is_recent_update": true,
+        "original_sentence": "Abs -7.7% -4.0% -19.6% 61.6%"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Year-to-Date (YTD) relative price performance was -8.2%.",
+        "is_recent_update": true,
+        "original_sentence": "Rel -8.2% -2.5% -20.6% 44.2%"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's 1-month relative price performance was -2.5%.",
+        "is_recent_update": true,
+        "original_sentence": "Rel -8.2% -2.5% -20.6% 44.2%"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's 3-month relative price performance was -20.6%.",
+        "is_recent_update": true,
+        "original_sentence": "Rel -8.2% -2.5% -20.6% 44.2%"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's 12-month relative price performance was 44.2%.",
+        "is_recent_update": true,
+        "original_sentence": "Rel -8.2% -2.5% -20.6% 44.2%"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Company Data",
+        "fact_summary": "Broadcom has 4,969 million shares outstanding.",
+        "is_recent_update": true,
+        "original_sentence": "Shares O/S (mn) 4,969"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's 52-week stock price range was $138.10 to $414.61.",
+        "is_recent_update": true,
+        "original_sentence": "52-week range ($) 414.61-138.10"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's market capitalization was $1,587,844.00 million.",
+        "is_recent_update": true,
+        "original_sentence": "Market cap ($ mn) 1,587,844.00"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Company Data",
+        "fact_summary": "Broadcom's free float percentage was 98.1%.",
+        "is_recent_update": true,
+        "original_sentence": "Free float (%) 98.1%"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Company Data",
+        "fact_summary": "Broadcom's 3-month Average Daily Volume (ADV) was 30.38 million.",
+        "is_recent_update": true,
+        "original_sentence": "3M ADV (mn) 30.38"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's 3-month Average Daily Volume (ADV) in dollars was $10,504.9 million.",
+        "is_recent_update": true,
+        "original_sentence": "3M ADV ($ mn) 10,504.9"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's 90-day volatility was 47.",
+        "is_recent_update": true,
+        "original_sentence": "Volatility (90 Day) 47"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Market Position",
+        "fact_summary": "Broadcom is included in the S&P 500 index.",
+        "is_recent_update": true,
+        "original_sentence": "Index S&P 500"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adjusted EPS for F1Q25 was $1.60.",
+        "is_recent_update": false,
+        "original_sentence": "Q1 1.60 2.02 3.75"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adjusted EPS for F2Q25 was $1.58.",
+        "is_recent_update": false,
+        "original_sentence": "Q2 1.58 2.25"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adjusted EPS for F3Q25 was $1.69.",
+        "is_recent_update": false,
+        "original_sentence": "Q3 1.69 3.18"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adjusted EPS for F4Q25 was $1.95.",
+        "is_recent_update": false,
+        "original_sentence": "Q4 1.95 3.48"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adjusted EPS for FY25 was $6.82.",
+        "is_recent_update": false,
+        "original_sentence": "FY 6.82 10.92"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Market Position",
+        "fact_summary": "Broadcom is the #2 global AI semiconductor supplier.",
+        "is_recent_update": false,
+        "original_sentence": "Broadcom remains our top pick in semiconductor coverage, given its leading exposure to AI infrastructure spending (#2 global AI semi supplier, #1 custom chip AI ASIC supplier, and #1 cloud/AI networking switch/routing chip supplier), diversified end-market exposure, and best-in-class gross, operating, and free cash flow margins."
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Market Position",
+        "fact_summary": "Broadcom is the #1 custom chip AI ASIC supplier.",
+        "is_recent_update": false,
+        "original_sentence": "Broadcom remains our top pick in semiconductor coverage, given its leading exposure to AI infrastructure spending (#2 global AI semi supplier, #1 custom chip AI ASIC supplier, and #1 cloud/AI networking switch/routing chip supplier), diversified end-market exposure, and best-in-class gross, operating, and free cash flow margins."
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Market Position",
+        "fact_summary": "Broadcom is the #1 cloud/AI networking switch/routing chip supplier.",
+        "is_recent_update": false,
+        "original_sentence": "Broadcom remains our top pick in semiconductor coverage, given its leading exposure to AI infrastructure spending (#2 global AI semi supplier, #1 custom chip AI ASIC supplier, and #1 cloud/AI networking switch/routing chip supplier), diversified end-market exposure, and best-in-class gross, operating, and free cash flow margins."
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Product/Programs",
+        "fact_summary": "Broadcom has an ongoing ramp of the TPU 3nm Ironwood program.",
+        "is_recent_update": true,
+        "original_sentence": "Strength in AI is led by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs."
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Product/Programs",
+        "fact_summary": "Broadcom has sustained Meta MTIA/ByteDance ASIC programs.",
+        "is_recent_update": true,
+        "original_sentence": "Strength in AI is led by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs."
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Product/Programs",
+        "fact_summary": "Broadcom has early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs.",
+        "is_recent_update": true,
+        "original_sentence": "Strength in AI is led by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs."
+      },
+      {
+        "company": "Meta",
+        "fact_category": "Product/Roadmap",
+        "fact_summary": "Meta is slowing down its future generation XPU ASIC roadmaps mid-term.",
+        "is_recent_update": true,
+        "original_sentence": "Meta is slowing down its future gen XPU ASIC roadmaps mid-term, but Broadcom\u2019s other ASIC customers are accelerating their roadmaps - AI XPU customer diversity will help to mitigate a slowdown by any one customer\u2026"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Google TPU business accounted for 60% of Broadcom's overall AI revenues in FY25.",
+        "is_recent_update": false,
+        "original_sentence": "As a reflection of the AI customer diversification, we estimate Google TPU business will decline to <45% of overall AI revenues in CY27 from 50-52% in FY26 and versus 60% in FY25 - and that\u2019s with total AI revenues growing to >$120B in FY27."
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Revenue for FY24A was $51,574 million.",
+        "is_recent_update": false,
+        "original_sentence": "Revenue 51,574 63,887 100,592 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Revenue for FY25A was $63,887 million.",
+        "is_recent_update": false,
+        "original_sentence": "Revenue 51,574 63,887 100,592 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's COGS for FY24A was $(12,779) million.",
+        "is_recent_update": false,
+        "original_sentence": "COGS (12,779) (14,486) (25,788) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's COGS for FY25A was $(14,486) million.",
+        "is_recent_update": false,
+        "original_sentence": "COGS (12,779) (14,486) (25,788) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Gross profit for FY24A was $38,795 million.",
+        "is_recent_update": false,
+        "original_sentence": "Gross profit 38,795 49,401 74,803 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Gross profit for FY25A was $49,401 million.",
+        "is_recent_update": false,
+        "original_sentence": "Gross profit 38,795 49,401 74,803 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's SG&A for FY24A was $(4,422) million.",
+        "is_recent_update": false,
+        "original_sentence": "SG&A (4,422) (3,995) (4,407) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's SG&A for FY25A was $(3,995) million.",
+        "is_recent_update": false,
+        "original_sentence": "SG&A (4,422) (3,995) (4,407) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adj. EBITDA for FY24A was $35,076 million.",
+        "is_recent_update": false,
+        "original_sentence": "Adj. EBITDA 35,076 43,204 60,404 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adj. EBITDA for FY25A was $43,204 million.",
+        "is_recent_update": false,
+        "original_sentence": "Adj. EBITDA 35,076 43,204 60,404 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's D&A for FY24A was $(10,010) million.",
+        "is_recent_update": false,
+        "original_sentence": "D&A (10,010) (8,775) (2,233) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's D&A for FY25A was $(8,775) million.",
+        "is_recent_update": false,
+        "original_sentence": "D&A (10,010) (8,775) (2,233) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adj. EBIT for FY24A was $30,736 million.",
+        "is_recent_update": false,
+        "original_sentence": "Adj. EBIT 30,736 41,997 66,951 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adj. EBIT for FY25A was $41,997 million.",
+        "is_recent_update": false,
+        "original_sentence": "Adj. EBIT 30,736 41,997 66,951 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Net Interest for FY24A was $(3,378) million.",
+        "is_recent_update": false,
+        "original_sentence": "Net Interest (3,378) (2,778) (2,150) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Net Interest for FY25A was $(2,778) million.",
+        "is_recent_update": false,
+        "original_sentence": "Net Interest (3,378) (2,778) (2,150) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adj. PBT for FY24A was $21,688 million.",
+        "is_recent_update": false,
+        "original_sentence": "Adj. PBT 21,688 31,651 56,021 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adj. PBT for FY25A was $31,651 million.",
+        "is_recent_update": false,
+        "original_sentence": "Adj. PBT 21,688 31,651 56,021 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Tax for FY24A was $(3,625) million.",
+        "is_recent_update": false,
+        "original_sentence": "Tax (3,625) (5,491) (10,692) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Tax for FY25A was $(5,491) million.",
+        "is_recent_update": false,
+        "original_sentence": "Tax (3,625) (5,491) (10,692) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adj. Net Income for FY24A was $23,733 million.",
+        "is_recent_update": false,
+        "original_sentence": "Adj. Net Income 23,733 33,728 54,109 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adj. Net Income for FY25A was $33,728 million.",
+        "is_recent_update": false,
+        "original_sentence": "Adj. Net Income 23,733 33,728 54,109 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Reported EPS for FY24A was $3.70.",
+        "is_recent_update": false,
+        "original_sentence": "Reported EPS 3.70 5.29 9.15 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Reported EPS for FY25A was $5.29.",
+        "is_recent_update": false,
+        "original_sentence": "Reported EPS 3.70 5.29 9.15 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adj. EPS for FY24A was $4.86.",
+        "is_recent_update": false,
+        "original_sentence": "Adj. EPS 4.86 6.82 10.92 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adj. EPS for FY25A was $6.82.",
+        "is_recent_update": false,
+        "original_sentence": "Adj. EPS 4.86 6.82 10.92 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's DPS for FY24A was $2.10.",
+        "is_recent_update": false,
+        "original_sentence": "DPS 2.10 2.36 2.60 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's DPS for FY25A was $2.36.",
+        "is_recent_update": false,
+        "original_sentence": "DPS 2.10 2.36 2.60 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Payout ratio for FY24A was 56.8%.",
+        "is_recent_update": false,
+        "original_sentence": "Payout ratio 56.8% 44.6% 28.4% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Payout ratio for FY25A was 44.6%.",
+        "is_recent_update": false,
+        "original_sentence": "Payout ratio 56.8% 44.6% 28.4% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Company Data",
+        "fact_summary": "Broadcom had 4,883 million shares outstanding in FY24A.",
+        "is_recent_update": false,
+        "original_sentence": "Shares outstanding 4,883 4,945 4,954 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Company Data",
+        "fact_summary": "Broadcom had 4,945 million shares outstanding in FY25A.",
+        "is_recent_update": false,
+        "original_sentence": "Shares outstanding 4,883 4,945 4,954 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Cash and cash equivalents for FY24A were $9,348 million.",
+        "is_recent_update": false,
+        "original_sentence": "Cash and cash equivalents 9,348 16,178 41,198 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Cash and cash equivalents for FY25A were $16,178 million.",
+        "is_recent_update": false,
+        "original_sentence": "Cash and cash equivalents 9,348 16,178 41,198 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Accounts receivable for FY24A were $4,416 million.",
+        "is_recent_update": false,
+        "original_sentence": "Accounts receivable 4,416 7,145 12,537 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Accounts receivable for FY25A were $7,145 million.",
+        "is_recent_update": false,
+        "original_sentence": "Accounts receivable 4,416 7,145 12,537 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Inventories for FY24A were $1,760 million.",
+        "is_recent_update": false,
+        "original_sentence": "Inventories 1,760 2,270 4,513 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Inventories for FY25A were $2,270 million.",
+        "is_recent_update": false,
+        "original_sentence": "Inventories 1,760 2,270 4,513 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Other current assets for FY24A were $4,071 million.",
+        "is_recent_update": false,
+        "original_sentence": "Other current assets 4,071 5,980 5,980 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Other current assets for FY25A were $5,980 million.",
+        "is_recent_update": false,
+        "original_sentence": "Other current assets 4,071 5,980 5,980 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Current assets for FY24A were $19,595 million.",
+        "is_recent_update": false,
+        "original_sentence": "Current assets 19,595 31,573 64,228 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Current assets for FY25A were $31,573 million.",
+        "is_recent_update": false,
+        "original_sentence": "Current assets 19,595 31,573 64,228 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's PP&E for FY24A was $2,521 million.",
+        "is_recent_update": false,
+        "original_sentence": "PP&E 2,521 2,530 3,004 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's PP&E for FY25A was $2,530 million.",
+        "is_recent_update": false,
+        "original_sentence": "PP&E 2,521 2,530 3,004 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's LT investments for FY24A were $0 million.",
+        "is_recent_update": false,
+        "original_sentence": "LT investments 0 0 0 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's LT investments for FY25A were $0 million.",
+        "is_recent_update": false,
+        "original_sentence": "LT investments 0 0 0 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Other non current assets for FY24A were $143,529 million.",
+        "is_recent_update": false,
+        "original_sentence": "Other non current assets 143,529 136,989 136,989 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Other non current assets for FY25A were $136,989 million.",
+        "is_recent_update": false,
+        "original_sentence": "Other non current assets 143,529 136,989 136,989 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Total assets for FY24A was $165,645 million.",
+        "is_recent_update": false,
+        "original_sentence": "Total assets 165,645 171,092 204,221 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Total assets for FY25A was $171,092 million.",
+        "is_recent_update": false,
+        "original_sentence": "Total assets 165,645 171,092 204,221 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Short term borrowings for FY24A were $1,271 million.",
+        "is_recent_update": false,
+        "original_sentence": "Short term borrowings 1,271 3,152 3,152 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Short term borrowings for FY25A were $3,152 million.",
+        "is_recent_update": false,
+        "original_sentence": "Short term borrowings 1,271 3,152 3,152 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Payables for FY24A were $1,662 million.",
+        "is_recent_update": false,
+        "original_sentence": "Payables 1,662 1,560 3,101 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Payables for FY25A were $1,560 million.",
+        "is_recent_update": false,
+        "original_sentence": "Payables 1,662 1,560 3,101 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Other short term liabilities for FY24A were $13,764 million.",
+        "is_recent_update": false,
+        "original_sentence": "Other short term liabilities 13,764 13,802 13,802 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Other short term liabilities for FY25A were $13,802 million.",
+        "is_recent_update": false,
+        "original_sentence": "Other short term liabilities 13,764 13,802 13,802 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Current liabilities for FY24A were $16,697 million.",
+        "is_recent_update": false,
+        "original_sentence": "Current liabilities 16,697 18,514 20,055 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Current liabilities for FY25A were $18,514 million.",
+        "is_recent_update": false,
+        "original_sentence": "Current liabilities 16,697 18,514 20,055 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Long-term debt for FY24A was $66,295 million.",
+        "is_recent_update": false,
+        "original_sentence": "Long-term debt 66,295 61,984 53,984 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Long-term debt for FY25A was $61,984 million.",
+        "is_recent_update": false,
+        "original_sentence": "Long-term debt 66,295 61,984 53,984 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Other long term liabilities for FY24A was $14,975 million.",
+        "is_recent_update": false,
+        "original_sentence": "Other long term liabilities 14,975 9,302 11,167 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Other long term liabilities for FY25A was $9,302 million.",
+        "is_recent_update": false,
+        "original_sentence": "Other long term liabilities 14,975 9,302 11,167 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Total liabilities for FY24A was $97,967 million.",
+        "is_recent_update": false,
+        "original_sentence": "Total liabilities 97,967 89,800 85,207 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Total liabilities for FY25A was $89,800 million.",
+        "is_recent_update": false,
+        "original_sentence": "Total liabilities 97,967 89,800 85,207 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Shareholders' equity for FY24A was $67,678 million.",
+        "is_recent_update": false,
+        "original_sentence": "Shareholders' equity 67,678 81,292 119,014 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Shareholders' equity for FY25A was $81,292 million.",
+        "is_recent_update": false,
+        "original_sentence": "Shareholders' equity 67,678 81,292 119,014 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Total liabilities & equity for FY24A was $165,645 million.",
+        "is_recent_update": false,
+        "original_sentence": "Total liabilities & equity 165,645 171,092 204,221 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Total liabilities & equity for FY25A was $171,092 million.",
+        "is_recent_update": false,
+        "original_sentence": "Total liabilities & equity 165,645 171,092 204,221 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's BVPS for FY24A was $13.86.",
+        "is_recent_update": false,
+        "original_sentence": "BVPS 13.86 16.44 24.03 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's BVPS for FY25A was $16.44.",
+        "is_recent_update": false,
+        "original_sentence": "BVPS 13.86 16.44 24.03 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's BVPS year-over-year growth for FY24A was 151.3%.",
+        "is_recent_update": false,
+        "original_sentence": "y/y Growth 151.3% 18.6% 46.2% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's BVPS year-over-year growth for FY25A was 18.6%.",
+        "is_recent_update": false,
+        "original_sentence": "y/y Growth 151.3% 18.6% 46.2% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Net debt/(cash) for FY24A was $58,218 million.",
+        "is_recent_update": false,
+        "original_sentence": "Net debt/(cash) 58,218 48,958 15,938 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Net debt/(cash) for FY25A was $48,958 million.",
+        "is_recent_update": false,
+        "original_sentence": "Net debt/(cash) 58,218 48,958 15,938 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Cash flow from operating activities for FY24A was $19,962 million.",
+        "is_recent_update": false,
+        "original_sentence": "Cash flow from operating activities 19,962 27,537 44,056 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Cash flow from operating activities for FY25A was $27,537 million.",
+        "is_recent_update": false,
+        "original_sentence": "Cash flow from operating activities 19,962 27,537 44,056 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Depreciation & amortization (o/w) for FY24A was $10,010 million.",
+        "is_recent_update": false,
+        "original_sentence": "o/w Depreciation & amortization 10,010 8,775 8,932 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Depreciation & amortization (o/w) for FY25A was $8,775 million.",
+        "is_recent_update": false,
+        "original_sentence": "o/w Depreciation & amortization 10,010 8,775 8,932 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Changes in working capital (o/w) for FY24A was $(4,637) million.",
+        "is_recent_update": false,
+        "original_sentence": "o/w Changes in working capital (4,637) (8,500) (11,385) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Changes in working capital (o/w) for FY25A was $(8,500) million.",
+        "is_recent_update": false,
+        "original_sentence": "o/w Changes in working capital (4,637) (8,500) (11,385) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Cash flow from investing activities for FY24A was $(23,070) million.",
+        "is_recent_update": false,
+        "original_sentence": "Cash flow from investing activities (23,070) (580) (124) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Cash flow from investing activities for FY25A was $(580) million.",
+        "is_recent_update": false,
+        "original_sentence": "Cash flow from investing activities (23,070) (580) (124) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Capital expenditure (o/w) for FY24A was $(548) million.",
+        "is_recent_update": false,
+        "original_sentence": "o/w Capital expenditure (548) (623) (948) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Capital expenditure (o/w) for FY25A was $(623) million.",
+        "is_recent_update": false,
+        "original_sentence": "o/w Capital expenditure (548) (623) (948) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Capital expenditure as % of sales for FY24A was 1.1%.",
+        "is_recent_update": false,
+        "original_sentence": "as % of sales 1.1% 1.0% 0.9% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Capital expenditure as % of sales for FY25A was 1.0%.",
+        "is_recent_update": false,
+        "original_sentence": "as % of sales 1.1% 1.0% 0.9% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Cash flow from financing activities for FY24A was $(1,733) million.",
+        "is_recent_update": false,
+        "original_sentence": "Cash flow from financing activities (1,733) (20,127) (20,882) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Cash flow from financing activities for FY25A was $(20,127) million.",
+        "is_recent_update": false,
+        "original_sentence": "Cash flow from financing activities (1,733) (20,127) (20,882) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Dividends paid (o/w) for FY24A was $(9,814) million.",
+        "is_recent_update": false,
+        "original_sentence": "o/w Dividends paid (9,814) (11,142) (12,882) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Dividends paid (o/w) for FY25A was $(11,142) million.",
+        "is_recent_update": false,
+        "original_sentence": "o/w Dividends paid (9,814) (11,142) (12,882) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Net debt issued/(repaid) (o/w) for FY24A was $20,283 million.",
+        "is_recent_update": false,
+        "original_sentence": "o/w Net debt issued/(repaid) 20,283 (2,869) (8,000) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Net debt issued/(repaid) (o/w) for FY25A was $(2,869) million.",
+        "is_recent_update": false,
+        "original_sentence": "o/w Net debt issued/(repaid) 20,283 (2,869) (8,000) - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Net change in cash for FY24A was $(4,841) million.",
+        "is_recent_update": false,
+        "original_sentence": "Net change in cash (4,841) 6,830 23,049 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Net change in cash for FY25A was $6,830 million.",
+        "is_recent_update": false,
+        "original_sentence": "Net change in cash (4,841) 6,830 23,049 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adj. Free cash flow to firm for FY24A was $19,414 million.",
+        "is_recent_update": false,
+        "original_sentence": "Adj. Free cash flow to firm 19,414 26,914 43,108 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adj. Free cash flow to firm for FY25A was $26,914 million.",
+        "is_recent_update": false,
+        "original_sentence": "Adj. Free cash flow to firm 19,414 26,914 43,108 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adj. Free cash flow to firm year-over-year growth for FY24A was 10.1%.",
+        "is_recent_update": false,
+        "original_sentence": "y/y Growth 10.1% 38.6% 60.2% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adj. Free cash flow to firm year-over-year growth for FY25A was 38.6%.",
+        "is_recent_update": false,
+        "original_sentence": "y/y Growth 10.1% 38.6% 60.2% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Gross margin for FY24A was 75.2%.",
+        "is_recent_update": false,
+        "original_sentence": "Gross margin 75.2% 77.3% 74.4% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Gross margin for FY25A was 77.3%.",
+        "is_recent_update": false,
+        "original_sentence": "Gross margin 75.2% 77.3% 74.4% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's EBITDA margin for FY24A was 68.0%.",
+        "is_recent_update": false,
+        "original_sentence": "EBITDA margin 68.0% 67.6% 60.0% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's EBITDA margin for FY25A was 67.6%.",
+        "is_recent_update": false,
+        "original_sentence": "EBITDA margin 68.0% 67.6% 60.0% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's EBIT margin for FY24A was 59.6%.",
+        "is_recent_update": false,
+        "original_sentence": "EBIT margin 59.6% 65.7% 66.6% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's EBIT margin for FY25A was 65.7%.",
+        "is_recent_update": false,
+        "original_sentence": "EBIT margin 59.6% 65.7% 66.6% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Net profit margin for FY24A was 46.0%.",
+        "is_recent_update": false,
+        "original_sentence": "Net profit margin 46.0% 52.8% 53.8% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Net profit margin for FY25A was 52.8%.",
+        "is_recent_update": false,
+        "original_sentence": "Net profit margin 46.0% 52.8% 53.8% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's ROE for FY24A was 51.8%.",
+        "is_recent_update": false,
+        "original_sentence": "ROE 51.8% 45.3% 54.0% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's ROE for FY25A was 45.3%.",
+        "is_recent_update": false,
+        "original_sentence": "ROE 51.8% 45.3% 54.0% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's ROA for FY24A was 19.9%.",
+        "is_recent_update": false,
+        "original_sentence": "ROA 19.9% 20.0% 28.8% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's ROA for FY25A was 20.0%.",
+        "is_recent_update": false,
+        "original_sentence": "ROA 19.9% 20.0% 28.8% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's ROCE for FY24A was 25.8%.",
+        "is_recent_update": false,
+        "original_sentence": "ROCE 25.8% 24.6% 33.6% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's ROCE for FY25A was 24.6%.",
+        "is_recent_update": false,
+        "original_sentence": "ROCE 25.8% 24.6% 33.6% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's SG&A/Sales for FY24A was 8.6%.",
+        "is_recent_update": false,
+        "original_sentence": "SG&A/Sales 8.6% 6.3% 4.4% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's SG&A/Sales for FY25A was 6.3%.",
+        "is_recent_update": false,
+        "original_sentence": "SG&A/Sales 8.6% 6.3% 4.4% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Net debt/equity for FY24A was 0.9.",
+        "is_recent_update": false,
+        "original_sentence": "Net debt/equity 0.9 0.6 0.1 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Net debt/equity for FY25A was 0.6.",
+        "is_recent_update": false,
+        "original_sentence": "Net debt/equity 0.9 0.6 0.1 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's P/E (x) for FY24A was 65.7.",
+        "is_recent_update": false,
+        "original_sentence": "P/E (x) 65.7 46.9 29.3 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's P/E (x) for FY25A was 46.9.",
+        "is_recent_update": false,
+        "original_sentence": "P/E (x) 65.7 46.9 29.3 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's P/BV (x) for FY24A was 23.1.",
+        "is_recent_update": false,
+        "original_sentence": "P/BV (x) 23.1 19.4 13.3 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's P/BV (x) for FY25A was 19.4.",
+        "is_recent_update": false,
+        "original_sentence": "P/BV (x) 23.1 19.4 13.3 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's EV/EBITDA (x) for FY24A was 59.7.",
+        "is_recent_update": false,
+        "original_sentence": "EV/EBITDA (x) 59.7 48.1 33.9 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's EV/EBITDA (x) for FY25A was 48.1.",
+        "is_recent_update": false,
+        "original_sentence": "EV/EBITDA (x) 59.7 48.1 33.9 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Dividend Yield for FY24A was 0.7%.",
+        "is_recent_update": false,
+        "original_sentence": "Dividend Yield 0.7% 0.7% 0.8% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Dividend Yield for FY25A was 0.7%.",
+        "is_recent_update": false,
+        "original_sentence": "Dividend Yield 0.7% 0.7% 0.8% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Sales/Assets (x) for FY24A was 0.4.",
+        "is_recent_update": false,
+        "original_sentence": "Sales/Assets (x) 0.4 0.4 0.5 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Sales/Assets (x) for FY25A was 0.4.",
+        "is_recent_update": false,
+        "original_sentence": "Sales/Assets (x) 0.4 0.4 0.5 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Interest cover (x) for FY24A was 10.4.",
+        "is_recent_update": false,
+        "original_sentence": "Interest cover (x) 10.4 15.6 28.1 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Interest cover (x) for FY25A was 15.6.",
+        "is_recent_update": false,
+        "original_sentence": "Interest cover (x) 10.4 15.6 28.1 - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Operating leverage for FY24A was 88.5%.",
+        "is_recent_update": false,
+        "original_sentence": "Operating leverage 88.5% 153.5% 103.4% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Operating leverage for FY25A was 153.5%.",
+        "is_recent_update": false,
+        "original_sentence": "Operating leverage 88.5% 153.5% 103.4% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Revenue year-over-year Growth for FY24A was 44.0%.",
+        "is_recent_update": false,
+        "original_sentence": "Revenue y/y Growth 44.0% 23.9% 57.5% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Revenue year-over-year Growth for FY25A was 23.9%.",
+        "is_recent_update": false,
+        "original_sentence": "Revenue y/y Growth 44.0% 23.9% 57.5% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's EBITDA year-over-year Growth for FY24A was 47.4%.",
+        "is_recent_update": false,
+        "original_sentence": "EBITDA y/y Growth 47.4% 23.2% 39.8% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's EBITDA year-over-year Growth for FY25A was 23.2%.",
+        "is_recent_update": false,
+        "original_sentence": "EBITDA y/y Growth 47.4% 23.2% 39.8% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Tax rate for FY24A was 16.7%.",
+        "is_recent_update": false,
+        "original_sentence": "Tax rate 16.7% 17.3% 19.1% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Tax rate for FY25A was 17.3%.",
+        "is_recent_update": false,
+        "original_sentence": "Tax rate 16.7% 17.3% 19.1% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adj. Net Income year-over-year Growth for FY24A was 29.1%.",
+        "is_recent_update": false,
+        "original_sentence": "Adj. Net Income y/y Growth 29.1% 42.1% 60.4% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's Adj. Net Income year-over-year Growth for FY25A was 42.1%.",
+        "is_recent_update": false,
+        "original_sentence": "Adj. Net Income y/y Growth 29.1% 42.1% 60.4% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's EPS year-over-year Growth for FY24A was 15.0%.",
+        "is_recent_update": false,
+        "original_sentence": "EPS y/y Growth 15.0% 40.3% 60.2% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's EPS year-over-year Growth for FY25A was 40.3%.",
+        "is_recent_update": false,
+        "original_sentence": "EPS y/y Growth 15.0% 40.3% 60.2% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's DPS year-over-year Growth for FY24A was 14.1%.",
+        "is_recent_update": false,
+        "original_sentence": "DPS y/y Growth 14.1% 12.4% 10.2% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's DPS year-over-year Growth for FY25A was 12.4%.",
+        "is_recent_update": false,
+        "original_sentence": "DPS y/y Growth 14.1% 12.4% 10.2% - -"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's stock price was $124.31 on February 6, 2024.",
+        "is_recent_update": false,
+        "original_sentence": "06-Feb-24 OW 124.31 155"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's stock price was $140.70 on March 8, 2024.",
+        "is_recent_update": false,
+        "original_sentence": "08-Mar-24 OW 140.70 170"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's stock price was $149.55 on June 13, 2024.",
+        "is_recent_update": false,
+        "original_sentence": "13-Jun-24 OW 149.55 200"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's stock price was $152.82 on September 6, 2024.",
+        "is_recent_update": false,
+        "original_sentence": "06-Sep-24 OW 152.82 210"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's stock price was $183.20 on December 12, 2024.",
+        "is_recent_update": false,
+        "original_sentence": "12-Dec-24 OW 183.20 250"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's stock price was $259.93 on June 6, 2025.",
+        "is_recent_update": false,
+        "original_sentence": "06-Jun-25 OW 259.93 325"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's stock price was $306.10 on September 5, 2025.",
+        "is_recent_update": false,
+        "original_sentence": "05-Sep-25 OW 306.10 400"
+      },
+      {
+        "company": "Broadcom Inc",
+        "fact_category": "Financials",
+        "fact_summary": "Broadcom's stock price was $406.37 on December 12, 2025.",
+        "is_recent_update": false,
+        "original_sentence": "12-Dec-25 OW 406.37 475"
+      }
+    ],
+    "file_Id": "JPM_Broadcom_Inc_F1Q26_P_2026-03-02_5221106.pdf"
+  },
+  "relationship_mapping": {
+    "relationships": [
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Google",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "Google TPU upside drives demand for Broadcom's AI products.",
+        "quantifier": "strong demand profile",
+        "original_sentence": "Broadcom is set to report Jan quarter (F1Q26) earnings Wednesday, and we continue to see a strong demand profile for its AI products driven by Google TPU upside, AI networking strength."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Google",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "Google\u2019s TPU 3nm (Ironwood) ASIC chip drives AI revenues for Broadcom.",
+        "quantifier": "continued upside",
+        "original_sentence": "For the Jan quarter, we expect AI revenues to exceed $9B (vs. consensus of $8.1B), driven by continued upside from Google\u2019s TPU 3nm (Ironwood) ASIC chip and strong demand for networking (Tomahawk 5 and initial ramp of Tomahawk 6 switching chips)."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Meta",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "Sustained Meta MTIA/ByteDance ASIC programs contribute to Broadcom's AI revenues.",
+        "quantifier": "sustained",
+        "original_sentence": "We estimate AI revenues of $10-11B+ for the April quarter (vs. consensus of $8.96B), supported by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "ByteDance",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "Sustained Meta MTIA/ByteDance ASIC programs contribute to Broadcom's AI revenues.",
+        "quantifier": "sustained",
+        "original_sentence": "We estimate AI revenues of $10-11B+ for the April quarter (vs. consensus of $8.96B), supported by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "OpenAI",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "Early shipments to OpenAI for 1st gen ASIC XPU programs.",
+        "quantifier": "early shipments",
+        "original_sentence": "We estimate AI revenues of $10-11B+ for the April quarter (vs. consensus of $8.96B), supported by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Softbank/ARM",
+        "ticker": "ARM",
+        "relationship_type": "Customer",
+        "relationship_description": "Early shipments to Softbank/ARM for 1st gen ASIC XPU programs.",
+        "quantifier": "early shipments",
+        "original_sentence": "We estimate AI revenues of $10-11B+ for the April quarter (vs. consensus of $8.96B), supported by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "SoftBank/ARM",
+        "ticker": "ARM",
+        "relationship_type": "Customer",
+        "relationship_description": "New programs with SoftBank/ARM for 2nm/3nm ASICs.",
+        "quantifier": "new programs",
+        "original_sentence": "In total, we expect Broadcom to generate >$65B+ in AI revenues in FY26 and >$120B in FY27 as new products and programs ramp, including increased shipments of the current generation TPU 3nm Ironwood, the start of the TPU v8 (Sunfish) 3nm ramp, and new programs with SoftBank/ARM, OpenAI 2nm/3nm ASICs, and Anthropic."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "OpenAI",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "New programs with OpenAI for 2nm/3nm ASICs.",
+        "quantifier": "new programs",
+        "original_sentence": "In total, we expect Broadcom to generate >$65B+ in AI revenues in FY26 and >$120B in FY27 as new products and programs ramp, including increased shipments of the current generation TPU 3nm Ironwood, the start of the TPU v8 (Sunfish) 3nm ramp, and new programs with SoftBank/ARM, OpenAI 2nm/3nm ASICs, and Anthropic."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Anthropic",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "New programs with Anthropic.",
+        "quantifier": "new programs",
+        "original_sentence": "In total, we expect Broadcom to generate >$65B+ in AI revenues in FY26 and >$120B in FY27 as new products and programs ramp, including increased shipments of the current generation TPU 3nm Ironwood, the start of the TPU v8 (Sunfish) 3nm ramp, and new programs with SoftBank/ARM, OpenAI 2nm/3nm ASICs, and Anthropic."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Google",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "Google drives TPU units, which are powered by Broadcom's ASICs.",
+        "quantifier": "3.5M TPU units this year and 6\u20137M TPU processors in CY27",
+        "original_sentence": "As we have recently written (see note here), we believe Google is set to drive 3.5M TPU units this year and 6\u20137M TPU processors in CY27, given their increasing success at supporting external customer AI workloads."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Google",
+        "ticker": "",
+        "relationship_type": "Partner",
+        "relationship_description": "Broadcom and Google jointly power next-gen 3nm TPU ASICs for external customer AI workloads.",
+        "quantifier": "a majority of TPU shipments",
+        "original_sentence": "For FY27, we believe a majority of TPU shipments will support external customer AI workloads, all powered by Broadcom\u2019s/Google\u2019s next-gen 3nm TPU ASIC."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Meta",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "Meta's current gen programs (Athena, Iris, Arke) drive ASIC revenues for Broadcom.",
+        "quantifier": "$5\u2013$6B in ASIC revenues this year and next",
+        "original_sentence": "For Meta, we acknowledge some changes on future-gen programs (2nm Olympus, targeted for CY28 ramp) but continue to see current gen programs (Athena, Iris, Arke) driving $5\u2013$6B in ASIC revenues this year and next and the overall commitment to ASICs/Broadcom remains high at Meta."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Alibaba",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "Part of Broadcom\u2019s diverse ASIC customer base.",
+        "quantifier": "",
+        "original_sentence": "The diversity of Broadcom\u2019s ASIC customer base and programs (Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple, etc), combined with a continued tight demand/supply outlook will mitigate any slowdown in growth due to any one customer (this has always been the ASIC business model- diversification of customers/programs reduces risk)."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Baidu",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "Part of Broadcom\u2019s diverse ASIC customer base.",
+        "quantifier": "",
+        "original_sentence": "The diversity of Broadcom\u2019s ASIC customer base and programs (Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple, etc), combined with a continued tight demand/supply outlook will mitigate any slowdown in growth due to any one customer (this has always been the ASIC business model- diversification of customers/programs reduces risk)."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Sambanova",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "Part of Broadcom\u2019s diverse ASIC customer base.",
+        "quantifier": "",
+        "original_sentence": "The diversity of Broadcom\u2019s ASIC customer base and programs (Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple, etc), combined with a continued tight demand/supply outlook will mitigate any slowdown in growth due to any one customer (this has always been the ASIC business model- diversification of customers/programs reduces risk)."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "xAI",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "Part of Broadcom\u2019s diverse ASIC customer base.",
+        "quantifier": "",
+        "original_sentence": "The diversity of Broadcom\u2019s ASIC customer base and programs (Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple, etc), combined with a continued tight demand/supply outlook will mitigate any slowdown in growth due to any one customer (this has always been the ASIC business model- diversification of customers/programs reduces risk)."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Apple",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "Part of Broadcom\u2019s diverse ASIC customer base.",
+        "quantifier": "",
+        "original_sentence": "The diversity of Broadcom\u2019s ASIC customer base and programs (Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple, etc), combined with a continued tight demand/supply outlook will mitigate any slowdown in growth due to any one customer (this has always been the ASIC business model- diversification of customers/programs reduces risk)."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Anthropic",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "Anthropic is expected to drive revenue for Broadcom.",
+        "quantifier": "double-digits billions of dollars for Broadcom in CY27",
+        "original_sentence": "We anticipate Anthropic and OpenAI driving double-digits billions of dollars for Broadcom in CY27 with sustained revenues from ByteDance and Meta."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "OpenAI",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "OpenAI is expected to drive revenue for Broadcom.",
+        "quantifier": "double-digits billions of dollars for Broadcom in CY27",
+        "original_sentence": "We anticipate Anthropic and OpenAI driving double-digits billions of dollars for Broadcom in CY27 with sustained revenues from ByteDance and Meta."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "ByteDance",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "ByteDance provides sustained revenues to Broadcom.",
+        "quantifier": "sustained revenues",
+        "original_sentence": "We anticipate Anthropic and OpenAI driving double-digits billions of dollars for Broadcom in CY27 with sustained revenues from ByteDance and Meta."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Meta",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "Meta provides sustained revenues to Broadcom.",
+        "quantifier": "sustained revenues",
+        "original_sentence": "We anticipate Anthropic and OpenAI driving double-digits billions of dollars for Broadcom in CY27 with sustained revenues from ByteDance and Meta."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Google",
+        "ticker": "",
+        "relationship_type": "Customer",
+        "relationship_description": "Google TPU business is a significant portion of Broadcom's AI revenues.",
+        "quantifier": "<45% of overall AI revenues in CY27 from 50-52% in FY26 and versus 60% in FY25",
+        "original_sentence": "As a reflection of the AI customer diversification, we estimate Google TPU business will decline to <45% of overall AI revenues in CY27 from 50-52% in FY26 and versus 60% in FY25 - and that\u2019s with total AI revenues growing to >$120B in FY27."
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Advanced Micro Devices",
+        "ticker": "AMD",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Analog Devices",
+        "ticker": "ADI",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Applied Materials",
+        "ticker": "AMAT",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Arm Holdings Plc",
+        "ticker": "ARM",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Astera Labs Inc",
+        "ticker": "ALAB",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Cadence Design Systems",
+        "ticker": "CDNS",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "GlobalFoundries",
+        "ticker": "GFS",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Intel",
+        "ticker": "INTC",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "KLA Corporation",
+        "ticker": "KLAC",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Lam Research",
+        "ticker": "LRCX",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Marvell Technology Inc",
+        "ticker": "MRVL",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Microchip Technology",
+        "ticker": "MCHP",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Micron Technology",
+        "ticker": "MU",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "NXP Semiconductors",
+        "ticker": "NXPI",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "ON Semiconductor Corporation",
+        "ticker": "ON",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Sandisk",
+        "ticker": "SNDK",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Synopsys Inc",
+        "ticker": "SNPS",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Texas Instruments",
+        "ticker": "TXN",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      },
+      {
+        "source_company": "Broadcom Inc",
+        "target_company": "Western Digital",
+        "ticker": "WDC",
+        "relationship_type": "Peer",
+        "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+        "quantifier": "",
+        "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+      }
+    ],
+    "file_Id": "JPM_Broadcom_Inc_F1Q26_P_2026-03-02_5221106.pdf"
+  }
+}

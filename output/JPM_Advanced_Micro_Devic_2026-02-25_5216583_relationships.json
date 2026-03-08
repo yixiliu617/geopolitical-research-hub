@@ -1,0 +1,68 @@
+{
+  "relationships": [
+    {
+      "source_company": "Advanced Micro Devices",
+      "target_company": "META",
+      "ticker": "META",
+      "relationship_type": "Customer, Partner",
+      "relationship_description": "Multi-year, multi-generation agreement to deploy AMD GPUs.",
+      "quantifier": "6GW",
+      "original_sentence": "This morning AMD and META announced a multi-year, multi-generation agreement to deploy 6GW of AMD GPUs ( link), with initial capacity roll-outs scheduled for 2H26."
+    },
+    {
+      "source_company": "Advanced Micro Devices",
+      "target_company": "OpenAI",
+      "ticker": "N/A",
+      "relationship_type": "Customer, Partner",
+      "relationship_description": "Compute capacity agreement, similar to META's deal.",
+      "quantifier": "N/A",
+      "original_sentence": "Similar to the compute capacity agreement struck with OpenAI in October 2025 ( link), AMD\u2019s agreement with META includes the issuance of warrants for up to 160MM AMD shares that will vest over time, based on META scaling Instinct GPU deployments to 6GW, as well as key technical and commercial milestones."
+    },
+    {
+      "source_company": "Advanced Micro Devices",
+      "target_company": "ORCL",
+      "ticker": "ORCL",
+      "relationship_type": "Customer",
+      "relationship_description": "Commences MI450 deployments, contributing incremental revenue.",
+      "quantifier": "much incremental revenue",
+      "original_sentence": "In our estimation, though, the OAI and META deals alone already set the stage for AMD to potentially grow DC GPU revenue well in excess of current expectations for CY27 and beyond, without even layering in much incremental revenue from other already-disclosed customers such as ORCL (which commences MI450 deployments in 3Q26)."
+    },
+    {
+      "source_company": "Advanced Micro Devices",
+      "target_company": "META",
+      "ticker": "META",
+      "relationship_type": "Customer",
+      "relationship_description": "Will, in aggregate with OAI, likely account for the vast majority of AMD\u2019s DC GPU revenue and approach 50% of AMD\u2019s total revenue in CY27.",
+      "quantifier": "vast majority of AMD\u2019s DC GPU revenue, approach 50% of AMD\u2019s total revenue (in aggregate)",
+      "original_sentence": "Considering META and OAI will, in aggregate, likely account for the vast majority of AMD\u2019s DC GPU revenue in CY27 (and in turn approach 50% of AMD\u2019s total revenue), we remain cautious on the outlook for GM, which the Street is currently modeling to be approximately flat Y/Y at ~54.9% for CY27."
+    },
+    {
+      "source_company": "Advanced Micro Devices",
+      "target_company": "OpenAI",
+      "ticker": "N/A",
+      "relationship_type": "Customer",
+      "relationship_description": "Will, in aggregate with META, likely account for the vast majority of AMD\u2019s DC GPU revenue in CY27.",
+      "quantifier": "vast majority of AMD\u2019s DC GPU revenue (in aggregate)",
+      "original_sentence": "Considering META and OAI will, in aggregate, likely account for the vast majority of AMD\u2019s DC GPU revenue in CY27 (and in turn approach 50% of AMD\u2019s total revenue), we remain cautious on the outlook for GM, which the Street is currently modeling to be approximately flat Y/Y at ~54.9% for CY27."
+    },
+    {
+      "source_company": "Advanced Micro Devices",
+      "target_company": "META",
+      "ticker": "META",
+      "relationship_type": "Customer",
+      "relationship_description": "Lead customer for 6th-gen \u201cVenice\u201d CPUs, expanding server CPU footprint.",
+      "quantifier": "lead customer",
+      "original_sentence": "AMD is poised to expand its server CPU footprint at META with this agreement (mgmt called out META as a lead customer for its 6th-gen \u201cVenice\u201d CPUs launching later this year), and more broadly, is positioned to continue to capture share of the broader server CPU market relative to INTC over the next few quarters, given its stronger product portfolio/roadmap and, in the near-term, a less challenging wafer supply backdrop (vs. INTC)."
+    },
+    {
+      "source_company": "Advanced Micro Devices",
+      "target_company": "INTC",
+      "ticker": "INTC",
+      "relationship_type": "Competitor",
+      "relationship_description": "AMD is positioned to capture share of the broader server CPU market relative to INTC.",
+      "quantifier": "N/A",
+      "original_sentence": "AMD is poised to expand its server CPU footprint at META with this agreement (mgmt called out META as a lead customer for its 6th-gen \u201cVenice\u201d CPUs launching later this year), and more broadly, is positioned to continue to capture share of the broader server CPU market relative to INTC over the next few quarters, given its stronger product portfolio/roadmap and, in the near-term, a less challenging wafer supply backdrop (vs. INTC)."
+    }
+  ],
+  "file_Id": "JPM_Advanced_Micro_Devic_2026-02-25_5216583.pdf"
+}

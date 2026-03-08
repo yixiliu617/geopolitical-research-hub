@@ -1,0 +1,1020 @@
+{
+  "facts": [
+    {
+      "company": "Market",
+      "fact_category": "Financials",
+      "fact_summary": "SPX closed up 4bps to 6881.",
+      "is_recent_update": true,
+      "original_sentence": "SPX +4bps to 6881"
+    },
+    {
+      "company": "Market",
+      "fact_category": "Financials",
+      "fact_summary": "NDX closed up 13bps to 24,992.",
+      "is_recent_update": true,
+      "original_sentence": "NDX +13bps to 24,992"
+    },
+    {
+      "company": "Market",
+      "fact_category": "Financials",
+      "fact_summary": "RTY closed up 90bps to 2655.",
+      "is_recent_update": true,
+      "original_sentence": "RTY +90bps to 2655."
+    },
+    {
+      "company": "Market",
+      "fact_category": "Financials",
+      "fact_summary": "4 out of 11 sectors were positive.",
+      "is_recent_update": true,
+      "original_sentence": "(4/11 sectors +ve, Energy +195bps, Consumer Staples -135bps)"
+    },
+    {
+      "company": "Market",
+      "fact_category": "Financials",
+      "fact_summary": "The Energy sector was up 195bps.",
+      "is_recent_update": true,
+      "original_sentence": "Energy +195bps"
+    },
+    {
+      "company": "Market",
+      "fact_category": "Financials",
+      "fact_summary": "The Consumer Staples sector was down 135bps.",
+      "is_recent_update": true,
+      "original_sentence": "Consumer Staples -135bps"
+    },
+    {
+      "company": "Samsung",
+      "fact_category": "Financials",
+      "fact_summary": "Samsung stock was down 10% overnight.",
+      "is_recent_update": true,
+      "original_sentence": "Samsung -10%"
+    },
+    {
+      "company": "Hynix",
+      "fact_category": "Financials",
+      "fact_summary": "Hynix stock was down 11% overnight.",
+      "is_recent_update": true,
+      "original_sentence": "Hynix -11%"
+    },
+    {
+      "company": "Nanya Tech",
+      "fact_category": "Financials",
+      "fact_summary": "Nanya Tech stock was down 10% overnight.",
+      "is_recent_update": true,
+      "original_sentence": "Nanya Tech -10%"
+    },
+    {
+      "company": "Winbond",
+      "fact_category": "Financials",
+      "fact_summary": "Winbond stock was down 10% overnight.",
+      "is_recent_update": true,
+      "original_sentence": "Winbond -10%"
+    },
+    {
+      "company": "PSMC",
+      "fact_category": "Financials",
+      "fact_summary": "PSMC stock was down 10% overnight.",
+      "is_recent_update": true,
+      "original_sentence": "PSMC ()-10%"
+    },
+    {
+      "company": "Macronix",
+      "fact_category": "Financials",
+      "fact_summary": "Macronix stock was down 10% overnight.",
+      "is_recent_update": true,
+      "original_sentence": "Macronix -10%"
+    },
+    {
+      "company": "Samsung",
+      "fact_category": "Financials",
+      "fact_summary": "Samsung stock was up 62% even after the recent fall.",
+      "is_recent_update": false,
+      "original_sentence": "Samsung is up 62% & Hynix 44% even after the fall"
+    },
+    {
+      "company": "Hynix",
+      "fact_category": "Financials",
+      "fact_summary": "Hynix stock was up 44% even after the recent fall.",
+      "is_recent_update": false,
+      "original_sentence": "Samsung is up 62% & Hynix 44% even after the fall"
+    },
+    {
+      "company": "VAT",
+      "fact_category": "Financials",
+      "fact_summary": "VAT's Q1 guide looks low.",
+      "is_recent_update": true,
+      "original_sentence": "VAT under pressureas Q1 guide looks low"
+    },
+    {
+      "company": "VAT",
+      "fact_category": "Financials",
+      "fact_summary": "VAT's stock was down more than 10% on tradegate.",
+      "is_recent_update": true,
+      "original_sentence": "tradegate has it down >10%"
+    },
+    {
+      "company": "MDB",
+      "fact_category": "Financials",
+      "fact_summary": "MDB stock was down 25% after hours.",
+      "is_recent_update": true,
+      "original_sentence": "Note MDB down -25% AHs"
+    },
+    {
+      "company": "Mongo",
+      "fact_category": "Financials",
+      "fact_summary": "Mongo\u2019s Atlas segment decelerated to +29% year-over-year in the quarter.",
+      "is_recent_update": true,
+      "original_sentence": "Mongo\u2019s Atlas segment decelerated in the qtr (to +29% y/y vs +30% last qtR)"
+    },
+    {
+      "company": "Mongo",
+      "fact_category": "Financials",
+      "fact_summary": "Mongo\u2019s Atlas segment grew +30% last quarter.",
+      "is_recent_update": false,
+      "original_sentence": "Mongo\u2019s Atlas segment decelerated in the qtr (to +29% y/y vs +30% last qtR)"
+    },
+    {
+      "company": "Mongo",
+      "fact_category": "Financials",
+      "fact_summary": "Mongo's FY27 total revenue growth outlook is ~17%.",
+      "is_recent_update": true,
+      "original_sentence": "FY27 total revenue growth ~17% vs FY26 23%"
+    },
+    {
+      "company": "Mongo",
+      "fact_category": "Financials",
+      "fact_summary": "Mongo's FY26 total revenue growth was 23%.",
+      "is_recent_update": false,
+      "original_sentence": "FY27 total revenue growth ~17% vs FY26 23%"
+    },
+    {
+      "company": "Mongo",
+      "fact_category": "Financials",
+      "fact_summary": "Mongo's Atlas segment is slowing to 21\u201323%.",
+      "is_recent_update": true,
+      "original_sentence": "Atlas slowing to 21\u201323%"
+    },
+    {
+      "company": "Mongo",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Mongo announced turnover at the CRO position.",
+      "is_recent_update": true,
+      "original_sentence": "announced turnover at the CRO position"
+    },
+    {
+      "company": "Mongo",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Mongo had a new CEO last year.",
+      "is_recent_update": false,
+      "original_sentence": "recall, new CEO last year"
+    },
+    {
+      "company": "Lottomatica",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Lottomatica is requesting buyback authorisation for up to 12.5% of share capital.",
+      "is_recent_update": true,
+      "original_sentence": "requesting buyback authorisation for up to 12.5% of share capital."
+    },
+    {
+      "company": "Nvidia",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Nvidia announced it will invest $2bn in Lumentum.",
+      "is_recent_update": true,
+      "original_sentence": "Nvidia announced it will invest $2bn apiece in Lumentum (stock +7%) and Coherent (+13%)."
+    },
+    {
+      "company": "Nvidia",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Nvidia announced it will invest $2bn in Coherent.",
+      "is_recent_update": true,
+      "original_sentence": "Nvidia announced it will invest $2bn apiece in Lumentum (stock +7%) and Coherent (+13%)."
+    },
+    {
+      "company": "Lumentum",
+      "fact_category": "Financials",
+      "fact_summary": "Lumentum stock was up 7% yesterday.",
+      "is_recent_update": true,
+      "original_sentence": "Lumentum (stock +7%)"
+    },
+    {
+      "company": "Coherent",
+      "fact_category": "Financials",
+      "fact_summary": "Coherent stock was up 13% yesterday.",
+      "is_recent_update": true,
+      "original_sentence": "Coherent (+13%)."
+    },
+    {
+      "company": "Nvidia, Lumentum, Coherent",
+      "fact_category": "Corporate Action",
+      "fact_summary": "The deals include purchase agreements and access rights for advanced laser components.",
+      "is_recent_update": true,
+      "original_sentence": "Deals include purchase agreements and access rights for advanced laser components"
+    },
+    {
+      "company": "Nvidia, Lumentum, Coherent",
+      "fact_category": "Corporate Action",
+      "fact_summary": "The investments are intended to support research, development, and the expansion of US-based manufacturing capabilities for advanced optics.",
+      "is_recent_update": true,
+      "original_sentence": "and are intended to support research, development, and the expansion of US-based manufacturing capabilities for advanced optics, which are critical for high-speed data transmission in AI data centers."
+    },
+    {
+      "company": "Technology",
+      "fact_category": "Product",
+      "fact_summary": "Advanced optics are critical for high-speed data transmission in AI data centers.",
+      "is_recent_update": false,
+      "original_sentence": "advanced optics, which are critical for high-speed data transmission in AI data centers."
+    },
+    {
+      "company": "AIXA GY",
+      "fact_category": "Financials",
+      "fact_summary": "AIXA GY has 30% of its sales from optical exposure.",
+      "is_recent_update": false,
+      "original_sentence": "AIXA GY (30% of sales)"
+    },
+    {
+      "company": "HLMA",
+      "fact_category": "Financials",
+      "fact_summary": "HLMA has 20% of its sales from optical exposure.",
+      "is_recent_update": false,
+      "original_sentence": "HLMA (20%)"
+    },
+    {
+      "company": "BESI",
+      "fact_category": "Financials",
+      "fact_summary": "BESI has 10% of its sales from optical exposure.",
+      "is_recent_update": false,
+      "original_sentence": "BESI (10%)"
+    },
+    {
+      "company": "Soitec",
+      "fact_category": "Financials",
+      "fact_summary": "Soitec has 5% of its sales from optical exposure.",
+      "is_recent_update": false,
+      "original_sentence": "Soitec (5%)."
+    },
+    {
+      "company": "Anthropic",
+      "fact_category": "Product",
+      "fact_summary": "Anthropic's Claude had 'elevated errors' on Monday.",
+      "is_recent_update": true,
+      "original_sentence": "Anthropic says Claude had \"elevated errors\" on Monday"
+    },
+    {
+      "company": "Anthropic",
+      "fact_category": "Product",
+      "fact_summary": "Anthropic's Claude is holding the top spot in the App Store.",
+      "is_recent_update": true,
+      "original_sentence": "holding at top spot in App Store"
+    },
+    {
+      "company": "ChatGPT",
+      "fact_category": "Product",
+      "fact_summary": "ChatGPT uninstalls surged by 295% after a DoD deal.",
+      "is_recent_update": true,
+      "original_sentence": "ChatGPT uninstalls surged by 295% after DoD deal"
+    },
+    {
+      "company": "Anthropic",
+      "fact_category": "Product",
+      "fact_summary": "Anthropic introduced a Memory Feature for free users.",
+      "is_recent_update": true,
+      "original_sentence": "Anthropic Tries to Win Users From ChatGPT With Memory Feature for free users."
+    },
+    {
+      "company": "Anthropic",
+      "fact_category": "Financials",
+      "fact_summary": "Anthropic raised $60B of cash from VCs.",
+      "is_recent_update": false,
+      "original_sentence": "potentially putting $60B of cash raised from VCs at risk"
+    },
+    {
+      "company": "Event",
+      "fact_category": "Corporate Action",
+      "fact_summary": "The Disruptive Tech Conference starts today and runs tomorrow in London.",
+      "is_recent_update": true,
+      "original_sentence": "Disruptive Tech Conference here in London today and tomorrow"
+    },
+    {
+      "company": "ElevenLabs",
+      "fact_category": "Financials",
+      "fact_summary": "ElevenLabs had an $11bn valuation at its last raise.",
+      "is_recent_update": false,
+      "original_sentence": "ElevenLabs - $11bn valuation at last raise."
+    },
+    {
+      "company": "Synthesia",
+      "fact_category": "Financials",
+      "fact_summary": "Synthesia had a $4bn valuation at its last raise.",
+      "is_recent_update": false,
+      "original_sentence": "Synthesia - $4bn last raise"
+    },
+    {
+      "company": "Quantum Systems",
+      "fact_category": "Product",
+      "fact_summary": "Quantum Systems is a German drone manufacturer.",
+      "is_recent_update": false,
+      "original_sentence": "Quantum Systems \u2013 German drone manufacturer"
+    },
+    {
+      "company": "Quantum Systems",
+      "fact_category": "Financials",
+      "fact_summary": "Quantum Systems had a $3bn valuation at its last raise.",
+      "is_recent_update": false,
+      "original_sentence": "Quantum Systems \u2013 German drone manufacturer, $3bn valuation at last raise"
+    },
+    {
+      "company": "Harmattan AI",
+      "fact_category": "Product",
+      "fact_summary": "Harmattan AI develops French drone hardware and software.",
+      "is_recent_update": false,
+      "original_sentence": "Harmattan AI \u2013 French drone hardware and software."
+    },
+    {
+      "company": "Quantexa Ltd",
+      "fact_category": "Product",
+      "fact_summary": "Quantexa Ltd is a Fintech company.",
+      "is_recent_update": false,
+      "original_sentence": "Quantexa Ltd \u2013 Fintech helping clients detect fraud and improve customer intelligence."
+    },
+    {
+      "company": "Exein",
+      "fact_category": "Product",
+      "fact_summary": "Exein embeds security into device firmware.",
+      "is_recent_update": false,
+      "original_sentence": "Exein \u2013 Cyber for AI \u2013 embeds security into device firmware to create a \u201cdigital immune system\u201d."
+    },
+    {
+      "company": "CausaLens",
+      "fact_category": "Product",
+      "fact_summary": "CausaLens offers a no-code causal AI platform.",
+      "is_recent_update": false,
+      "original_sentence": "CausaLens \u2013 no code causal AI platform."
+    },
+    {
+      "company": "Synthesia",
+      "fact_category": "Product",
+      "fact_summary": "Synthesia is an AI video generation platform.",
+      "is_recent_update": false,
+      "original_sentence": "Synthesia - $4bn last raise, AI video generation platform."
+    },
+    {
+      "company": "ElevenLabs",
+      "fact_category": "Product",
+      "fact_summary": "ElevenLabs develops voice agents.",
+      "is_recent_update": false,
+      "original_sentence": "Voice agents replacing call centres."
+    },
+    {
+      "company": "Legora",
+      "fact_category": "Product",
+      "fact_summary": "Legora provides legal services software.",
+      "is_recent_update": false,
+      "original_sentence": "Legal services:"
+    },
+    {
+      "company": "Luminance",
+      "fact_category": "Product",
+      "fact_summary": "Luminance provides legal services software.",
+      "is_recent_update": false,
+      "original_sentence": "Luminance \u2013 legal services similar to Legora."
+    },
+    {
+      "company": "PhysicsX",
+      "fact_category": "Product",
+      "fact_summary": "PhysicsX uses AI to disrupt manufacturing practices.",
+      "is_recent_update": false,
+      "original_sentence": "PhysicsX \u2013 v interesting\u2026.using AI to disrupt manufacturing practices."
+    },
+    {
+      "company": "Teleperformance",
+      "fact_category": "Analyst Rating",
+      "fact_summary": "Teleperformance was cut to Reduce at AlphaValue/Baader.",
+      "is_recent_update": true,
+      "original_sentence": "Teleperformance Cut to Reduce at AlphaValue/Baader"
+    },
+    {
+      "company": "Delivery Hero",
+      "fact_category": "Analyst Rating",
+      "fact_summary": "Delivery Hero was raised to Neutral at Citi.",
+      "is_recent_update": true,
+      "original_sentence": "Delivery Hero Raised to Neutral at Citi."
+    },
+    {
+      "company": "VAT",
+      "fact_category": "Financials",
+      "fact_summary": "VAT's EBITDA margin came in at 30%.",
+      "is_recent_update": true,
+      "original_sentence": "the EBITDA margin came in at 30%"
+    },
+    {
+      "company": "VAT",
+      "fact_category": "Financials",
+      "fact_summary": "VAT's EBITDA margin was in line with prior guidance.",
+      "is_recent_update": true,
+      "original_sentence": "in line with prior guidance"
+    },
+    {
+      "company": "VAT",
+      "fact_category": "Financials",
+      "fact_summary": "VAT's 1Q26 sales is guided at CHF240-260mn.",
+      "is_recent_update": true,
+      "original_sentence": "1Q26 sales is guided at CHF240-260mn"
+    },
+    {
+      "company": "VAT",
+      "fact_category": "Financials",
+      "fact_summary": "Consensus for VAT's 1Q26 sales is CHF270mn.",
+      "is_recent_update": true,
+      "original_sentence": "consensus already above the top end at CHF270mn"
+    },
+    {
+      "company": "VAT",
+      "fact_category": "Financials",
+      "fact_summary": "VAT's book-to-bill ratio is expected to be substantially above 1.",
+      "is_recent_update": true,
+      "original_sentence": "the book-to-bill ratio is expected to be substantially above 1"
+    },
+    {
+      "company": "VAT",
+      "fact_category": "Financials",
+      "fact_summary": "Consensus for VAT's book-to-bill ratio is 1.05x.",
+      "is_recent_update": true,
+      "original_sentence": "consensus at 1.05x"
+    },
+    {
+      "company": "SAP",
+      "fact_category": "Corporate Action",
+      "fact_summary": "SAP CEO Christian Klein will focus more on A&I & R&D.",
+      "is_recent_update": true,
+      "original_sentence": "sees CEO Christian Klein focusing more on A&I & R&D."
+    },
+    {
+      "company": "SAP",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Christian Klein took on running sales in summer 2024.",
+      "is_recent_update": false,
+      "original_sentence": "He is giving running sales that he took on in summer 2024"
+    },
+    {
+      "company": "SAP",
+      "fact_category": "Corporate Action",
+      "fact_summary": "SAP overhauled its sales strategy in summer 2024.",
+      "is_recent_update": false,
+      "original_sentence": "when SAP overhauled the sales strategy."
+    },
+    {
+      "company": "SAP",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Sales at SAP will be run by Thomas Saueressig.",
+      "is_recent_update": true,
+      "original_sentence": "Sales will be run by Thomas Saueressig"
+    },
+    {
+      "company": "SAP",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Thomas Saueressig is a SAP board member.",
+      "is_recent_update": false,
+      "original_sentence": "Thomas Saueressig, (a board member who currently answers for after-sales matters and helping clients to deploy SAP\u2019s software)"
+    },
+    {
+      "company": "SAP",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Thomas Saueressig currently handles after-sales matters and client deployment of SAP software.",
+      "is_recent_update": false,
+      "original_sentence": "Thomas Saueressig, (a board member who currently answers for after-sales matters and helping clients to deploy SAP\u2019s software)"
+    },
+    {
+      "company": "SAP",
+      "fact_category": "Corporate Action",
+      "fact_summary": "SAP board member Muhammad Alam will step down at the end of March 2027.",
+      "is_recent_update": true,
+      "original_sentence": "Board member Muhammad Alam, who leads product and engineering, ... steps down at ends in March 2027 due to personal reasons"
+    },
+    {
+      "company": "SAP",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Muhammad Alam leads product and engineering at SAP.",
+      "is_recent_update": false,
+      "original_sentence": "Muhammad Alam, who leads product and engineering"
+    },
+    {
+      "company": "SAP",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Muhammad Alam came from Microsoft.",
+      "is_recent_update": false,
+      "original_sentence": "came from MSFT"
+    },
+    {
+      "company": "Apple",
+      "fact_category": "Product",
+      "fact_summary": "Apple announced the iPhone 17e and M4 iPad Airs.",
+      "is_recent_update": true,
+      "original_sentence": "Apple: Per GIR announced the iPhone 17e and M4 iPad Airs"
+    },
+    {
+      "company": "Apple",
+      "fact_category": "Product",
+      "fact_summary": "The iPhone 17e has a stable starting price.",
+      "is_recent_update": true,
+      "original_sentence": "stable starting price on the iPhone 17e"
+    },
+    {
+      "company": "Apple",
+      "fact_category": "Product",
+      "fact_summary": "The iPhone 17e has 256 GB starting storage.",
+      "is_recent_update": true,
+      "original_sentence": "256 GB starting storage for iPhone 17e"
+    },
+    {
+      "company": "Apple",
+      "fact_category": "Product",
+      "fact_summary": "The iPhone 16e had 128 GB starting storage.",
+      "is_recent_update": false,
+      "original_sentence": "128 GB starting iPhone 16e storage"
+    },
+    {
+      "company": "Apple",
+      "fact_category": "Product",
+      "fact_summary": "The starting price for the 256 GB iPhone 17e is $599.",
+      "is_recent_update": true,
+      "original_sentence": "holding starting iPhone 17e prices flat at $599 (256 GB iPhone 16e models started at $699 last year)"
+    },
+    {
+      "company": "Apple",
+      "fact_category": "Product",
+      "fact_summary": "The 256 GB iPhone 16e models started at $699 last year.",
+      "is_recent_update": false,
+      "original_sentence": "256 GB iPhone 16e models started at $699 last year"
+    },
+    {
+      "company": "Apple",
+      "fact_category": "Product",
+      "fact_summary": "The 512 GB iPhone 17e now starts at $799.",
+      "is_recent_update": true,
+      "original_sentence": "512 GB iPhone 17e now starting at $799"
+    },
+    {
+      "company": "Apple",
+      "fact_category": "Product",
+      "fact_summary": "The 512 GB iPhone 16e starting price was $899.",
+      "is_recent_update": false,
+      "original_sentence": "$899 512 GB iPhone 16e starting price"
+    },
+    {
+      "company": "Counterpoint",
+      "fact_category": "Market Trend",
+      "fact_summary": "Counterpoint predicts smartphone shipment to decline 12.4% YoY in 2026.",
+      "is_recent_update": true,
+      "original_sentence": "Counterpoint saying that smartphone shipment to decline 12.4% YoY in 2026"
+    },
+    {
+      "company": "Market",
+      "fact_category": "Financials",
+      "fact_summary": "The memory spot and contract price gap is reaching 40-50%.",
+      "is_recent_update": true,
+      "original_sentence": "memory spot and contract price gap reaching 40-50%"
+    },
+    {
+      "company": "Korean companies",
+      "fact_category": "Financials",
+      "fact_summary": "Korean companies already previewed a Q2 DRAM contract price hike by 40%.",
+      "is_recent_update": true,
+      "original_sentence": "Korea companies already preview Q2 DRAM contract price hike by 40%"
+    },
+    {
+      "company": "Micron",
+      "fact_category": "Financials",
+      "fact_summary": "Street consensus for Micron's revenue/GM/EPS for the quarter is $19.0 bn/68.6%/$8.59.",
+      "is_recent_update": true,
+      "original_sentence": "the Street at $19.0 bn/68.6%/$8.59."
+    },
+    {
+      "company": "Micron",
+      "fact_category": "Financials",
+      "fact_summary": "Street consensus for Micron's May quarter guidance revenue/GM/EPS is $21.6 bn/70.9%/$10.08.",
+      "is_recent_update": true,
+      "original_sentence": "the Street at $21.6 bn/70.9%/$10.08."
+    },
+    {
+      "company": "Samsung Electronics",
+      "fact_category": "Operations",
+      "fact_summary": "Samsung Electronics' semiconductor mass production at its Taylor, Texas plant is projected to be delayed until early next year.",
+      "is_recent_update": true,
+      "original_sentence": "Samsung Electronics' semiconductor mass production at its Taylor, Texas plant, initially anticipated for this year, is now projected to be delayed until early next year."
+    },
+    {
+      "company": "Samsung Electronics",
+      "fact_category": "Operations",
+      "fact_summary": "Samsung Electronics' semiconductor mass production at its Taylor, Texas plant was initially anticipated for this year.",
+      "is_recent_update": false,
+      "original_sentence": "initially anticipated for this year"
+    },
+    {
+      "company": "NVIDIA",
+      "fact_category": "Product",
+      "fact_summary": "NVIDIA is poised to unveil its next-generation AI chips, including the \"Feynman\" architecture, at GTC 2026 this month.",
+      "is_recent_update": true,
+      "original_sentence": "NVIDIA is poised to unveil its next-generation AI chips, including the \"Feynman\" architecture, at GTC 2026 this month"
+    },
+    {
+      "company": "Samsung Electronics, SK Hynix",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Samsung Electronics and SK Hynix are expected to continue their high-bandwidth memory (HBM) collaboration.",
+      "is_recent_update": true,
+      "original_sentence": "Samsung Electronics and SK Hynix expected to continue their high-bandwidth memory (HBM) collaboration."
+    },
+    {
+      "company": "Tower",
+      "fact_category": "Market Share",
+      "fact_summary": "Tower is Israel's biggest semiconductor manufacturer.",
+      "is_recent_update": false,
+      "original_sentence": "Israeli\u2019s biggest and the 10th largest semiconductor manufacturer in the world Tower"
+    },
+    {
+      "company": "Tower",
+      "fact_category": "Market Share",
+      "fact_summary": "Tower is the 10th largest semiconductor manufacturer in the world.",
+      "is_recent_update": false,
+      "original_sentence": "the 10th largest semiconductor manufacturer in the world Tower"
+    },
+    {
+      "company": "Tower",
+      "fact_category": "Operations",
+      "fact_summary": "Tower is facing short-term constraints on product shipment due to geopolitical conflicts.",
+      "is_recent_update": true,
+      "original_sentence": "Tower is facing short-term constraints on product shipment due to geopolitical conflicts."
+    },
+    {
+      "company": "TalkTalk",
+      "fact_category": "Financials",
+      "fact_summary": "TalkTalk's shareholders and lenders, including Ares Management, will inject an additional \u00a3115 million into the company.",
+      "is_recent_update": true,
+      "original_sentence": "TalkTalk's shareholders and lenders, including Ares Management, will inject an additional \u00a3115 million into the company to bolster its finances."
+    },
+    {
+      "company": "TalkTalk",
+      "fact_category": "Financials",
+      "fact_summary": "This capital injection is the third since December 2024.",
+      "is_recent_update": true,
+      "original_sentence": "This capital injection, the third since December 2024"
+    },
+    {
+      "company": "TalkTalk",
+      "fact_category": "Market Share",
+      "fact_summary": "TalkTalk's retail customer base declined from over 2.5 million in 2023 to 1.8 million.",
+      "is_recent_update": false,
+      "original_sentence": "a decline in its retail customer base from over 2.5 million in 2023 to 1.8 million."
+    },
+    {
+      "company": "TalkTalk",
+      "fact_category": "Market Share",
+      "fact_summary": "TalkTalk's retail customer base is 1.8 million.",
+      "is_recent_update": true,
+      "original_sentence": "a decline in its retail customer base from over 2.5 million in 2023 to 1.8 million."
+    },
+    {
+      "company": "Telef\u00f3nica",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Murtra of Telef\u00f3nica advocated for European digital autonomy and the creation of a \"European WhatsApp\" at MWC.",
+      "is_recent_update": true,
+      "original_sentence": "Murtra (Telef\u00f3nica) during his speech at MWC, advocates for European digital autonomy and the creation of a \"European WhatsApp\" for secure messaging."
+    },
+    {
+      "company": "Vodafone, Amazon Leo",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Vodafone has partnered with Amazon Leo to expand 4G and 5G mobile coverage in remote areas across Europe and Africa.",
+      "is_recent_update": true,
+      "original_sentence": "Vodafone has partnered with Amazon Leo to expand 4G and 5G mobile coverage in remote areas across Europe and Africa."
+    },
+    {
+      "company": "Vodacom, Starlink",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Vodacom signed a deal to use Starlink late 2025.",
+      "is_recent_update": false,
+      "original_sentence": "Vodacom late 2025 signed a deal to use Starlink"
+    },
+    {
+      "company": "Scout24",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Scout24 closed the acquisition of Fotocasa and Habitaclia.",
+      "is_recent_update": true,
+      "original_sentence": "Scout24 closes acquisition of Fotocasa, Habitaclia."
+    },
+    {
+      "company": "Fotocasa",
+      "fact_category": "Market Share",
+      "fact_summary": "Fotocasa is the No. 2 real estate marketplace in Spain, behind Idealista.",
+      "is_recent_update": false,
+      "original_sentence": "Fotocasa is the No. 2 real estate marketplace in Spain, behind Idealista."
+    },
+    {
+      "company": "Habitaclia",
+      "fact_category": "Product",
+      "fact_summary": "Habitaclia is a regional property site focused on Catalonia and the Balearic Islands.",
+      "is_recent_update": false,
+      "original_sentence": "Habitaclia, a regional property site focused on Catalonia and the Balearic Islands"
+    },
+    {
+      "company": "Lottomatica",
+      "fact_category": "Financials",
+      "fact_summary": "Lottomatica's Q4 revenues were inline.",
+      "is_recent_update": true,
+      "original_sentence": "Q4 revenues inline"
+    },
+    {
+      "company": "Lottomatica",
+      "fact_category": "Financials",
+      "fact_summary": "Lottomatica's Q4 EBIT was 4% ahead.",
+      "is_recent_update": true,
+      "original_sentence": "EBIT 4% ahead"
+    },
+    {
+      "company": "Lottomatica",
+      "fact_category": "Financials",
+      "fact_summary": "Lottomatica's Q4 DPS was 7% ahead.",
+      "is_recent_update": true,
+      "original_sentence": "DPS 7% ahead."
+    },
+    {
+      "company": "Lottomatica",
+      "fact_category": "Financials",
+      "fact_summary": "Lottomatica's FY26 revenue guidance is EU2.39 to EU2.46bn.",
+      "is_recent_update": true,
+      "original_sentence": "Its given FY 26 guidance of revenue EU2.39 to EU2.46nm"
+    },
+    {
+      "company": "Lottomatica",
+      "fact_category": "Financials",
+      "fact_summary": "Street consensus for Lottomatica's FY26 revenue is EU2.44bn.",
+      "is_recent_update": true,
+      "original_sentence": "street at EU2.44"
+    },
+    {
+      "company": "Lottomatica",
+      "fact_category": "Financials",
+      "fact_summary": "Lottomatica's FY26 adjusted EBITDA guidance is EU940 to EU980m.",
+      "is_recent_update": true,
+      "original_sentence": "adjusted EBITDA EU940 to EU980m"
+    },
+    {
+      "company": "Lottomatica",
+      "fact_category": "Financials",
+      "fact_summary": "Street consensus for Lottomatica's FY26 adjusted EBITDA is EU954m.",
+      "is_recent_update": true,
+      "original_sentence": "street EU954m."
+    },
+    {
+      "company": "Lottomatica",
+      "fact_category": "Market Share",
+      "fact_summary": "Lottomatica\u2019s market share in iGaming was 31.9%.",
+      "is_recent_update": true,
+      "original_sentence": "Lottomatica\u2019s market share was strong in iGaming at 31.9% (vs. 3Q25: 30.6%)"
+    },
+    {
+      "company": "Lottomatica",
+      "fact_category": "Market Share",
+      "fact_summary": "Lottomatica\u2019s market share in iGaming was 30.6% in 3Q25.",
+      "is_recent_update": false,
+      "original_sentence": "3Q25: 30.6%"
+    },
+    {
+      "company": "Lottomatica",
+      "fact_category": "Market Share",
+      "fact_summary": "Lottomatica\u2019s market share for iSports was 31.6%.",
+      "is_recent_update": true,
+      "original_sentence": "iSports at 31.6% (vs. 3Q25: 32.7%)."
+    },
+    {
+      "company": "Lottomatica",
+      "fact_category": "Market Share",
+      "fact_summary": "Lottomatica\u2019s market share for iSports was 32.7% in 3Q25.",
+      "is_recent_update": false,
+      "original_sentence": "3Q25: 32.7%"
+    },
+    {
+      "company": "Lottomatica",
+      "fact_category": "Market Share",
+      "fact_summary": "Lottomatica's Total Online market share was up +0.4pp year-over-year.",
+      "is_recent_update": true,
+      "original_sentence": "Total Online market share was up +0.4pp yoy"
+    },
+    {
+      "company": "Market",
+      "fact_category": "Market Event",
+      "fact_summary": "New Online concessions in Italy came into effect in mid-November.",
+      "is_recent_update": false,
+      "original_sentence": "new Online concessions in Italy coming into effect in mid-November"
+    },
+    {
+      "company": "Lottomatica",
+      "fact_category": "Market Share",
+      "fact_summary": "Lottomatica's PWO market share improved to 6.3% in 4Q25.",
+      "is_recent_update": true,
+      "original_sentence": "PWO market share improved to 6.3% in 4Q25"
+    },
+    {
+      "company": "DraftKings",
+      "fact_category": "Product",
+      "fact_summary": "DraftKings announced a new super-app strategy centered around DraftKings Sports & Casino.",
+      "is_recent_update": true,
+      "original_sentence": "the announcement of a new super-app strategy centered around DraftKings Sports & Casino"
+    },
+    {
+      "company": "DraftKings",
+      "fact_category": "Financials",
+      "fact_summary": "DraftKings provided an updated long-term financial & capital allocation framework.",
+      "is_recent_update": true,
+      "original_sentence": "provided an updated long-term financial & capital allocation framework."
+    },
+    {
+      "company": "Market",
+      "fact_category": "Financials",
+      "fact_summary": "The floor finished +240bps to buy.",
+      "is_recent_update": true,
+      "original_sentence": "Our floor finished +240bps to buy"
+    },
+    {
+      "company": "Market",
+      "fact_category": "Financials",
+      "fact_summary": "The 30-day average for the floor was -21bps.",
+      "is_recent_update": false,
+      "original_sentence": "a 30-day avg of -21bps."
+    },
+    {
+      "company": "Market",
+      "fact_category": "Financials",
+      "fact_summary": "Hedge Funds finished +$1.5b net buyers.",
+      "is_recent_update": true,
+      "original_sentence": "HFs finished +$1.5b net buyers"
+    },
+    {
+      "company": "Market",
+      "fact_category": "Financials",
+      "fact_summary": "ETF % of tape spiked to ~40%.",
+      "is_recent_update": true,
+      "original_sentence": "ETF % of tape spiking to ~40%"
+    },
+    {
+      "company": "Market",
+      "fact_category": "Financials",
+      "fact_summary": "ETF % of tape was back to Apr 2025 highs.",
+      "is_recent_update": false,
+      "original_sentence": "back to Apr 2025 highs"
+    },
+    {
+      "company": "MDB",
+      "fact_category": "Financials",
+      "fact_summary": "MDB was down 20% after hours.",
+      "is_recent_update": true,
+      "original_sentence": "MDB -20% AHs"
+    },
+    {
+      "company": "Event",
+      "fact_category": "Corporate Action",
+      "fact_summary": "The Disruptive Technology Symposium is scheduled for March 3-4 in London with the agenda now available.",
+      "is_recent_update": true,
+      "original_sentence": "Disruptive Technology Symposium | 3-4 Mar | London | Conference | Agenda Now Available"
+    },
+    {
+      "company": "Orange",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Orange had corporate access events on Feb 20 (Paris, Virtual) and Feb 23 (London).",
+      "is_recent_update": true,
+      "original_sentence": "Orange [ORAN PA] | 20 Feb (Paris, Virtual), 23 Feb (London) | CEO, CFO, IR"
+    },
+    {
+      "company": "Waystar Holding",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Waystar Holding had a virtual corporate access event on Feb 23.",
+      "is_recent_update": true,
+      "original_sentence": "Waystar Holding [WAY] | 23 Feb | Virtual | CEO, CFO"
+    },
+    {
+      "company": "Event",
+      "fact_category": "Corporate Action",
+      "fact_summary": "The European Technology Conference was held on Feb 24-25 in London.",
+      "is_recent_update": true,
+      "original_sentence": "European Technology Conference | 24-25 Feb | London | Conference | Next W eek"
+    },
+    {
+      "company": "Microsoft",
+      "fact_category": "Corporate Action",
+      "fact_summary": "A group meeting with Mark Monroe, former Datacenter Advanced Development at Microsoft, was held virtually on Feb 26.",
+      "is_recent_update": true,
+      "original_sentence": "Group Meeting with Former Datacenter Advanced Development at Microsoft | 26 Feb | Virtual | Data centre Advanced Development at Microsoft, Mark Monroe | Expert Call"
+    },
+    {
+      "company": "Hoya",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Hoya had a virtual IR event on March 2.",
+      "is_recent_update": true,
+      "original_sentence": "Hoya [7741 JP] | 2 Mar | Virtual | IR"
+    },
+    {
+      "company": "Ebara",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Ebara has a virtual IR event scheduled for March 4.",
+      "is_recent_update": true,
+      "original_sentence": "Ebara [6361 JP] | 4 Mar | Virtual | IR"
+    },
+    {
+      "company": "DNA plc, ELISA, Finnish Ministry of Finance and Communication, Norwegian Communications Authority, Swedish Post and Telecom Authority, TEL2B, TEL, TELIA, Finnish Transport and Communications Agency - Traficom",
+      "fact_category": "Corporate Action",
+      "fact_summary": "A Nordics Telecoms Fieldtrip is scheduled for March 4 (Helsinki), March 5 (Stockholm), March 6 (Oslo), and March 9 (Virtual).",
+      "is_recent_update": true,
+      "original_sentence": "Nordics Telecoms Fieldtrip [DNA plc, ELISA, Finnish Ministry of Finance and Communication, Norwegian Communications Authority, Swedish Post and Telecom Authority, TEL2B, TEL, TELIA, Finnish Transport and Communications Agency - Traficom] | 4 Mar (Helsinki), 5 Mar (Stockholm), 6 Mar (Oslo), 9 Mar (Virtual) | Field Trip"
+    },
+    {
+      "company": "Flywire Corp",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Flywire Corp has a corporate access event scheduled for March 5 in London.",
+      "is_recent_update": true,
+      "original_sentence": "Flywire Corp [FLYW] | 5 Mar | London | CEO, IR"
+    },
+    {
+      "company": "Wisetech Global",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Wisetech Global has a corporate access event scheduled for March 9-10 in London.",
+      "is_recent_update": true,
+      "original_sentence": "Wisetech Global [WTC AX] | 9-10 Mar | London | CEO, Interim CFO, IR"
+    },
+    {
+      "company": "Auto1 Group",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Auto1 Group has corporate access events scheduled for March 10 (Boston) and March 11 (New York).",
+      "is_recent_update": true,
+      "original_sentence": "Auto1 Group [AG1 GY] | 10 Mar (Boston), 11 Mar (New York) | CFO, IR"
+    },
+    {
+      "company": "SCREEN Holdings",
+      "fact_category": "Corporate Action",
+      "fact_summary": "SCREEN Holdings has a virtual IR event scheduled for March 13.",
+      "is_recent_update": true,
+      "original_sentence": "SCREEN Holdings [7735 JP] | 13 Mar | Virtual | IR"
+    },
+    {
+      "company": "Stroeer",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Stroeer has corporate access events scheduled for March 16 (Paris) and March 17 (London).",
+      "is_recent_update": true,
+      "original_sentence": "Stroeer [SAXG DE] | 16 Mar (Paris), 17 Mar (London) | CFO, IR | New"
+    },
+    {
+      "company": "International Business Machines Corp",
+      "fact_category": "Corporate Action",
+      "fact_summary": "IBM has corporate access events scheduled for March 16 (Paris) and March 17-18 (London).",
+      "is_recent_update": true,
+      "original_sentence": "International Business Machines Corp [IBM] | 16 Mar (Paris), 17-18 Mar (London)) | SVP & Chair of IBM EMEA & Growth Markets, IR"
+    },
+    {
+      "company": "Fujikura",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Fujikura has a virtual call scheduled for March 17.",
+      "is_recent_update": true,
+      "original_sentence": "Era of Optics Call Series - Fujikura [5803 JP] | 17 Mar | Virtual | CEO, CFO, Corporate Officer"
+    },
+    {
+      "company": "Nebius Group NV",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Nebius Group NV has a corporate access event scheduled for March 17 in San Jose, CA.",
+      "is_recent_update": true,
+      "original_sentence": "Nebius Group NV [NBIS] | 17 Mar | San Jose, CA | CEO, COO, IR"
+    },
+    {
+      "company": "Springer Nature AG",
+      "fact_category": "Corporate Action",
+      "fact_summary": "Springer Nature AG has corporate access events scheduled for March 18-19 (London) and March 20 (Virtual).",
+      "is_recent_update": true,
+      "original_sentence": "Springer Nature AG [SPGG DE] | 18-19 Mar (London), 20 Mar (Virtual) | CEO, CFO, IR | New"
+    },
+    {
+      "company": "Event",
+      "fact_category": "Corporate Action",
+      "fact_summary": "The Infrastructure Conference is scheduled for May 20 in London.",
+      "is_recent_update": true,
+      "original_sentence": "Infrastructure Conference | 20 May | London | Conference | Save the Date"
+    },
+    {
+      "company": "ASML",
+      "fact_category": "Corporate Action",
+      "fact_summary": "An ASML HQ Visit is scheduled for May 26 in Veldhoven.",
+      "is_recent_update": true,
+      "original_sentence": "ASML HQ Visit [ASML AS] | 26 May | Veldhoven | Field Trip | New"
+    },
+    {
+      "company": "Event",
+      "fact_category": "Corporate Action",
+      "fact_summary": "The Private Company Software & Internet Conference is scheduled for April 8-9 in San Francisco.",
+      "is_recent_update": true,
+      "original_sentence": "Private Company Software & Internet Conference | 8-9 Apr | San Francisco | TMT | Save the Date"
+    },
+    {
+      "company": "Event",
+      "fact_category": "Corporate Action",
+      "fact_summary": "The Communacopia and Technology Conference is scheduled for September 8-11 in San Francisco.",
+      "is_recent_update": true,
+      "original_sentence": "Communacopia and Technology Conference | 8-11 Sep | San Francisco | TMT | Save the Date"
+    }
+  ],
+  "file_Id": "GS TMT SPEC SALES_ Memory profit taking; VAT Q1 guide light; MDB rolls on Q1 guide; Lotto ahead; Disruptive Tech Conference starts today.pdf"
+}

@@ -1,0 +1,95 @@
+{
+  "bullish_views": [
+    {
+      "company": "Best Buy Co.",
+      "ticker": "BBY",
+      "sector": "Americas Retail Specialty",
+      "industry": "Hardlines, Supermarkets and Discount Stores",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "4Q26 adjusted EPS exceeded both Goldman Sachs' estimate and consensus.",
+      "exact_sentences_in_the_file": "BBY reported 4Q26 adj. EPS of $2.61, above the GS estimate of $2.50 and consensus (Factset) of $2.46."
+    },
+    {
+      "company": "Best Buy Co.",
+      "ticker": "BBY",
+      "sector": "Americas Retail Specialty",
+      "industry": "Hardlines, Supermarkets and Discount Stores",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Adjusted EBIT margin increased year-over-year and surpassed estimates.",
+      "exact_sentences_in_the_file": "Adj. EBIT margin increased 8 bps y/y to 5.0%, above GS/Cons. estimates of 4.9%/4.9%."
+    },
+    {
+      "company": "Best Buy Co.",
+      "ticker": "BBY",
+      "sector": "Americas Retail Specialty",
+      "industry": "Hardlines, Supermarkets and Discount Stores",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Domestic gross margin increased year-over-year and was above Goldman Sachs' estimate.",
+      "exact_sentences_in_the_file": "Domestic gross margin increased 3 bps y/y to 20.9%, above the GS estimate of 20.8%."
+    },
+    {
+      "company": "Best Buy Co.",
+      "ticker": "BBY",
+      "sector": "Americas Retail Specialty",
+      "industry": "Hardlines, Supermarkets and Discount Stores",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Growth in Best Buy Ads and Marketplace contributed positively to the gross margin rate.",
+      "exact_sentences_in_the_file": "The approximately flat gross margin rate included growth in Best Buy Ads and Marketplace, which was largely offset by lower product margin rates."
+    },
+    {
+      "company": "Best Buy Co.",
+      "ticker": "BBY",
+      "sector": "Americas Retail Specialty",
+      "industry": "Hardlines, Supermarkets and Discount Stores",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Domestic adjusted SG&A expense decreased year-over-year due to lower compensation and Best Buy Health expenses.",
+      "exact_sentences_in_the_file": "Domestic adj. SG&A expense decreased -1.8% y/y due to lower compensation expenses, and lower Best Buy Health expenses."
+    },
+    {
+      "company": "Best Buy Co.",
+      "ticker": "BBY",
+      "sector": "Americas Retail Specialty",
+      "industry": "Hardlines, Supermarkets and Discount Stores",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "The adjusted SG&A expense ratio decreased year-over-year and was in-line with Goldman Sachs' estimate.",
+      "exact_sentences_in_the_file": "The adj. SG&A expense ratio decreased 11 bps y/y to 15.9%, in-line with the GS estimate of 15.9%."
+    },
+    {
+      "company": "Best Buy Co.",
+      "ticker": "BBY",
+      "sector": "Americas Retail Specialty",
+      "industry": "Hardlines, Supermarkets and Discount Stores",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "The stock is trading up in pre-market, indicating a positive market reaction to the better-than-expected bottom line.",
+      "exact_sentences_in_the_file": "The stock is trading up in the pre-market, likely due to the better than expected bottom line."
+    },
+    {
+      "company": "Best Buy Co.",
+      "ticker": "BBY",
+      "sector": "Americas Retail Specialty",
+      "industry": "Hardlines, Supermarkets and Discount Stores",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Goldman Sachs maintains a 'Buy' rating on BBY.",
+      "exact_sentences_in_the_file": "We are Buy rated on BBY with a 12-month price target of $93 based on our downside/base/upside case EV/EBITDA multiples of 6.5x/7.0x/7.5x."
+    },
+    {
+      "company": "Best Buy Co.",
+      "ticker": "BBY",
+      "sector": "Americas Retail Specialty",
+      "industry": "Hardlines, Supermarkets and Discount Stores",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "There is a significant 51.0% upside potential to the 12-month price target.",
+      "exact_sentences_in_the_file": "BBY 12m Price Target: $93.00 Price: $61.59 Upside: 51.0%"
+    },
+    {
+      "company": "Best Buy Co.",
+      "ticker": "BBY",
+      "sector": "Americas Retail Specialty",
+      "industry": "Hardlines, Supermarkets and Discount Stores",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Forecasted increasing dividend yield over the next few years.",
+      "exact_sentences_in_the_file": "Dividend yield (%) 4.4 6.2 7.4 8.9"
+    }
+  ],
+  "file_Id": "Best Buy Co. (BBY)_ First Take_ 4Q26 top line miss but bottom line beat; FY27 guidance below expectations.pdf"
+}

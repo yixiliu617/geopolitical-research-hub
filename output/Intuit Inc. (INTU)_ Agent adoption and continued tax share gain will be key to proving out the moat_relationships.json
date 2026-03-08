@@ -1,0 +1,302 @@
+{
+  "relationships": [
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Goldman Sachs",
+      "ticker": "",
+      "relationship_type": "Partner",
+      "relationship_description": "Goldman Sachs provides investment banking services to Intuit, had a non-securities services client relationship, and makes a market in Intuit's securities.",
+      "quantifier": "expects to receive or intends to seek compensation, had an investment banking services client relationship during the past 12 months, had a non-securities services client relationship during the past 12 months, makes a market",
+      "original_sentence": "Goldman Sachs expects to receive or intends to seek compensation for investment banking services in the next 3 months: Intuit Inc. ($394.42) Goldman Sachs had an investment banking services client relationship during the past 12 months with: Intuit Inc. ($394.42) Goldman Sachs had a non-securities services client relationship during the past 12 months with: Intuit Inc. ($394.42) Goldman Sachs makes a market in the securities or derivatives thereof: Intuit Inc. ($394.42)"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Anthropic",
+      "ticker": "",
+      "relationship_type": "Supplier",
+      "relationship_description": "Intuit leverages Anthropic's 3P models (e.g., a weather engine) for its AI capabilities.",
+      "quantifier": "3P models where necessary",
+      "original_sentence": "we think Intuit should be able to marry their own data/LLMs, 3P models where necessary (e.g., a weather engine from Anthropic), and a deep understanding of how small business owners think/approach workflows to design agents that SMBs will actually adopt."
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Adobe Inc.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Akamai Technologies Inc.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "AvePoint",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Braze Inc.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Check Point",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Cloudflare",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Commerce.com Inc.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "CoreWeave Inc.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "CrowdStrike",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Datadog Inc.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "DigitalOcean Holdings",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "EverCommerce Inc.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Figma Inc.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Fortinet",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "HubSpot Inc.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Klaviyo",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Microsoft Corp.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Navan Inc.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Okta",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Oracle Corp.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Palantir Technologies",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Palo Alto Networks",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "SailPoint Inc.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Salesforce Inc.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "SentinelOne",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "ServiceNow Inc.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Shopify Inc.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Snowflake Inc.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Workday Inc.",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Zeta Global",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    },
+    {
+      "source_company": "Intuit Inc.",
+      "target_company": "Zscaler",
+      "ticker": "",
+      "relationship_type": "Peer",
+      "relationship_description": "Listed in Intuit's coverage universe, used for relative rating comparison.",
+      "quantifier": "other companies in its/their coverage universe",
+      "original_sentence": "The rating(s) for Intuit Inc. is/are relative to the other companies in its/their coverage universe: Adobe Inc., Akamai Technologies Inc., AvePoint, Braze Inc., Check Point, Cloudflare, Commerce.com Inc., CoreWeave Inc., CrowdStrike, Datadog Inc., DigitalOcean Holdings, EverCommerce Inc., Figma Inc., Fortinet, HubSpot Inc., Intuit Inc., Klaviyo, Microsoft Corp., Navan Inc., Okta, Oracle Corp., Palantir Technologies, Palo Alto Networks, SailPoint Inc., Salesforce Inc., SentinelOne, ServiceNow Inc., Shopify Inc., Snowflake Inc., Workday Inc., Zeta Global, Zscaler"
+    }
+  ],
+  "file_Id": "Intuit Inc. (INTU)_ Agent adoption and continued tax share gain will be key to proving out the moat.pdf"
+}

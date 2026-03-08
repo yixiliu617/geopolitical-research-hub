@@ -1,0 +1,157 @@
+{
+  "central_thesis": "Intuit's strategic integration of AI into its core products, combined with its established platform moats and successful expansion into higher-value market segments, positions the company for sustained financial growth and enhanced customer value, despite competitive dynamics in certain areas.",
+  "sub_claims": [
+    {
+      "claim": "Intuit's AI strategy is effectively enhancing customer experience and product differentiation.",
+      "evidence_list": [
+        {
+          "evidence_type": "Company Statement",
+          "content": "Intuit directly addressed the ongoing market debate around its terminal value and detailed several ways it is leveraging AI to drive better customer experience.",
+          "is_objective": false,
+          "credibility_assessment": "High, direct from company."
+        },
+        {
+          "evidence_type": "Company Statement",
+          "content": "Intuit underscored domain expertise, their platform approach, and regulation/financial risk as moats.",
+          "is_objective": false,
+          "credibility_assessment": "High, company's self-assessment of competitive advantages."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "Intuit\u2019s platform leverages proprietary data, network effects (100m+ customers), domain-specific AI capabilities, and AI-powered human intelligence - with the key vision being AI and human intelligence working together.",
+          "is_objective": true,
+          "credibility_assessment": "High, describes existing platform and vision."
+        },
+        {
+          "evidence_type": "Analyst Opinion",
+          "content": "we believe the key to software differentiation with AI will be applying domain experience into better agentic outcomes, and we continue to look for examples of differentiated agentic experiences in Intuit products.",
+          "is_objective": false,
+          "credibility_assessment": "Medium, analyst's belief, but based on industry understanding."
+        },
+        {
+          "evidence_type": "Analyst Opinion",
+          "content": "we lean more positive on QuickBooks: we think Intuit should be able to marry their own data/LLMs, 3P models where necessary (e.g., a weather engine from Anthropic), and a deep understanding of how small business owners think/approach workflows to design agents that SMBs will actually adopt.",
+          "is_objective": false,
+          "credibility_assessment": "Medium, analyst's positive outlook based on Intuit's capabilities."
+        },
+        {
+          "evidence_type": "Analyst Opinion",
+          "content": "In Tax, we believe the key will be to what extent Intuit can capture more accretive share in Assisted while managing competitive risks at the low end. At the high end, we believe Intuit can offer a better experience than peers at better unit economics, and will likely benefit from demographic shifts.",
+          "is_objective": false,
+          "credibility_assessment": "Medium, analyst's strategic assessment."
+        }
+      ]
+    },
+    {
+      "claim": "AI-powered agent adoption is gaining traction and delivering tangible benefits to customers.",
+      "evidence_list": [
+        {
+          "evidence_type": "Fact",
+          "content": "3 mn customers have leveraged agents to do work for them, with an 85% repeat engagement rate.",
+          "is_objective": true,
+          "credibility_assessment": "High, direct company reported metrics."
+        },
+        {
+          "evidence_type": "Company Statement",
+          "content": "Management noted new AI-enabled QBO features like auto reconciliation, routing, and weather, some of which leverage outside LLMs, to save business owners time.",
+          "is_objective": true,
+          "credibility_assessment": "High, company's product announcement."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "On the tax side, 80% of customers are using automated data entry and their new cost basis agent lowers taxable income by $12,000.",
+          "is_objective": true,
+          "credibility_assessment": "High, company reported metrics and benefit."
+        },
+        {
+          "evidence_type": "Company Statement",
+          "content": "Credit Karma\u2019s Refund, Debt, and Tax Assistants aim to deliver done-for-you experiences, while Cards Optimizer and Credit Spark aim to promote engagement throughout the year.",
+          "is_objective": true,
+          "credibility_assessment": "High, company's product strategy."
+        }
+      ]
+    },
+    {
+      "claim": "Intuit is successfully expanding its presence in the higher-value mid-market segment.",
+      "evidence_list": [
+        {
+          "evidence_type": "Company Statement",
+          "content": "Intuit continues to see attractive unit economics and are expanding their mid-market sales capacity by nearly 30%.",
+          "is_objective": true,
+          "credibility_assessment": "High, company's strategic action."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "QBO Advanced and IES grew 40%.",
+          "is_objective": true,
+          "credibility_assessment": "High, company reported financial metric."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "Intuit signed partnerships with several top 20 accounting firms in 2Q, which coupled with new wholesale billing capabilites drove 1/3 of new contracts influence by accountant recommendations in 2Q vs. ~20% in 1Q.",
+          "is_objective": true,
+          "credibility_assessment": "High, company reported business development and sales metrics."
+        }
+      ]
+    },
+    {
+      "claim": "Intuit's financial performance and outlook remain strong, with significant upside potential.",
+      "evidence_list": [
+        {
+          "evidence_type": "Analyst Forecast",
+          "content": "Revenue ($ mn) New 18,831.0 (7/25) 21,319.0 (7/26E) 23,823.7 (7/27E) 26,349.6 (7/28E)",
+          "is_objective": true,
+          "credibility_assessment": "High, Goldman Sachs Research estimates."
+        },
+        {
+          "evidence_type": "Analyst Forecast",
+          "content": "EBITDA ($ mn) 8,381.0 (7/25) 9,581.3 (7/26E) 10,896.0 (7/27E) 12,253.9 (7/28E)",
+          "is_objective": true,
+          "credibility_assessment": "High, Goldman Sachs Research estimates."
+        },
+        {
+          "evidence_type": "Analyst Forecast",
+          "content": "EPS ($) New 20.19 (7/25) 23.07 (7/26E) 27.31 (7/27E) 32.03 (7/28E)",
+          "is_objective": true,
+          "credibility_assessment": "High, Goldman Sachs Research estimates."
+        },
+        {
+          "evidence_type": "Analyst Forecast",
+          "content": "Total revenue growth: 15.6% (7/25), 13.2% (7/26E), 11.7% (7/27E), 10.6% (7/28E)",
+          "is_objective": true,
+          "credibility_assessment": "High, Goldman Sachs Research estimates."
+        },
+        {
+          "evidence_type": "Analyst Forecast",
+          "content": "EPS growth: 19.1% (7/25), 14.3% (7/26E), 18.4% (7/27E), 17.3% (7/28E)",
+          "is_objective": true,
+          "credibility_assessment": "High, Goldman Sachs Research estimates."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "Revenue was 2.6% above, operating margin was ~250bps ahead, and EPS 13% above (FactSet).",
+          "is_objective": true,
+          "credibility_assessment": "High, reported actuals."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "TT revenue was +12% y/y while IRS returns were -5% y/y.",
+          "is_objective": true,
+          "credibility_assessment": "High, reported actuals."
+        },
+        {
+          "evidence_type": "Analyst Opinion",
+          "content": "at current valuations it may be possible to arrive at a level of valuation support even when discounting part of the tax business.",
+          "is_objective": false,
+          "credibility_assessment": "Medium, analyst's assessment of valuation floor."
+        },
+        {
+          "evidence_type": "Analyst Target",
+          "content": "INTU 12m Price Target: $519.00 Price: $394.42 Upside: 31.6%",
+          "is_objective": true,
+          "credibility_assessment": "High, Goldman Sachs official price target."
+        }
+      ]
+    }
+  ]
+}

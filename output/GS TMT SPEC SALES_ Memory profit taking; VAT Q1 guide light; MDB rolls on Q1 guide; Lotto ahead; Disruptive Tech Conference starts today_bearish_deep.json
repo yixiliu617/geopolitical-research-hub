@@ -1,0 +1,104 @@
+{
+  "bearish_views": [
+    {
+      "company": "N/A",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "observation_date": "2026-03-03",
+      "bearish_debate_point": "Asian memory stocks experienced a hard roll-over due to profit taking and geopolitical tensions in the Iran/Middle East region, impacting companies like Samsung, Hynix, Nanya Tech, Winbond, PSMC, and Macronix.",
+      "exact_sentences_in_the_file": "However Asia this morning not shrugging it off and in TMT Asian memory rolled hard over overnight \u2013 Samsung -10%, Hynix -11%, Nanya Tech -10%, Winbond -10%, PSMC ()-10%, Macronix -10%, it feels like unwinding due to Iran/Middle East tension and PROFIT TAKING \u2013 Samsung is up 62% & Hynix 44% even after the fall as memory is one of the MOST Mo' exposed trade to date."
+    },
+    {
+      "company": "N/A",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "observation_date": "2026-03-03",
+      "bearish_debate_point": "Concerns are rising about the memory cycle peaking, particularly for NAND, as supply increases and consumer demand wanes, potentially leading to unsustainable prices and margins, compounded by broader AI monetization/funding/credit risks.",
+      "exact_sentences_in_the_file": "We have also seen the debate around the cycle picking up, in particular for NAND, as people worry about peaking when supply kicks in and consumer demand wanes to a point where price & margin simply cannot sustain, adding to the broader worry of monetization/ funding/ credit risk of AI."
+    },
+    {
+      "company": "VAT",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Semiconductor Equipment",
+      "observation_date": "2026-03-03",
+      "bearish_debate_point": "VAT's Q1 sales guidance is lower than consensus expectations, despite strong orders in Q4 2025, raising questions about the implied book-to-bill ratio and putting pressure on the stock.",
+      "exact_sentences_in_the_file": "VAT under pressureas Q1 guide looks low and the key question for call given the orders seen in 4Q25, will be why is 1Q26 sales guidance relatively low, and what level of book to bill does this imply? ... While 1Q26 sales is guided at CHF240-260mn (vs consensus already above the top end at CHF270mn), but the book-to-bill ratio is expected to be substantially above 1 (consensus at 1.05x)."
+    },
+    {
+      "company": "MongoDB",
+      "ticker": "MDB",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-03-03",
+      "bearish_debate_point": "MongoDB's Atlas segment decelerated in the quarter, the FY total revenue outlook is mixed with slowing Atlas growth, visibility on back-half consumption is limited, and there was a turnover at the CRO position.",
+      "exact_sentences_in_the_file": "Note MDB down -25% AHs (basically back to last Summers\u2019 levels, before that inflection print in August) will again raise debate \u2013 down after Mongo\u2019s Atlas segment decelerated in the qtr (to +29% y/y vs +30% last qtR), offered a more mixed FY Total Revs outlook (FY27 total revenue growth ~17% vs FY26 23% (Atlas slowing to 21\u201323%). Visibility on back-half consumption is limited.) and announced turnover at the CRO position (recall, new CEO last year) .."
+    },
+    {
+      "company": "N/A",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-03-03",
+      "bearish_debate_point": "Despite a recent bounce, the consensus view is that the software group is unlikely to rally significantly, making it challenging for investors to fully commit given previous drawdowns.",
+      "exact_sentences_in_the_file": "While Software has started to bounce off the lows (Software has o/p the NDX by ~550 bps over 5 days, quietly its best run in >12-months) .. while the \u2018consensus\u2019 view is that the group can \u201cbounce\u201d, but is unlikely to \u201crally\u201d, hard for investors to not at least comb over the group given the drawdown \u2013 in Europe the only names defended in our flows SAP (one can question whether that will remain given announcement on the board restructure) and RELX."
+    },
+    {
+      "company": "Anthropic",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Software (AI)",
+      "observation_date": "2026-03-03",
+      "bearish_debate_point": "Anthropic's Claude experienced 'elevated errors,' and tensions with the Trump administration are potentially putting $60B of raised capital at risk.",
+      "exact_sentences_in_the_file": "Anthropic says Claude had \"elevated errors\" on Monday, though holding at top spot in App Store \u2013 (while ChatGPT uninstalls surged by 295% after DoD deal). ... Axios flagging that Anthropic tensions with Trump administration are potentially putting $60B of cash raised from VCs at risk\u2026"
+    },
+    {
+      "company": "SAP",
+      "ticker": "SAP",
+      "sector": "Technology",
+      "industry": "Software",
+      "observation_date": "2026-03-03",
+      "bearish_debate_point": "The board restructure, with the CEO shifting focus and the CTO stepping down for personal reasons, raises questions about SAP's commitment and aggressive push in AI, potentially impacting its market position.",
+      "exact_sentences_in_the_file": "in Europe the only names defended in our flows SAP (one can question whether that will remain given announcement on the board restructure) ... SAP board restructure \u2013 sees CEO Christian Klein focusing more on A&I & R&D. He is giving running sales that he took on in summer 2024 \u2013 when SAP overhauled the sales strategy. Sales will be run by Thomas Saueressig, (a board member who currently answers for after-sales matters and helping clients to deploy SAP\u2019s software).Board member Muhammad Alam, who leads product and engineering, (seen as CTO and the technical guru on the board and came from MSFT) steps down at ends in March 2027 due to personal reasons \u2013 he is well regarded and do wonder if this is SAP admitting it needs to push hardier on AI."
+    },
+    {
+      "company": "N/A",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Consumer Electronics",
+      "observation_date": "2026-03-03",
+      "bearish_debate_point": "Smartphone shipments are projected to decline by 12.4% YoY in 2026 due to memory shortages, with this adjustment potentially extending into 2027, and significant memory contract price hikes are expected.",
+      "exact_sentences_in_the_file": "Mobile \u2013 last week IDC was IDC warned on mobile and now we Counterpoint saying that smartphone shipment to decline 12.4% YoY in 2026 impacted by memory shortage and the adjustment could last into 2027 while memory spot and contract price gap reaching 40-50% and likely to see contract price hike to narrow the gap while Korea companies already preview Q2 DRAM contract price hike by 40% while NVDA GTC will help drive AI memory momentum."
+    },
+    {
+      "company": "Samsung Electronics",
+      "ticker": "005930",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "observation_date": "2026-03-03",
+      "bearish_debate_point": "Samsung Electronics' semiconductor mass production at its Taylor, Texas plant is now projected to be delayed until early next year, from an initial anticipation for this year.",
+      "exact_sentences_in_the_file": "SEC: Samsung Electronics' semiconductor mass production at its Taylor, Texas plant, initially anticipated for this year, is now projected to be delayed until early next year."
+    },
+    {
+      "company": "Tower",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "observation_date": "2026-03-03",
+      "bearish_debate_point": "Tower, a major Israeli semiconductor manufacturer, is facing short-term constraints on product shipment due to geopolitical conflicts.",
+      "exact_sentences_in_the_file": "SEMI: Israeli\u2019s biggest and the 10th largest semiconductor manufacturer in the world Tower is facing short-term constraints on product shipment due to geopolitical conflicts."
+    },
+    {
+      "company": "TalkTalk",
+      "ticker": "N/A",
+      "sector": "Telecommunications",
+      "industry": "Telecommunication Services",
+      "observation_date": "2026-03-03",
+      "bearish_debate_point": "TalkTalk is a heavily indebted UK broadband provider that has required multiple capital injections, faced significant financial challenges including payment delays to suppliers, and experienced a substantial decline in its retail customer base.",
+      "exact_sentences_in_the_file": "TalkTalk's shareholders and lenders, including Ares Management, will inject an additional \u00a3115 million into the company to bolster its finances. This capital injection, the third since December 2024, aims to support the heavily indebted UK broadband provider as it seeks to sell parts of its business. ... TalkTalk has faced significant financial challenges, including payment delays to suppliers and a decline in its retail customer base from over 2.5 million in 2023 to 1.8 million."
+    }
+  ],
+  "file_Id": "GS TMT SPEC SALES_ Memory profit taking; VAT Q1 guide light; MDB rolls on Q1 guide; Lotto ahead; Disruptive Tech Conference starts today.pdf"
+}

@@ -1,0 +1,149 @@
+{
+  "relationships": [
+    {
+      "source_company": "MongoDB",
+      "target_company": "Hyperscaler-native databases",
+      "ticker": "N/A",
+      "relationship_type": "Competitor",
+      "relationship_description": "persistent competition",
+      "quantifier": "persistent",
+      "original_sentence": "The principal risk to MongoDB is not AI-driven disintermediation but the persistent competition from Hyperscaler-native databases and the Postgres ecosystem."
+    },
+    {
+      "source_company": "MongoDB",
+      "target_company": "Postgres ecosystem",
+      "ticker": "N/A",
+      "relationship_type": "Competitor",
+      "relationship_description": "persistent competition",
+      "quantifier": "persistent",
+      "original_sentence": "The principal risk to MongoDB is not AI-driven disintermediation but the persistent competition from Hyperscaler-native databases and the Postgres ecosystem."
+    },
+    {
+      "source_company": "MongoDB",
+      "target_company": "Anthropic",
+      "ticker": "N/A",
+      "relationship_type": "Customer",
+      "relationship_description": "Anthropic is a customer",
+      "quantifier": "N/A",
+      "original_sentence": "We point to MongoDB\u2019s recent announcement that Anthropic is a customer to underscore this point."
+    },
+    {
+      "source_company": "MongoDB",
+      "target_company": "Voyage AI",
+      "ticker": "N/A",
+      "relationship_type": "Other",
+      "relationship_description": "acquisition of Voyage AI",
+      "quantifier": "N/A",
+      "original_sentence": "The acquisition of Voyage AI and the native integration of Vector Search and Embedding models into the Atlas platform are critical moves that reduce developer friction for building sophisticated AI applications."
+    },
+    {
+      "source_company": "MongoDB",
+      "target_company": "Oracle",
+      "ticker": "ORCL",
+      "relationship_type": "Competitor",
+      "relationship_description": "Increased competitive pressure from relational database incumbents",
+      "quantifier": "N/A",
+      "original_sentence": "Key downside risks include: 1) Increased competitive pressure from relational database incumbents, particularly from Hyperscalers like Oracle, Microsoft, AWS, and GCP"
+    },
+    {
+      "source_company": "MongoDB",
+      "target_company": "Microsoft",
+      "ticker": "MSFT",
+      "relationship_type": "Competitor",
+      "relationship_description": "Increased competitive pressure from relational database incumbents",
+      "quantifier": "N/A",
+      "original_sentence": "Key downside risks include: 1) Increased competitive pressure from relational database incumbents, particularly from Hyperscalers like Oracle, Microsoft, AWS, and GCP"
+    },
+    {
+      "source_company": "MongoDB",
+      "target_company": "AWS",
+      "ticker": "AMZN",
+      "relationship_type": "Competitor",
+      "relationship_description": "Increased competitive pressure from relational database incumbents",
+      "quantifier": "N/A",
+      "original_sentence": "Key downside risks include: 1) Increased competitive pressure from relational database incumbents, particularly from Hyperscalers like Oracle, Microsoft, AWS, and GCP"
+    },
+    {
+      "source_company": "MongoDB",
+      "target_company": "GCP",
+      "ticker": "GOOGL",
+      "relationship_type": "Competitor",
+      "relationship_description": "Increased competitive pressure from relational database incumbents",
+      "quantifier": "N/A",
+      "original_sentence": "Key downside risks include: 1) Increased competitive pressure from relational database incumbents, particularly from Hyperscalers like Oracle, Microsoft, AWS, and GCP"
+    },
+    {
+      "source_company": "Rubrik",
+      "target_company": "Commvault",
+      "ticker": "CVLT",
+      "relationship_type": "Peer",
+      "relationship_description": "weaker prints from peers",
+      "quantifier": "N/A",
+      "original_sentence": "We view the recent selling pressure as driven partly by sector-wide de-rating, but also by negative read-across due to weaker prints from peers Commvault and Varonis."
+    },
+    {
+      "source_company": "Rubrik",
+      "target_company": "Varonis",
+      "ticker": "VRNS",
+      "relationship_type": "Peer",
+      "relationship_description": "weaker prints from peers",
+      "quantifier": "N/A",
+      "original_sentence": "We view the recent selling pressure as driven partly by sector-wide de-rating, but also by negative read-across due to weaker prints from peers Commvault and Varonis."
+    },
+    {
+      "source_company": "Rubrik",
+      "target_company": "Cohesity",
+      "ticker": "N/A",
+      "relationship_type": "Competitor",
+      "relationship_description": "Heightened competition",
+      "quantifier": "N/A",
+      "original_sentence": "Key downside risks include: 1) Heightened competition from Cohesity, Commvault and Veeam, among others, limits Rubrik\u2019s ability to capture a sizable portion of the legacy Backup and Recovery market"
+    },
+    {
+      "source_company": "Rubrik",
+      "target_company": "Commvault",
+      "ticker": "CVLT",
+      "relationship_type": "Competitor",
+      "relationship_description": "Heightened competition",
+      "quantifier": "N/A",
+      "original_sentence": "Key downside risks include: 1) Heightened competition from Cohesity, Commvault and Veeam, among others, limits Rubrik\u2019s ability to capture a sizable portion of the legacy Backup and Recovery market"
+    },
+    {
+      "source_company": "Rubrik",
+      "target_company": "Veeam",
+      "ticker": "N/A",
+      "relationship_type": "Competitor",
+      "relationship_description": "Heightened competition",
+      "quantifier": "N/A",
+      "original_sentence": "Key downside risks include: 1) Heightened competition from Cohesity, Commvault and Veeam, among others, limits Rubrik\u2019s ability to capture a sizable portion of the legacy Backup and Recovery market"
+    },
+    {
+      "source_company": "Rubrik",
+      "target_company": "Veritas",
+      "ticker": "N/A",
+      "relationship_type": "Competitor",
+      "relationship_description": "Cohesity combining with Veritas\u2019 data protection business, leading to better-resourced peers",
+      "quantifier": "N/A",
+      "original_sentence": "Industry consolidation, akin to Cohesity combining with Veritas\u2019 data protection business, leading to better-resourced peers with improved distribution footprints and more competitive product offerings, impacting Rubrik\u2019s win rates"
+    },
+    {
+      "source_company": "Procore",
+      "target_company": "Autodesk",
+      "ticker": "ADSK",
+      "relationship_type": "Competitor",
+      "relationship_description": "Heightened competition from a number of vendors, including Autodesk, which remains focused on scaling its construction offering, Autodesk Construction Cloud",
+      "quantifier": "N/A",
+      "original_sentence": "Key downside risks to our thesis include: 1) Heightened competition from a number of vendors, including Autodesk, which remains focused on scaling its construction offering, Autodesk Construction Cloud"
+    },
+    {
+      "source_company": "Nutanix",
+      "target_company": "VMware",
+      "ticker": "VMW",
+      "relationship_type": "Competitor",
+      "relationship_description": "VMware displacement opportunity",
+      "quantifier": "N/A",
+      "original_sentence": "Key downside risks: 3) The VMware displacement opportunity proves to be a less significant contributor to Nutanix\u2019s growth profile over the mid-term, either due to product limitations, GTM misalignment or sales inefficiencies \u2013 impacting both sentiment and growth expectations"
+    }
+  ],
+  "file_Id": "Americas Technology_ Software_ Addressing AI Disruption Debate Across SMID Coverage .pdf"
+}

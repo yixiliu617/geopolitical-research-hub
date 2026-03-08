@@ -1,0 +1,383 @@
+{
+  "relationships": [
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Google",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "Google TPU upside drives demand for Broadcom's AI products.",
+      "quantifier": "strong demand profile",
+      "original_sentence": "Broadcom is set to report Jan quarter (F1Q26) earnings Wednesday, and we continue to see a strong demand profile for its AI products driven by Google TPU upside, AI networking strength."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Google",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "Google\u2019s TPU 3nm (Ironwood) ASIC chip drives AI revenues for Broadcom.",
+      "quantifier": "continued upside",
+      "original_sentence": "For the Jan quarter, we expect AI revenues to exceed $9B (vs. consensus of $8.1B), driven by continued upside from Google\u2019s TPU 3nm (Ironwood) ASIC chip and strong demand for networking (Tomahawk 5 and initial ramp of Tomahawk 6 switching chips)."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Meta",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "Sustained Meta MTIA/ByteDance ASIC programs contribute to Broadcom's AI revenues.",
+      "quantifier": "sustained",
+      "original_sentence": "We estimate AI revenues of $10-11B+ for the April quarter (vs. consensus of $8.96B), supported by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "ByteDance",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "Sustained Meta MTIA/ByteDance ASIC programs contribute to Broadcom's AI revenues.",
+      "quantifier": "sustained",
+      "original_sentence": "We estimate AI revenues of $10-11B+ for the April quarter (vs. consensus of $8.96B), supported by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "OpenAI",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "Early shipments to OpenAI for 1st gen ASIC XPU programs.",
+      "quantifier": "early shipments",
+      "original_sentence": "We estimate AI revenues of $10-11B+ for the April quarter (vs. consensus of $8.96B), supported by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Softbank/ARM",
+      "ticker": "ARM",
+      "relationship_type": "Customer",
+      "relationship_description": "Early shipments to Softbank/ARM for 1st gen ASIC XPU programs.",
+      "quantifier": "early shipments",
+      "original_sentence": "We estimate AI revenues of $10-11B+ for the April quarter (vs. consensus of $8.96B), supported by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "SoftBank/ARM",
+      "ticker": "ARM",
+      "relationship_type": "Customer",
+      "relationship_description": "New programs with SoftBank/ARM for 2nm/3nm ASICs.",
+      "quantifier": "new programs",
+      "original_sentence": "In total, we expect Broadcom to generate >$65B+ in AI revenues in FY26 and >$120B in FY27 as new products and programs ramp, including increased shipments of the current generation TPU 3nm Ironwood, the start of the TPU v8 (Sunfish) 3nm ramp, and new programs with SoftBank/ARM, OpenAI 2nm/3nm ASICs, and Anthropic."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "OpenAI",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "New programs with OpenAI for 2nm/3nm ASICs.",
+      "quantifier": "new programs",
+      "original_sentence": "In total, we expect Broadcom to generate >$65B+ in AI revenues in FY26 and >$120B in FY27 as new products and programs ramp, including increased shipments of the current generation TPU 3nm Ironwood, the start of the TPU v8 (Sunfish) 3nm ramp, and new programs with SoftBank/ARM, OpenAI 2nm/3nm ASICs, and Anthropic."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Anthropic",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "New programs with Anthropic.",
+      "quantifier": "new programs",
+      "original_sentence": "In total, we expect Broadcom to generate >$65B+ in AI revenues in FY26 and >$120B in FY27 as new products and programs ramp, including increased shipments of the current generation TPU 3nm Ironwood, the start of the TPU v8 (Sunfish) 3nm ramp, and new programs with SoftBank/ARM, OpenAI 2nm/3nm ASICs, and Anthropic."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Google",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "Google drives TPU units, which are powered by Broadcom's ASICs.",
+      "quantifier": "3.5M TPU units this year and 6\u20137M TPU processors in CY27",
+      "original_sentence": "As we have recently written (see note here), we believe Google is set to drive 3.5M TPU units this year and 6\u20137M TPU processors in CY27, given their increasing success at supporting external customer AI workloads."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Google",
+      "ticker": "",
+      "relationship_type": "Partner",
+      "relationship_description": "Broadcom and Google jointly power next-gen 3nm TPU ASICs for external customer AI workloads.",
+      "quantifier": "a majority of TPU shipments",
+      "original_sentence": "For FY27, we believe a majority of TPU shipments will support external customer AI workloads, all powered by Broadcom\u2019s/Google\u2019s next-gen 3nm TPU ASIC."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Meta",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "Meta's current gen programs (Athena, Iris, Arke) drive ASIC revenues for Broadcom.",
+      "quantifier": "$5\u2013$6B in ASIC revenues this year and next",
+      "original_sentence": "For Meta, we acknowledge some changes on future-gen programs (2nm Olympus, targeted for CY28 ramp) but continue to see current gen programs (Athena, Iris, Arke) driving $5\u2013$6B in ASIC revenues this year and next and the overall commitment to ASICs/Broadcom remains high at Meta."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Alibaba",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "Part of Broadcom\u2019s diverse ASIC customer base.",
+      "quantifier": "",
+      "original_sentence": "The diversity of Broadcom\u2019s ASIC customer base and programs (Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple, etc), combined with a continued tight demand/supply outlook will mitigate any slowdown in growth due to any one customer (this has always been the ASIC business model- diversification of customers/programs reduces risk)."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Baidu",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "Part of Broadcom\u2019s diverse ASIC customer base.",
+      "quantifier": "",
+      "original_sentence": "The diversity of Broadcom\u2019s ASIC customer base and programs (Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple, etc), combined with a continued tight demand/supply outlook will mitigate any slowdown in growth due to any one customer (this has always been the ASIC business model- diversification of customers/programs reduces risk)."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Sambanova",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "Part of Broadcom\u2019s diverse ASIC customer base.",
+      "quantifier": "",
+      "original_sentence": "The diversity of Broadcom\u2019s ASIC customer base and programs (Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple, etc), combined with a continued tight demand/supply outlook will mitigate any slowdown in growth due to any one customer (this has always been the ASIC business model- diversification of customers/programs reduces risk)."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "xAI",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "Part of Broadcom\u2019s diverse ASIC customer base.",
+      "quantifier": "",
+      "original_sentence": "The diversity of Broadcom\u2019s ASIC customer base and programs (Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple, etc), combined with a continued tight demand/supply outlook will mitigate any slowdown in growth due to any one customer (this has always been the ASIC business model- diversification of customers/programs reduces risk)."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Apple",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "Part of Broadcom\u2019s diverse ASIC customer base.",
+      "quantifier": "",
+      "original_sentence": "The diversity of Broadcom\u2019s ASIC customer base and programs (Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple, etc), combined with a continued tight demand/supply outlook will mitigate any slowdown in growth due to any one customer (this has always been the ASIC business model- diversification of customers/programs reduces risk)."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Anthropic",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "Anthropic is expected to drive revenue for Broadcom.",
+      "quantifier": "double-digits billions of dollars for Broadcom in CY27",
+      "original_sentence": "We anticipate Anthropic and OpenAI driving double-digits billions of dollars for Broadcom in CY27 with sustained revenues from ByteDance and Meta."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "OpenAI",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "OpenAI is expected to drive revenue for Broadcom.",
+      "quantifier": "double-digits billions of dollars for Broadcom in CY27",
+      "original_sentence": "We anticipate Anthropic and OpenAI driving double-digits billions of dollars for Broadcom in CY27 with sustained revenues from ByteDance and Meta."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "ByteDance",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "ByteDance provides sustained revenues to Broadcom.",
+      "quantifier": "sustained revenues",
+      "original_sentence": "We anticipate Anthropic and OpenAI driving double-digits billions of dollars for Broadcom in CY27 with sustained revenues from ByteDance and Meta."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Meta",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "Meta provides sustained revenues to Broadcom.",
+      "quantifier": "sustained revenues",
+      "original_sentence": "We anticipate Anthropic and OpenAI driving double-digits billions of dollars for Broadcom in CY27 with sustained revenues from ByteDance and Meta."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Google",
+      "ticker": "",
+      "relationship_type": "Customer",
+      "relationship_description": "Google TPU business is a significant portion of Broadcom's AI revenues.",
+      "quantifier": "<45% of overall AI revenues in CY27 from 50-52% in FY26 and versus 60% in FY25",
+      "original_sentence": "As a reflection of the AI customer diversification, we estimate Google TPU business will decline to <45% of overall AI revenues in CY27 from 50-52% in FY26 and versus 60% in FY25 - and that\u2019s with total AI revenues growing to >$120B in FY27."
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Advanced Micro Devices",
+      "ticker": "AMD",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Analog Devices",
+      "ticker": "ADI",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Applied Materials",
+      "ticker": "AMAT",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Arm Holdings Plc",
+      "ticker": "ARM",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Astera Labs Inc",
+      "ticker": "ALAB",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Cadence Design Systems",
+      "ticker": "CDNS",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "GlobalFoundries",
+      "ticker": "GFS",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Intel",
+      "ticker": "INTC",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "KLA Corporation",
+      "ticker": "KLAC",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Lam Research",
+      "ticker": "LRCX",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Microchip Technology",
+      "ticker": "MCHP",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Micron Technology",
+      "ticker": "MU",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "NXP Semiconductors",
+      "ticker": "NXPI",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "ON Semiconductor Corporation",
+      "ticker": "ON",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Sandisk",
+      "ticker": "SNDK",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Synopsys Inc",
+      "ticker": "SNPS",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Texas Instruments",
+      "ticker": "TXN",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    },
+    {
+      "source_company": "Broadcom Inc",
+      "target_company": "Western Digital",
+      "ticker": "WDC",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered by the same analyst in the semiconductor sector.",
+      "quantifier": "",
+      "original_sentence": "Coverage Universe: Sur, Harlan : Advanced Micro Devices (AMD), Analog Devices (ADI), Applied Materials (AMAT), Arm Holdings Plc (ARM), Astera Labs Inc (ALAB), Broadcom Inc (AVGO), Cadence Design Systems (CDNS), GlobalFoundries (GFS), Intel (INTC), KLA Corporation (KLAC), Lam Research (LRCX), Marvell Technology Inc (MRVL), Microchip Technology (MCHP), Micron Technology (MU), NVIDIA Corporation (NVDA), NXP Semiconductors (NXPI), ON Semiconductor Corporation (ON), Sandisk (SNDK), Synopsys Inc (SNPS), Texas Instruments (TXN), Western Digital (WDC)"
+    }
+  ],
+  "file_Id": "JPM_Broadcom_Inc_F1Q26_P_2026-03-02_5221106.pdf"
+}

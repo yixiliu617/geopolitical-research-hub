@@ -1,0 +1,68 @@
+{
+  "central_thesis": "Advanced Micro Devices (AMD) is strongly positioned for significant long-term growth in the AI infrastructure and server CPU markets, driven by major customer agreements, a compelling and customizable product portfolio, and strategic advantages over competitors.",
+  "sub_claims": [
+    {
+      "claim": "AMD is securing major, multi-year customer agreements for its AI GPUs, validating its market traction and setting the stage for substantial revenue growth.",
+      "evidence_list": [
+        {
+          "evidence_type": "Fact/Data",
+          "content": "AMD and META announced a multi-year, multi-generation agreement to deploy 6GW of AMD GPUs... with initial capacity roll-outs scheduled for 2H26.",
+          "is_objective": true,
+          "credibility_assessment": "High, reported as a direct announcement by J.P. Morgan."
+        },
+        {
+          "evidence_type": "Fact/Data",
+          "content": "Similar to the compute capacity agreement struck with OpenAI in October 2025, AMD\u2019s agreement with META includes the issuance of warrants for up to 160MM AMD shares that will vest over time, based on META scaling Instinct GPU deployments to 6GW, as well as key technical and commercial milestones.",
+          "is_objective": true,
+          "credibility_assessment": "High, reported as a direct announcement by J.P. Morgan."
+        },
+        {
+          "evidence_type": "Analyst Estimation/Projection",
+          "content": "the OAI and META deals alone already set the stage for AMD to potentially grow DC GPU revenue well in excess of current expectations for CY27 and beyond, without even layering in much incremental revenue from other already-disclosed customers such as ORCL (which commences MI450 deployments in 3Q26).",
+          "is_objective": false,
+          "credibility_assessment": "Medium-High, based on J.P. Morgan's internal estimation, providing a forward-looking projection."
+        },
+        {
+          "evidence_type": "Analyst Estimation/Projection",
+          "content": "we estimate that the 6GW of planned AMD GPU deployments for META will drive revenue of ~$23-25B/yr on a run-rate basis for the period 2027-2030 (~$90-100B in aggregate over a 4-yr roll-out).",
+          "is_objective": false,
+          "credibility_assessment": "Medium-High, based on J.P. Morgan's internal estimation, providing specific financial projections."
+        }
+      ]
+    },
+    {
+      "claim": "AMD's AI hardware/software stack is a compelling and strategically important option, positioning the company to capture significant market share in the rapidly expanding AI infrastructure market.",
+      "evidence_list": [
+        {
+          "evidence_type": "Management Messaging/Analyst Opinion",
+          "content": "The confirmation of an additional multi-GW agreement aligns with management\u2019s messaging over the past couple of quarters that AMD is in the \u201cdeep design phase\u201d with multiple customers for multi-GW scale engagements, raising confidence in the likelihood of additional agreements of a similar scale being struck with other major customers (hyperscalers, AI labs).",
+          "is_objective": false,
+          "credibility_assessment": "Medium-High, management's consistent message is validated by a major deal, increasing analyst confidence in future prospects."
+        },
+        {
+          "evidence_type": "Analyst Opinion/Strategic Assessment",
+          "content": "the engagement is still solidly accretive to earnings and, perhaps more importantly, further entrenches AMD as a growing force within the AI infrastructure landscape, sending a strong signal to other potential customers that the AMD hardware/software stack is a compelling option for AI compute in a capacity-constrained world, and positioning the company to capture additional share within a TAM that the company has pegged at >$1T by 2030.",
+          "is_objective": false,
+          "credibility_assessment": "Medium-High, J.P. Morgan's strategic assessment of the deal's impact and AMD's market positioning. The TAM figure is a company-pegged estimate."
+        }
+      ]
+    },
+    {
+      "claim": "AMD possesses key competitive differentiators, including platform customizability and a strong CPU product roadmap, enabling it to expand its footprint in both AI and server CPU markets.",
+      "evidence_list": [
+        {
+          "evidence_type": "Analyst Opinion/Product Feature",
+          "content": "Customizability of existing platforms is a key competitive differentiator for AMD... the ability for customers to leverage AMD\u2019s chiplet architecture for semi-custom designs... is a key competitive differentiator for AMD that requires only minimal incremental investment/opex (driving operating leverage).",
+          "is_objective": false,
+          "credibility_assessment": "Medium-High, J.P. Morgan's assessment of a product feature's competitive advantage, with factual basis in chiplet architecture."
+        },
+        {
+          "evidence_type": "Management Messaging/Product Roadmap",
+          "content": "AMD is poised to expand its server CPU footprint at META with this agreement (mgmt called out META as a lead customer for its 6th-gen \u201cVenice\u201d CPUs launching later this year), and more broadly, is positioned to continue to capture share of the broader server CPU market relative to INTC over the next few quarters, given its stronger product portfolio/roadmap and, in the near-term, a less challenging wafer supply backdrop (vs. INTC).",
+          "is_objective": false,
+          "credibility_assessment": "Medium-High, based on management's statements and J.P. Morgan's competitive analysis regarding product strength and supply chain."
+        }
+      ]
+    }
+  ]
+}

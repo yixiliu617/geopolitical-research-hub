@@ -1,0 +1,109 @@
+{
+  "catalysts": [
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "catalyst_type": "Earnings Report",
+      "catalyst_topic": "F1Q26 Earnings, AI Product Demand, VMware Synergy",
+      "catalyst_details": "Broadcom is expected to report F1Q26 (Jan quarter) revenue, earnings, and free cash flow exceeding consensus. This is driven by strong AI product demand, specifically Google TPU 3nm (Ironwood) ASIC and AI networking (Tomahawk 5 and initial Tomahawk 6 ramp), and continued revenue synergy from VMware. AI revenues are projected to exceed $9B (vs consensus $8.1B).",
+      "status": "Completed",
+      "observation_date": "2026-03-01",
+      "catalyst_dates": "2026-01-01",
+      "exact_sentences_in_the_file": "Broadcom is set to report Jan quarter (F1Q26) earnings Wednesday, and we continue to see a strong demand profile for its AI products driven by Google TPU upside, AI networking strength. The non-AI semiconductor business (enterprise, server/storage, broadband) should continue to gradually improve, and we anticipate continued revenue synergy unlock from VMware. As a result, we expect January quarter revenue, earnings, and free cash flow to exceed our and consensus expectations. For the Jan quarter, we expect AI revenues to exceed $9B (vs. consensus of $8.1B), driven by continued upside from Google\u2019s TPU 3nm (Ironwood) ASIC chip and strong demand for networking (Tomahawk 5 and initial ramp of Tomahawk 6 switching chips). Expect better Jan-Qtr results (revenues/EPS) on strong TPU upside and strong networking. We believe total orders/revenues in the Jan-Qtr were strong on continued strong demand in AI networking and custom ASICs combined with gradually improving demand trends in telecom, server/storage, broadband. We believe that Jan quarter revenue/earnings/FCF were better than our/consensus expectations on AI strength, driven by upside demand strength in TPUv6 3nm TPU (Ironwood) and continued solid software renewals in its VMware business. Overall, we expect $20B+ in revenues for Jan-Qtr and AI revenues of $9.0B+ (versus consensus of $8.1B)."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "catalyst_type": "Guidance",
+      "catalyst_topic": "F2Q26 Revenue Guidance, AI Demand",
+      "catalyst_details": "Broadcom is expected to provide April quarter (F2Q26) revenue guidance of $21-22B, which is ahead of consensus expectations of $20.5B. This is attributed to continued AI demand strength, including robust AI networking, ongoing ramp of TPU 3nm Ironwood, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs, with AI revenues estimated at $10-11B+ (vs consensus $8.96B).",
+      "status": "Upcoming",
+      "observation_date": "2026-03-01",
+      "catalyst_dates": "2026-04-01",
+      "exact_sentences_in_the_file": "Building off a higher January quarter revenue base, we see April quarter revenue guidance of $21-22B, ahead of consensus expectations of $20.5B, on continued AI demand strength. We estimate AI revenues of $10-11B+ for the April quarter (vs. consensus of $8.96B), supported by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs. Expect Apr-Qtr guide to be better vs expectations on continued AI strength (custom ASICs and networking)... $21-22B+ in total revenues\u2026 $10-$11B in AI revenues on strong 3nm TPU ASIC demand, strong networking, initial revenues from 1st gen ASIC programs from OpenAI and Softbank/ARM and run-rate business with ByteDance/Meta. Off of a higher Jan-rev Qtr base, we see Apr-Qtr revenue guidance better than consensus. We expect $21-22B+ in revenues for the Apr-Qtr and the team to drive $10-11B+ in its AI business (vs consensus of $8.96B) combined with gradual improvements in its non-AI semi businesses. Strength in AI is led by robust demand in AI networking, the ongoing ramp of the TPU 3nm Ironwood program, sustained Meta MTIA/ByteDance ASIC programs, and early shipments to OpenAI and Softbank/ARM 1st gen ASIC XPU programs."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "catalyst_type": "Product Launch/Revenue Growth",
+      "catalyst_topic": "AI Revenue, TPU 3nm Ironwood, TPU v8 Sunfish, New ASIC Programs (SoftBank/ARM, OpenAI, Anthropic)",
+      "catalyst_details": "Broadcom is projected to generate over $65B in AI revenues in FY26 and over $120B in FY27. This growth is driven by increased shipments of the current generation TPU 3nm Ironwood, the ramp of the next-gen TPU v8 (Sunfish) 3nm starting mid-CY26, and new programs with SoftBank/ARM, OpenAI 2nm/3nm ASICs, and Anthropic. Google is expected to drive 3.5M TPU units in CY26 and 6-7M TPU processors in CY27.",
+      "status": "Projected",
+      "observation_date": "2026-03-01",
+      "catalyst_dates": "FY26, FY27, 2026-07-01, 2027-12-31",
+      "exact_sentences_in_the_file": "In total, we expect Broadcom to generate >$65B+ in AI revenues in FY26 and >$120B in FY27 as new products and programs ramp, including increased shipments of the current generation TPU 3nm Ironwood, the start of the TPU v8 (Sunfish) 3nm ramp, and new programs with SoftBank/ARM, OpenAI 2nm/3nm ASICs, and Anthropic. As we have recently written (see note here), we believe Google is set to drive 3.5M TPU units this year and 6\u20137M TPU processors in CY27, given their increasing success at supporting external customer AI workloads. Strong AI growth outlook driven by lead customer\u2019s next-gen XPU program ramp, ramp of new customer XPU programs and continued strong networking demand \u2013 we expect >$65B in FY26 and $120B+ in FY27\u2026. We expect the team to drive ~$65B+ in AI (ASIC+networking) revenues this year, led by its lead TPU customer, 1st gen ramp by OpenAI and Softbank/ARM XPU ASIC programs, combined with incremental revenue contributions from its other AI ASIC customers (e.g., Meta/Bytedance) combined with continued strong AI networking revenues. For CY27, we believe a majority of TPU shipments (Ironwood and Sunfish) will support external customer AI workloads, all powered by Broadcom\u2019s/Google\u2019s next-gen 3nm TPU ASICs. We anticipate Anthropic and OpenAI driving double-digits billions of dollars for Broadcom in CY27 with sustained revenues from ByteDance and Meta."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "catalyst_type": "Market Trend",
+      "catalyst_topic": "Non-AI Semiconductor Business",
+      "catalyst_details": "Broadcom's non-AI semiconductor business, including enterprise, server/storage, and broadband, is expected to continue its gradual improvement in FY26 due to improving cyclical trends.",
+      "status": "Ongoing/Projected",
+      "observation_date": "2026-03-01",
+      "catalyst_dates": "FY26",
+      "exact_sentences_in_the_file": "The non-AI semiconductor business (enterprise, server/storage, broadband) should continue to gradually improve, and we anticipate continued revenue synergy unlock from VMware. The non-AI semi business should continue to gradually improve in FY26 on improving cyclical trends in broadband/storage/enterprise."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "catalyst_type": "Business Integration",
+      "catalyst_topic": "VMware Performance",
+      "catalyst_details": "Broadcom anticipates continued revenue synergy unlock from its VMware acquisition, with strong momentum in the VMware business driven by robust software renewals and successful conversion/upsell to its VCF full stack solution, leading to higher average selling prices (ASPs).",
+      "status": "Ongoing",
+      "observation_date": "2026-03-01",
+      "catalyst_dates": "N/A",
+      "exact_sentences_in_the_file": "and we anticipate continued revenue synergy unlock from VMware. In the software infrastructure business, we continue to see strong momentum in its VMware business on strong software renewals (with conversion/upsell to its VCF full stack solution with higher ASPs) with its large corporate customers."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "catalyst_type": "Demand/Supply Imbalance",
+      "catalyst_topic": "TPU Supply Chain",
+      "catalyst_details": "Broadcom is experiencing higher TPU demand in FY26 and FY27 than its current supply chain capabilities can meet, leading to continued upside to existing backlog. The company's team is actively working to unlock more supply over the next few months.",
+      "status": "Ongoing",
+      "observation_date": "2026-03-01",
+      "catalyst_dates": "FY26, FY27, 2026-03-01 to 2026-06-01",
+      "exact_sentences_in_the_file": "We believe Broadcom is seeing even higher TPU demand (FY26 and FY27) than its supply chain capabilities (continued upside to existing backlog), and the team is working to unlock more supply over the next few months."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "catalyst_type": "Customer Program Changes",
+      "catalyst_topic": "Meta ASIC Roadmaps (Olympus, Athena, Iris, Arke)",
+      "catalyst_details": "Meta is slowing down its future-generation 2nm Olympus ASIC roadmap, which was targeted for a CY28 ramp. However, current generation programs (Athena, Iris, Arke) are expected to continue driving $5-6B in ASIC revenues in CY26 and CY27, indicating Meta's overall commitment to ASICs and Broadcom remains high.",
+      "status": "Ongoing/Projected",
+      "observation_date": "2026-03-01",
+      "catalyst_dates": "CY26, CY27, 2028-12-31",
+      "exact_sentences_in_the_file": "For Meta, we acknowledge some changes on future-gen programs (2nm Olympus, targeted for CY28 ramp) but continue to see current gen programs (Athena, Iris, Arke) driving $5\u2013$6B in ASIC revenues this year and next and the overall commitment to ASICs/Broadcom remains high at Meta. Meta is slowing down its future gen XPU ASIC roadmaps mid-term, but Broadcom\u2019s other ASIC customers are accelerating their roadmaps - AI XPU customer diversity will help to mitigate a slowdown by any one customer\u2026"
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "catalyst_type": "Business Strategy",
+      "catalyst_topic": "AI Customer Base Diversification",
+      "catalyst_details": "Broadcom's diverse ASIC customer base (including Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple) and programs, combined with a tight demand/supply outlook, are expected to mitigate any slowdown in growth from a single customer. As a result of this diversification, Google TPU business is estimated to decline to less than 45% of overall AI revenues in CY27, down from 50-52% in FY26 and 60% in FY25, even as total AI revenues grow to over $120B in FY27.",
+      "status": "Ongoing/Projected",
+      "observation_date": "2026-03-01",
+      "catalyst_dates": "FY25, FY26, CY27",
+      "exact_sentences_in_the_file": "The diversity of Broadcom\u2019s ASIC customer base and programs (Google, OpenAI, Anthropic, Softbank/ARM, Meta, ByteDance, Alibaba, Baidu, Sambanova, xAI, Apple, etc), combined with a continued tight demand/supply outlook will mitigate any slowdown in growth due to any one customer (this has always been the ASIC business model- diversification of customers/programs reduces risk). As a reflection of the AI customer diversification, we estimate Google TPU business will decline to <45% of overall AI revenues in CY27 from 50-52% in FY26 and versus 60% in FY25 - and that\u2019s with total AI revenues growing to >$120B in FY27."
+    }
+  ],
+  "file_Id": "JPM_Broadcom_Inc_F1Q26_P_2026-03-02_5221106.pdf"
+}

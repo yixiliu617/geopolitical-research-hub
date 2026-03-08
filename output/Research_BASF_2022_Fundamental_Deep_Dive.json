@@ -1,0 +1,41 @@
+{
+  "research_metadata": {
+    "topic": "BASF (BAS.DE) 2022 Fundamental Analysis",
+    "date_performed": "2026-03-07",
+    "source": "Google AI Search Synthesis"
+  },
+  "findings": [
+    {
+      "category": "Financials",
+      "metric": "Stock Performance",
+      "impact": "Negative",
+      "details": "-25% decline in 2022, underperforming the DAX 40.",
+      "key_drivers": ["Natural gas supply risk", "European de-rating"],
+      "context": "Shares collapsed from €68.69 in Feb to €46.39 by year-end due to gas cutoff fears."
+    },
+    {
+      "category": "Financials",
+      "metric": "Operating Margin",
+      "impact": "Negative",
+      "details": "EBIT fell by €890m despite 11% revenue growth.",
+      "key_drivers": ["Energy cost spike", "Margin squeeze", "Feedstock costs"],
+      "context": "Global energy costs increased by €3.2bn, with natural gas alone driving 69% of the spike."
+    },
+    {
+      "category": "Strategy",
+      "metric": "Pricing Power",
+      "impact": "Positive",
+      "details": "Revenue rose to €87.3bn through aggressive price hikes.",
+      "key_drivers": ["Cost-pass-through", "Market leadership"],
+      "context": "BASF successfully implemented double-digit price increases to offset raw material inflation."
+    },
+    {
+      "category": "Asset Value",
+      "metric": "Net Income",
+      "impact": "Highly Negative",
+      "details": "Reported a net loss due to €6.3bn non-cash impairment.",
+      "key_drivers": ["Wintershall Dea write-off", "Russia exit"],
+      "context": "The deconsolidation of Russian upstream assets forced a total write-off of their JV stakes."
+    }
+  ]
+}

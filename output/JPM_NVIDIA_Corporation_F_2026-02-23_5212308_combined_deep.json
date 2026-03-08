@@ -1,0 +1,981 @@
+{
+  "catalyst_analysis": {
+    "catalysts": [
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "catalyst_type": "Earnings Report",
+        "catalyst_topic": "F4Q26 (Jan-Qtr) Results and Guidance",
+        "catalyst_details": "Expectation for NVIDIA to deliver a beat-and-raise on F4Q26 results and guidance, driving upward estimate revisions.",
+        "status": "Upcoming",
+        "observation_date": "2026-02-23",
+        "catalyst_dates": "F4Q26 (Jan-Qtr)",
+        "exact_sentences_in_the_file": "We are clearly in an environment of elevated expectations heading into NVDA\u2019s F4Q26 (Jan-Qtr) print, considering the stock has basically moved sideways since the F3Q26 print despite a slew of positive/favorable developments (incl. announcements of sharply higher hyperscaler capex budgets for CY26 and NVDA\u2019s recently announced partnership with META for large-scale Blackwell/Rubin GPU/CPU/networking deployments). That said, we see little to suggest that NVDA will not (once again) deliver a beat-and-raise on results/guidance that should, at a minimum, drive another round of upward estimate revisions (in a similar vein to what has unfolded in recent quarters)."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "catalyst_type": "Product Ramp/Supply Chain Progress",
+        "catalyst_topic": "Blackwell Ultra Rack Volumes",
+        "catalyst_details": "Continued strong progress on ramping Blackwell Ultra rack volumes, with aggregate Blackwell/Blackwell Ultra rack units for Jan-Qtr in the range of ~12k (up from ~10k in the prior qtr), taking total FY26 rack shipments to ~27k. This is expected to support upside to Street consensus for Jan-Qtr.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-23",
+        "catalyst_dates": "Jan-Qtr (F4Q26), FY26",
+        "exact_sentences_in_the_file": "Separately, our supply chain checks indicate continued strong progress on ramping Blackwell Ultra rack volumes, with aggregate Blackwell/Blackwell Ultra rack units for Jan-Qtr in the range of ~12k (up from ~10k in the prior qtr), taking total FY26 rack shipments to ~27k. We expect unit growth coupled with an uplift in blended ASP (as mix shifts more towards GB300 racks which carry 20-30% higher ASP vs GB200) and a sustained tail of Hopper demand to support upside to Street consensus of $65.6B for Jan-Qtr."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "catalyst_type": "Market Demand/Spending",
+        "catalyst_topic": "Hyperscaler Capex and Datacenter Segment Growth",
+        "catalyst_details": "Announcements of sharply higher hyperscaler capex budgets for CY26 and visibility on continued strong datacenter spending growth in CY27. Demand continues to far outstrip supply for AI compute.",
+        "status": "Ongoing/Future",
+        "observation_date": "2026-02-23",
+        "catalyst_dates": "CY26, CY27",
+        "exact_sentences_in_the_file": "We are clearly in an environment of elevated expectations heading into NVDA\u2019s F4Q26 (Jan-Qtr) print, considering the stock has basically moved sideways since the F3Q26 print despite a slew of positive/favorable developments (incl. announcements of sharply higher hyperscaler capex budgets for CY26 and NVDA\u2019s recently announced partnership with META for large-scale Blackwell/Rubin GPU/CPU/networking deployments). There is little question that demand continues to far outstrip supply (US cloud providers continue to emphasize being growth-constrained amid limited availability of AI compute), and in fact, recent increases in spot pricing of cloud instances for non-leading-edge GPUs at certain CSPs suggests the supply-demand gap is widening even further (see Figure 3G P U c l o u d i n s t a n c e p r i c i n g ( $ / G P U p e r h o u r ) )."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "catalyst_type": "Partnership/Customer Engagement",
+        "catalyst_topic": "Large-scale GPU/CPU/Networking Deployments",
+        "catalyst_details": "NVIDIA's recently announced partnership with META for large-scale Blackwell/Rubin GPU/CPU/networking deployments.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-23",
+        "catalyst_dates": "Prior to 2026-02-23",
+        "exact_sentences_in_the_file": "We are clearly in an environment of elevated expectations heading into NVDA\u2019s F4Q26 (Jan-Qtr) print, considering the stock has basically moved sideways since the F3Q26 print despite a slew of positive/favorable developments (incl. announcements of sharply higher hyperscaler capex budgets for CY26 and NVDA\u2019s recently announced partnership with META for large-scale Blackwell/Rubin GPU/CPU/networking deployments)."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "catalyst_type": "Regulatory Change/Policy Change",
+        "catalyst_topic": "H200 Exports to China/Macau",
+        "catalyst_details": "A recent policy change by the US Department of Commerce shifts H200 exports to China/Macau from a \u201cpresumption of denial\u201d to \u201ccase-by-case review,\u201d potentially driving ~$3B of incremental revenue per 100k units shipped. Exports/sales still appear to be in limbo despite strong appetite from China customers.",
+        "status": "Potential Upside (in limbo)",
+        "observation_date": "2026-02-23",
+        "catalyst_dates": "Prior to 2026-02-23",
+        "exact_sentences_in_the_file": "H200 shipments to China may still prove to be an upside lever (driving ~$3B of incremental revenue per 100k units shipped) following a recent policy change by the US Department of Commerce that shifts H200 exports to China/Macau from a \u201cpresumption of denial\u201d to \u201ccase-by-case review\u201d(link), though exports/sales still appear to be in limbo (despite strong appetite from China customers)."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "catalyst_type": "Demand/Order Book",
+        "catalyst_topic": "Backlog Growth and Customer Engagements",
+        "catalyst_details": "Management inferred upside to the $500B+ CY26 backlog initially unveiled last October at GTC. Additional clarity/quantification of this upside would be helpful, as the original backlog implies at least 10% upside to current Street estimates for FY27. GPU orders are being booked well into CY27.",
+        "status": "Ongoing/Potential Upside",
+        "observation_date": "2026-02-23",
+        "catalyst_dates": "CY26, FY27, October (GTC)",
+        "exact_sentences_in_the_file": "During our CES fireside chat last month (see our key takeaways here), management did infer that there has been upside to the $500B+ CY26 backlog initially unveiled last October at GTC in DC \u2013 additional clarity/quantification of this upside would be helpful, in our view, though even the original $500B+ backlog does imply upside to current Street estimates for FY27 (we estimate at least 10% upside). We believe the team is booking GPU orders well into CY27 and backlog reflects further CSP/hyperscale capex growth in CY27."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "catalyst_type": "Cost/Profitability",
+        "catalyst_topic": "Gross Margin Pressure from Rising Input Costs",
+        "catalyst_details": "Confidence on the sustainability of gross margins at mid-70% into the back half of the year remains an open question due to possible pressure from component cost inflation, particularly memory.",
+        "status": "Risk/Uncertainty",
+        "observation_date": "2026-02-23",
+        "catalyst_dates": "Back half of 2026",
+        "exact_sentences_in_the_file": "On margins, we expect management to affirm a near-term mid-70% expectation (which we think is within reach), though confidence on the sustainability of GM at that level into the back half of the year remains an open question, given the upcoming Rubin ramp (likely to initially be margin dilutive) and possible pressure from component cost inflation (particularly memory)."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "catalyst_type": "Competitive Threat",
+        "catalyst_topic": "Share Loss to AI ASICs/XPUs in Inference Workloads",
+        "catalyst_details": "Perception of share loss relative to AI ASICs/XPUs as the aggregate mix of AI workloads shifts more towards inference (where custom silicon can be beneficial) and away from training. Management is expected to emphasize gen-on-gen gains in inference performance and potentially disclose pipeline products leveraging Groq IP.",
+        "status": "Risk/Ongoing",
+        "observation_date": "2026-02-23",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "A broader, more overarching theme that we think has weighed on the stock is the perception of share loss relative to AI ASICs/XPUs, as the aggregate mix of AI workloads rapidly shifts more towards inference (where specialized/custom silicon can be especially beneficial) and away from training (where NVDA is the undisputed leader). On this front, we expect management to emphasize significant gen-on-gen gains in inference performance (as demonstrated by recent third-party benchmarking), and at least lift the veil slightly on products currently in the pipeline that leverage Groq IP for specialized, low-latency inference at scale (though we do concede that any meaningful disclosure on plans for Groq will likely be saved for GTC)."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "catalyst_type": "Product Launch/Ramp",
+        "catalyst_topic": "Rubin GPU Ramp",
+        "catalyst_details": "The upcoming Rubin ramp is likely to be initially margin dilutive, posing a risk to gross margin sustainability in the back half of the year.",
+        "status": "Upcoming (Risk)",
+        "observation_date": "2026-02-23",
+        "catalyst_dates": "Back half of 2026",
+        "exact_sentences_in_the_file": "On margins, we expect management to affirm a near-term mid-70% expectation (which we think is within reach), though confidence on the sustainability of GM at that level into the back half of the year remains an open question, given the upcoming Rubin ramp (likely to initially be margin dilutive) and possible pressure from component cost inflation (particularly memory)."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "catalyst_type": "Market Demand",
+        "catalyst_topic": "PC Gaming Segment Revenue",
+        "catalyst_details": "Solid demand in PC gaming is expected to be a strong revenue driver, offsetting PC OEM decline. However, any macro uncertainty could weigh on PC gaming demand trends, posing downside risk given NVDA\u2019s ~53% exposure.",
+        "status": "Ongoing (Potential Upside/Risk)",
+        "observation_date": "2026-02-23",
+        "catalyst_dates": "1H (seasonally weaker), Ongoing",
+        "exact_sentences_in_the_file": "While 1H is typically seasonally weaker than 2H, we expect solid demand in PC gaming to be a strong revenue driver for the company, offsetting PC OEM, which is in secular decline. Although PC gaming demand seems resilient to macroeconomic weakness, any macro uncertainty could weigh on PC gaming demand trends. Given NVDA\u2019s ~53% exposure to the PC gaming segment, any consumer PC gaming weakness poses downside risk to our estimates."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "catalyst_type": "Market Adoption/Competition",
+        "catalyst_topic": "GPU Deployment in Data Center Applications",
+        "catalyst_details": "Expect strong growth in the data center segment as hyperscale customers continue to embrace GPU-accelerated deep learning. However, lower than expected deployment or increased competition could result in downside risk.",
+        "status": "Ongoing (Potential Upside/Risk)",
+        "observation_date": "2026-02-23",
+        "catalyst_dates": "Ongoing",
+        "exact_sentences_in_the_file": "We expect the data center segment to grow strongly as hyperscale customers continue to embrace GPU-accelerated deep learning for processing large data sets. NVIDIA\u2019s GPUs could gain lower than expected deployment into data center applications as hyperscale customers further adopt deep learning as a new and effective way of processing large unstructured data sets. Any significant decrease in the adoption of deep learning by hyperscale customers or increase in competition could result in downside risk to our revenue and earnings estimates."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "catalyst_type": "Market Growth",
+        "catalyst_topic": "Automotive and Enterprise Segment Performance",
+        "catalyst_details": "Strength in the automotive and enterprise segments is encouraging, although strong adoption of autonomous driving in the market remains to be seen.",
+        "status": "Ongoing (Potential Upside)",
+        "observation_date": "2026-02-23",
+        "catalyst_dates": "Ongoing",
+        "exact_sentences_in_the_file": "We are encouraged by strength in the automotive and enterprise segments as well, although strong adoption of autonomous driving in the market remains to be seen."
+      }
+    ],
+    "file_Id": "JPM_NVIDIA_Corporation_F_2026-02-23_5212308.pdf"
+  },
+  "bullish_deep_analysis": {
+    "bullish_views": [
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bullish_debate_point": "NVIDIA is poised for another beat-and-raise on strong execution of Blackwell Ultra Ramp.",
+        "exact_sentences_in_the_file": "F4Q26 (Jan-Qtr) Preview: Poised for Another Beat-and-Raise on Strong Execution of Blackwell Ultra Ramp;"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bullish_debate_point": "There is visibility on continued strong datacenter spending growth in CY27.",
+        "exact_sentences_in_the_file": "Visibility on Continued Strong Datacenter Spending Growth in CY27; Reit. OW"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bullish_debate_point": "NVIDIA is expected to deliver a beat-and-raise on results/guidance for F4Q26, driving upward estimate revisions.",
+        "exact_sentences_in_the_file": "That said, we see little to suggest that NVDA will not (once again) deliver a beat-and-raise on results/guidance that should, at a minimum, drive another round of upward estimate revisions (in a similar vein to what has unfolded in recent quarters)."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bullish_debate_point": "Demand for AI compute continues to far outstrip supply, with the supply-demand gap widening.",
+        "exact_sentences_in_the_file": "There is little question that demand continues to far outstrip supply (US cloud providers continue to emphasize being growth-constrained amid limited availability of AI compute), and in fact, recent increases in spot pricing of cloud instances for non-leading-edge GPUs at certain CSPs suggests the supply-demand gap is widening even further (see Figure 3G P U c l o u d i n s t a n c e p r i c i n g ($ / G P U p e r h o u r ) )."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bullish_debate_point": "Supply chain checks indicate continued strong progress on ramping Blackwell Ultra rack volumes.",
+        "exact_sentences_in_the_file": "Separately, our supply chain checks indicate continued strong progress on ramping Blackwell Ultra rack volumes, with aggregate Blackwell/Blackwell Ultra rack units for Jan-Qtr in the range of ~12k (up from ~10k in the prior qtr), taking total FY26 rack shipments to ~27k."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bullish_debate_point": "Unit growth, uplift in blended ASP due to mix shift towards GB300 racks, and sustained Hopper demand will support upside to Street consensus for Jan-Qtr.",
+        "exact_sentences_in_the_file": "We expect unit growth coupled with an uplift in blended ASP (as mix shifts more towards GB300 racks which carry 20-30% higher ASP vs GB200) and a sustained tail of Hopper demand to support upside to Street consensus of $65.6B for Jan-Qtr."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bullish_debate_point": "Rack shipment volumes and blended ASP improvements are expected to comfortably support strong guidance for F1Q27.",
+        "exact_sentences_in_the_file": "We anticipate a similar dynamic for F1Q27 (Apr-Qtr), with rack shipment volumes growing an estimated ~10% Q/Q, and revenue growth amplified by further improvements in blended ASP, which in aggregate we think will comfortably support guidance in the range of $74-75B (vs. Street $72.3B)."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bullish_debate_point": "H200 shipments to China may provide an upside lever for incremental revenue due to a policy change.",
+        "exact_sentences_in_the_file": "H200 shipments to China may still prove to be an upside lever (driving ~$3B of incremental revenue per 100k units shipped) following a recent policy change by the US Department of Commerce that shifts H200 exports to China/Macau from a \u201cpresumption of denial\u201d to \u201ccase-by-case review\u201d(link), though exports/sales still appear to be in limbo (despite strong appetite from China customers)."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bullish_debate_point": "Management inferred upside to the $500B+ CY26 backlog, implying at least 10% upside to current FY27 Street estimates.",
+        "exact_sentences_in_the_file": "During our CES fireside chat last month (see our key takeaways here), management did infer that there has been upside to the $500B+ CY26 backlog initially unveiled last October at GTC in DC \u2013 additional clarity/quantification of this upside would be helpful, in our view, though even the original $500B+ backlog does imply upside to current Street estimates for FY27 (we estimate at least 10% upside)."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bullish_debate_point": "The company is booking GPU orders well into CY27, and backlog reflects further CSP/hyperscale capex growth in CY27.",
+        "exact_sentences_in_the_file": "We believe the team is booking GPU orders well into CY27 and backlog reflects further CSP/hyperscale capex growth in CY27."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bullish_debate_point": "Management is expected to affirm a near-term mid-70% gross margin expectation.",
+        "exact_sentences_in_the_file": "On margins, we expect management to affirm a near-term mid-70% expectation (which we think is within reach), though confidence on the sustainability of GM at that level into the back half of the year remains an open question, given the upcoming Rubin ramp (likely to initially be margin dilutive) and possible pressure from component cost inflation."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bullish_debate_point": "Management is expected to emphasize significant gen-on-gen gains in inference performance, addressing competitive threats.",
+        "exact_sentences_in_the_file": "On this front, we expect management to emphasize significant gen-on-gen gains in inference performance (as demonstrated by recent third-party benchmarking), and at least lift the veil slightly on products currently in the pipeline that leverage Groq IP for specialized, low-latency inference at scale (though we do concede that any meaningful disclosure on plans for Groq will likely be saved for GTC)."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bullish_debate_point": "Solid demand in PC gaming is a strong revenue driver, offsetting PC OEM decline.",
+        "exact_sentences_in_the_file": "While 1H is typically seasonally weaker than 2H, we expect solid demand in PC gaming to be a strong revenue driver for the company, offsetting PC OEM, which is in secular decline."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bullish_debate_point": "The data center segment is expected to grow strongly as hyperscale customers embrace GPU-accelerated deep learning.",
+        "exact_sentences_in_the_file": "We expect the data center segment to grow strongly as hyperscale customers continue to embrace GPU-accelerated deep learning for processing large data sets."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bullish_debate_point": "There is strength in the automotive and enterprise segments.",
+        "exact_sentences_in_the_file": "We are encouraged by strength in the automotive and enterprise segments as well, although strong adoption of autonomous driving in the market remains to be seen."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bullish_debate_point": "NVIDIA is expected to have significant upside in shares, leading to an Overweight rating and a price target of $250.00.",
+        "exact_sentences_in_the_file": "We anticipate significant upside in shares, driving our Overweight rating."
+      }
+    ],
+    "thesis_analysis": {
+      "central_thesis": "NVIDIA is poised for continued strong financial performance and market leadership, driven by overwhelming demand for its AI datacenter GPUs, successful execution of new product ramps, and robust backlog, leading to sustained revenue growth and significant upside in its stock price.",
+      "sub_claims": [
+        {
+          "claim": "NVIDIA will continue to deliver strong financial results, exceeding market expectations and driving upward estimate revisions.",
+          "evidence_list": [
+            {
+              "evidence_type": "Opinion/Forecast",
+              "content": "We see little to suggest that NVDA will not (once again) deliver a beat-and-raise on results/guidance that should, at a minimum, drive another round of upward estimate revisions.",
+              "is_objective": false,
+              "credibility_assessment": "Medium (Analyst's strong conviction based on historical performance and market conditions)"
+            },
+            {
+              "evidence_type": "Data/Forecast",
+              "content": "We expect unit growth coupled with an uplift in blended ASP (as mix shifts more towards GB300 racks which carry 20-30% higher ASP vs GB200) and a sustained tail of Hopper demand to support upside to Street consensus of $65.6B for Jan-Qtr.",
+              "is_objective": false,
+              "credibility_assessment": "Medium (Analyst's forecast based on product mix and demand trends)"
+            },
+            {
+              "evidence_type": "Data/Forecast",
+              "content": "We anticipate a similar dynamic for F1Q27 (Apr-Qtr), with rack shipment volumes growing an estimated ~10% Q/Q, and revenue growth amplified by further improvements in blended ASP, which in aggregate we think will comfortably support guidance in the range of $74-75B (vs. Street $72.3B).",
+              "is_objective": false,
+              "credibility_assessment": "Medium (Analyst's forecast based on Q/Q growth and ASP improvements)"
+            }
+          ]
+        },
+        {
+          "claim": "Demand for NVIDIA's AI compute solutions significantly outstrips supply, indicating a strong market position and pricing power.",
+          "evidence_list": [
+            {
+              "evidence_type": "Observation",
+              "content": "Demand continues to far outstrip supply (US cloud providers continue to emphasize being growth-constrained amid limited availability of AI compute).",
+              "is_objective": true,
+              "credibility_assessment": "High (Analyst's direct observation of market conditions and customer statements)"
+            },
+            {
+              "evidence_type": "Data",
+              "content": "Recent increases in spot pricing of cloud instances for non-leading-edge GPUs at certain CSPs suggests the supply-demand gap is widening even further (see Figure 3 GPU cloud instance pricing ($/GPU per hour)).",
+              "is_objective": true,
+              "credibility_assessment": "High (Verifiable market data from Figure 3, showing A100 and H100 price increases on AWS and Lambda)"
+            }
+          ]
+        },
+        {
+          "claim": "NVIDIA is successfully executing on its next-generation product ramps, particularly Blackwell Ultra, which will drive future revenue growth.",
+          "evidence_list": [
+            {
+              "evidence_type": "Observation",
+              "content": "Our supply chain checks indicate continued strong progress on ramping Blackwell Ultra rack volumes, with aggregate Blackwell/Blackwell Ultra rack units for Jan-Qtr in the range of ~12k (up from ~10k in the prior qtr), taking total FY26 rack shipments to ~27k.",
+              "is_objective": true,
+              "credibility_assessment": "High (Analyst's direct supply chain checks)"
+            },
+            {
+              "evidence_type": "Data/Forecast",
+              "content": "Mix shifts more towards GB300 racks which carry 20-30% higher ASP vs GB200.",
+              "is_objective": false,
+              "credibility_assessment": "Medium (Analyst's forecast of product mix impact on ASP)"
+            }
+          ]
+        },
+        {
+          "claim": "NVIDIA has strong visibility into future datacenter spending and a robust backlog, ensuring sustained growth into CY27.",
+          "evidence_list": [
+            {
+              "evidence_type": "Management Statement",
+              "content": "Management did infer that there has been upside to the $500B+ CY26 backlog initially unveiled last October at GTC in DC.",
+              "is_objective": true,
+              "credibility_assessment": "High (Direct statement from company management)"
+            },
+            {
+              "evidence_type": "Opinion/Forecast",
+              "content": "Even the original $500B+ backlog does imply upside to current Street estimates for FY27 (we estimate at least 10% upside).",
+              "is_objective": false,
+              "credibility_assessment": "Medium (Analyst's interpretation and estimation based on company data)"
+            },
+            {
+              "evidence_type": "Opinion/Forecast",
+              "content": "We believe the team is booking GPU orders well into CY27 and backlog reflects further CSP/hyperscale capex growth in CY27.",
+              "is_objective": false,
+              "credibility_assessment": "Medium (Analyst's belief based on market intelligence)"
+            }
+          ]
+        },
+        {
+          "claim": "NVIDIA maintains technological leadership in AI inference performance and is exploring new product avenues to address competitive threats.",
+          "evidence_list": [
+            {
+              "evidence_type": "Management Statement/Third-Party Data",
+              "content": "We expect management to emphasize significant gen-on-gen gains in inference performance (as demonstrated by recent third-party benchmarking).",
+              "is_objective": true,
+              "credibility_assessment": "High (Expected management statement supported by third-party benchmarking)"
+            },
+            {
+              "evidence_type": "Observation/Future Plan",
+              "content": "Management will at least lift the veil slightly on products currently in the pipeline that leverage Groq IP for specialized, low-latency inference at scale.",
+              "is_objective": true,
+              "credibility_assessment": "Medium (Analyst's expectation of future company disclosure)"
+            }
+          ]
+        },
+        {
+          "claim": "NVIDIA's diversified business segments, including PC gaming, automotive, and enterprise, contribute to its overall strength.",
+          "evidence_list": [
+            {
+              "evidence_type": "Opinion/Forecast",
+              "content": "We expect solid demand in PC gaming to be a strong revenue driver for the company, offsetting PC OEM, which is in secular decline.",
+              "is_objective": false,
+              "credibility_assessment": "Medium (Analyst's expectation based on market trends)"
+            },
+            {
+              "evidence_type": "Observation",
+              "content": "We are encouraged by strength in the automotive and enterprise segments as well.",
+              "is_objective": true,
+              "credibility_assessment": "High (Analyst's observation of segment performance)"
+            }
+          ]
+        },
+        {
+          "claim": "Potential policy changes regarding H200 exports to China could unlock significant incremental revenue.",
+          "evidence_list": [
+            {
+              "evidence_type": "Policy Change/Forecast",
+              "content": "H200 shipments to China may still prove to be an upside lever (driving ~$3B of incremental revenue per 100k units shipped) following a recent policy change by the US Department of Commerce that shifts H200 exports to China/Macau from a \u201cpresumption of denial\u201d to \u201ccase-by-case review\u201d.",
+              "is_objective": true,
+              "credibility_assessment": "High (Based on a verifiable policy change and analyst's revenue estimation)"
+            }
+          ]
+        }
+      ]
+    },
+    "file_Id": "JPM_NVIDIA_Corporation_F_2026-02-23_5212308.pdf"
+  },
+  "bearish_analysis": {
+    "bearish_views": [
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bearish_debate_point": "Uncertainty regarding H200 exports/sales to China despite strong customer appetite due to policy changes.",
+        "exact_sentences_in_the_file": "H200 shipments to China may still prove to be an upside lever (driving ~$3B of incremental revenue per 100k units shipped) following a recent policy change by the US Department of Commerce that shifts H200 exports to China/Macau from a \u201cpresumption of denial\u201d to \u201ccase-by-case review\u201d(link), though exports/sales still appear to be in limbo (despite strong appetite from China customers)."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bearish_debate_point": "Rising input costs, particularly memory, could pressure margin expectations.",
+        "exact_sentences_in_the_file": "We anticipate a keen focus on management\u2019s commentary around (among other things) backlog growth, customer engagements/datacenter segment growth for CY27 (as a read-through on capex growth), margin expectations amid rising input costs (particularly memory) and the rising competitive threat from AI ASICs/XPUs."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bearish_debate_point": "Rising competitive threat from AI ASICs/XPUs.",
+        "exact_sentences_in_the_file": "We anticipate a keen focus on management\u2019s commentary around (among other things) backlog growth, customer engagements/datacenter segment growth for CY27 (as a read-through on capex growth), margin expectations amid rising input costs (particularly memory) and the rising competitive threat from AI ASICs/XPUs."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bearish_debate_point": "Sustainability of gross margins at mid-70% level is uncertain due to the upcoming Rubin ramp being potentially margin dilutive.",
+        "exact_sentences_in_the_file": "We expect management to affirm a near-term mid-70% expectation (which we think is within reach), though confidence on the sustainability of GM at that level into the back half of the year remains an open question, given the upcoming Rubin ramp (likely to initially be margin dilutive) and possible pressure from component cost inflation."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bearish_debate_point": "Sustainability of gross margins at mid-70% level is uncertain due to possible pressure from component cost inflation.",
+        "exact_sentences_in_the_file": "We expect management to affirm a near-term mid-70% expectation (which we think is within reach), though confidence on the sustainability of GM at that level into the back half of the year remains an open question, given the upcoming Rubin ramp (likely to initially be margin dilutive) and possible pressure from component cost inflation."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bearish_debate_point": "Perception of market share loss relative to AI ASICs/XPUs as AI workloads shift towards inference from training.",
+        "exact_sentences_in_the_file": "A broader, more overarching theme that we think has weighed on the stock is the perception of share loss relative to AI ASICs/XPUs, as the aggregate mix of AI workloads rapidly shifts more towards inference (where specialized/custom silicon can be especially beneficial) and away from training (where NVDA is the undisputed leader)."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bearish_debate_point": "Macroeconomic uncertainty could weigh on PC gaming demand trends.",
+        "exact_sentences_in_the_file": "Although PC gaming demand seems resilient to macroeconomic weakness, any macro uncertainty could weigh on PC gaming demand trends. Given NVDA\u2019s ~53% exposure to the PC gaming segment, any consumer PC gaming weakness poses downside risk to our estimates."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bearish_debate_point": "Consumer PC gaming weakness poses downside risk to revenue and earnings estimates.",
+        "exact_sentences_in_the_file": "Although PC gaming demand seems resilient to macroeconomic weakness, any macro uncertainty could weigh on PC gaming demand trends. Given NVDA\u2019s ~53% exposure to the PC gaming segment, any consumer PC gaming weakness poses downside risk to our estimates."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bearish_debate_point": "Lower than expected deployment of NVIDIA's GPUs into data center applications or a significant decrease in the adoption of deep learning by hyperscale customers.",
+        "exact_sentences_in_the_file": "NVIDIA\u2019s GPUs could gain lower than expected deployment into data center applications as hyperscale customers further adopt deep learning as a new and effective way of processing large unstructured data sets. Any significant decrease in the adoption of deep learning by hyperscale customers or increase in competition could result in downside risk to our revenue and earnings estimates."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "sector": "Semiconductors & Semiconductor Capital Equipment",
+        "industry": "IT Hardware",
+        "observation_date": "2026-02-23",
+        "bearish_debate_point": "Increase in competition in data center applications could result in downside risk to revenue and earnings estimates.",
+        "exact_sentences_in_the_file": "NVIDIA\u2019s GPUs could gain lower than expected deployment into data center applications as hyperscale customers further adopt deep learning as a new and effective way of processing large unstructured data sets. Any significant decrease in the adoption of deep learning by hyperscale customers or increase in competition could result in downside risk to our revenue and earnings estimates."
+      }
+    ],
+    "file_Id": "JPM_NVIDIA_Corporation_F_2026-02-23_5212308.pdf"
+  },
+  "factual_data": {
+    "facts": [
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Publication",
+        "fact_summary": "The North America Equity Research report was published on February 23, 2026.",
+        "is_recent_update": true,
+        "original_sentence": "23 February 2026"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Financials",
+        "fact_summary": "NVIDIA's stock price was $189.82 on February 20, 2026.",
+        "is_recent_update": true,
+        "original_sentence": "Price (20 Feb 26):$189.82"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Company Profile",
+        "fact_summary": "NVIDIA is classified under Semiconductors & Semiconductor Capital Equipment / IT Hardware.",
+        "is_recent_update": false,
+        "original_sentence": "Semiconductors & Semiconductor Capital Equipment / IT Hardware"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Product/Partnership",
+        "fact_summary": "NVIDIA recently announced a partnership with META for large-scale Blackwell/Rubin GPU/CPU/networking deployments.",
+        "is_recent_update": true,
+        "original_sentence": "NVDA\u2019s recently announced partnership with META for large-scale Blackwell/Rubin GPU/CPU/networking deployments"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Product/Shipments",
+        "fact_summary": "Aggregate Blackwell/Blackwell Ultra rack units for the Jan-Qtr were in the range of ~12k.",
+        "is_recent_update": true,
+        "original_sentence": "aggregate Blackwell/Blackwell Ultra rack units for Jan-Qtr in the range of ~12k"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Product/Shipments",
+        "fact_summary": "Aggregate Blackwell/Blackwell Ultra rack units for the prior quarter were ~10k.",
+        "is_recent_update": true,
+        "original_sentence": "(up from ~10k in the prior qtr)"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Product/Shipments",
+        "fact_summary": "Total FY26 rack shipments reached ~27k.",
+        "is_recent_update": true,
+        "original_sentence": "taking total FY26 rack shipments to ~27k"
+      },
+      {
+        "company": "US Department of Commerce",
+        "fact_category": "Regulatory",
+        "fact_summary": "The US Department of Commerce recently changed its policy, shifting H200 exports to China/Macau from a \u201cpresumption of denial\u201d to \u201ccase-by-case review\u201d.",
+        "is_recent_update": true,
+        "original_sentence": "a recent policy change by the US Department of Commerce that shifts H200 exports to China/Macau from a \u201cpresumption of denial\u201d to \u201ccase-by-case review\u201d"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Financials/Orders",
+        "fact_summary": "NVIDIA's CY26 backlog was initially unveiled last October at GTC in DC, exceeding $500 billion.",
+        "is_recent_update": false,
+        "original_sentence": "the $500B+ CY26 backlog initially unveiled last October at GTC in DC"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Market Share/Segment Exposure",
+        "fact_summary": "NVIDIA has approximately 53% exposure to the PC gaming segment.",
+        "is_recent_update": false,
+        "original_sentence": "NVDA\u2019s ~53% exposure to the PC gaming segment"
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure",
+        "fact_summary": "J.P. Morgan is a market maker and/or liquidity provider in financial instruments related to NVIDIA Corporation or its entities.",
+        "is_recent_update": false,
+        "original_sentence": "J.P. Morgan is a market maker and/or liquidity provider in the financial instruments of/related to NVIDIA Corporation or related entities."
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure",
+        "fact_summary": "J.P. Morgan has had NVIDIA Corporation or related entities as clients within the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "J.P. Morgan currently has, or had within the past 12 months, the following entity(ies) as clients: NVIDIA Corporation or related entities."
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure",
+        "fact_summary": "J.P. Morgan has provided non-investment-banking, securities-related services to NVIDIA Corporation or related entities within the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "J.P. Morgan currently has, or had within the past 12 months, the following entity(ies) as clients, and the services provided were non-investment-banking, securities-related: NVIDIA Corporation or related entities."
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure",
+        "fact_summary": "J.P. Morgan has provided non-securities-related services to NVIDIA Corporation or related entities within the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "J.P. Morgan currently has, or had within the past 12 months, the following entity(ies) as clients, and the services provided were non-securities-related: NVIDIA Corporation or related entities."
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure",
+        "fact_summary": "J.P. Morgan has received compensation for products or services other than investment banking from NVIDIA Corporation or related entities in the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "J.P. Morgan has received compensation in the past 12 months for products or services other than investment banking from NVIDIA Corporation or related entities."
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure",
+        "fact_summary": "J.P. Morgan may hold a position in the debt securities of NVIDIA Corporation or related entities.",
+        "is_recent_update": false,
+        "original_sentence": "J.P. Morgan may hold a position in the debt securities of NVIDIA Corporation or related entities, if any."
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Financials/Ratings",
+        "fact_summary": "On November 20, 2025, NVIDIA had an Overweight (OW) rating with a price of $186.52 and a price target of $250.00.",
+        "is_recent_update": true,
+        "original_sentence": "20-Nov-25 OW 186.52 250"
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure/Research Coverage",
+        "fact_summary": "As of January 1, 2026, 51% of J.P. Morgan's Global Equity Research Coverage was rated Overweight.",
+        "is_recent_update": true,
+        "original_sentence": "J.P. Morgan Global Equity Research Coverage* 51% 37% 12%"
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure/Research Coverage",
+        "fact_summary": "As of January 1, 2026, 37% of J.P. Morgan's Global Equity Research Coverage was rated Neutral.",
+        "is_recent_update": true,
+        "original_sentence": "J.P. Morgan Global Equity Research Coverage* 51% 37% 12%"
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure/Research Coverage",
+        "fact_summary": "As of January 1, 2026, 12% of J.P. Morgan's Global Equity Research Coverage was rated Underweight.",
+        "is_recent_update": true,
+        "original_sentence": "J.P. Morgan Global Equity Research Coverage* 51% 37% 12%"
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure/Research Coverage",
+        "fact_summary": "As of January 1, 2026, 47% of J.P. Morgan's Global Equity Research Overweight-rated companies were also Investment Banking clients.",
+        "is_recent_update": true,
+        "original_sentence": "IB clients** 47% 47% 35%"
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure/Research Coverage",
+        "fact_summary": "As of January 1, 2026, 47% of J.P. Morgan's Global Equity Research Neutral-rated companies were also Investment Banking clients.",
+        "is_recent_update": true,
+        "original_sentence": "IB clients** 47% 47% 35%"
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure/Research Coverage",
+        "fact_summary": "As of January 1, 2026, 35% of J.P. Morgan's Global Equity Research Underweight-rated companies were also Investment Banking clients.",
+        "is_recent_update": true,
+        "original_sentence": "IB clients** 47% 47% 35%"
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure/Research Coverage",
+        "fact_summary": "As of January 1, 2026, 49% of J.P. Morgan Securities LLC (JPMS) Equity Research Coverage was rated Overweight.",
+        "is_recent_update": true,
+        "original_sentence": "JPMS Equity Research Coverage* 49% 38% 13%"
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure/Research Coverage",
+        "fact_summary": "As of January 1, 2026, 38% of J.P. Morgan Securities LLC (JPMS) Equity Research Coverage was rated Neutral.",
+        "is_recent_update": true,
+        "original_sentence": "JPMS Equity Research Coverage* 49% 38% 13%"
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure/Research Coverage",
+        "fact_summary": "As of January 1, 2026, 13% of J.P. Morgan Securities LLC (JPMS) Equity Research Coverage was rated Underweight.",
+        "is_recent_update": true,
+        "original_sentence": "JPMS Equity Research Coverage* 49% 38% 13%"
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure/Research Coverage",
+        "fact_summary": "As of January 1, 2026, 72% of J.P. Morgan Securities LLC (JPMS) Equity Research Overweight-rated companies were also Investment Banking clients.",
+        "is_recent_update": true,
+        "original_sentence": "IB clients** 72% 70% 53%"
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure/Research Coverage",
+        "fact_summary": "As of January 1, 2026, 70% of J.P. Morgan Securities LLC (JPMS) Equity Research Neutral-rated companies were also Investment Banking clients.",
+        "is_recent_update": true,
+        "original_sentence": "IB clients** 72% 70% 53%"
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Disclosure/Research Coverage",
+        "fact_summary": "As of January 1, 2026, 53% of J.P. Morgan Securities LLC (JPMS) Equity Research Underweight-rated companies were also Investment Banking clients.",
+        "is_recent_update": true,
+        "original_sentence": "IB clients** 72% 70% 53%"
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Publication",
+        "fact_summary": "The report was completed on February 22, 2026, at 05:28 PM EST.",
+        "is_recent_update": true,
+        "original_sentence": "Completed 22 Feb 2026 05:28 PM EST"
+      },
+      {
+        "company": "J.P. Morgan",
+        "fact_category": "Publication",
+        "fact_summary": "The report was disseminated on February 23, 2026, at 12:00 AM EST.",
+        "is_recent_update": true,
+        "original_sentence": "Disseminated 23 Feb 2026 12:00 AM EST"
+      },
+      {
+        "company": "AWS",
+        "fact_category": "Product/Pricing",
+        "fact_summary": "The price for an AWS A100 GPU cloud instance was $1.23 per hour on January 20, 2026.",
+        "is_recent_update": true,
+        "original_sentence": "$1.23"
+      },
+      {
+        "company": "AWS",
+        "fact_category": "Product/Pricing",
+        "fact_summary": "The price for an AWS A100 GPU cloud instance was $1.61 per hour on February 19, 2026.",
+        "is_recent_update": true,
+        "original_sentence": "$1.61"
+      },
+      {
+        "company": "AWS",
+        "fact_category": "Product/Pricing",
+        "fact_summary": "The price for an AWS A100 GPU cloud instance increased by 30% between January 20 and February 19, 2026.",
+        "is_recent_update": true,
+        "original_sentence": "+30%"
+      },
+      {
+        "company": "AWS",
+        "fact_category": "Product/Pricing",
+        "fact_summary": "The price for an AWS H100 GPU cloud instance was $3.80 per hour on January 20, 2026.",
+        "is_recent_update": true,
+        "original_sentence": "$3.80"
+      },
+      {
+        "company": "AWS",
+        "fact_category": "Product/Pricing",
+        "fact_summary": "The price for an AWS H100 GPU cloud instance was $4.12 per hour on February 19, 2026.",
+        "is_recent_update": true,
+        "original_sentence": "$4.12"
+      },
+      {
+        "company": "AWS",
+        "fact_category": "Product/Pricing",
+        "fact_summary": "The price for an AWS H100 GPU cloud instance increased by 8% between January 20 and February 19, 2026.",
+        "is_recent_update": true,
+        "original_sentence": "+8%"
+      },
+      {
+        "company": "Lambda",
+        "fact_category": "Product/Pricing",
+        "fact_summary": "The price for a Lambda A100 GPU cloud instance was $1.79 per hour on January 20, 2026.",
+        "is_recent_update": true,
+        "original_sentence": "$1.79"
+      },
+      {
+        "company": "Lambda",
+        "fact_category": "Product/Pricing",
+        "fact_summary": "The price for a Lambda A100 GPU cloud instance was $2.06 per hour on February 19, 2026.",
+        "is_recent_update": true,
+        "original_sentence": "$2.06"
+      },
+      {
+        "company": "Lambda",
+        "fact_category": "Product/Pricing",
+        "fact_summary": "The price for a Lambda A100 GPU cloud instance increased by 15% between January 20 and February 19, 2026.",
+        "is_recent_update": true,
+        "original_sentence": "+15%"
+      },
+      {
+        "company": "Lambda",
+        "fact_category": "Product/Pricing",
+        "fact_summary": "The price for a Lambda H100 GPU cloud instance was $2.99 per hour on January 20, 2026.",
+        "is_recent_update": true,
+        "original_sentence": "$2.99"
+      },
+      {
+        "company": "Lambda",
+        "fact_category": "Product/Pricing",
+        "fact_summary": "The price for a Lambda H100 GPU cloud instance was $3.44 per hour on February 19, 2026.",
+        "is_recent_update": true,
+        "original_sentence": "$3.44"
+      },
+      {
+        "company": "Lambda",
+        "fact_category": "Product/Pricing",
+        "fact_summary": "The price for a Lambda H100 GPU cloud instance increased by 15% between January 20 and February 19, 2026.",
+        "is_recent_update": true,
+        "original_sentence": "+15%"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Financials/Stock Performance",
+        "fact_summary": "NVIDIA's stock price changed by -1% in the 30 days prior to the F3Q26 earnings.",
+        "is_recent_update": true,
+        "original_sentence": "-1%"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Financials/Stock Performance",
+        "fact_summary": "NVIDIA's stock price changed by -6% in the 7 days prior to the F3Q26 earnings.",
+        "is_recent_update": true,
+        "original_sentence": "-6%"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Financials/Stock Performance",
+        "fact_summary": "NVIDIA's stock price changed by -3% in the 1 day prior to the F3Q26 earnings.",
+        "is_recent_update": true,
+        "original_sentence": "-3%"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Financials/Guidance",
+        "fact_summary": "NVIDIA's forward quarter revenue guidance midpoint for F3Q26 was $65.0 billion.",
+        "is_recent_update": true,
+        "original_sentence": "$65.0"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Financials/Consensus",
+        "fact_summary": "The consensus forward quarter revenue for NVIDIA in F3Q26 was $62.0 billion.",
+        "is_recent_update": true,
+        "original_sentence": "$62.0"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Financials/Performance",
+        "fact_summary": "NVIDIA's revenue beat/miss percentage for F3Q26 was 5%.",
+        "is_recent_update": true,
+        "original_sentence": "5%"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Financials/Stock Performance",
+        "fact_summary": "NVIDIA's stock price changed by 3% in the 1 day after the F3Q26 earnings.",
+        "is_recent_update": true,
+        "original_sentence": "3%"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Financials/Stock Performance",
+        "fact_summary": "NVIDIA's stock price changed by -2% in the 7 days after the F3Q26 earnings.",
+        "is_recent_update": true,
+        "original_sentence": "-2%"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Financials/Stock Performance",
+        "fact_summary": "NVIDIA's stock price changed by -4% in the 30 days after the F3Q26 earnings.",
+        "is_recent_update": true,
+        "original_sentence": "-4%"
+      },
+      {
+        "company": "NVIDIA Corporation",
+        "fact_category": "Financials/Stock Performance",
+        "fact_summary": "NVIDIA's stock price changed by 1% in the 90 days after the F3Q26 earnings.",
+        "is_recent_update": true,
+        "original_sentence": "1%"
+      }
+    ],
+    "file_Id": "JPM_NVIDIA_Corporation_F_2026-02-23_5212308.pdf"
+  },
+  "relationship_mapping": {
+    "relationships": [
+      {
+        "source_company": "NVIDIA Corporation",
+        "target_company": "META",
+        "ticker": "META",
+        "relationship_type": "Partner",
+        "relationship_description": "Partnership for large-scale Blackwell/Rubin GPU/CPU/networking deployments.",
+        "quantifier": "large-scale",
+        "original_sentence": "NVDA\u2019s recently announced partnership with META for large-scale Blackwell/Rubin GPU/CPU/networking deployments)."
+      },
+      {
+        "source_company": "NVIDIA Corporation",
+        "target_company": "Groq",
+        "ticker": "N/A",
+        "relationship_type": "Partner",
+        "relationship_description": "NVIDIA leverages Groq IP for specialized, low-latency inference at scale.",
+        "quantifier": "at scale",
+        "original_sentence": "at least lift the veil slightly on products currently in the pipeline that leverage Groq IP for specialized, low-latency inference at scale (though we do concede that any meaningful disclosure on plans for Groq will likely be saved for GTC)."
+      },
+      {
+        "source_company": "NVIDIA Corporation",
+        "target_company": "AWS",
+        "ticker": "AMZN",
+        "relationship_type": "Customer",
+        "relationship_description": "Provides cloud instances using NVIDIA GPUs (A100, H100).",
+        "quantifier": "A100 pricing $1.23-$1.61, H100 pricing $3.80-$4.12",
+        "original_sentence": "AWS A100 $1.23 $1.61 +30% H100 $3.80 $4.12 +8%"
+      },
+      {
+        "source_company": "NVIDIA Corporation",
+        "target_company": "Lambda",
+        "ticker": "N/A",
+        "relationship_type": "Customer",
+        "relationship_description": "Provides cloud instances using NVIDIA GPUs (A100, H100).",
+        "quantifier": "A100 pricing $1.79-$2.06, H100 pricing $2.99-$3.44",
+        "original_sentence": "Lambda A100 $1.79 $2.06 +15% H100 $2.99 $3.44 +15%"
+      },
+      {
+        "source_company": "NVIDIA Corporation",
+        "target_company": "AMD",
+        "ticker": "AMD",
+        "relationship_type": "Competitor",
+        "relationship_description": "Competitor in compute platforms with products like MI450 Helios and MI500.",
+        "quantifier": "Compared in 'revenue per gigawatt' in Figure 5.",
+        "original_sentence": "Figure 5: Comparison of revenue per gigawatt for NVDA, AVGO and AMD"
+      },
+      {
+        "source_company": "NVIDIA Corporation",
+        "target_company": "Broadcom",
+        "ticker": "AVGO",
+        "relationship_type": "Competitor",
+        "relationship_description": "Competitor in compute platforms with products like OpenAI XPU.",
+        "quantifier": "Compared in 'revenue per gigawatt' in Figure 5.",
+        "original_sentence": "Figure 5: Comparison of revenue per gigawatt for NVDA, AVGO and AMD"
+      },
+      {
+        "source_company": "NVIDIA Corporation",
+        "target_company": "Micron Technology",
+        "ticker": "MU",
+        "relationship_type": "Supplier",
+        "relationship_description": "Supplier of memory, an input component for NVIDIA's products.",
+        "quantifier": "rising input costs (particularly memory)",
+        "original_sentence": "margin expectations amid rising input costs (particularly memory)"
+      }
+    ],
+    "file_Id": "JPM_NVIDIA_Corporation_F_2026-02-23_5212308.pdf"
+  }
+}

@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+lancedb
+google-genai
+python-dotenv
+sentence-transformers
+pyarrow
+python-dateutil
+pypdf

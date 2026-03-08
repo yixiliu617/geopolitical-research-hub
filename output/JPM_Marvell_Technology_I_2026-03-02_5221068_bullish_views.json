@@ -1,0 +1,248 @@
+{
+  "bullish_views": [
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Strong demand for optical DSP solutions (1.6T/800G).",
+      "exact_sentences_in_the_file": "Expect In-Line To Slightly Better Results/Guidance On Strong Optical Demand And Sustained Trainium 2; Marvell is set to report earnings Thursday, and we expect strong demand for its optical DSP solutions (1.6T/800G)."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Continued solid momentum from its lead custom AI ASIC program (Trainium 2).",
+      "exact_sentences_in_the_file": "Expect In-Line To Slightly Better Results/Guidance On Strong Optical Demand And Sustained Trainium 2; continued solid momentum from its lead custom AI ASIC program (Trainium 2)."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Strong trends in storage (cloud HDD/SSD controllers).",
+      "exact_sentences_in_the_file": "and strong trends in storage (cloud HDD/SSD controllers)."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Jan-Qtr results and April-Qtr guidance expected to be in line to slightly ahead of consensus estimates.",
+      "exact_sentences_in_the_file": "Overall, we expect Jan-Qtr results and April-Qtr guidance to be in line to slightly ahead of consensus estimates, driven by solid datacenter growth while the non-AI cyclical segment continues to gradually improve."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Solid datacenter growth.",
+      "exact_sentences_in_the_file": "Overall, we expect Jan-Qtr results and April-Qtr guidance to be in line to slightly ahead of consensus estimates, driven by solid datacenter growth while the non-AI cyclical segment continues to gradually improve."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Non-AI cyclical segment continues to gradually improve.",
+      "exact_sentences_in_the_file": "Overall, we expect Jan-Qtr results and April-Qtr guidance to be in line to slightly ahead of consensus estimates, driven by solid datacenter growth while the non-AI cyclical segment continues to gradually improve."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Management highlighted short-term bookings were 'on fire'.",
+      "exact_sentences_in_the_file": "Recall that during our CES fireside chat (see note here) in January, management highlighted that short-term bookings were \u201con fire\u201d and that backlog and revenue visibility continue to expand."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Backlog and revenue visibility continue to expand.",
+      "exact_sentences_in_the_file": "Recall that during our CES fireside chat (see note here) in January, management highlighted that short-term bookings were \u201con fire\u201d and that backlog and revenue visibility continue to expand."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "All four U.S. cloud/hyperscalers increased capex growth expectations, with aggregate capex projected to reach $645B in 2026 (up 56% Y/Y).",
+      "exact_sentences_in_the_file": "Since then, all four U.S. cloud/hyperscalers have increased their capex growth expectations for the upcoming year, with aggregate capex now projected to reach $645B in 2026 (up 56% Y/Y)."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Strong spending environment validated by strong beats and guidance raises across the AI semiconductor supply chain.",
+      "exact_sentences_in_the_file": "This strong spending environment is further validated by strong beats and guidance raises across the AI semiconductor supply chain (e.g., Macom, Astera Labs, Nvidia), and we expect Marvell to benefit from similar trends."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Marvell is expected to benefit from similar trends in the AI semiconductor supply chain.",
+      "exact_sentences_in_the_file": "This strong spending environment is further validated by strong beats and guidance raises across the AI semiconductor supply chain (e.g., Macom, Astera Labs, Nvidia), and we expect Marvell to benefit from similar trends."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "AI custom revenues are expected to reach ~$1.8B in CY26 (up 20% Y/Y), doubling to $3.6B in CY27.",
+      "exact_sentences_in_the_file": "On the custom ASIC front, AI custom revenues are expected to reach ~$1.8B in CY26 (up 20% Y/Y), doubling to $3.6B in CY27."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "The Trainium 2 ASIC ramp remains solid in the 1H of the year.",
+      "exact_sentences_in_the_file": "The Trainum 2 ASIC ramp remains solid in the 1H of the year and next-gen Trainium 3 XPU ASIC program is set to ramp in the middle of the year with volume ramp in the 2H."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Next-gen Trainium 3 XPU ASIC program is set to ramp in the middle of the year with volume ramp in the 2H.",
+      "exact_sentences_in_the_file": "The Trainum 2 ASIC ramp remains solid in the 1H of the year and next-gen Trainium 3 XPU ASIC program is set to ramp in the middle of the year with volume ramp in the 2H."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "The team has secured purchase orders in hand for all of CY26.",
+      "exact_sentences_in_the_file": "The team has secured purchase orders in hand for all of CY26, and we expect the team to drive $2B revenue run-rate for this program in the second half of the year."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Expect the team to drive $2B revenue run-rate for this program in the second half of the year.",
+      "exact_sentences_in_the_file": "The team has secured purchase orders in hand for all of CY26, and we expect the team to drive $2B revenue run-rate for this program in the second half of the year."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Marvell\u2019s Microsoft AI ASIC MAIA 3nm program is on track to ramp in the back half of CY26 and into CY27.",
+      "exact_sentences_in_the_file": "Marvell\u2019s Microsoft AI ASIC MAIA 3nm program is also on track to ramp in the back half of CY26 and into CY27."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Next-gen 2nm ASIC programs (Trainium 4 at AWS and Maia 2nm at Microsoft) are on track for CY27/CY28 ramps.",
+      "exact_sentences_in_the_file": "We believe next-gen 2nm ASIC programs (Trainium 4 at AWS and Maia 2nm at Microsoft) are on track for CY27/CY28 ramps."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Solid setup into CY26 driven by strong AI infrastructure build combined with customer specific program ramps.",
+      "exact_sentences_in_the_file": "Overall, we see a solid setup into CY26 driven by strong AI infrastructure build combined with customer specfiic program ramps."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Closure of Celestial AI and XConn acquisitions enhance Marvell\u2019s scale-up networking capabilities.",
+      "exact_sentences_in_the_file": "We are updating our estimates and initiating FY28 estimates which reflect the closure of the Celestial AI and XConn acquisitions, which further enhance Marvell\u2019s scale-up networking capabilities and position the company to be agnostic across a variety of networking technologies, reinforcing its strong networking portfolio."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Acquisitions position the company to be agnostic across a variety of networking technologies, reinforcing its strong networking portfolio.",
+      "exact_sentences_in_the_file": "We are updating our estimates and initiating FY28 estimates which reflect the closure of the Celestial AI and XConn acquisitions, which further enhance Marvell\u2019s scale-up networking capabilities and position the company to be agnostic across a variety of networking technologies, reinforcing its strong networking portfolio."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Favorable view given exposure to AI infrastructure spending trends through AI XPU/ASIC wins.",
+      "exact_sentences_in_the_file": "We continue to view Marvell favorably given its exposure to AI infrastructure spending trends through its AI XPU/ASIC wins and market leadership in optical and copper connectivity."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Market leadership in optical and copper connectivity.",
+      "exact_sentences_in_the_file": "We continue to view Marvell favorably given its exposure to AI infrastructure spending trends through its AI XPU/ASIC wins and market leadership in optical and copper connectivity."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Reiteration of Overweight (OW) rating on MRVL.",
+      "exact_sentences_in_the_file": "We reiterate our Overweight (OW) rating on MRVL."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Price Target (Dec-26) of $130.00.",
+      "exact_sentences_in_the_file": "Price Target (Dec-26):$130.00"
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Datacenter business expected to grow 25%+ in CY26 and 40%+ in FY27.",
+      "exact_sentences_in_the_file": "Overall the datacenter business is expected to grow 25%+ in CY26 and 40%+ in FY27, supported by strong optical networking demand, XPU attach programs entering production, and the ramp-up of AI custom revenues."
+    },
+    {
+      "company": "Marvell Technology Inc",
+      "ticker": "MRVL",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-02",
+      "bullish_debate_point": "Long-term scale-up opportunity is significant, and Marvell is well positioned to capture a substantial share of the market with Celestial (fabric) and its portfolio of switching products.",
+      "exact_sentences_in_the_file": "The long-term scale-up opportunity is significant, and Marvell is well positioned to capture a substantial share of the market with Celestial (fabric) and its portfolio of switching products."
+    }
+  ],
+  "file_Id": "JPM_Marvell_Technology_I_2026-03-02_5221068.pdf"
+}

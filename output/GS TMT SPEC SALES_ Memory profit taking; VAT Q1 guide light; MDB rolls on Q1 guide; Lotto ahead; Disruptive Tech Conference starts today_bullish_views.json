@@ -1,0 +1,248 @@
+{
+  "bullish_views": [
+    {
+      "company": "N/A",
+      "ticker": "SPX, NDX, RTY",
+      "sector": "Market",
+      "industry": "Market",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "US equities showed resilience by rebounding from early losses to close positive despite geopolitical tensions.",
+      "exact_sentences_in_the_file": "US equities shrugged off early losses following the weekend's attacks on Iran, rebounding sharply off early session lows to close the day in the green - SPX +4bps to 6881 (4/11 sectors +ve, Energy +195bps, Consumer Staples -135bps), NDX +13bps to 24,992, RTY +90bps to 2655."
+    },
+    {
+      "company": "N/A",
+      "ticker": "N/A",
+      "sector": "Software",
+      "industry": "Software",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "The Software sector is showing signs of recovery, outperforming the NDX significantly, marking its best run in over a year.",
+      "exact_sentences_in_the_file": "While Software has started to bounce off the lows (Software has o/p the NDX by ~550 bps over 5 days, quietly its best run in >12-months) .. while the \u2018consensus\u2019 view is that the group can \u201cbounce\u201d, but is unlikely to \u201crally\u201d, hard for investors to not at least comb over the group given the drawdown \u2013 in Europe the only names defended in our flows SAP (one can question whether that will remain given announcement on the board restructure) and RELX."
+    },
+    {
+      "company": "Lottomatica",
+      "ticker": "LTMC",
+      "sector": "Gambling",
+      "industry": "Gambling",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Lottomatica's FY26 EBITDA guidance is slightly ahead of expectations, and the company is seeking authorization for a significant share buyback, indicating positive sentiment.",
+      "exact_sentences_in_the_file": "Lottomatica: Results in-line; FY26 EBITDA guide slightly ahead at the midpoint; requesting buyback authorisation for up to 12.5% of share capital. Should be positive today"
+    },
+    {
+      "company": "Lumentum",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Data Center Optical Components",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Nvidia's $2bn investment in Lumentum for advanced laser components and R&D is a strong positive driver for the stock and the data center optical sector.",
+      "exact_sentences_in_the_file": "DATA CENTER OPTICAL STOCKS ripped yesterday after Nvidia announced it will invest $2bn apiece in Lumentum (stock +7%) and Coherent (+13%). Deals include purchase agreements and access rights for advanced laser components and are intended to support research, development, and the expansion of US-based manufacturing capabilities for advanced optics, which are critical for high-speed data transmission in AI data centers. The investments will support R&D."
+    },
+    {
+      "company": "Coherent",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Data Center Optical Components",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Nvidia's $2bn investment in Coherent for advanced laser components and R&D is a strong positive driver for the stock and the data center optical sector.",
+      "exact_sentences_in_the_file": "DATA CENTER OPTICAL STOCKS ripped yesterday after Nvidia announced it will invest $2bn apiece in Lumentum (stock +7%) and Coherent (+13%). Deals include purchase agreements and access rights for advanced laser components and are intended to support research, development, and the expansion of US-based manufacturing capabilities for advanced optics, which are critical for high-speed data transmission in AI data centers. The investments will support R&D."
+    },
+    {
+      "company": "AIXA GY",
+      "ticker": "AIXA GY",
+      "sector": "Technology",
+      "industry": "Data Center Optical Components (Exposure)",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "AIXA GY is a beneficiary of Nvidia's investments in data center optics due to its significant sales exposure (30%).",
+      "exact_sentences_in_the_file": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+    },
+    {
+      "company": "HLMA",
+      "ticker": "HLMA",
+      "sector": "Technology",
+      "industry": "Data Center Optical Components (Exposure)",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "HLMA is a beneficiary of Nvidia's investments in data center optics due to its sales exposure (20%).",
+      "exact_sentences_in_the_file": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+    },
+    {
+      "company": "BESI",
+      "ticker": "BESI",
+      "sector": "Technology",
+      "industry": "Data Center Optical Components (Exposure)",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "BESI is a beneficiary of Nvidia's investments in data center optics due to its sales exposure (10%).",
+      "exact_sentences_in_the_file": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+    },
+    {
+      "company": "Soitec",
+      "ticker": "Soitec",
+      "sector": "Technology",
+      "industry": "Data Center Optical Components (Exposure)",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Soitec is a beneficiary of Nvidia's investments in data center optics due to its sales exposure (5%).",
+      "exact_sentences_in_the_file": "In Europe stocks with optical exposure include AIXA GY (30% of sales), HLMA (20%), BESI (10%) and Soitec (5%). Nokia and Huber + Suhner are beneficiaries to a lesser extent."
+    },
+    {
+      "company": "Anthropic",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Artificial Intelligence (AI)",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Despite reported errors, Anthropic's Claude AI is maintaining its top position in the App Store, indicating strong user retention or demand.",
+      "exact_sentences_in_the_file": "Anthropic says Claude had \"elevated errors\" on Monday, though holding at top spot in App Store \u2013 (while ChatGPT uninstalls surged by 295% after DoD deal). Techcrunch /(CNBC)TechCrunch. Plus Anthropic Tries to Win Users From ChatGPT With Memory Feature for free users."
+    },
+    {
+      "company": "Anthropic",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Artificial Intelligence (AI)",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Anthropic is actively enhancing its Claude AI with new features like a \"Memory Feature\" for free users to attract and retain users from competitors like ChatGPT.",
+      "exact_sentences_in_the_file": "Plus Anthropic Tries to Win Users From ChatGPT With Memory Feature for free users."
+    },
+    {
+      "company": "N/A",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Disruptive Technology, AI",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "The Disruptive Tech Conference presents opportunities to identify promising AI startups that could become threats to incumbents or attractive acquisition targets.",
+      "exact_sentences_in_the_file": "Disruptive Tech Conference here in London today and tomorrow -register here. To me this a chance to see AI startups who potentially are threats to listed counterparts or takeover targets."
+    },
+    {
+      "company": "VAT",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Semiconductor Equipment",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "VAT's full-year 2026 guidance projects growth across key financial metrics (orders, sales, EBITDA, EBITDA margin, net income, FCF) compared to 2025.",
+      "exact_sentences_in_the_file": "FY26 guidance expects orders, sales, EBITDA, EBITDA margin, net income and FCF to be higher than in 2025."
+    },
+    {
+      "company": "VAT",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Semiconductor Equipment",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "VAT's expected book-to-bill ratio substantially above 1 (consensus 1.05x) indicates strong future sales and demand.",
+      "exact_sentences_in_the_file": "While 1Q26 sales is guided at CHF240-260mn (vs consensus already above the top end at CHF270mn), but the book-to-bill ratio is expected to be substantially above 1 (consensus at 1.05x)."
+    },
+    {
+      "company": "SAP",
+      "ticker": "SAP",
+      "sector": "Software",
+      "industry": "Enterprise Software",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "SAP's CEO focusing more on AI & R&D suggests a strategic pivot towards innovation and growth areas.",
+      "exact_sentences_in_the_file": "SAP board restructure \u2013 sees CEO Christian Klein focusing more on A&I & R&D."
+    },
+    {
+      "company": "Apple",
+      "ticker": "AAPL",
+      "sector": "Technology",
+      "industry": "Consumer Electronics",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Apple's new iPhone 17e and M4 iPad Air, with stable/reduced pricing and increased base storage, are expected to help Apple grow market share despite memory cost pressures.",
+      "exact_sentences_in_the_file": "Apple: Per GIR announced the iPhone 17e and M4 iPad Airs, where the most prominent surprises include (a) stable starting price on the iPhone 17e, and (b) 256 GB starting storage for iPhone 17e (v. 128 GB starting iPhone 16e storage). AAPL effectively reduced prices on the iPhone 17e through (a) holding starting iPhone 17e prices flat at $599 (256 GB iPhone 16e models started at $699 last year), and (b) 512 GB iPhone 17e now starting at $799 (v. $899 512 GB iPhone 16e starting price). We believe updates to iPhone 17e and M4 iPad Air should support AAPL's ability to continue growing market share across consumer electronics, particularly amidst industry-wide memory cost pressure."
+    },
+    {
+      "company": "NVIDIA",
+      "ticker": "NVDA",
+      "sector": "Technology",
+      "industry": "Semiconductors, AI",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "NVIDIA's GTC conference is anticipated to boost momentum in the AI memory market.",
+      "exact_sentences_in_the_file": "while NVDA GTC will help drive AI memory momentum."
+    },
+    {
+      "company": "Micron Technology",
+      "ticker": "MU",
+      "sector": "Technology",
+      "industry": "Semiconductors, Memory",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Micron is expected to report a strong quarter with revenue upside driven by pricing, strong QoQ revenue growth in the May quarter, and CY26 estimates above consensus, with HBM4 ramp in focus.",
+      "exact_sentences_in_the_file": "MU preview- Jim expects another strong quarter driven by pricing upside, with HBM4 ramp in focus. He expects Micron to deliver ~4% upside to Street revenue in the quarter and guide to strong QoQ revenue growth in the May quarter, driven almost entirely by pricing upside... expect revenue/GM/EPS of $19.7 bn/71.0%/$9.33 for the quarter vs. the Street at $19.0 bn/68.6%/$8.59. For May quarter guidance expect revenue/GM/EPS of $23.5 bn/74.8%/$11.95 compared with the Street at $21.6 bn/70.9%/$10.08. For CY26, our revenue/EPS estimates are 5%/10% above Street consensus."
+    },
+    {
+      "company": "Samsung Electronics",
+      "ticker": "005930",
+      "sector": "Technology",
+      "industry": "Semiconductors, Memory",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Samsung Electronics is expected to continue its HBM collaboration with NVIDIA for next-generation AI chips, indicating strong future demand and partnership.",
+      "exact_sentences_in_the_file": "SEC (005930): NVIDIA is poised to unveil its next-generation AI chips, including the \"Feynman\" architecture, at GTC 2026 this month, with Samsung Electronics and SK Hynix expected to continue their high-bandwidth memory (HBM) collaboration."
+    },
+    {
+      "company": "SK Hynix",
+      "ticker": "N/A",
+      "sector": "Technology",
+      "industry": "Semiconductors, Memory",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "SK Hynix is expected to continue its HBM collaboration with NVIDIA for next-generation AI chips, indicating strong future demand and partnership.",
+      "exact_sentences_in_the_file": "SEC (005930): NVIDIA is poised to unveil its next-generation AI chips, including the \"Feynman\" architecture, at GTC 2026 this month, with Samsung Electronics and SK Hynix expected to continue their high-bandwidth memory (HBM) collaboration."
+    },
+    {
+      "company": "Vanguard International Semiconductor Corporation",
+      "ticker": "5347",
+      "sector": "Technology",
+      "industry": "Semiconductors, Foundries",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Vanguard is expected to benefit from spillover effects due to short-term constraints faced by Tower Semiconductor, leading to positive short-term momentum.",
+      "exact_sentences_in_the_file": "SEMI: Israeli\u2019s biggest and the 10th largest semiconductor manufacturer in the world Tower is facing short-term constraints on product shipment due to geopolitical conflicts. Taiwanese matured foundries Vanguard (5347) and PSMC (6770) are expected to see spillover effects, +VE for short term momentum."
+    },
+    {
+      "company": "Powerchip Semiconductor Manufacturing Corporation",
+      "ticker": "6770",
+      "sector": "Technology",
+      "industry": "Semiconductors, Foundries",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "PSMC is expected to benefit from spillover effects due to short-term constraints faced by Tower Semiconductor, leading to positive short-term momentum.",
+      "exact_sentences_in_the_file": "SEMI: Israeli\u2019s biggest and the 10th largest semiconductor manufacturer in the world Tower is facing short-term constraints on product shipment due to geopolitical conflicts. Taiwanese matured foundries Vanguard (5347) and PSMC (6770) are expected to see spillover effects, +VE for short term momentum."
+    },
+    {
+      "company": "Telef\u00f3nica",
+      "ticker": "N/A",
+      "sector": "Telecommunications",
+      "industry": "Telecommunications Services",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Telef\u00f3nica's executive advocates for European digital autonomy, investment in AI, and market consolidation in European telecoms, which could lead to a stronger, more competitive sector.",
+      "exact_sentences_in_the_file": "Murtra (Telef\u00f3nica) during his speech at MWC, advocates for European digital autonomy and the creation of a \"European WhatsApp\" for secure messaging. (Vozpopuli). He highlights Europe's reliance on foreign digital products and stresses the importance of developing its own software and investing in Artificial Intelligence. Murtra calls for market consolidation in the European telecom sector, urging regulators to be more permissive to foster larger, more competitive companies."
+    },
+    {
+      "company": "Vodafone",
+      "ticker": "N/A",
+      "sector": "Telecommunications",
+      "industry": "Telecommunications Services",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Vodafone's partnership with Amazon Leo will expand 4G/5G coverage in remote areas, facilitating easier and cheaper base station setup and enhancing network resilience.",
+      "exact_sentences_in_the_file": "Vodafone has partnered with Amazon Leo to expand 4G and 5G mobile coverage in remote areas across Europe and Africa. (while Vodacom late 2025 signed a deal to use Starlink). The partnership aims to facilitate easier and cheaper setup of base stations, avoiding costly fiber or fixed wireless links. Amazon Leo's service will also enhance network resilience for emergency and critical online services by providing backup if fiber links are damaged. The rollout will begin in Germany and other European countries, followed by expansion across Africa via Vodacom, with the first mobile sites expected to be connected later this year."
+    },
+    {
+      "company": "Scout24",
+      "ticker": "N/A",
+      "sector": "Media",
+      "industry": "Online Marketplaces",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Scout24's acquisition of Fotocasa (No. 2 in Spain) and Habitaclia strengthens its position in the Spanish real estate marketplace.",
+      "exact_sentences_in_the_file": "Scout24 closes acquisition of Fotocasa, Habitaclia. Fotocasa is the No. 2 real estate marketplace in Spain, behind Idealista. As part of the deal, Scout24 has also acquired Habitaclia, a regional property site focused on Catalonia and the Balearic Islands"
+    },
+    {
+      "company": "Lottomatica",
+      "ticker": "LTMC",
+      "sector": "Gambling",
+      "industry": "Gambling",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "Lottomatica (LTMC) reported Q4 results slightly better than expected, with FY26 guidance ahead of street for EBITDA, strong iGaming market share, and improved PWO market share on track for sustainable growth.",
+      "exact_sentences_in_the_file": "LTMC: Q a touch better and guide slightly ahead of street. Q4 revenues inline, EBIT 4% ahead, DPS 7% ahead. Its given FY 26 guidance of revenue EU2.39 to EU2.46nm vs street at EU2.44 and adjusted EBITDA EU940 to EU980m vs. street EU954m. Lottomatica\u2019s market share was strong in iGaming at 31.9% (vs. 3Q25: 30.6%), but was lower yoy and qoq for iSports at 31.6% (vs. 3Q25: 32.7%). Total Online market share was up +0.4pp yoy, supported by new Online concessions in Italy coming into effect in mid-November, which have led to share losses for tail operators. The company also note that PWO market share improved to 6.3% in 4Q25 and management believe this is on track for sustainable growth post the migration."
+    },
+    {
+      "company": "DraftKings",
+      "ticker": "N/A",
+      "sector": "Gambling",
+      "industry": "Online Gambling, Sports Betting",
+      "observation_date": "2026-03-03",
+      "bullish_debate_point": "DraftKings outlined a strong forward strategy including a super-app, competitive advantages, significant TAM expansion in prediction markets with attractive unit economics, and a positive long-term financial framework.",
+      "exact_sentences_in_the_file": "Draftkings GIR attended DraftKings\u2019 Investor Day 2026, during which the company outlined a forward strategy around several key pillars: a) the announcement of a new super-app strategy centered around DraftKings Sports & Casino; b) highlighted its competitive advantage across product, technology, trust & marketing; c) outlined the prediction markets opportunity (significant TAM expansion + positive/attractive unit economics); & d) provided an updated long-term financial & capital allocation framework."
+    }
+  ],
+  "file_Id": "GS TMT SPEC SALES_ Memory profit taking; VAT Q1 guide light; MDB rolls on Q1 guide; Lotto ahead; Disruptive Tech Conference starts today.pdf"
+}

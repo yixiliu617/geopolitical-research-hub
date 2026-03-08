@@ -1,0 +1,218 @@
+{
+  "central_thesis": "While AI disruption concerns have caused a software valuation reset, the covered companies (MongoDB, Rubrik, Nutanix, Procore) are largely insulated due to their durable economics, mission-critical platform roles, and tangible AI product innovation, with AI more likely to reinforce rather than undermine their long-term growth, creating attractive investment opportunities.",
+  "sub_claims": [
+    {
+      "claim": "AI disruption concerns are overblown for the covered companies, as their practical exposure to AI risk is limited.",
+      "evidence_list": [
+        {
+          "evidence_type": "Opinion",
+          "content": "we believe the practical exposure for our coverage is far more limited than current sentiment implies.",
+          "is_objective": false,
+          "credibility_assessment": "This is a core assertion by the analysts, based on their proprietary framework, suggesting market sentiment is overly negative."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "Our conclusions therefore lean constructive, with credible paths for AI to reinforce rather than undermine long-term growth.",
+          "is_objective": false,
+          "credibility_assessment": "This is the analysts' forward-looking assessment, indicating a positive outlook for the companies' growth trajectory despite AI concerns."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "our analysis suggests most of our coverage sits in more insulated layers of the stack, creating attractive opportunities for investors willing to look through near-term volatility.",
+          "is_objective": false,
+          "credibility_assessment": "This is the analysts' interpretation of their framework's results, highlighting a potential mispricing in the market and an investment opportunity."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "The recent selloff in software reflects a rapid shift in investor sentiment rather than a sudden deterioration in fundamentals.",
+          "is_objective": true,
+          "credibility_assessment": "This observation sets the context, suggesting the market's negative reaction is driven by emotion rather than underlying business health, supporting the idea of mispriced valuations."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "We think the market is asking the right question but applying it too broadly.",
+          "is_objective": false,
+          "credibility_assessment": "This highlights the analysts' belief that a nuanced, company-specific analysis (which their framework provides) is necessary, rather than a broad market generalization."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "By contrast, platforms that manage infrastructure, data governance, and recovery are far more insulated, because AI does not eliminate the need for trusted systems of record, secure environments or reliable operational foundations.",
+          "is_objective": true,
+          "credibility_assessment": "This provides a structural reason for insulation, explaining why certain software layers are inherently less susceptible to AI disruption."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "In many cases, the rise of agents actually increases the need for those capabilities rather than diminishing them.",
+          "is_objective": false,
+          "credibility_assessment": "This strengthens the argument by suggesting AI could be a positive catalyst, increasing demand for these platforms' core functionalities."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "MongoDB, Rubrik and Nutanix operate in layers of the stack that benefit from greater data intensity, infrastructure complexity and operational risk as agents proliferate, while Procore has more direct workflow exposure and therefore somewhat greater sensitivity to how agent interfaces evolve.",
+          "is_objective": true,
+          "credibility_assessment": "This is a direct application of their AI Impact Framework, categorizing the companies based on their inherent insulation or exposure."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "Even so, we believe Procore\u2019s deep integration into governed construction processes provides meaningful offsets to that risk.",
+          "is_objective": false,
+          "credibility_assessment": "This provides a specific mitigating factor for Procore, acknowledging its higher exposure but highlighting its strong defensive attributes."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "As a result, we see limited practical displacement risk across our names despite price action to the contrary.",
+          "is_objective": false,
+          "credibility_assessment": "This is a direct conclusion from their comprehensive analysis, reinforcing the central thesis that displacement risk is minimal."
+        }
+      ]
+    },
+    {
+      "claim": "The covered companies possess durable economics, mission-critical platform roles, and tangible AI product innovation.",
+      "evidence_list": [
+        {
+          "evidence_type": "Opinion",
+          "content": "Across the group, we see businesses that benefit from durable economics, mission-critical platform roles and tangible AI product innovation that together provide meaningful insulation in a period of elevated uncertainty.",
+          "is_objective": false,
+          "credibility_assessment": "This is a high-level summary of the positive attributes of the covered companies, setting the stage for more detailed evidence."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "The entire 'AI Impact Framework' section and Exhibit 2 describe how these companies are evaluated across dimensions like 'System-of-Record Ownership', 'Data and Integration Moat', and 'AI Execution', which directly relate to mission-critical roles and AI innovation.",
+          "is_objective": true,
+          "credibility_assessment": "This refers to a structured, repeatable method for assessing the companies' strengths, lending objectivity to the claims of mission-criticality and innovation."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "MongoDB\u2019s consumption-based model is directly levered to higher workload activity, which aligns well with the way AI workloads are likely to scale over time; it also naturally hedges against seat-based risks facing many software vendors.",
+          "is_objective": true,
+          "credibility_assessment": "This highlights a structural economic benefit for MongoDB, showing its business model is inherently aligned with AI growth and resilient to common AI risks."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "MongoDB\u2019s developer-centric approach and product velocity continue to secure its position as a primary platform for high-value, mission-critical AI applications.",
+          "is_objective": true,
+          "credibility_assessment": "This points to MongoDB's competitive advantages and strong market position, indicating its platform is essential for AI development."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "The acquisition of Voyage AI and the native integration of Vector Search and Embedding models into the Atlas platform are critical moves that reduce developer friction for building sophisticated AI applications.",
+          "is_objective": true,
+          "credibility_assessment": "This demonstrates concrete AI product innovation and strategic actions to enhance its platform, making it more attractive for AI developers."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "Rubrik\u2019s monetization model, based on data under management rather than seats, is structurally aligned with the exponential growth of data and AI-driven activity, insulating it from automation-led seat reduction.",
+          "is_objective": true,
+          "credibility_assessment": "This highlights a structural economic benefit for Rubrik, showing its business model is resilient to AI-driven workforce changes and benefits from data growth."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "Rubrik\u2019s platform already manages the critical intersection of data, identity and recovery, which are exactly the control points required in an agentic environment.",
+          "is_objective": false,
+          "credibility_assessment": "This positions Rubrik as essential for AI governance and security, indicating a mission-critical role in the evolving AI landscape."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "The company prices primarily on basis points of annual construction volume, not on seats. That structural fact limits the most common AI fear \u2013 seat compression.",
+          "is_objective": true,
+          "credibility_assessment": "This highlights a structural economic benefit for Procore, directly mitigating a key AI risk related to labor automation."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "construction is a high-liability, highly governed environment where controlled execution \u2013 approvals, change orders, compliance documentation, and audit trails \u2013 is non-negotiable. The platform that owns those workflows retains structural leverage, making true disintermediation difficult to achieve.",
+          "is_objective": true,
+          "credibility_assessment": "This emphasizes Procore's mission-critical role due to the inherent requirements and regulatory nature of the construction industry."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "Through its Helix intelligence layer and agent-building capabilities, Procore is positioning AI as a native enhancement to the platform.",
+          "is_objective": true,
+          "credibility_assessment": "This demonstrates tangible AI product innovation, showing Procore is actively integrating AI to enhance its platform rather than being disrupted by it."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "The company monetizes based on environments and workloads rather than on users, making it highly resilient to AI-driven automation of human tasks.",
+          "is_objective": true,
+          "credibility_assessment": "This highlights a structural economic benefit for Nutanix, showing its business model is resilient to AI-driven workforce changes."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "Nutanix is positioning for that scenario through GPT-in-a-Box, which provides customers with a practical, enterprise-ready path to deploy and manage AI workloads on Nutanix infrastructure.",
+          "is_objective": true,
+          "credibility_assessment": "This demonstrates tangible AI product innovation and strategic alignment, showing Nutanix is actively developing solutions for AI infrastructure."
+        }
+      ]
+    },
+    {
+      "claim": "AI is more likely to reinforce long-term growth for these companies than undermine it.",
+      "evidence_list": [
+        {
+          "evidence_type": "Opinion",
+          "content": "Our conclusions therefore lean constructive, with credible paths for AI to reinforce rather than undermine long-term growth.",
+          "is_objective": false,
+          "credibility_assessment": "This is a direct statement of the analysts' positive outlook, framing AI as a growth enabler rather than a threat."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "the strategic role of operational databases should grow, not shrink, in an AI world",
+          "is_objective": false,
+          "credibility_assessment": "This is a forward-looking projection of increased demand for MongoDB's core offering, directly linking AI to its growth."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "AI expands the need for modern operational data platforms.",
+          "is_objective": false,
+          "credibility_assessment": "This explains the underlying reason for MongoDB's growth, connecting AI's data demands to its platform's utility."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "As the center of gravity for AI shifts from model training to powering live, interactive applications, the operational database becomes the architectural centerpiece for delivering real-time context.",
+          "is_objective": false,
+          "credibility_assessment": "This positions MongoDB as central to the evolving AI stack, implying increased strategic importance and usage."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "Rubrik\u2019s strategic identity has evolved beyond data protection; it is now fundamentally a data security platform engineered for the AI era. Its value proposition is magnified as AI adoption accelerates data proliferation, automates high-stakes actions, and increases the blast radius of security incidents.",
+          "is_objective": false,
+          "credibility_assessment": "This argues that AI *increases* the need for Rubrik's services, expanding its market relevance and value proposition."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "Instead of being disintermediated by emerging AI orchestration layers, Rubrik is positioned to serve as an essential governance plane for them.",
+          "is_objective": false,
+          "credibility_assessment": "This reframes AI as an opportunity for Rubrik to expand its role into critical governance functions, reinforcing its strategic position."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "The primary implication is that AI structurally expands Rubrik\u2019s addressable opportunity rather than compressing it.",
+          "is_objective": false,
+          "credibility_assessment": "This is a strong statement about AI being a fundamental tailwind for Rubrik, leading to an expanded market."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "AI-driven efficiencies in construction planning and coordination have the potential to expand the amount of working flowing through the platform.",
+          "is_objective": false,
+          "credibility_assessment": "This suggests AI could increase the volume of activity that Procore monetizes, leading to revenue growth."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "AI is more likely to accelerate the industry\u2019s shift toward centralized digital workflows than to displace the platforms that enable them.",
+          "is_objective": false,
+          "credibility_assessment": "This argues that AI will drive greater adoption and reliance on platforms like Procore, reinforcing its market position."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "From a budget alignment perspective, AI generally increases the strategic importance of hybrid infrastructure rather than reducing it.",
+          "is_objective": false,
+          "credibility_assessment": "This suggests AI will lead to increased spending on Nutanix's core offerings, aligning with budget priorities."
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "We view Nutanix as strategically aligned with AI infrastructure demand, even if near-term proof points are still emerging.",
+          "is_objective": false,
+          "credibility_assessment": "This highlights Nutanix's long-term strategic fit with AI trends, implying future growth potential as AI infrastructure needs mature."
+        }
+      ]
+    }
+  ]
+}

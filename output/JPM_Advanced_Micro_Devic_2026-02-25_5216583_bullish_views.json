@@ -1,0 +1,68 @@
+{
+  "bullish_views": [
+    {
+      "company": "Advanced Micro Devices",
+      "ticker": "AMD US",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-02-24",
+      "bullish_debate_point": "AMD has secured a multi-year, multi-generation agreement with META to deploy 6GW of AMD GPUs, affirming significant traction with key customers for its MI450 and beyond products.",
+      "exact_sentences_in_the_file": "Agreement with META Affirms Significant Traction with Key Customers for MI450 and Beyond; This morning AMD and META announced a multi-year, multi-generation agreement to deploy 6GW of AMD GPUs ( link), with initial capacity roll-outs scheduled for 2H26."
+    },
+    {
+      "company": "Advanced Micro Devices",
+      "ticker": "AMD US",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-02-24",
+      "bullish_debate_point": "The META agreement validates management's claims of being in 'deep design phase' with multiple customers for multi-GW scale engagements, increasing confidence in future similar agreements with other major customers (hyperscalers, AI labs).",
+      "exact_sentences_in_the_file": "The confirmation of an additional multi-GW agreement aligns with management\u2019s messaging over the past couple of quarters that AMD is in the \u201cdeep design phase\u201d with multiple customers for multi-GW scale engagements, raising confidence in the likelihood of additional agreements of a similar scale being struck with other major customers (hyperscalers, AI labs)."
+    },
+    {
+      "company": "Advanced Micro Devices",
+      "ticker": "AMD US",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-02-24",
+      "bullish_debate_point": "The OpenAI and META deals alone are expected to drive Data Center GPU revenue well in excess of current expectations for CY27 and beyond, even without considering other disclosed customers like Oracle.",
+      "exact_sentences_in_the_file": "In our estimation, though, the OAI and META deals alone already set the stage for AMD to potentially grow DC GPU revenue well in excess of current expectations for CY27 and beyond, without even layering in much incremental revenue from other already-disclosed customers such as ORCL (which commences MI450 deployments in 3Q26)."
+    },
+    {
+      "company": "Advanced Micro Devices",
+      "ticker": "AMD US",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-02-24",
+      "bullish_debate_point": "The 6GW of planned AMD GPU deployments for META are estimated to generate substantial revenue of ~$23-25B/yr on a run-rate basis for 2027-2030, totaling ~$90-100B in aggregate.",
+      "exact_sentences_in_the_file": "As it stands, we estimate that the 6GW of planned AMD GPU deployments for META will drive revenue of ~$23-25B/yr on a run-rate basis for the period 2027-2030 (~$90-100B in aggregate over a 4-yr roll-out)."
+    },
+    {
+      "company": "Advanced Micro Devices",
+      "ticker": "AMD US",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-02-24",
+      "bullish_debate_point": "The META engagement is accretive to earnings, strengthens AMD's position in the AI infrastructure landscape, signals its compelling AI compute solution to other potential customers, and positions the company to capture additional share in a >$1T TAM by 2030.",
+      "exact_sentences_in_the_file": "Granted, the engagement is still solidly accretive to earnings and, perhaps more importantly, further entrenches AMD as a growing force within the AI infrastructure landscape, sending a strong signal to other potential customers that the AMD hardware/software stack is a compelling option for AI compute in a capacity-constrained world, and positioning the company to capture additional share within a TAM that the company has pegged at >$1T by 2030."
+    },
+    {
+      "company": "Advanced Micro Devices",
+      "ticker": "AMD US",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-02-24",
+      "bullish_debate_point": "AMD's customizability of existing platforms, leveraging its chiplet architecture for semi-custom designs, is a key competitive differentiator that drives operating leverage with minimal incremental investment.",
+      "exact_sentences_in_the_file": "Customizability of existing platforms is a key competitive differentiator for AMD; Beyond the competitive TCO that AMD is able to provide via its off-the-shelf/merchant Instinct products, the ability for customers to leverage AMD\u2019s chiplet architecture for semi-custom designs (as META has done with the MI450 platform for its first gigawatt of deployed capacity) is a key competitive differentiator for AMD that requires only minimal incremental investment/opex (driving operating leverage), and an aspect of its broader offering that we expect other customers to leverage over time, especially amid explosive growth in inference workloads where specialized/bespoke compute can be highly beneficial to performance."
+    },
+    {
+      "company": "Advanced Micro Devices",
+      "ticker": "AMD US",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-02-24",
+      "bullish_debate_point": "AMD is poised to expand its server CPU footprint at META with its 6th-gen 'Venice' CPUs and is positioned to capture broader server CPU market share against Intel due to a stronger product portfolio/roadmap and a less challenging wafer supply backdrop.",
+      "exact_sentences_in_the_file": "With inference workloads also increasingly drawing on CPU compute (mgmt characterized the server CPU market as \u201cabsoultely on fire\u201d), AMD is poised to expand its server CPU footprint at META with this agreement (mgmt called out META as a lead customer for its 6th-gen \u201cVenice\u201d CPUs launching later this year), and more broadly, is positioned to continue to capture share of the broader server CPU market relative to INTC over the next few quarters, given its stronger product portfolio/roadmap and, in the near-term, a less challenging wafer supply backdrop (vs. INTC)."
+    }
+  ],
+  "file_Id": "JPM_Advanced_Micro_Devic_2026-02-25_5216583.pdf"
+}

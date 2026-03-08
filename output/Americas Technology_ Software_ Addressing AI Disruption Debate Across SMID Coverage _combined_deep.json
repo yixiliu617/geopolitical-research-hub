@@ -1,0 +1,1738 @@
+{
+  "catalyst_analysis": {
+    "catalysts": [
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Market Sentiment",
+        "catalyst_topic": "AI Disruption Impact on Valuation",
+        "catalyst_details": "MongoDB's stock is down -18% YTD, reflecting a de-rating of premium multiple stocks due to heightened AI disruption fears, despite the company being viewed as a long-term AI beneficiary.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-09",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "MongoDB is down -18% YTD vs. IGV -22%. Despite the selloff, we continue to view MongoDB as a clear long-term AI beneficiary. In our view, the recent de-rating is less a statement on fundamentals and more a function of heightened sensitivity toward premium multiple stocks in an environment where sentiment has turned decisively cautious."
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Business Performance",
+        "catalyst_topic": "Market Expansion & Workload Deployment",
+        "catalyst_details": "The core business is inflecting as MongoDB shifts upmarket, supporting larger and more mission-critical workload deployments, contributing to expected high-20s Atlas growth in FY27.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-09",
+        "catalyst_dates": "FY27",
+        "exact_sentences_in_the_file": "The core business is inflecting as the company shifts upmarket, supporting larger and more mission-critical workload deployments, and 3) AI is early but growing \u2013 we expect contributions to ramp in FY27."
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Technology Adoption",
+        "catalyst_topic": "AI-driven Demand Growth",
+        "catalyst_details": "AI contributions are expected to ramp in FY27, benefiting MongoDB's consumption-based model which is directly tied to higher workload activity, as AI applications expand the need for modern operational data platforms.",
+        "status": "Upcoming",
+        "observation_date": "2026-02-09",
+        "catalyst_dates": "FY27",
+        "exact_sentences_in_the_file": "AI is early but growing \u2013 we expect contributions to ramp in FY27. Bottom line: we continue to see an upside case for Atlas growing high-20s in FY27, benefiting from a stable core and a gradual ramp in AI workloads. MongoDB\u2019s consumption-based model is directly levered to higher workload activity, which aligns well with the way AI workloads are likely to scale over time; it also naturally hedges against seat-based risks facing many software vendors."
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Product Innovation",
+        "catalyst_topic": "AI-native Platform Development",
+        "catalyst_details": "MongoDB is evolving into an integrated platform for AI-native development through the acquisition of Voyage AI and native integration of Vector Search and Embedding models into Atlas, simplifying the tech stack and increasing switching costs.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-09",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "MongoDB is strategically evolving from a database into an integrated platform for AI-native development, thereby building a durable competitive moat. The acquisition of Voyage AI and the native integration of Vector Search and Embedding models into the Atlas platform are critical moves that reduce developer friction for building sophisticated AI applications."
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "RBRK",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Market Sentiment",
+        "catalyst_topic": "Valuation & Competitive Landscape",
+        "catalyst_details": "Rubrik is down -33% YTD, underperforming broader software due to sector-wide de-rating and negative read-across from weaker results of peers Commvault and Varonis, though the report views this comparison as misplaced.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-09",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "Rubrik is down -33% YTD vs. IGV -22%. Rubrik has considerably underperformed broader software despite impressive F3Q results, including mid-30\u2019s ARR growth and record FCFM (+22%). We view the recent selling pressure as driven partly by sector-wide de-rating, but also by negative read-across due to weaker prints from peers Commvault and Varonis."
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "RBRK",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Financial Performance",
+        "catalyst_topic": "Quarterly Earnings",
+        "catalyst_details": "Rubrik reported impressive F3Q results with mid-30s ARR growth and record FCFM (+22%), and announced on February 4th that preliminary F4Q results exceeded all guidance metrics, indicating strong execution.",
+        "status": "Completed",
+        "observation_date": "2026-02-09",
+        "catalyst_dates": "2026-02-04",
+        "exact_sentences_in_the_file": "Rubrik has considerably underperformed broader software despite impressive F3Q results, including mid-30\u2019s ARR growth and record FCFM (+22%). We are constructive on Rubrik\u2019s announcement (2/4) that preliminary F4Q results exceeded all guidance metrics."
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "RBRK",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Product Strategy",
+        "catalyst_topic": "AI-driven Data Security",
+        "catalyst_details": "Rubrik is evolving into a data security platform for the AI era, with its value proposition enhanced by AI adoption increasing data proliferation and security incidents. Its Agent Cloud and Identity Resilience offerings position it for AI governance and remediation.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-09",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "Rubrik\u2019s strategic identity has evolved beyond data protection; it is now fundamentally a data security platform engineered for the AI era. Agent Cloud and Identity Resilience position Rubrik as part of AI governance and remediation."
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "RBRK",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Market Opportunity",
+        "catalyst_topic": "AI-driven Market Expansion",
+        "catalyst_details": "AI structurally expands Rubrik's addressable market by increasing the need for instantaneous, reliable remediation as automation scales, positioning Rubrik as an essential governance plane for AI orchestration layers.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-09",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "The primary implication is that AI structurally expands Rubrik\u2019s addressable opportunity rather than compressing it."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "PCOR",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Earnings Announcement",
+        "catalyst_topic": "F4Q25 Earnings",
+        "catalyst_details": "Procore is scheduled to report F4Q25 earnings on February 12, 2026. Expectations include a modest revenue beat (+2-3%) and guidance for revenue broadly in-line to slightly-above consensus at $1.47B, with +300-400 bps of margin expansion.",
+        "status": "Upcoming",
+        "observation_date": "2026-02-09",
+        "catalyst_dates": "2026-02-12",
+        "exact_sentences_in_the_file": "We are updating price targets to reflect lower peer multiples and also address expectations for Procore\u2019s upcoming F4Q earnings (Feb. 12) within the report. Procore reports F4Q25 earnings on 2/12. We expect a modest revenue beat of +2-3%, consistent with the last few quarters, and Management to guide Revenue broadly in-line to slightly-above Consensus at $1.47B coupled with +300-400 bps of margin expansion as Procore laps a higher investment cycle tied to the GTM evolution."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "PCOR",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Technology Trend",
+        "catalyst_topic": "AI Disruption Risk",
+        "catalyst_details": "Investor concern is growing around Procore's workflow exposure and role as a system-of-record due to AI disruption fears, specifically the risk of external AI agents becoming the primary interface. However, Procore's volume-linked monetization and deep integration into governed construction processes provide offsets.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-09",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "We believe the recent underperformance in Procore relative to broader software at least partially reflects growing investor concern around its workflow exposure and role as a system-of-record given heightened AI disruption fears. The more nuanced risk is whether an external agent layer becomes the primary interface, relegating Procore to a lower-value system of record."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "PCOR",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Product Innovation",
+        "catalyst_topic": "AI Integration",
+        "catalyst_details": "Procore is enhancing its platform with AI through its Helix intelligence layer and agent-building capabilities, linking automation to approvals, compliance, and documentation to improve productivity and create new monetization opportunities.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-09",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "We believe Procore\u2019s opportunity is defending the execution layer and monetizing outcomes. Through its Helix intelligence layer and agent-building capabilities, Procore is positioning AI as a native enhancement to the platform."
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "NTNX",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Financial Performance",
+        "catalyst_topic": "Revenue Guidance & Valuation",
+        "catalyst_details": "Nutanix has significantly underperformed, with shares down -47% in the last 6 months, initially due to a timing-related guide-down on FY26 Revenue.",
+        "status": "Completed",
+        "observation_date": "2026-02-09",
+        "catalyst_dates": "FY26",
+        "exact_sentences_in_the_file": "Nutanix is down -22% YTD vs. IGV -22%; in the L6M, shares are down -47% vs. IGV -26%. Nutanix has been amongst the worst performers within our coverage and the broader software universe in the L6M; the initial leg down had to do with a timing-related guide-down on FY26 Revenue (more here)"
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "NTNX",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Supply Chain",
+        "catalyst_topic": "Hardware Costs & Demand",
+        "catalyst_details": "Concerns exist regarding demand elasticity for servers due to rising memory prices and component shortages, creating a complex setup for upcoming F2Q results.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-09",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "Concerns over demand elasticity tied to servers given rising memory prices and component shortages"
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "NTNX",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Market Sentiment",
+        "catalyst_topic": "AI Disruption Risk",
+        "catalyst_details": "The broader software sector de-rating due to AI disruption fears has impacted Nutanix, though the report argues this misconstrues Nutanix's insulated positioning at the infrastructure layer.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-09",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "Software sector de-rating on AI disruption fears."
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "NTNX",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Market Opportunity",
+        "catalyst_topic": "Cloud Adoption",
+        "catalyst_details": "Nutanix's hybrid multi-cloud opportunity remains intact, as a significant portion of enterprise AI deployments are expected to reside outside the public cloud due to data locality, cost, and governance requirements.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-09",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "We acknowledge a complex setup into F2Q results (re: memory concerns) but believe the company\u2019s hybrid multi-cloud opportunity remains intact and the recent AI-related selloff misconstrues Nutanix\u2019s positioning within the tech stack. However, we believe a significant portion of enterprise AI deployments will ultimately reside outside the public cloud due to data locality, cost predictability and governance requirements."
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "NTNX",
+        "sector": "Technology",
+        "industry": "Software",
+        "catalyst_type": "Product Launch",
+        "catalyst_topic": "AI Deployment Solution",
+        "catalyst_details": "Nutanix is addressing hybrid/on-prem AI infrastructure demand with its GPT-in-a-Box offering, providing customers a practical path to deploy and manage AI workloads on Nutanix infrastructure.",
+        "status": "Ongoing",
+        "observation_date": "2026-02-09",
+        "catalyst_dates": "N/A",
+        "exact_sentences_in_the_file": "Nutanix is positioning for that scenario through GPT-in-a-Box, which provides customers with a practical, enterprise-ready path to deploy and manage AI workloads on Nutanix infrastructure."
+      }
+    ],
+    "file_Id": "Americas Technology_ Software_ Addressing AI Disruption Debate Across SMID Coverage .pdf"
+  },
+  "bullish_deep_analysis": {
+    "bullish_views": [
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Insulated from seat disruption fears and faces limited displacement risk; strategic role of operational databases will grow.",
+        "exact_sentences_in_the_file": "MongoDB is insulated from seat disruption fears and faces limited displacement risk; the strategic role of operational databases should grow, not shrink, in an AI world"
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Core business is inflecting, supporting larger and more mission-critical workload deployments.",
+        "exact_sentences_in_the_file": "The core business is inflecting as the company shifts upmarket, supporting larger and more mission-critical workload deployments"
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "AI contributions are early but growing, expected to ramp in FY27.",
+        "exact_sentences_in_the_file": "AI is early but growing \u2013 we expect contributions to ramp in FY27."
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Atlas platform is expected to grow high-20s in FY27, benefiting from a stable core and gradual ramp in AI workloads.",
+        "exact_sentences_in_the_file": "Bottom line: we continue to see an upside case for Atlas growing high-20s in FY27, benefiting from a stable core and a gradual ramp in AI workloads."
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "AI expands the need for modern operational data platforms, which MongoDB's architecture is well-suited for.",
+        "exact_sentences_in_the_file": "MongoDB\u2019s relevance to AI is grounded in a simple structural reality: AI expands the need for modern operational data platforms. AI applications still need to persist data, maintain state, manage transactions and support real-time reads and writes. Those requirements do not disappear as agents become more capable; they become more demanding. MongoDB\u2019s document-oriented architecture is particularly well-suited to flexible, rapidly evolving data structures that AI-native applications generate."
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Consumption-based model is directly levered to higher workload activity, hedging against seat-based risks.",
+        "exact_sentences_in_the_file": "MongoDB\u2019s consumption-based model is directly levered to higher workload activity, which aligns well with the way AI workloads are likely to scale over time; it also naturally hedges against seat-based risks facing many software vendors."
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Positioned at the core of the AI stack as AI shifts from model training to powering live, interactive applications.",
+        "exact_sentences_in_the_file": "As the center of gravity for AI shifts from model training to powering live, interactive applications, the operational database becomes the architectural centerpiece for delivering real-time context. For AI agents and Copilots to be effective, they must interact with live, stateful enterprise data, positioning platforms like MongoDB at the core of the AI stack."
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Developer-centric approach and product velocity secure its position for high-value, mission-critical AI applications.",
+        "exact_sentences_in_the_file": "MongoDB\u2019s developer-centric approach and product velocity continue to secure its position as a primary platform for high-value, mission-critical AI applications. We point to MongoDB\u2019s recent announcement that Anthropic is a customer to underscore this point."
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Strategically evolving into an integrated platform for AI-native development, building a durable competitive moat.",
+        "exact_sentences_in_the_file": "MongoDB is strategically evolving from a database into an integrated platform for AI-native development, thereby building a durable competitive moat."
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Acquisition of Voyage AI and native integration of Vector Search and Embedding models reduce developer friction and increase switching costs.",
+        "exact_sentences_in_the_file": "The acquisition of Voyage AI and the native integration of Vector Search and Embedding models into the Atlas platform are critical moves that reduce developer friction for building sophisticated AI applications. By embedding these essential AI capabilities directly within the data platform, MongoDB simplifies the tech stack, accelerates time-to-market, and increases switching costs."
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Integrated strategy will capture significant incremental consumption from AI workloads, reinforcing long-term growth.",
+        "exact_sentences_in_the_file": "We believe this integrated strategy will allow MongoDB to capture significant incremental consumption from AI workloads as they move from experimentation to production, reinforcing the long-term growth durability of the Atlas platform."
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "RBRK",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Continues to establish itself as the primary consolidator within backup and recovery, with expanding wallet share opportunities in security and operations budgets.",
+        "exact_sentences_in_the_file": "Rubrik continues to establish itself as the primary consolidator within backup and recovery (displacement bookings accelerated in F3Q), with expanding wallet share opportunities in more strategic security and operations budgets tied to identity recovery, cyber-resilience and its newer Agent Cloud platform."
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "RBRK",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Best-in-class execution relative to software peers, with underappreciated durable high-20\u2019s to low-30\u2019s ARR growth and rapidly improving profitability.",
+        "exact_sentences_in_the_file": "Execution has been best-in-class relative to software peers, and the combination of durable high-20\u2019s to low-30\u2019s ARR growth with rapidly improving profitability remains underappreciated."
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "RBRK",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Preliminary F4Q results exceeded all guidance metrics, indicating strong performance.",
+        "exact_sentences_in_the_file": "We are constructive on Rubrik\u2019s announcement (2/4) that preliminary F4Q results exceeded all guidance metrics."
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "RBRK",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Attractive risk-reward due to significant dislocation relative to high-growth peers.",
+        "exact_sentences_in_the_file": "With significant dislocation relative to high-growth peers, we see an attractive risk-reward."
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "RBRK",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Evolved into a data security platform engineered for the AI era, with value magnified by AI adoption.",
+        "exact_sentences_in_the_file": "Rubrik\u2019s strategic identity has evolved beyond data protection; it is now fundamentally a data security platform engineered for the AI era. Its value proposition is magnified as AI adoption accelerates data proliferation, automates high-stakes actions, and increases the blast radius of security incidents."
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "RBRK",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Monetization model (data under management) is structurally aligned with exponential data growth and AI activity, insulating it from seat reduction.",
+        "exact_sentences_in_the_file": "Critically, Rubrik\u2019s monetization model, based on data under management rather than seats, is structurally aligned with the exponential growth of data and AI-driven activity, insulating it from automation-led seat reduction."
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "RBRK",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Positioned as an essential governance plane for AI orchestration layers, managing critical data, identity, and recovery control points.",
+        "exact_sentences_in_the_file": "Instead of being disintermediated by emerging AI orchestration layers, Rubrik is positioned to serve as an essential governance plane for them. Enterprises will need guardrails around how AI agents access data, make changes, and recover from errors. Rubrik\u2019s platform already manages the critical intersection of data, identity and recovery, which are exactly the control points required in an agentic environment."
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "RBRK",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "AI structurally expands Rubrik\u2019s addressable opportunity rather than compressing it, increasing the value of remediation.",
+        "exact_sentences_in_the_file": "The primary implication is that AI structurally expands Rubrik\u2019s addressable opportunity rather than compressing it. As automation scales, the value of instantaneous, reliable remediation rises in tandem."
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "RBRK",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Assessed as a durable tailwind that deepens strategic relevance across cybersecurity and IT operations.",
+        "exact_sentences_in_the_file": "We therefore assess AI not as a disruptive risk, but as a durable tailwind that deepens Rubrik\u2019s strategic relevance across both cybersecurity and IT operations."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "PCOR",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Operates from a strong position as the primary data aggregation and execution layer for complex construction workflows, giving it structural relevance.",
+        "exact_sentences_in_the_file": "However, we believe Procore operates from a strong position as the primary data aggregation and execution layer for complex construction workflows, giving it structural relevance even as agent interfaces evolve."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "PCOR",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Attractive risk-reward profile, trading at a wide discount to vertical SaaS peers on a growth-adjusted FCF basis.",
+        "exact_sentences_in_the_file": "At 5x EV/S and mid-20\u2019s EV/FCF, we see an increasingly attractive risk-reward profile, now trading a wide discount to vertical SaaS peers on a growth-adjusted FCF basis."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "PCOR",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Market underappreciates its ability to compound growth steadily in the low-to-mid-teens while expanding FCFMs towards 30%+.",
+        "exact_sentences_in_the_file": "We believe the market increasingly underappreciates Procore\u2019s ability to compound growth steadily in the low-to-mid-teens \u2013 with current growth trends reflective of a construction downcycle - all while steadily expanding FCFMs towards 30%+."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "PCOR",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Volume-linked model limits AI threat of seat compression, as pricing is based on construction volume, not users.",
+        "exact_sentences_in_the_file": "Procore\u2019s volume-linked model materially limits the most obvious AI threat. The company prices primarily on basis points of annual construction volume, not on seats. That structural fact limits the most common AI fear \u2013 seat compression."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "PCOR",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "AI-driven efficiencies in construction planning and coordination have the potential to expand the amount of work flowing through the platform.",
+        "exact_sentences_in_the_file": "To that end, AI-driven efficiencies in construction planning and coordination have the potential to expand the amount of working flowing through the platform."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "PCOR",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Deep integration into a high-liability, highly governed construction environment provides structural leverage, making disintermediation difficult.",
+        "exact_sentences_in_the_file": "However, construction is a high-liability, highly governed environment where controlled execution \u2013 approvals, change orders, compliance documentation, and audit trails \u2013 is non-negotiable. The platform that owns those workflows retains structural leverage, making true disintermediation difficult to achieve."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "PCOR",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Long runway for platform adoption and workflow standardization due to construction being one of the least digitized industries.",
+        "exact_sentences_in_the_file": "At the same time, construction remains one of the least digitized industries. That creates a long runway for Procore to drive platform adoption and workflow standardization regardless of how agent layers evolve."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "PCOR",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "AI is more likely to accelerate the industry\u2019s shift toward centralized digital workflows than to displace platforms like Procore.",
+        "exact_sentences_in_the_file": "In our view, AI is more likely to accelerate the industry\u2019s shift toward centralized digital workflows than to displace the platforms that enable them."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "PCOR",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Positioning AI as a native enhancement through Helix intelligence layer and agent-building capabilities, defending the execution layer and monetizing outcomes.",
+        "exact_sentences_in_the_file": "We believe Procore\u2019s opportunity is defending the execution layer and monetizing outcomes. Through its Helix intelligence layer and agent-building capabilities, Procore is positioning AI as a native enhancement to the platform."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "PCOR",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Proactive AI roadmap, activity-based monetization, and deep process integration position it to participate in AI orchestration rather than be displaced.",
+        "exact_sentences_in_the_file": "While Procore has more direct workflow exposure than other names in our coverage, we believe its activity-based monetization, deep process integration and proactive AI roadmap leave it well-positioned to participate in \u2013 rather than be displaced by \u2013 the rise of agent orchestration."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "PCOR",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Expected modest revenue beat for F4Q25 and management guidance in-line to slightly-above Consensus, with margin expansion.",
+        "exact_sentences_in_the_file": "Procore reports F4Q25 earnings on 2/12. We expect a modest revenue beat of +2-3%, consistent with the last few quarters, and Management to guide Revenue broadly in-line to slightly-above Consensus at $1.47B coupled with +300-400 bps of margin expansion as Procore laps a higher investment cycle tied to the GTM evolution."
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "NTNX",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Market increasingly discounting its durable low double-digit growth potential.",
+        "exact_sentences_in_the_file": "At 10x EV/FCF, we believe the market is increasingly discounting Nutanix\u2019s durable low double-digit growth potential."
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "NTNX",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Hybrid multi-cloud opportunity remains intact despite complex setup into F2Q results.",
+        "exact_sentences_in_the_file": "In short, we acknowledge a complex setup into F2Q results (re: memory concerns) but believe the company\u2019s hybrid multi-cloud opportunity remains intact"
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "NTNX",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Recent AI-related selloff misconstrues Nutanix\u2019s positioning within the tech stack.",
+        "exact_sentences_in_the_file": "the recent AI-related selloff misconstrues Nutanix\u2019s positioning within the tech stack."
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "NTNX",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Inherently insulated because it operates at the infrastructure layer, monetizing based on environments and workloads rather than users.",
+        "exact_sentences_in_the_file": "Nutanix is inherently insulated because it operates at the infrastructure layer. The company monetizes based on environments and workloads rather than on users, making it highly resilient to AI-driven automation of human tasks."
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "NTNX",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "AI generally increases the strategic importance of hybrid infrastructure, aligning with Nutanix's budget.",
+        "exact_sentences_in_the_file": "From a budget alignment perspective, AI generally increases the strategic importance of hybrid infrastructure rather than reducing it."
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "NTNX",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Significant portion of enterprise AI deployments will reside outside the public cloud, which Nutanix is positioning for with GPT-in-a-Box.",
+        "exact_sentences_in_the_file": "However, we believe a significant portion of enterprise AI deployments will ultimately reside outside the public cloud due to data locality, cost predictability and governance requirements. Nutanix is positioning for that scenario through GPT-in-a-Box, which provides customers with a practical, enterprise-ready path to deploy and manage AI workloads on Nutanix infrastructure."
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "NTNX",
+        "sector": "AMERICAS TECHNOLOGY: SOFTWARE",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bullish_debate_point": "Strategically aligned with AI infrastructure demand, with its core value proposition of simplification and lifecycle management becoming more relevant as AI increases operational complexity.",
+        "exact_sentences_in_the_file": "We view Nutanix as strategically aligned with AI infrastructure demand, even if near-term proof points are still emerging. As AI increases operational complexity across mixed environments, Nutanix\u2019s core value proposition of simplification and lifecycle management becomes more relevant."
+      }
+    ],
+    "thesis_analysis": {
+      "central_thesis": "While AI disruption concerns have caused a software valuation reset, the covered companies (MongoDB, Rubrik, Nutanix, Procore) are largely insulated due to their durable economics, mission-critical platform roles, and tangible AI product innovation, with AI more likely to reinforce rather than undermine their long-term growth, creating attractive investment opportunities.",
+      "sub_claims": [
+        {
+          "claim": "AI disruption concerns are overblown for the covered companies, as their practical exposure to AI risk is limited.",
+          "evidence_list": [
+            {
+              "evidence_type": "Opinion",
+              "content": "we believe the practical exposure for our coverage is far more limited than current sentiment implies.",
+              "is_objective": false,
+              "credibility_assessment": "This is a core assertion by the analysts, based on their proprietary framework, suggesting market sentiment is overly negative."
+            },
+            {
+              "evidence_type": "Opinion",
+              "content": "Our conclusions therefore lean constructive, with credible paths for AI to reinforce rather than undermine long-term growth.",
+              "is_objective": false,
+              "credibility_assessment": "This is the analysts' forward-looking assessment, indicating a positive outlook for the companies' growth trajectory despite AI concerns."
+            },
+            {
+              "evidence_type": "Opinion",
+              "content": "our analysis suggests most of our coverage sits in more insulated layers of the stack, creating attractive opportunities for investors willing to look through near-term volatility.",
+              "is_objective": false,
+              "credibility_assessment": "This is the analysts' interpretation of their framework's results, highlighting a potential mispricing in the market and an investment opportunity."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "The recent selloff in software reflects a rapid shift in investor sentiment rather than a sudden deterioration in fundamentals.",
+              "is_objective": true,
+              "credibility_assessment": "This observation sets the context, suggesting the market's negative reaction is driven by emotion rather than underlying business health, supporting the idea of mispriced valuations."
+            },
+            {
+              "evidence_type": "Opinion",
+              "content": "We think the market is asking the right question but applying it too broadly.",
+              "is_objective": false,
+              "credibility_assessment": "This highlights the analysts' belief that a nuanced, company-specific analysis (which their framework provides) is necessary, rather than a broad market generalization."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "By contrast, platforms that manage infrastructure, data governance, and recovery are far more insulated, because AI does not eliminate the need for trusted systems of record, secure environments or reliable operational foundations.",
+              "is_objective": true,
+              "credibility_assessment": "This provides a structural reason for insulation, explaining why certain software layers are inherently less susceptible to AI disruption."
+            },
+            {
+              "evidence_type": "Opinion",
+              "content": "In many cases, the rise of agents actually increases the need for those capabilities rather than diminishing them.",
+              "is_objective": false,
+              "credibility_assessment": "This strengthens the argument by suggesting AI could be a positive catalyst, increasing demand for these platforms' core functionalities."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "MongoDB, Rubrik and Nutanix operate in layers of the stack that benefit from greater data intensity, infrastructure complexity and operational risk as agents proliferate, while Procore has more direct workflow exposure and therefore somewhat greater sensitivity to how agent interfaces evolve.",
+              "is_objective": true,
+              "credibility_assessment": "This is a direct application of their AI Impact Framework, categorizing the companies based on their inherent insulation or exposure."
+            },
+            {
+              "evidence_type": "Opinion",
+              "content": "Even so, we believe Procore\u2019s deep integration into governed construction processes provides meaningful offsets to that risk.",
+              "is_objective": false,
+              "credibility_assessment": "This provides a specific mitigating factor for Procore, acknowledging its higher exposure but highlighting its strong defensive attributes."
+            },
+            {
+              "evidence_type": "Opinion",
+              "content": "As a result, we see limited practical displacement risk across our names despite price action to the contrary.",
+              "is_objective": false,
+              "credibility_assessment": "This is a direct conclusion from their comprehensive analysis, reinforcing the central thesis that displacement risk is minimal."
+            }
+          ]
+        },
+        {
+          "claim": "The covered companies possess durable economics, mission-critical platform roles, and tangible AI product innovation.",
+          "evidence_list": [
+            {
+              "evidence_type": "Opinion",
+              "content": "Across the group, we see businesses that benefit from durable economics, mission-critical platform roles and tangible AI product innovation that together provide meaningful insulation in a period of elevated uncertainty.",
+              "is_objective": false,
+              "credibility_assessment": "This is a high-level summary of the positive attributes of the covered companies, setting the stage for more detailed evidence."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "The entire 'AI Impact Framework' section and Exhibit 2 describe how these companies are evaluated across dimensions like 'System-of-Record Ownership', 'Data and Integration Moat', and 'AI Execution', which directly relate to mission-critical roles and AI innovation.",
+              "is_objective": true,
+              "credibility_assessment": "This refers to a structured, repeatable method for assessing the companies' strengths, lending objectivity to the claims of mission-criticality and innovation."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "MongoDB\u2019s consumption-based model is directly levered to higher workload activity, which aligns well with the way AI workloads are likely to scale over time; it also naturally hedges against seat-based risks facing many software vendors.",
+              "is_objective": true,
+              "credibility_assessment": "This highlights a structural economic benefit for MongoDB, showing its business model is inherently aligned with AI growth and resilient to common AI risks."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "MongoDB\u2019s developer-centric approach and product velocity continue to secure its position as a primary platform for high-value, mission-critical AI applications.",
+              "is_objective": true,
+              "credibility_assessment": "This points to MongoDB's competitive advantages and strong market position, indicating its platform is essential for AI development."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "The acquisition of Voyage AI and the native integration of Vector Search and Embedding models into the Atlas platform are critical moves that reduce developer friction for building sophisticated AI applications.",
+              "is_objective": true,
+              "credibility_assessment": "This demonstrates concrete AI product innovation and strategic actions to enhance its platform, making it more attractive for AI developers."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "Rubrik\u2019s monetization model, based on data under management rather than seats, is structurally aligned with the exponential growth of data and AI-driven activity, insulating it from automation-led seat reduction.",
+              "is_objective": true,
+              "credibility_assessment": "This highlights a structural economic benefit for Rubrik, showing its business model is resilient to AI-driven workforce changes and benefits from data growth."
+            },
+            {
+              "evidence_type": "Opinion",
+              "content": "Rubrik\u2019s platform already manages the critical intersection of data, identity and recovery, which are exactly the control points required in an agentic environment.",
+              "is_objective": false,
+              "credibility_assessment": "This positions Rubrik as essential for AI governance and security, indicating a mission-critical role in the evolving AI landscape."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "The company prices primarily on basis points of annual construction volume, not on seats. That structural fact limits the most common AI fear \u2013 seat compression.",
+              "is_objective": true,
+              "credibility_assessment": "This highlights a structural economic benefit for Procore, directly mitigating a key AI risk related to labor automation."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "construction is a high-liability, highly governed environment where controlled execution \u2013 approvals, change orders, compliance documentation, and audit trails \u2013 is non-negotiable. The platform that owns those workflows retains structural leverage, making true disintermediation difficult to achieve.",
+              "is_objective": true,
+              "credibility_assessment": "This emphasizes Procore's mission-critical role due to the inherent requirements and regulatory nature of the construction industry."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "Through its Helix intelligence layer and agent-building capabilities, Procore is positioning AI as a native enhancement to the platform.",
+              "is_objective": true,
+              "credibility_assessment": "This demonstrates tangible AI product innovation, showing Procore is actively integrating AI to enhance its platform rather than being disrupted by it."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "The company monetizes based on environments and workloads rather than on users, making it highly resilient to AI-driven automation of human tasks.",
+              "is_objective": true,
+              "credibility_assessment": "This highlights a structural economic benefit for Nutanix, showing its business model is resilient to AI-driven workforce changes."
+            },
+            {
+              "evidence_type": "Fact",
+              "content": "Nutanix is positioning for that scenario through GPT-in-a-Box, which provides customers with a practical, enterprise-ready path to deploy and manage AI workloads on Nutanix infrastructure.",
+              "is_objective": true,
+              "credibility_assessment": "This demonstrates tangible AI product innovation and strategic alignment, showing Nutanix is actively developing solutions for AI infrastructure."
+            }
+          ]
+        },
+        {
+          "claim": "AI is more likely to reinforce long-term growth for these companies than undermine it.",
+          "evidence_list": [
+            {
+              "evidence_type": "Opinion",
+              "content": "Our conclusions therefore lean constructive, with credible paths for AI to reinforce rather than undermine long-term growth.",
+              "is_objective": false,
+              "credibility_assessment": "This is a direct statement of the analysts' positive outlook, framing AI as a growth enabler rather than a threat."
+            },
+            {
+              "evidence_type": "Opinion",
+              "content": "the strategic role of operational databases should grow, not shrink, in an AI world",
+              "is_objective": false,
+              "credibility_assessment": "This is a forward-looking projection of increased demand for MongoDB's core offering, directly linking AI to its growth."
+            },
+            {
+              "evidence_type": "Opinion",
+              "content": "AI expands the need for modern operational data platforms.",
+              "is_objective": false,
+              "credibility_assessment": "This explains the underlying reason for MongoDB's growth, connecting AI's data demands to its platform's utility."
+            },
+            {
+              "evidence_type": "Opinion",
+              "content": "As the center of gravity for AI shifts from model training to powering live, interactive applications, the operational database becomes the architectural centerpiece for delivering real-time context.",
+              "is_objective": false,
+              "credibility_assessment": "This positions MongoDB as central to the evolving AI stack, implying increased strategic importance and usage."
+            },
+            {
+              "evidence_type": "Opinion",
+              "content": "Rubrik\u2019s strategic identity has evolved beyond data protection; it is now fundamentally a data security platform engineered for the AI era. Its value proposition is magnified as AI adoption accelerates data proliferation, automates high-stakes actions, and increases the blast radius of security incidents.",
+              "is_objective": false,
+              "credibility_assessment": "This argues that AI *increases* the need for Rubrik's services, expanding its market relevance and value proposition."
+            },
+            {
+              "evidence_type": "Opinion",
+              "content": "Instead of being disintermediated by emerging AI orchestration layers, Rubrik is positioned to serve as an essential governance plane for them.",
+              "is_objective": false,
+              "credibility_assessment": "This reframes AI as an opportunity for Rubrik to expand its role into critical governance functions, reinforcing its strategic position."
+            },
+            {
+              "evidence_type": "Opinion",
+              "content": "The primary implication is that AI structurally expands Rubrik\u2019s addressable opportunity rather than compressing it.",
+              "is_objective": false,
+              "credibility_assessment": "This is a strong statement about AI being a fundamental tailwind for Rubrik, leading to an expanded market."
+            },
+            {
+              "evidence_type": "Opinion",
+              "content": "AI-driven efficiencies in construction planning and coordination have the potential to expand the amount of working flowing through the platform.",
+              "is_objective": false,
+              "credibility_assessment": "This suggests AI could increase the volume of activity that Procore monetizes, leading to revenue growth."
+            },
+            {
+              "evidence_type": "Opinion",
+              "content": "AI is more likely to accelerate the industry\u2019s shift toward centralized digital workflows than to displace the platforms that enable them.",
+              "is_objective": false,
+              "credibility_assessment": "This argues that AI will drive greater adoption and reliance on platforms like Procore, reinforcing its market position."
+            },
+            {
+              "evidence_type": "Opinion",
+              "content": "From a budget alignment perspective, AI generally increases the strategic importance of hybrid infrastructure rather than reducing it.",
+              "is_objective": false,
+              "credibility_assessment": "This suggests AI will lead to increased spending on Nutanix's core offerings, aligning with budget priorities."
+            },
+            {
+              "evidence_type": "Opinion",
+              "content": "We view Nutanix as strategically aligned with AI infrastructure demand, even if near-term proof points are still emerging.",
+              "is_objective": false,
+              "credibility_assessment": "This highlights Nutanix's long-term strategic fit with AI trends, implying future growth potential as AI infrastructure needs mature."
+            }
+          ]
+        }
+      ]
+    },
+    "file_Id": "Americas Technology_ Software_ Addressing AI Disruption Debate Across SMID Coverage .pdf"
+  },
+  "bearish_analysis": {
+    "bearish_views": [
+      {
+        "company": "Software Sector (General)",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "AI disruption concerns have led to a meaningful reset in software valuations.",
+        "exact_sentences_in_the_file": "Software valuations have reset meaningfully as AI disruption concerns have moved to the center of the investment debate."
+      },
+      {
+        "company": "Software Sector (General)",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "New agent orchestration platforms (like Claude Cowork and OpenAI\u2019s Frontier) create a narrative that horizontal AI layers will capture a disproportionate share of software budgets.",
+        "exact_sentences_in_the_file": "Over the past several weeks, announcements around new agent orchestration platforms \u2013 Claude Cowork and OpenAI\u2019s Frontier \u2013 have created a powerful narrative that horizontal AI layers will coordinate enterprise workflows, automate complex tasks and ultimately capture a disproportionate share of software budgets."
+      },
+      {
+        "company": "Software Sector (General)",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "If AI agents become the primary interface for work, traditional software platforms could be relegated to passive data stores, losing pricing power and strategic relevance.",
+        "exact_sentences_in_the_file": "The concern is that if AI agents become the primary interface for executing work, traditional platforms could be relegated to passive data stores, with pricing power and strategic relevance migrating elsewhere."
+      },
+      {
+        "company": "Software Sector (General)",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "The narrative of AI disruption has led to aggressive multiple compression across software companies, often without considering differences in business models or AI execution.",
+        "exact_sentences_in_the_file": "That narrative has contributed to aggressive multiple compression across the group, often with little regard for differences in business model, end-market, or actual AI execution."
+      },
+      {
+        "company": "Software Sector (General)",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Compression in software valuations implies a meaningful step-down in expected medium-term growth, with current multiples embedding a 10-point reduction in forward revenue growth assumptions.",
+        "exact_sentences_in_the_file": "GS Portfolio Strategy suggests that the compression in software valuations now implies a meaningful step-down in expected medium-term growth. Their analysis indicates that today\u2019s multiples embed roughly a 10-point reduction in forward revenue growth assumptions (CY28) versus prior peaks (5-10% vs. 15-20%)."
+      },
+      {
+        "company": "Software Sector (General)",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Rapid AI innovation creates legitimate uncertainty and warrants a higher risk premium for software companies.",
+        "exact_sentences_in_the_file": "We recognize that rapid AI innovation creates legitimate uncertainty and warrants a higher risk premium."
+      },
+      {
+        "company": "Software Sector (General)",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Productivity-oriented applications that primarily monetize on users are more exposed to shifts in engagement due to AI agents.",
+        "exact_sentences_in_the_file": "Productivity-oriented applications that primarily monetize on users are more exposed to shifts in engagement, but even within that segment the picture is nuanced \u2013 many application vendors are embedding AI directly into their products and remain deeply integrated into mission-critical processes."
+      },
+      {
+        "company": "Software Sector (General)",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Agent orchestration could shift engagement and value capture over time for application software products that function primarily as lightweight UIs and monetize predominantly on seats.",
+        "exact_sentences_in_the_file": "In parts of application software, there is a reasonable view that agent orchestration could shift engagement and value capture over time, particularly for products that function primarily as lightweight UIs and monetize predominantly on seats."
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Persistent competition from Hyperscaler-native databases and the Postgres ecosystem poses a risk to MongoDB.",
+        "exact_sentences_in_the_file": "The principal risk to MongoDB is not AI-driven disintermediation but the persistent competition from Hyperscaler-native databases and the Postgres ecosystem."
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Increased competitive pressure from relational database incumbents, particularly Hyperscalers like Oracle, Microsoft, AWS, and GCP.",
+        "exact_sentences_in_the_file": "Key downside risks include: 1) Increased competitive pressure from relational database incumbents, particularly from Hyperscalers like Oracle, Microsoft, AWS, and GCP"
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Broader standardization around Postgres could impact MongoDB\u2019s win rates and expansion opportunities.",
+        "exact_sentences_in_the_file": "2) Broader standardization around Postgres impacts MongoDB\u2019s win rates and expansion opportunities"
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Slowing pace in cloud migration, multi-cloud adoption, digital transformation, and application modernization.",
+        "exact_sentences_in_the_file": "3) Slowing pace in cloud migration, multi-cloud adoption, digital transformation, and application modernization"
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "The AI cycle may prove to be a less meaningful tailwind than initially contemplated.",
+        "exact_sentences_in_the_file": "4) AI cycle proves to be a less meaningful tailwind than initially contemplated"
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Margin degradation due to required reinvestment or unanticipated headwinds from the EA business.",
+        "exact_sentences_in_the_file": "5) Margin degradation due to required reinvestment or unanticipated headwinds from the EA business"
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Adverse changes in the IT spending environment.",
+        "exact_sentences_in_the_file": "6) Adverse changes in the IT spending environment."
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Rubrik's stock underperformance is partly due to negative read-across from weaker prints by peers Commvault and Varonis.",
+        "exact_sentences_in_the_file": "We view the recent selling pressure as driven partly by sector-wide de-rating, but also by negative read-across due to weaker prints from peers Commvault and Varonis."
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Heightened competition from Cohesity, Commvault, and Veeam could limit Rubrik\u2019s ability to capture market share in backup and recovery.",
+        "exact_sentences_in_the_file": "Key downside risks include: 1) Heightened competition from Cohesity, Commvault and Veeam, among others, limits Rubrik\u2019s ability to capture a sizable portion of the legacy Backup and Recovery market"
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Industry consolidation, such as Cohesity combining with Veritas\u2019 data protection business, could lead to better-resourced peers and impact Rubrik\u2019s win rates.",
+        "exact_sentences_in_the_file": "2) Industry consolidation, akin to Cohesity combining with Veritas\u2019 data protection business, leading to better-resourced peers with improved distribution footprints and more competitive product offerings, impacting Rubrik\u2019s win rates"
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Elevated product development and sales and marketing expenditures could hinder further operating leverage.",
+        "exact_sentences_in_the_file": "3) Elevated product development and sales and marketing expenditures hinder further operating leverage"
+      },
+      {
+        "company": "Rubrik",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Slower-than-expected adoption of next-generation backup and recovery solutions could limit Rubrik\u2019s addressable market opportunity.",
+        "exact_sentences_in_the_file": "4) Slower-than-expected adoption of next-generation backup and recovery solutions limits Rubrik\u2019s addressable market opportunity."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Procore's stock underperformance reflects growing investor concern around its workflow exposure and role as a system-of-record due to AI disruption fears.",
+        "exact_sentences_in_the_file": "We believe the recent underperformance in Procore relative to broader software at least partially reflects growing investor concern around its workflow exposure and role as a system-of-record given heightened AI disruption fears."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Procore has more direct workflow exposure and greater sensitivity to how agent interfaces evolve compared to other covered companies.",
+        "exact_sentences_in_the_file": "Procore has more direct workflow exposure and therefore somewhat greater sensitivity to how agent interfaces evolve."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "An external agent layer could become the primary interface, relegating Procore to a lower-value system of record.",
+        "exact_sentences_in_the_file": "The more nuanced risk is whether an external agent layer becomes the primary interface, relegating Procore to a lower-value system of record."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "AI tools could capture some peripheral workloads, such as drafting communications or coordinating routine tasks.",
+        "exact_sentences_in_the_file": "We acknowledge that AI tools could capture some peripheral workloads \u2013 such as drafting communications or coordinating routine tasks \u2013 and we are monitoring that dynamic in real time."
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Heightened competition from vendors like Autodesk, which is focused on scaling its construction offering (Autodesk Construction Cloud).",
+        "exact_sentences_in_the_file": "Key downside risks to our thesis include: 1) Heightened competition from a number of vendors, including Autodesk, which remains focused on scaling its construction offering, Autodesk Construction Cloud"
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Lower-than-expected product attach rates or construction volume expansion within the installed base could weigh on revenue outperformance.",
+        "exact_sentences_in_the_file": "2) Lower-than-expected product attach rates or construction volume expansion within the company\u2019s installed base, weighing on potential revenue outperformance"
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "A longer-than-expected Go-To-Market (GTM) transition.",
+        "exact_sentences_in_the_file": "3) Longer-than-expected GTM transition"
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Execution challenges in re-accelerating the international business, which could limit the durability of double-digit revenue growth.",
+        "exact_sentences_in_the_file": "4) Execution challenges in re-accelerating the international business, which remains a key long-term growth vector for the company (and thus limiting the durability of double-digit revenue growth)"
+      },
+      {
+        "company": "Procore Technologies",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Slower-than-expected digitization within the construction industry, limiting Procore\u2019s overall addressable market opportunity.",
+        "exact_sentences_in_the_file": "5) Slower-than-expected digitization within the construction industry, limiting Procore\u2019s overall addressable market opportunity."
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Nutanix's stock underperformance is partly due to concerns over demand elasticity tied to servers given rising memory prices and component shortages.",
+        "exact_sentences_in_the_file": "the initial leg down had to do with a timing-related guide-down on FY26 Revenue (more here) but the price action in the past several weeks has been two-fold: 1) Concerns over demand elasticity tied to servers given rising memory prices and component shortages"
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Nutanix's stock underperformance is partly due to the broader software sector de-rating on AI disruption fears.",
+        "exact_sentences_in_the_file": "2) Software sector de-rating on AI disruption fears."
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "A risk exists that AI workloads consolidate around public cloud, rather than expanding to hybrid and on-prem environments, limiting Nutanix's opportunity.",
+        "exact_sentences_in_the_file": "The relevant AI debate for Nutanix is not disintermediation, but whether AI workloads consolidate around public cloud or expand to hybrid and on-prem environments."
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Tangible AI-driven demand for Nutanix's solutions has been limited to date.",
+        "exact_sentences_in_the_file": "We recognize that risk and also acknowledge that tangible AI-driven demand has been limited to date."
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Risk of lack of participation in upside from AI if workloads consolidate in the public cloud.",
+        "exact_sentences_in_the_file": "Risk is lack of participation in upside from AI if workloads consolidate in public cloud."
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "If public cloud adoption accelerates beyond expectations, Nutanix\u2019s ability to retain and expand with existing customers, and land new business, may be negatively impacted.",
+        "exact_sentences_in_the_file": "Key downside risks: 1) Nutanix\u2019s ability to sustainably grow Revenue/ARR mid-to-high-teens longer-term hinges on enterprises continuing to maintain and invest in their on-premise footprints; to the extent public cloud adoption accelerates (vs. expectations), Nutanix\u2019s ability to retain and expand with existing customers, as well as land new business, may be negatively impacted"
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Attach rates across emerging products (NDB, NKP, NCM, NC2, NUS, and GPT-in-a-Box) are lower than anticipated, potentially relegating Nutanix's role solely to Hyperconverged Infrastructure (HCI) and impacting growth.",
+        "exact_sentences_in_the_file": "2) Attach rates across emerging products \u2013 NDB, NKP , NCM, NC2, NUS, and GPT-in-a-Box \u2013 are lower than anticipated and Nutanix\u2019s role in enterprise infrastructure is relegated solely to Hyperconverged Infrastructure (HCI), potentially impacting the durability of its high-teens growth profile"
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "The VMware displacement opportunity may prove to be a less significant contributor to Nutanix\u2019s growth profile due to product limitations, GTM misalignment, or sales inefficiencies.",
+        "exact_sentences_in_the_file": "3) The VMware displacement opportunity proves to be a less significant contributor to Nutanix\u2019s growth profile over the mid-term, either due to product limitations, GTM misalignment or sales inefficiencies \u2013 impacting both sentiment and growth expectations"
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Rising competitive intensity and new, differentiated offerings in the hybrid multi-cloud space could force Nutanix to accelerate innovation and dilute its strong FCFM profile.",
+        "exact_sentences_in_the_file": "4) Rising competitive intensity and new, differentiated offerings emerging in the hybrid multi-cloud space could obligate Nutanix to accelerate innovation and dilute its strong FCFM profile"
+      },
+      {
+        "company": "Nutanix",
+        "ticker": "",
+        "sector": "Technology",
+        "industry": "Software",
+        "observation_date": "2026-02-09",
+        "bearish_debate_point": "Macro headwinds (supply chain disruptions, tariffs, geopolitical instability) could drive deal cycle elongation and reduce pipeline conversion, impacting Nutanix\u2019s growth trajectory.",
+        "exact_sentences_in_the_file": "5) Macro headwinds \u2013 supply chain disruptions, tariffs, or broader geopolitical instability \u2013 could drive deal cycle elongation and reduce pipeline conversion, impacting Nutanix\u2019s growth trajectory."
+      }
+    ],
+    "file_Id": "Americas Technology_ Software_ Addressing AI Disruption Debate Across SMID Coverage .pdf"
+  },
+  "factual_data": {
+    "facts": [
+      {
+        "company": "Procore",
+        "fact_category": "Company Update",
+        "fact_summary": "Procore's F4Q earnings are scheduled for February 12.",
+        "is_recent_update": true,
+        "original_sentence": "We are updating price targets to reflect lower peer multiples and also address expectations for Procore\u2019s upcoming F4Q earnings (Feb. 12) within the report."
+      },
+      {
+        "company": "Industry",
+        "fact_category": "Product",
+        "fact_summary": "Claude Cowork and OpenAI\u2019s Frontier are recent AI developments.",
+        "is_recent_update": true,
+        "original_sentence": "AI innovation is accelerating, not slowing, as recent developments like Claude Cowork and OpenAI\u2019s Frontier make clear, and we are cautious over-anchoring to any single view."
+      },
+      {
+        "company": "N/A",
+        "fact_category": "Document Information",
+        "fact_summary": "The document is dated February 9, 2026, 5:26 AM EST.",
+        "is_recent_update": true,
+        "original_sentence": "9 February 2026 | 5:26AM EST"
+      },
+      {
+        "company": "Industry",
+        "fact_category": "Financials",
+        "fact_summary": "The average NTM EV/FCF multiple is 37.5x.",
+        "is_recent_update": false,
+        "original_sentence": "Average: 37.5x"
+      },
+      {
+        "company": "Industry",
+        "fact_category": "Financials",
+        "fact_summary": "The average NTM Rule Of Profile is 33%.",
+        "is_recent_update": false,
+        "original_sentence": "Average: 33%"
+      },
+      {
+        "company": "Industry",
+        "fact_category": "Financials",
+        "fact_summary": "The NTM EV/FCF multiple during the COVID trough was 35.1x.",
+        "is_recent_update": false,
+        "original_sentence": "COVID Trough (35.1x)"
+      },
+      {
+        "company": "Industry",
+        "fact_category": "Financials",
+        "fact_summary": "The NTM EV/FCF multiple peaked at 54.3x in November 2021.",
+        "is_recent_update": false,
+        "original_sentence": "November 2021 Peak (54.3x)"
+      },
+      {
+        "company": "Industry",
+        "fact_category": "Financials",
+        "fact_summary": "Current NTM EV/FCF multiples are 23.0x.",
+        "is_recent_update": true,
+        "original_sentence": "Current Levels (23.0x)"
+      },
+      {
+        "company": "Industry",
+        "fact_category": "Financials",
+        "fact_summary": "The NTM EV/FCF multiple pre-COVID peak was 44.4x.",
+        "is_recent_update": false,
+        "original_sentence": "Pre-COVID Peak (44.4x)"
+      },
+      {
+        "company": "Industry",
+        "fact_category": "Financials",
+        "fact_summary": "The recent NTM EV/FCF peak was 35x.",
+        "is_recent_update": true,
+        "original_sentence": "Recent Peak (35x)"
+      },
+      {
+        "company": "MongoDB",
+        "fact_category": "Financials",
+        "fact_summary": "MongoDB's stock is down 18% year-to-date, compared to IGV being down 22%.",
+        "is_recent_update": true,
+        "original_sentence": "MongoDB is down -18% YTD vs. IGV -22%."
+      },
+      {
+        "company": "MongoDB",
+        "fact_category": "Product",
+        "fact_summary": "MongoDB has a document-oriented architecture.",
+        "is_recent_update": false,
+        "original_sentence": "MongoDB\u2019s document-oriented architecture is particularly well-suited to flexible, rapidly evolving data structures that AI-native applications generate."
+      },
+      {
+        "company": "MongoDB",
+        "fact_category": "Business Model",
+        "fact_summary": "MongoDB uses a consumption-based monetization model.",
+        "is_recent_update": false,
+        "original_sentence": "MongoDB\u2019s consumption-based model is directly levered to higher workload activity, which aligns well with the way AI workloads are likely to scale over time; it also naturally hedges against seat-based risks facing many software vendors."
+      },
+      {
+        "company": "MongoDB",
+        "fact_category": "Customer",
+        "fact_summary": "MongoDB recently announced that Anthropic is a customer.",
+        "is_recent_update": true,
+        "original_sentence": "We point to MongoDB\u2019s recent announcement that Anthropic is a customer to underscore this point."
+      },
+      {
+        "company": "MongoDB",
+        "fact_category": "Product",
+        "fact_summary": "MongoDB acquired Voyage AI and natively integrated Vector Search and Embedding models into its Atlas platform.",
+        "is_recent_update": true,
+        "original_sentence": "The acquisition of Voyage AI and the native integration of Vector Search and Embedding models into the Atlas platform are critical moves that reduce developer friction for building sophisticated AI applications."
+      },
+      {
+        "company": "Rubrik",
+        "fact_category": "Financials",
+        "fact_summary": "Rubrik's stock is down 33% year-to-date, compared to IGV being down 22%.",
+        "is_recent_update": true,
+        "original_sentence": "Rubrik is down -33% YTD vs. IGV -22%."
+      },
+      {
+        "company": "Rubrik",
+        "fact_category": "Financials",
+        "fact_summary": "Rubrik reported mid-30s ARR growth and record FCFM (+22%) in F3Q.",
+        "is_recent_update": true,
+        "original_sentence": "Rubrik has considerably underperformed broader software despite impressive F3Q results, including mid-30\u2019s ARR growth and record FCFM (+22%)."
+      },
+      {
+        "company": "Rubrik",
+        "fact_category": "Business Performance",
+        "fact_summary": "Rubrik's displacement bookings accelerated in F3Q.",
+        "is_recent_update": true,
+        "original_sentence": "Rubrik continues to establish itself as the primary consolidator within backup and recovery (displacement bookings accelerated in F3Q), with expanding wallet share opportunities in more strategic security and operations budgets tied to identity recovery, cyber-resilience and its newer Agent Cloud platform."
+      },
+      {
+        "company": "Rubrik",
+        "fact_category": "Product",
+        "fact_summary": "Rubrik has an Agent Cloud platform.",
+        "is_recent_update": false,
+        "original_sentence": "Rubrik continues to establish itself as the primary consolidator within backup and recovery (displacement bookings accelerated in F3Q), with expanding wallet share opportunities in more strategic security and operations budgets tied to identity recovery, cyber-resilience and its newer Agent Cloud platform."
+      },
+      {
+        "company": "Rubrik",
+        "fact_category": "Company Update",
+        "fact_summary": "Rubrik announced on February 4 that preliminary F4Q results exceeded all guidance metrics.",
+        "is_recent_update": true,
+        "original_sentence": "We are constructive on Rubrik\u2019s announcement (2/4) that preliminary F4Q results exceeded all guidance metrics."
+      },
+      {
+        "company": "Rubrik",
+        "fact_category": "Business Model",
+        "fact_summary": "Rubrik's monetization model is based on data under management, not seats.",
+        "is_recent_update": false,
+        "original_sentence": "Critically, Rubrik\u2019s monetization model, based on data under management rather than seats, is structurally aligned with the exponential growth of data and AI-driven activity, insulating it from automation-led seat reduction."
+      },
+      {
+        "company": "Procore",
+        "fact_category": "Financials",
+        "fact_summary": "Procore's stock is down 30% year-to-date, compared to IGV being down 22%.",
+        "is_recent_update": true,
+        "original_sentence": "Procore is down -30% YTD vs. IGV -22%."
+      },
+      {
+        "company": "Procore",
+        "fact_category": "Financials",
+        "fact_summary": "Procore is trading at 5x EV/S and mid-20s EV/FCF.",
+        "is_recent_update": true,
+        "original_sentence": "At 5x EV/S and mid-20\u2019s EV/FCF, we see an increasingly attractive risk-reward profile, now trading a wide discount to vertical SaaS peers on a growth-adjusted FCF basis."
+      },
+      {
+        "company": "Procore",
+        "fact_category": "Business Model",
+        "fact_summary": "Procore's pricing model is primarily based on basis points of annual construction volume, not on seats.",
+        "is_recent_update": false,
+        "original_sentence": "The company prices primarily on basis points of annual construction volume, not on seats."
+      },
+      {
+        "company": "Industry",
+        "fact_category": "Industry Trend",
+        "fact_summary": "Construction is one of the least digitized industries.",
+        "is_recent_update": false,
+        "original_sentence": "At the same time, construction remains one of the least digitized industries."
+      },
+      {
+        "company": "Procore",
+        "fact_category": "Product",
+        "fact_summary": "Procore has a Helix intelligence layer and agent-building capabilities.",
+        "is_recent_update": false,
+        "original_sentence": "Through its Helix intelligence layer and agent-building capabilities, Procore is positioning AI as a native enhancement to the platform."
+      },
+      {
+        "company": "Procore",
+        "fact_category": "Product",
+        "fact_summary": "Procore has delivered tangible AI capabilities within its product.",
+        "is_recent_update": false,
+        "original_sentence": "From an AI execution standpoint, Procore has already delivered tangible capabilities that help customers surface insights, automate routine tasks and streamline collaboration directly within the product."
+      },
+      {
+        "company": "Procore",
+        "fact_category": "Company Update",
+        "fact_summary": "Procore is scheduled to report F4Q25 earnings on February 12.",
+        "is_recent_update": true,
+        "original_sentence": "Procore reports F4Q25 earnings on 2/12."
+      },
+      {
+        "company": "Nutanix",
+        "fact_category": "Financials",
+        "fact_summary": "Nutanix's stock is down 22% YTD and 47% in the last 6 months, compared to IGV being down 22% YTD and 26% in the last 6 months.",
+        "is_recent_update": true,
+        "original_sentence": "Nutanix is down -22% YTD vs. IGV -22%; in the L6M, shares are down -47% vs. IGV -26%."
+      },
+      {
+        "company": "Nutanix",
+        "fact_category": "Financials",
+        "fact_summary": "Nutanix is trading at 10x EV/FCF.",
+        "is_recent_update": true,
+        "original_sentence": "At 10x EV/FCF, we believe the market is increasingly discounting Nutanix\u2019s durable low double-digit growth potential."
+      },
+      {
+        "company": "Nutanix",
+        "fact_category": "Product",
+        "fact_summary": "Nutanix offers GPT-in-a-Box for deploying and managing AI workloads on its infrastructure.",
+        "is_recent_update": false,
+        "original_sentence": "Nutanix is positioning for that scenario through GPT-in-a-Box, which provides customers with a practical, enterprise-ready path to deploy and manage AI workloads on Nutanix infrastructure."
+      },
+      {
+        "company": "MongoDB",
+        "fact_category": "Financials",
+        "fact_summary": "MongoDB has a Buy rating and a price target of $475.",
+        "is_recent_update": true,
+        "original_sentence": "We reiterate our Buy rating our Price Target of $475."
+      },
+      {
+        "company": "MongoDB",
+        "fact_category": "Financials",
+        "fact_summary": "MongoDB's EV/FCF valuation is based on 65x Q5-Q8 FCF estimate, and EV/S valuation is based on 12x Q5-Q8 Revenue estimate.",
+        "is_recent_update": true,
+        "original_sentence": "Our EV/FCF valuation is based on 65x (unchanged) our Q5-Q8 FCF estimate and EV/S based on 12x (unchanged) Q5-Q8 Revenue estimate."
+      },
+      {
+        "company": "Rubrik",
+        "fact_category": "Financials",
+        "fact_summary": "Rubrik has a Buy rating and a 12-month price target of $80, lowered from $120.",
+        "is_recent_update": true,
+        "original_sentence": "We reiterate our Buy rating and lower our 12-month Price Target to $80 (vs. $120 previously)."
+      },
+      {
+        "company": "Rubrik",
+        "fact_category": "Financials",
+        "fact_summary": "Rubrik's valuation applies a 48x EV/FCF multiple to Q5-Q8 FCF estimate and 10x EV/S multiple to Q5-Q8 Revenue estimate.",
+        "is_recent_update": true,
+        "original_sentence": "We apply a 48x EV/FCF multiple to our Q5-Q8 FCF estimate and 10x EV/S multiple to our Q5-Q8 Revenue estimate."
+      },
+      {
+        "company": "Procore",
+        "fact_category": "Financials",
+        "fact_summary": "Procore has a Buy rating and a 12-month price target of $75, lowered from $90. The EV/S and DCF components have been removed from its valuation methodology.",
+        "is_recent_update": true,
+        "original_sentence": "We reiterate our Buy rating and lower our 12-month Price Target to $75 (vs. $90 previously); we are removing the EV/S and DCF components from our valuation methodology."
+      },
+      {
+        "company": "Procore",
+        "fact_category": "Financials",
+        "fact_summary": "Procore's valuation applies a 32x EV/FCF multiple to Q5-Q8 FCF estimate.",
+        "is_recent_update": true,
+        "original_sentence": "We apply a 32x EV/FCF multiple to our Q5-Q8 FCF estimate to arrive at our Price Target."
+      },
+      {
+        "company": "Nutanix",
+        "fact_category": "Financials",
+        "fact_summary": "Nutanix has a Buy rating and a 12-month price target of $60.",
+        "is_recent_update": true,
+        "original_sentence": "We reiterate our Buy rating and maintain our 12-month price target of $60."
+      },
+      {
+        "company": "Nutanix",
+        "fact_category": "Financials",
+        "fact_summary": "Nutanix's valuation methodology is based on an 85% weighting to EV/uFCF and a 15% weighting to M&A.",
+        "is_recent_update": true,
+        "original_sentence": "Our valuation methodology is based on an 85% weighting to EV/uFCF and a 15% weighting to M&A."
+      },
+      {
+        "company": "Nutanix",
+        "fact_category": "Financials",
+        "fact_summary": "For Nutanix, an 85% weighting to EV/uFCF implies a $57 fundamental value, and M&A weighting implies a $70 theoretical value.",
+        "is_recent_update": true,
+        "original_sentence": "Our 85% weighting implies a $57 fundamental value and M&A weighting implies a $70 theoretical value."
+      },
+      {
+        "company": "Goldman Sachs",
+        "fact_category": "Company Information",
+        "fact_summary": "As of January 1, 2026, Goldman Sachs Global Investment Research had investment ratings on 3,055 equity securities.",
+        "is_recent_update": true,
+        "original_sentence": "As of January 1, 2026, Goldman Sachs Global Investment Research had investment ratings on 3,055 equity securities."
+      },
+      {
+        "company": "MongoDB Inc.",
+        "fact_category": "Financials/Disclosure",
+        "fact_summary": "Goldman Sachs received $344.35 in compensation for investment banking services from MongoDB Inc. in the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs has received compensation for investment banking services in the past 12 months: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "Nutanix Inc.",
+        "fact_category": "Financials/Disclosure",
+        "fact_summary": "Goldman Sachs received $40.26 in compensation for investment banking services from Nutanix Inc. in the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs has received compensation for investment banking services in the past 12 months: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "Procore Technologies Inc.",
+        "fact_category": "Financials/Disclosure",
+        "fact_summary": "Goldman Sachs received $51.29 in compensation for investment banking services from Procore Technologies Inc. in the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs has received compensation for investment banking services in the past 12 months: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "Rubrik Inc.",
+        "fact_category": "Financials/Disclosure",
+        "fact_summary": "Goldman Sachs received $51.07 in compensation for investment banking services from Rubrik Inc. in the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs has received compensation for investment banking services in the past 12 months: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "MongoDB Inc.",
+        "fact_category": "Financials/Disclosure",
+        "fact_summary": "Goldman Sachs expects to receive or intends to seek $344.35 in compensation for investment banking services from MongoDB Inc. in the next 3 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs expects to receive or intends to seek compensation for investment banking services in the next 3 months: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "Nutanix Inc.",
+        "fact_category": "Financials/Disclosure",
+        "fact_summary": "Goldman Sachs expects to receive or intends to seek $40.26 in compensation for investment banking services from Nutanix Inc. in the next 3 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs expects to receive or intends to seek compensation for investment banking services in the next 3 months: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "Procore Technologies Inc.",
+        "fact_category": "Financials/Disclosure",
+        "fact_summary": "Goldman Sachs expects to receive or intends to seek $51.29 in compensation for investment banking services from Procore Technologies Inc. in the next 3 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs expects to receive or intends to seek compensation for investment banking services in the next 3 months: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "Rubrik Inc.",
+        "fact_category": "Financials/Disclosure",
+        "fact_summary": "Goldman Sachs expects to receive or intends to seek $51.07 in compensation for investment banking services from Rubrik Inc. in the next 3 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs expects to receive or intends to seek compensation for investment banking services in the next 3 months: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "MongoDB Inc.",
+        "fact_category": "Financials/Disclosure",
+        "fact_summary": "Goldman Sachs received $344.35 in compensation for non-investment banking services from MongoDB Inc. during the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs has received compensation for non-investment banking services during the past 12 months: MongoDB Inc. ($344.35) and Procore Technologies Inc. ($51.29)"
+      },
+      {
+        "company": "Procore Technologies Inc.",
+        "fact_category": "Financials/Disclosure",
+        "fact_summary": "Goldman Sachs received $51.29 in compensation for non-investment banking services from Procore Technologies Inc. during the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs has received compensation for non-investment banking services during the past 12 months: MongoDB Inc. ($344.35) and Procore Technologies Inc. ($51.29)"
+      },
+      {
+        "company": "MongoDB Inc.",
+        "fact_category": "Company Information/Disclosure",
+        "fact_summary": "Goldman Sachs had an investment banking services client relationship with MongoDB Inc. ($344.35) during the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs had an investment banking services client relationship during the past 12 months with: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "Nutanix Inc.",
+        "fact_category": "Company Information/Disclosure",
+        "fact_summary": "Goldman Sachs had an investment banking services client relationship with Nutanix Inc. ($40.26) during the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs had an investment banking services client relationship during the past 12 months with: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "Procore Technologies Inc.",
+        "fact_category": "Company Information/Disclosure",
+        "fact_summary": "Goldman Sachs had an investment banking services client relationship with Procore Technologies Inc. ($51.29) during the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs had an investment banking services client relationship during the past 12 months with: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "Rubrik Inc.",
+        "fact_category": "Company Information/Disclosure",
+        "fact_summary": "Goldman Sachs had an investment banking services client relationship with Rubrik Inc. ($51.07) during the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs had an investment banking services client relationship during the past 12 months with: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "MongoDB Inc.",
+        "fact_category": "Company Information/Disclosure",
+        "fact_summary": "Goldman Sachs had a non-investment banking securities-related services client relationship with MongoDB Inc. ($344.35) during the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs had a non-investment banking securities-related services client relationship during the past 12 months with: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "Nutanix Inc.",
+        "fact_category": "Company Information/Disclosure",
+        "fact_summary": "Goldman Sachs had a non-investment banking securities-related services client relationship with Nutanix Inc. ($40.26) during the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs had a non-investment banking securities-related services client relationship during the past 12 months with: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "Procore Technologies Inc.",
+        "fact_category": "Company Information/Disclosure",
+        "fact_summary": "Goldman Sachs had a non-investment banking securities-related services client relationship with Procore Technologies Inc. ($51.29) during the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs had a non-investment banking securities-related services client relationship during the past 12 months with: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "Rubrik Inc.",
+        "fact_category": "Company Information/Disclosure",
+        "fact_summary": "Goldman Sachs had a non-investment banking securities-related services client relationship with Rubrik Inc. ($51.07) during the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs had a non-investment banking securities-related services client relationship during the past 12 months with: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "Nutanix Inc.",
+        "fact_category": "Company Information/Disclosure",
+        "fact_summary": "Goldman Sachs had a non-securities services client relationship with Nutanix Inc. ($40.26) during the past 12 months.",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs had a non-securities services client relationship during the past 12 months with: Nutanix Inc. ($40.26)"
+      },
+      {
+        "company": "MongoDB Inc.",
+        "fact_category": "Company Information/Disclosure",
+        "fact_summary": "Goldman Sachs makes a market in the securities or derivatives of MongoDB Inc. ($344.35).",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs makes a market in the securities or derivatives thereof: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "Nutanix Inc.",
+        "fact_category": "Company Information/Disclosure",
+        "fact_summary": "Goldman Sachs makes a market in the securities or derivatives of Nutanix Inc. ($40.26).",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs makes a market in the securities or derivatives thereof: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "Procore Technologies Inc.",
+        "fact_category": "Company Information/Disclosure",
+        "fact_summary": "Goldman Sachs makes a market in the securities or derivatives of Procore Technologies Inc. ($51.29).",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs makes a market in the securities or derivatives thereof: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      },
+      {
+        "company": "Rubrik Inc.",
+        "fact_category": "Company Information/Disclosure",
+        "fact_summary": "Goldman Sachs makes a market in the securities or derivatives of Rubrik Inc. ($51.07).",
+        "is_recent_update": true,
+        "original_sentence": "Goldman Sachs makes a market in the securities or derivatives thereof: MongoDB Inc. ($344.35), Nutanix Inc. ($40.26), Procore Technologies Inc. ($51.29) and Rubrik Inc. ($51.07)"
+      }
+    ],
+    "file_Id": "Americas Technology_ Software_ Addressing AI Disruption Debate Across SMID Coverage .pdf"
+  },
+  "relationship_mapping": {
+    "relationships": [
+      {
+        "source_company": "MongoDB",
+        "target_company": "Hyperscaler-native databases",
+        "ticker": "N/A",
+        "relationship_type": "Competitor",
+        "relationship_description": "persistent competition",
+        "quantifier": "persistent",
+        "original_sentence": "The principal risk to MongoDB is not AI-driven disintermediation but the persistent competition from Hyperscaler-native databases and the Postgres ecosystem."
+      },
+      {
+        "source_company": "MongoDB",
+        "target_company": "Postgres ecosystem",
+        "ticker": "N/A",
+        "relationship_type": "Competitor",
+        "relationship_description": "persistent competition",
+        "quantifier": "persistent",
+        "original_sentence": "The principal risk to MongoDB is not AI-driven disintermediation but the persistent competition from Hyperscaler-native databases and the Postgres ecosystem."
+      },
+      {
+        "source_company": "MongoDB",
+        "target_company": "Anthropic",
+        "ticker": "N/A",
+        "relationship_type": "Customer",
+        "relationship_description": "Anthropic is a customer",
+        "quantifier": "N/A",
+        "original_sentence": "We point to MongoDB\u2019s recent announcement that Anthropic is a customer to underscore this point."
+      },
+      {
+        "source_company": "MongoDB",
+        "target_company": "Voyage AI",
+        "ticker": "N/A",
+        "relationship_type": "Other",
+        "relationship_description": "acquisition of Voyage AI",
+        "quantifier": "N/A",
+        "original_sentence": "The acquisition of Voyage AI and the native integration of Vector Search and Embedding models into the Atlas platform are critical moves that reduce developer friction for building sophisticated AI applications."
+      },
+      {
+        "source_company": "MongoDB",
+        "target_company": "Oracle",
+        "ticker": "ORCL",
+        "relationship_type": "Competitor",
+        "relationship_description": "Increased competitive pressure from relational database incumbents",
+        "quantifier": "N/A",
+        "original_sentence": "Key downside risks include: 1) Increased competitive pressure from relational database incumbents, particularly from Hyperscalers like Oracle, Microsoft, AWS, and GCP"
+      },
+      {
+        "source_company": "MongoDB",
+        "target_company": "Microsoft",
+        "ticker": "MSFT",
+        "relationship_type": "Competitor",
+        "relationship_description": "Increased competitive pressure from relational database incumbents",
+        "quantifier": "N/A",
+        "original_sentence": "Key downside risks include: 1) Increased competitive pressure from relational database incumbents, particularly from Hyperscalers like Oracle, Microsoft, AWS, and GCP"
+      },
+      {
+        "source_company": "MongoDB",
+        "target_company": "AWS",
+        "ticker": "AMZN",
+        "relationship_type": "Competitor",
+        "relationship_description": "Increased competitive pressure from relational database incumbents",
+        "quantifier": "N/A",
+        "original_sentence": "Key downside risks include: 1) Increased competitive pressure from relational database incumbents, particularly from Hyperscalers like Oracle, Microsoft, AWS, and GCP"
+      },
+      {
+        "source_company": "MongoDB",
+        "target_company": "GCP",
+        "ticker": "GOOGL",
+        "relationship_type": "Competitor",
+        "relationship_description": "Increased competitive pressure from relational database incumbents",
+        "quantifier": "N/A",
+        "original_sentence": "Key downside risks include: 1) Increased competitive pressure from relational database incumbents, particularly from Hyperscalers like Oracle, Microsoft, AWS, and GCP"
+      },
+      {
+        "source_company": "Rubrik",
+        "target_company": "Commvault",
+        "ticker": "CVLT",
+        "relationship_type": "Peer",
+        "relationship_description": "weaker prints from peers",
+        "quantifier": "N/A",
+        "original_sentence": "We view the recent selling pressure as driven partly by sector-wide de-rating, but also by negative read-across due to weaker prints from peers Commvault and Varonis."
+      },
+      {
+        "source_company": "Rubrik",
+        "target_company": "Varonis",
+        "ticker": "VRNS",
+        "relationship_type": "Peer",
+        "relationship_description": "weaker prints from peers",
+        "quantifier": "N/A",
+        "original_sentence": "We view the recent selling pressure as driven partly by sector-wide de-rating, but also by negative read-across due to weaker prints from peers Commvault and Varonis."
+      },
+      {
+        "source_company": "Rubrik",
+        "target_company": "Cohesity",
+        "ticker": "N/A",
+        "relationship_type": "Competitor",
+        "relationship_description": "Heightened competition",
+        "quantifier": "N/A",
+        "original_sentence": "Key downside risks include: 1) Heightened competition from Cohesity, Commvault and Veeam, among others, limits Rubrik\u2019s ability to capture a sizable portion of the legacy Backup and Recovery market"
+      },
+      {
+        "source_company": "Rubrik",
+        "target_company": "Commvault",
+        "ticker": "CVLT",
+        "relationship_type": "Competitor",
+        "relationship_description": "Heightened competition",
+        "quantifier": "N/A",
+        "original_sentence": "Key downside risks include: 1) Heightened competition from Cohesity, Commvault and Veeam, among others, limits Rubrik\u2019s ability to capture a sizable portion of the legacy Backup and Recovery market"
+      },
+      {
+        "source_company": "Rubrik",
+        "target_company": "Veeam",
+        "ticker": "N/A",
+        "relationship_type": "Competitor",
+        "relationship_description": "Heightened competition",
+        "quantifier": "N/A",
+        "original_sentence": "Key downside risks include: 1) Heightened competition from Cohesity, Commvault and Veeam, among others, limits Rubrik\u2019s ability to capture a sizable portion of the legacy Backup and Recovery market"
+      },
+      {
+        "source_company": "Rubrik",
+        "target_company": "Veritas",
+        "ticker": "N/A",
+        "relationship_type": "Competitor",
+        "relationship_description": "Cohesity combining with Veritas\u2019 data protection business, leading to better-resourced peers",
+        "quantifier": "N/A",
+        "original_sentence": "Industry consolidation, akin to Cohesity combining with Veritas\u2019 data protection business, leading to better-resourced peers with improved distribution footprints and more competitive product offerings, impacting Rubrik\u2019s win rates"
+      },
+      {
+        "source_company": "Procore",
+        "target_company": "Autodesk",
+        "ticker": "ADSK",
+        "relationship_type": "Competitor",
+        "relationship_description": "Heightened competition from a number of vendors, including Autodesk, which remains focused on scaling its construction offering, Autodesk Construction Cloud",
+        "quantifier": "N/A",
+        "original_sentence": "Key downside risks to our thesis include: 1) Heightened competition from a number of vendors, including Autodesk, which remains focused on scaling its construction offering, Autodesk Construction Cloud"
+      },
+      {
+        "source_company": "Nutanix",
+        "target_company": "VMware",
+        "ticker": "VMW",
+        "relationship_type": "Competitor",
+        "relationship_description": "VMware displacement opportunity",
+        "quantifier": "N/A",
+        "original_sentence": "Key downside risks: 3) The VMware displacement opportunity proves to be a less significant contributor to Nutanix\u2019s growth profile over the mid-term, either due to product limitations, GTM misalignment or sales inefficiencies \u2013 impacting both sentiment and growth expectations"
+      }
+    ],
+    "file_Id": "Americas Technology_ Software_ Addressing AI Disruption Debate Across SMID Coverage .pdf"
+  }
+}

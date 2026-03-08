@@ -1,0 +1,284 @@
+{
+  "relationships": [
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "ServiceNow",
+      "ticker": "NOW",
+      "relationship_type": "Peer",
+      "relationship_description": "Highlighted as a high-quality asset with 20%+ long-term Subscription Revenue growth potential, a strong and expanding FCF margin pro\ufb01le (>30%), and a solid balance sheet.",
+      "quantifier": "20%+ long-term Subscription Revenue growth potential, FCF margin pro\ufb01le (>30%)",
+      "original_sentence": "We highlight ServiceNow as a high-quality asset with 20%+ long-term Subscription Revenue growth potential, a strong and expanding FCF margin pro\ufb01le (>30%), and a solid balance sheet, meeting the key characteristics of a defensive software asset while still providing growth at-scale."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Monday.com",
+      "ticker": "MNDY",
+      "relationship_type": "Peer",
+      "relationship_description": "Highlighted as a high-quality asset with best-in-class unit economics, at a Rule of 60+ pro\ufb01le in FY24.",
+      "quantifier": "Rule of 60+ pro\ufb01le in FY24",
+      "original_sentence": "We highlight Monday.com in the current macro environment as a high-quality asset with best-in-class unit economics, at a Rule of 60+ pro\ufb01le in FY24, which we believe justi\ufb01es a premium vs. peers."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Atlassian",
+      "ticker": "TEAM",
+      "relationship_type": "Peer",
+      "relationship_description": "Highlighted as a high-quality asset with durable 20%+ revenue growth and high-20s/low-30% FCF margin through FY27.",
+      "quantifier": "durable 20%+ revenue growth, high-20s/low-30% FCF margin through FY27",
+      "original_sentence": "We highlight Atlassian in the current macro environment as a high-quality asset with durable 20%+ revenue growth and high-20s/low-30% FCF margin through FY27."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Snowflake",
+      "ticker": "SNOW",
+      "relationship_type": "Peer",
+      "relationship_description": "Highlighted as a high-quality asset with an attractive combination of mid-20s topline growth and 25%+ FCFM.",
+      "quantifier": "mid-20s topline growth and 25%+ FCFM",
+      "original_sentence": "We highlight Snow\ufb02ake in the current macro environment as a high-quality asset with an attractive combination of mid-20s topline growth and 25%+ FCFM, supported by stabilizing fundamentals and solidi\ufb01cation of long-term growth strategy under the current management."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Datadog",
+      "ticker": "DDOG",
+      "relationship_type": "Peer",
+      "relationship_description": "Highlighted as a high-quality asset with an attractive combination of 26% top-line growth and 29% FCFM as of FY24.",
+      "quantifier": "26% top-line growth and 29% FCFM as of FY24",
+      "original_sentence": "We highlight Datadog in the current macro environment as a high-quality asset with an attractive combination of 26% top-line growth and 29% FCFM as of FY24."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Rubrik",
+      "ticker": "RBRK",
+      "relationship_type": "Peer",
+      "relationship_description": "Highlighted as a best-in-class growth asset that can drive 20%+ ARR growth long-term with an elevated FCF margin expansion cadence.",
+      "quantifier": "20%+ ARR growth long-term",
+      "original_sentence": "We highlight Rubrik in the current macro environment as a best-in-class growth asset that can drive 20%+ ARR growth long-term with an elevated FCF margin expansion cadence."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Samsara",
+      "ticker": "IOT",
+      "relationship_type": "Peer",
+      "relationship_description": "Highlighted as a best-in-class compounding growth asset that can continue to deliver 30%+ topline growth amid broader macro uncertainty.",
+      "quantifier": "30%+ topline growth",
+      "original_sentence": "We highlight Samsara as a best-in-class compounding growth asset that can continue to deliver 30%+ topline growth amid broader macro uncertainty."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "GitLab",
+      "ticker": "GTLB",
+      "relationship_type": "Peer",
+      "relationship_description": "Highlighted as a best-in-class compounding growth asset that can continue to drive mid-20s growth and expanding FCF margins.",
+      "quantifier": "mid-20s growth and expanding FCF margins",
+      "original_sentence": "We highlight GitLab as a best-in-class compounding growth asset that can continue to drive mid-20s growth and expanding FCF margins amid broader macro uncertainty."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Intuit",
+      "ticker": "INTU",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month price target to $750 as multiples are updated to mark-to-market given the recent sell-off in software.",
+      "quantifier": "price target to $750",
+      "original_sentence": "We lower our 12-month price target to $750 (vs. $860 prior) as we update our multiples to mark-to-market given the recent sell-off in software."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Microsoft",
+      "ticker": "MSFT",
+      "relationship_type": "Peer",
+      "relationship_description": "12-month price target to $450 is derived from an equal weighting of a DCF, 33x Q5-Q8 EV/FCF, and 27x Q5-Q8 P/E.",
+      "quantifier": "price target to $450, 33x Q5-Q8 EV/FCF, 27x Q5-Q8 P/E",
+      "original_sentence": "Our 12-month price target to $450 is derived from an equal weighting of a DCF (~3% perpetuity growth rate, unchanged), 33x Q5-Q8 EV/FCF , and 27x Q5-Q8 P/E."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Adobe",
+      "ticker": "ADBE",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month price target to $570 on the back of the recent sell-off due to macroeconomic uncertainty.",
+      "quantifier": "price target to $570",
+      "original_sentence": "We lower our 12-month price target to $570 (vs. $640 prior) on the back of the recent sell-off due to macroeconomic uncertainty."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Workday",
+      "ticker": "WDAY",
+      "relationship_type": "Peer",
+      "relationship_description": "Raised 12-month price target to $275 as multiples are updated to mark-to-market given the de-rating across broader software.",
+      "quantifier": "price target to $275",
+      "original_sentence": "We raise our 12-month price target to $275 (vs. $345 prior) as we mark-to-market our multiple given the de-rating across broader software."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Salesforce",
+      "ticker": "CRM",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month Price Target to $340 as target multiple is adjusted to re\ufb02ect the broader de-rating in software.",
+      "quantifier": "Price Target to $340",
+      "original_sentence": "We lower our 12-month Price Target to $340 (vs. $400 prior) as we adjust our target multiple to re\ufb02ect the broader de-rating in software, particularly to better align with large cap peers."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Twilio",
+      "ticker": "TWLO",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month price target to $130 as multiple is market-to-market given the de-rating across broader software.",
+      "quantifier": "price target to $130",
+      "original_sentence": "We lower our 12-month price target to $130 (vs. $185 prior) as we market-to-market our multiple given the de-rating across broader software while opting to remove EV/Sales multiple, which we believe is appropriate given that the company has reached maturity at scale with steady revenue growth."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Autodesk",
+      "ticker": "ADSK",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month price target to $270 as target multiples are marked-to-market on the back of the recent sell-off across broader software.",
+      "quantifier": "price target to $270",
+      "original_sentence": "We lower our 12-month price target to $270 (vs. $295 prior) as we mark-to-market our target multiples on the back of the recent sell-off across broader software."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Couchbase",
+      "ticker": "BASE",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month price target to $15 as target multiples are marked-to-market on the back of the recent sell-off due to macroeconomic uncertainty.",
+      "quantifier": "price target to $15",
+      "original_sentence": "We lower our 12-month price target to $15 (vs. $16 prior) as we mark-to-market our target multiples on the back of the recent sell-off due to macroeconomic uncertainty."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Bentley Systems",
+      "ticker": "BSY",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month price target to $41 as target multiples are marked-to-market on the back of the recent selloff in software.",
+      "quantifier": "price target to $41",
+      "original_sentence": "We lower our 12-month price target to $41 (vs. $42 prior) as we mark-to-market our target multiples on the back of the recent selloff in software."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Confluent",
+      "ticker": "CFLT",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month price target to $25 as target multiple is adjusted to re\ufb02ect recent sell-off in software.",
+      "quantifier": "price target to $25",
+      "original_sentence": "We lower our 12-month price target to $25 (vs. $31 prior) as we adjust our target multiple to re\ufb02ect recent sell-off in software."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Dropbox",
+      "ticker": "DBX",
+      "relationship_type": "Peer",
+      "relationship_description": "Reiterated 12-month price target of $20 while opting to remove EV/Sales multiple given slowing growth pro\ufb01le and solid FCF generation.",
+      "quantifier": "price target of $20",
+      "original_sentence": "We reiterate our 12-month price target of $20 while opting to remove our EV/Sales multiple, which we believe is appropriate given Dropbox\u2019s slowing growth pro\ufb01le and solid FCF generation."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Dynatrace",
+      "ticker": "DT",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month Price Target to $56 as multiple is updated to mark-to-market given the recent sell-off in software.",
+      "quantifier": "Price Target to $56",
+      "original_sentence": "We lower our 12-month Price Target to $56 (vs. $70 prior) as we update our multiple to mark-to-market given the recent sell-off in software."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Elastic",
+      "ticker": "ESTC",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month price target to $91 as target EV/Sales multiple is marked-to-market to Elastic\u2019s Rule-Of-30 peers.",
+      "quantifier": "price target to $91",
+      "original_sentence": "We lower our 12-month price target to $91 (vs. $121 prior) as we mark-to-market our target EV/Sales multiple to Elastic\u2019s Rule-Of-30 peers."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Informatica",
+      "ticker": "INFA",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month Price Target to $18.",
+      "quantifier": "Price Target to $18",
+      "original_sentence": "We lower our 12-month Price Target to $18 (vs. $20 prior)."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "MongoDB",
+      "ticker": "MDB",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month Price Target to $220 as EV/Sales multiple is lowered to better re\ufb02ect MongoDB\u2019s forward growth pro\ufb01le.",
+      "quantifier": "Price Target to $220",
+      "original_sentence": "We lower our 12-month Price Target to $220 (vs. $335 prior) as we lower our EV/Sales multiple to better re\ufb02ect MongoDB\u2019s forward growth pro\ufb01le to commensurate with Rule-of-35+ peers, and introduce an EV/FCF multiple of 28x to re\ufb02ect MongoDB\u2019s progress in delivering material positive FCF\u2019s in the past two years and our expectation for continued FCF growth ahead (>40% from FY25-27)."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Oracle",
+      "ticker": "ORCL",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month Price Target to $145 as marked-to-market in light of the de-rating across broader software.",
+      "quantifier": "Price Target to $145",
+      "original_sentence": "We lower our 12-month Price Target to $145 (vs. $165 prior) as we mark-to-market in light of the de-rating across broader software."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Procore Technologies",
+      "ticker": "PCOR",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month Price Target to $87 as EV/Sales multiple is modestly lowered to better align with vertical SaaS peers.",
+      "quantifier": "Price Target to $87",
+      "original_sentence": "We lower our 12-month Price Target to $87 (vs. $95 prior) as we modestly lower our EV/Sales multiple to better align with vertical SaaS peers."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "PagerDuty",
+      "ticker": "PD",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month Price Target to $16 as target multiple is updated following the sell-off in software stocks.",
+      "quantifier": "Price Target to $16",
+      "original_sentence": "We lower our 12-month Price Target to $16 (vs. $18 prior) as we update our target multiple following the sell-off in software stocks."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "RingCentral",
+      "ticker": "RNG",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month Price Target to $30 as multiple is lowered to mark-to-market given the derating in broader software.",
+      "quantifier": "Price Target to $30",
+      "original_sentence": "We lower our 12-month Price Target to $30 (vs. $36 prior) as we lower our multiple to mark-to-market given the derating in broader software while re\ufb02ecting UCaaS peers with slowing growth trajectories."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Titan",
+      "ticker": "TTAN",
+      "relationship_type": "Peer",
+      "relationship_description": "Covered in intrinsic value analysis.",
+      "quantifier": "valuation analysis",
+      "original_sentence": "We reiterate our Intrinsic Value Analysis, which indicates that most of our coverage universe now trades at a discount."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Weave Communications",
+      "ticker": "WEAV",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month Price Target to $10 as target multiple is updated following the sell-off in software stocks.",
+      "quantifier": "Price Target to $10",
+      "original_sentence": "We lower our 12-month Price Target to $10 (vs. $15 prior) as we update our target multiple following the sell-off in software stocks."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "ZoomInfo Technologies",
+      "ticker": "ZI",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month Price Target to $7.50 as multiple is marked-to-market given the recent de-rating in broader software.",
+      "quantifier": "Price Target to $7.50",
+      "original_sentence": "We lower our 12-month Price Target to $7 .50 (vs. $8.40 prior) as we mark-to-market our multiple given the recent de-rating in broader software."
+    },
+    {
+      "source_company": "Goldman Sachs",
+      "target_company": "Zoom Video Communications",
+      "ticker": "ZM",
+      "relationship_type": "Peer",
+      "relationship_description": "Lowered 12-month price target to $82 as target multiple is updated following the sell-off in software stocks.",
+      "quantifier": "price target to $82",
+      "original_sentence": "We lower our 12-month price target to $82 (vs. $86 prior) as we update our target multiple following the sell-off in software stocks."
+    }
+  ],
+  "file_Id": "Americas Technology_ Software_ Navigating Turbulence Part VIII_ Mark-to-Market for Potential Tariff Impact.pdf"
+}

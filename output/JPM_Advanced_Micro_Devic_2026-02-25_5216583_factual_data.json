@@ -1,0 +1,89 @@
+{
+  "facts": [
+    {
+      "company": "Advanced Micro Devices",
+      "fact_category": "Financials",
+      "fact_summary": "AMD's stock price was $213.84 on February 24, 2026.",
+      "is_recent_update": true,
+      "original_sentence": "Price (24 Feb 26):$213.84"
+    },
+    {
+      "company": "AMD, META",
+      "fact_category": "Agreement",
+      "fact_summary": "AMD and META announced a multi-year, multi-generation agreement to deploy 6GW of AMD GPUs.",
+      "is_recent_update": true,
+      "original_sentence": "This morning AMD and META announced a multi-year, multi-generation agreement to deploy 6GW of AMD GPUs ( link), with initial capacity roll-outs scheduled for 2H26."
+    },
+    {
+      "company": "AMD, META",
+      "fact_category": "Product Deployment",
+      "fact_summary": "Initial capacity roll-outs for the AMD-META GPU deployment are scheduled for 2H26.",
+      "is_recent_update": true,
+      "original_sentence": "This morning AMD and META announced a multi-year, multi-generation agreement to deploy 6GW of AMD GPUs ( link), with initial capacity roll-outs scheduled for 2H26."
+    },
+    {
+      "company": "AMD, OpenAI",
+      "fact_category": "Agreement",
+      "fact_summary": "AMD had a compute capacity agreement with OpenAI in October 2025.",
+      "is_recent_update": true,
+      "original_sentence": "Similar to the compute capacity agreement struck with OpenAI in October 2025 ( link), AMD\u2019s agreement with META includes the issuance of warrants for up to 160MM AMD shares that will vest over time, based on META scaling Instinct GPU deployments to 6GW, as well as key technical and commercial milestones."
+    },
+    {
+      "company": "AMD, META",
+      "fact_category": "Financials, Agreement",
+      "fact_summary": "AMD\u2019s agreement with META includes the issuance of warrants for up to 160MM AMD shares.",
+      "is_recent_update": true,
+      "original_sentence": "Similar to the compute capacity agreement struck with OpenAI in October 2025 ( link), AMD\u2019s agreement with META includes the issuance of warrants for up to 160MM AMD shares that will vest over time, based on META scaling Instinct GPU deployments to 6GW, as well as key technical and commercial milestones."
+    },
+    {
+      "company": "AMD, META",
+      "fact_category": "Agreement Terms",
+      "fact_summary": "The warrants issued to META will vest over time, based on META scaling Instinct GPU deployments to 6GW and key technical and commercial milestones.",
+      "is_recent_update": true,
+      "original_sentence": "Similar to the compute capacity agreement struck with OpenAI in October 2025 ( link), AMD\u2019s agreement with META includes the issuance of warrants for up to 160MM AMD shares that will vest over time, based on META scaling Instinct GPU deployments to 6GW, as well as key technical and commercial milestones."
+    },
+    {
+      "company": "ORCL, AMD",
+      "fact_category": "Product Deployment",
+      "fact_summary": "ORCL commences MI450 deployments in 3Q26.",
+      "is_recent_update": false,
+      "original_sentence": "In our estimation, though, the OAI and META deals alone already set the stage for AMD to potentially grow DC GPU revenue well in excess of current expectations for CY27 and beyond, without even layering in much incremental revenue from other already-disclosed customers such as ORCL (which commences MI450 deployments in 3Q26)."
+    },
+    {
+      "company": "AMD",
+      "fact_category": "Market Outlook",
+      "fact_summary": "AMD has pegged the Total Addressable Market (TAM) at >$1T by 2030.",
+      "is_recent_update": false,
+      "original_sentence": "Granted, the engagement is still solidly accretive to earnings and, perhaps more importantly, further entrenches AMD as a growing force within the AI infrastructure landscape, sending a strong signal to other potential customers that the AMD hardware/software stack is a compelling option for AI compute in a capacity-constrained world, and positioning the company to capture additional share within a TAM that the company has pegged at >$1T by 2030."
+    },
+    {
+      "company": "META, AMD",
+      "fact_category": "Product Development, Agreement",
+      "fact_summary": "META has leveraged AMD\u2019s chiplet architecture for semi-custom designs with the MI450 platform for its first gigawatt of deployed capacity.",
+      "is_recent_update": true,
+      "original_sentence": "Beyond the competitive TCO that AMD is able to provide via its off-the-shelf/merchant Instinct products, the ability for customers to leverage AMD\u2019s chiplet architecture for semi-custom designs (as META has done with the MI450 platform for its first gigawatt of deployed capacity) is a key competitive differentiator for AMD that requires only minimal incremental investment/opex (driving operating leverage), and an aspect of its broader offering that we expect other customers to leverage over time, especially amid explosive growth in inference workloads where specialized/bespoke compute can be highly beneficial to performance."
+    },
+    {
+      "company": "AMD, META",
+      "fact_category": "Product Strategy, Agreement",
+      "fact_summary": "AMD is poised to expand its server CPU footprint at META with this agreement.",
+      "is_recent_update": true,
+      "original_sentence": "With inference workloads also increasingly drawing on CPU compute (mgmt characterized the server CPU market as \u201cabsoultely on fire\u201d), AMD is poised to expand its server CPU footprint at META with this agreement (mgmt called out META as a lead customer for its 6th-gen \u201cVenice\u201d CPUs launching later this year), and more broadly, is positioned to continue to capture share of the broader server CPU market relative to INTC over the next few quarters, given its stronger product portfolio/roadmap and, in the near-term, a less challenging wafer supply backdrop (vs. INTC)."
+    },
+    {
+      "company": "META, AMD",
+      "fact_category": "Product Adoption",
+      "fact_summary": "META is a lead customer for AMD's 6th-gen \u201cVenice\u201d CPUs.",
+      "is_recent_update": true,
+      "original_sentence": "With inference workloads also increasingly drawing on CPU compute (mgmt characterized the server CPU market as \u201cabsoultely on fire\u201d), AMD is poised to expand its server CPU footprint at META with this agreement (mgmt called out META as a lead customer for its 6th-gen \u201cVenice\u201d CPUs launching later this year), and more broadly, is positioned to continue to capture share of the broader server CPU market relative to INTC over the next few quarters, given its stronger product portfolio/roadmap and, in the near-term, a less challenging wafer supply backdrop (vs. INTC)."
+    },
+    {
+      "company": "AMD",
+      "fact_category": "Product Launch",
+      "fact_summary": "AMD's 6th-gen \u201cVenice\u201d CPUs are launching later this year (2026).",
+      "is_recent_update": true,
+      "original_sentence": "With inference workloads also increasingly drawing on CPU compute (mgmt characterized the server CPU market as \u201cabsoultely on fire\u201d), AMD is poised to expand its server CPU footprint at META with this agreement (mgmt called out META as a lead customer for its 6th-gen \u201cVenice\u201d CPUs launching later this year), and more broadly, is positioned to continue to capture share of the broader server CPU market relative to INTC over the next few quarters, given its stronger product portfolio/roadmap and, in the near-term, a less challenging wafer supply backdrop (vs. INTC)."
+    }
+  ],
+  "file_Id": "JPM_Advanced_Micro_Devic_2026-02-25_5216583.pdf"
+}

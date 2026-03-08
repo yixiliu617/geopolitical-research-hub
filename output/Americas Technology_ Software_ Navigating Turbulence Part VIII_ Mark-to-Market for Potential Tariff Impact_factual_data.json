@@ -1,0 +1,572 @@
+{
+  "facts": [
+    {
+      "company": "Software Sector",
+      "fact_category": "Report Details",
+      "fact_summary": "The report is titled 'Americas Technology: Software Navigating Turbulence Part VIII: Mark-to-Market for Potential Tariff Impact'.",
+      "is_recent_update": false,
+      "original_sentence": "Americas Technology: Software Navigating Turbulence Part VIII: Mark-to-Market for Potential Tariff Impact"
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Report Details",
+      "fact_summary": "The report was published on April 24, 2025, at 4:06 AM PDT.",
+      "is_recent_update": true,
+      "original_sentence": "24 April 2025 | 4:06AM PDT"
+    },
+    {
+      "company": "Goldman Sachs",
+      "fact_category": "Business Operations",
+      "fact_summary": "Goldman Sachs does and seeks to do business with companies covered in its research reports.",
+      "is_recent_update": false,
+      "original_sentence": "Goldman Sachs does and seeks to do business with companies covered in its research reports."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Market Event",
+      "fact_summary": "A tariff announcement occurred on April 2nd.",
+      "is_recent_update": true,
+      "original_sentence": "Following the April 2nd tariff announcement, we are following up on our initial Tariff Note to provide a range of Revenue/FCF scenarios (Exhibit 2) for our broader coverage to help investors better assess the potential knock-on effects to broader software purchasing behavior relative to the operating assumptions implicit in Management guidance exiting C4Q24."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Financials",
+      "fact_summary": "The software sector experienced a material operating leverage cycle in the past few years due to slowing growth, leading most companies to right-size their cost basis through vendor consolidation, hiring pauses, and expense containment.",
+      "is_recent_update": false,
+      "original_sentence": "Our basis centers on the material op. leverage cycle observed in the past few years as software growth slowed considerably, with most companies right-sizing their cost basis through a combination of vendor consolidation, hiring pauses (or RIFs) and broader discretionary/variable expense containment."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Financials",
+      "fact_summary": "In CY22, Net New Revenue (NNR) guidance came in +3% above Consensus.",
+      "is_recent_update": false,
+      "original_sentence": "In CY22, NNR guidance came in +3% above Consensus as many companies were still observing healthy demand signals from the COVID-induced demand pull-forward as digitization trends accelerated."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Financials",
+      "fact_summary": "In both CY23 and CY24, NNR estimates decreased by -7% to -10% when company guidance was issued.",
+      "is_recent_update": false,
+      "original_sentence": "However, in both CY23 and CY24, NNR estimates came down -7% to -10% when company guidance was issued as Management teams adjusted to the new reality of rising interest rates and macroeconomic uncertainty, which led to tightening IT budgets and the relative prioritization of cost optimization over new digital initiatives."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Financials",
+      "fact_summary": "Net new business growth for broader software began to contract sharply in C2H22.",
+      "is_recent_update": false,
+      "original_sentence": "The earliest representation of this dynamic began in C2H22, when net new business growth started to contract sharply for broader software (Exhibit 8)."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Financials",
+      "fact_summary": "Revenue growth for the coverage decelerated from +31% in CY22 to +15% in CY24.",
+      "is_recent_update": false,
+      "original_sentence": "The sector has been contending with a sluggish macro ever since, representative in growth for our coverage decelerating from +31% in CY22 to +15% in CY24 (Exhibit 5)."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Financials",
+      "fact_summary": "Since the announcement of tariffs, net new revenue estimates for the coverage have decreased by -1.5%, now standing at -7.1% compared to pre-guidance estimates.",
+      "is_recent_update": true,
+      "original_sentence": "We note that since the announcement of tariffs, net new revenue estimates for our coverage have come down -1 .5% (now -7 .1% vs. pre-guidance); this, however, is still well within the historical window Management teams typically guide to (-7-10%)."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Market Trends",
+      "fact_summary": "Leading indicators for revenue growth began to firm up in C2H24, with Net Expansion Rate (NER) stabilizing in the low-110s and sequential customer growth modestly inflecting to +3% (from a +2% trough in C1H24) across the coverage.",
+      "is_recent_update": false,
+      "original_sentence": "Leading indicators for revenue growth were beginning to \ufb01rm up in C2H24, with NER stabilizing in the low-110\u2019s (Exhibit 7) and sequential customer growth in\ufb02ecting modestly to +3% (from a +2% trough in C1H24, Exhibit 6) across our coverage."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Financials",
+      "fact_summary": "Companies in the coverage are entering CY25 with 68% of committed revenue versus NTM guidance, a slight increase from 67% in C1Q24.",
+      "is_recent_update": false,
+      "original_sentence": "While the environment has clearly changed, we note that companies in our coverage are entering CY25 with a slightly higher proportion of committed revenue vs. NTM guidance relative to the prior years (68% vs. 67% in C1Q24), which could help put a ceiling on the magnitude of potential negative guidance revisions (if any at all)."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Financials",
+      "fact_summary": "In CY22, operating margins (OpM) for the coverage expanded by +200 bps, despite revenue growth slowing from +48% in CY21 to +31% in CY22.",
+      "is_recent_update": false,
+      "original_sentence": "Recall that in CY22, our coverage only expanded OpM\u2019s +200 bps (Exhibit 12) despite revenue growth slowing from +48% (CY21) to +31% (CY22)."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Financials",
+      "fact_summary": "In CY23, operating margins (OpM) expanded by +700 bps as management teams optimized for cost takeout.",
+      "is_recent_update": false,
+      "original_sentence": "It wasn\u2019t until the new reality of a higher-for-longer rates environment and more constrained budgetary outlook set in did Management teams begin deliberately optimizing for cost takeout, with CY23 OpM\u2019s expanding +700 bps."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Valuation",
+      "fact_summary": "NTM EV/S multiples contracted from approximately 16x to 5x from peak (December 2021) to trough (January 2023).",
+      "is_recent_update": false,
+      "original_sentence": "Re\ufb02ecting back, we note that NTM EV/S multiples contracted from ~16x to ~5x from peak-to-trough (Dec. 21 to Jan. 23) as investors contended with a rising interest rate environment and early signals of a weaker demand backdrop set against still demanding top-line growth expectations, all with very little FCF support (Consensus NTM FCFM of +13% in early-2022)."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Financials",
+      "fact_summary": "Software companies are expected to deliver an average 20% Free Cash Flow Margin (FCFM) in the NTM, according to Consensus.",
+      "is_recent_update": true,
+      "original_sentence": "By contrast, software companies today are expected to deliver an average 20% FCFM in the NTM (per Consensus, Exhibit 13)."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Valuation",
+      "fact_summary": "Software multiples are currently -21%+ off their recent peak of 8.3x, now at approximately 6.6x.",
+      "is_recent_update": true,
+      "original_sentence": "We believe this leaves the sector better positioned to absorb a potential top-line growth slowdown with less pronounced risk of another severe de-rating in valuations, especially with software multiples now -21%+ off their recent peak of 8.3x (now ~6.6x, Exhibit 14)."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Market Structure",
+      "fact_summary": "AI-native application companies have not yet reached the public markets.",
+      "is_recent_update": false,
+      "original_sentence": "AI-native application companies have yet to reach the public markets."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Market Trends",
+      "fact_summary": "Gen-AI traction at the application layer remains limited outside of DevOps use cases, as observed at a recent PCSIC Conference.",
+      "is_recent_update": true,
+      "original_sentence": "At our recent PCSIC Conference, we noted that Gen-AI traction at the application layer remains limited outside of DevOps use cases."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Historical Market Event",
+      "fact_summary": "The periods of 2012-2014 saw a build-up of fresh IPO supply from an emerging tech cycle (cloud natives).",
+      "is_recent_update": false,
+      "original_sentence": "In contrast, periods like 2012-2014 saw a build-up of fresh IPO supply out of an emerging tech cycle (cloud natives)."
+    },
+    {
+      "company": "Adobe",
+      "fact_category": "Financials",
+      "fact_summary": "Adobe is generating over $125M of AI-specific Annual Recurring Revenue (ARR) and influencing more than $3.5B of AI-enabled bookings.",
+      "is_recent_update": true,
+      "original_sentence": "Tangible proof points already include Adobe generating over $125M of Al-speci\ufb01c ARR and in\ufb02uencing more than $3.5B of Al-enabled bookings"
+    },
+    {
+      "company": "ServiceNow",
+      "fact_category": "Product/Usage",
+      "fact_summary": "ServiceNow saw Pro Plus deals more than quadruple year-over-year, including 39 deals with 3+ Now Assist products.",
+      "is_recent_update": true,
+      "original_sentence": "ServiceNow saw Pro Plus deals more than quadruple yoy, including 39 deals with 3+ Now Assist products"
+    },
+    {
+      "company": "Salesforce",
+      "fact_category": "Product/Usage",
+      "fact_summary": "Salesforce is counting 3,000 paid AgentForce customers and approximately $900M of combined Data Cloud and AI ARR.",
+      "is_recent_update": true,
+      "original_sentence": "Salesforce counting 3,000 paid AgentForce customers and roughly $900M of combined Data Cloud and Al ARR"
+    },
+    {
+      "company": "Intuit",
+      "fact_category": "Product/Usage",
+      "fact_summary": "Intuit is reporting a 20% higher ecosystem attach rate for AI-powered QuickBooks Live users.",
+      "is_recent_update": true,
+      "original_sentence": "Intuit reporting a 20% higher ecosystem attach rate for Al-powered QuickBooks Live users"
+    },
+    {
+      "company": "Microsoft",
+      "fact_category": "Financials",
+      "fact_summary": "Microsoft is disclosing a $13B annualized run rate from AI services.",
+      "is_recent_update": true,
+      "original_sentence": "Microsoft disclosing a $13B annualized run rate from AI services"
+    },
+    {
+      "company": "Datadog",
+      "fact_category": "Financials",
+      "fact_summary": "Datadog is attributing 6% of both year-over-year growth (CY24) and total ARR to AI-native clients.",
+      "is_recent_update": true,
+      "original_sentence": "Datadog attributing 6% of both yoy growth (CY24) and total ARR to Al-native clients."
+    },
+    {
+      "company": "Twilio",
+      "fact_category": "Financials",
+      "fact_summary": "Twilio reported $260M in revenue from customers building in the AI space at its latest Investor Day.",
+      "is_recent_update": true,
+      "original_sentence": "Twilio also reported $260M in revenue from customers building in the AI space at its latest Investor Day."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Market Performance",
+      "fact_summary": "The coverage is down -15% year-to-date, underperforming the NASDAQ by approximately 2 percentage points.",
+      "is_recent_update": true,
+      "original_sentence": "Our coverage is down -15% YTD, underperforming the NASDAQ by ~2 pp., as a combination of macroeconomic headwinds- tariff concerns, public sector austerity, and broader market volatility- has weighed on investor sentiment and raised concerns around weakening enterprise software demand."
+    },
+    {
+      "company": "Software Sector",
+      "fact_category": "Valuation",
+      "fact_summary": "The Intrinsic Value Analysis data is as of April 23, 2025, market close.",
+      "is_recent_update": true,
+      "original_sentence": "*Intrinsic Value Analysis as of 04/23/25 market close"
+    },
+    {
+      "company": "Datadog",
+      "fact_category": "Financials",
+      "fact_summary": "Datadog had 26% top-line growth and 29% FCFM as of FY24.",
+      "is_recent_update": false,
+      "original_sentence": "Datadog in the current macro environment as a high-quality asset with an attractive combination of 26% top-line growth and 29% FCFM as of FY24."
+    },
+    {
+      "company": "Datadog",
+      "fact_category": "Financials",
+      "fact_summary": "AI revenue comprised 6% of ARR in F4Q24, up from 3% in F4Q23.",
+      "is_recent_update": true,
+      "original_sentence": "Our conviction is further supported by the increasing contribution from AI revenue (comprising 6% of ARR in F4Q24 vs. 3% in F4Q23), which we believe can continue outpacing the growth of the \u2018Core\u2019."
+    },
+    {
+      "company": "Datadog",
+      "fact_category": "Financials",
+      "fact_summary": "Net Retention Rate (NRR) inflected from mid-110s to high 110s in F4Q.",
+      "is_recent_update": true,
+      "original_sentence": "Coupled with healthy in-quarter metrics (NRR in\ufb02ecting from mid-110\u2019s to high 110\u2019s in F4Q), we remain constructive on Datadog\u2019s ability to scale into a $10bn business, support by secular tailwinds such as platform consolidation and DX / Gen-AI value garnering at the platform layer near-term as a robust expansion opportunity."
+    },
+    {
+      "company": "ServiceNow",
+      "fact_category": "Financials",
+      "fact_summary": "ServiceNow has a strong and expanding FCF margin profile of over 30%.",
+      "is_recent_update": false,
+      "original_sentence": "ServiceNow as a high-quality asset with 20%+ long-term Subscription Revenue growth potential, a strong and expanding FCF margin pro\ufb01le (>30%), and a solid balance sheet, meeting the key characteristics of a defensive software asset while still providing growth at-scale."
+    },
+    {
+      "company": "ServiceNow",
+      "fact_category": "Financials",
+      "fact_summary": "ServiceNow's FY25 Subscription Revenue guidance is +19.5% CC, which is -25 bps below prior guidance, underpinned by strong cRPO growth of +22% CC in F1Q.",
+      "is_recent_update": true,
+      "original_sentence": "We see additional support from ServiceNow\u2019s broadly reiterated FY25 Subscription Revenue guidance of +19.5% CC (albeit -25 bps below prior), underpinned by strong cRPO growth (+22% CC in F1Q) and healthy pipeline trends."
+    },
+    {
+      "company": "ServiceNow",
+      "fact_category": "Financials",
+      "fact_summary": "ServiceNow Management is assuming approximately flat Federal Net New Annual Contract Value (NNACV) from 2Q-4Q, despite +30% Public Sector NNACV growth in F1Q.",
+      "is_recent_update": true,
+      "original_sentence": "Management is assuming ~\ufb02at Fed NNACV from 2Q-4Q despite +30% PubSec NNACV growth in F1Q."
+    },
+    {
+      "company": "ServiceNow",
+      "fact_category": "Valuation",
+      "fact_summary": "ServiceNow (NOW) is more than 20% off all-time highs and trades at approximately 36x EV/FCF CY26.",
+      "is_recent_update": true,
+      "original_sentence": "With NOW >20% off all-time highs (and at ~36x EV/FCF CY26), we believe the stock is priced at an attractive entry point, notwithstanding the turbulent macro period."
+    },
+    {
+      "company": "Monday.com",
+      "fact_category": "Financials",
+      "fact_summary": "Monday.com had a Rule of 60+ profile in FY24.",
+      "is_recent_update": false,
+      "original_sentence": "Monday.com in the current macro environment as a high-quality asset with best-in-class unit economics, at a Rule of 60+ pro\ufb01le in FY24, which we believe justi\ufb01es a premium vs. peers."
+    },
+    {
+      "company": "Monday.com",
+      "fact_category": "Product/Usage",
+      "fact_summary": "Monday.com saw approximately 10 million total AI actions last quarter (compared to ~3 million in Q3 and ~1 million in Q2), launched Monday Expert in March, and introduced consumption-based pricing for AI Blocks.",
+      "is_recent_update": true,
+      "original_sentence": "We highlight Monday\u2019s tangible momentum in AI usage last quarter, with ~10mm total AI actions (vs. ~3mm/~1mm in Q3/Q2), Monday Expert launching in March, and the introduction of consumption-based pricing for AI Blocks (priced per successful request/block)."
+    },
+    {
+      "company": "Snow\ufb02ake",
+      "fact_category": "Financials",
+      "fact_summary": "Snow\ufb02ake has mid-20s topline growth and 25%+ FCFM.",
+      "is_recent_update": false,
+      "original_sentence": "Snow\ufb02ake in the current macro environment as a high-quality asset with an attractive combination of mid-20s topline growth and 25%+ FCFM, supported by stabilizing fundamentals and solidi\ufb01cation of long-term growth strategy under the current management."
+    },
+    {
+      "company": "Snow\ufb02ake",
+      "fact_category": "Financials",
+      "fact_summary": "Snow\ufb02ake's Net Retention Rate (NRR) is steadying at +126% (compared to +127% in 2Q/3Q).",
+      "is_recent_update": true,
+      "original_sentence": "We highlight that the core Data Warehousing/Engineering opportunity remains intact with NRR steadying at +126% (vs. +127% in 2Q/3Q), coupled with product velocity accelerating across Snowpark, Iceberg, and Cortex AI."
+    },
+    {
+      "company": "Atlassian",
+      "fact_category": "Financials",
+      "fact_summary": "Atlassian has durable 20%+ revenue growth and high-20s/low-30% FCF margin.",
+      "is_recent_update": false,
+      "original_sentence": "Atlassian in the current macro environment as a high-quality asset with durable 20%+ revenue growth and high-20s/low-30% FCF margin through FY27 ."
+    },
+    {
+      "company": "Atlassian",
+      "fact_category": "Product/Usage",
+      "fact_summary": "Atlassian has over 1 million monthly users of AI capabilities.",
+      "is_recent_update": true,
+      "original_sentence": "In particular, with >1mn monthly users of AI capabilities and growing customer enthusiasm around adoption, the company\u2019s competitive pricing leaves us increasingly positive around Atlassian\u2019s long-term positioning, despite less near-term revenue upside from AI contribution."
+    },
+    {
+      "company": "GitLab",
+      "fact_category": "Financials",
+      "fact_summary": "GitLab continues to drive mid-20s growth and expanding FCF margins.",
+      "is_recent_update": false,
+      "original_sentence": "We highlight GitLab as a best-in-class compounding growth asset that can continue to drive mid-20s growth and expanding FCF margins amid broader macro uncertainty."
+    },
+    {
+      "company": "Samsara",
+      "fact_category": "Financials",
+      "fact_summary": "Samsara continues to deliver 30%+ topline growth.",
+      "is_recent_update": false,
+      "original_sentence": "We highlight Samsara as a best-in-class compounding growth asset that can continue to deliver 30%+ topline growth amid broader macro uncertainty."
+    },
+    {
+      "company": "Samsara",
+      "fact_category": "Financials",
+      "fact_summary": "Samsara has expanding Dollar-Based Net Retention Rate (DBNRR) across the core at >115% and for large customers at >120%.",
+      "is_recent_update": true,
+      "original_sentence": "We are further encouraged by Samsara\u2019s expanding DBNRR across the core at >115% and large customers at >120%, growing contribution from emerging products (contributing 15% of NNACV), accelerating international growth (contributing 17% NNACV), and strength across key verticals (e.g., Construction)."
+    },
+    {
+      "company": "Samsara",
+      "fact_category": "Financials",
+      "fact_summary": "Emerging products are contributing 15% of Samsara's Net New Annual Contract Value (NNACV).",
+      "is_recent_update": true,
+      "original_sentence": "We are further encouraged by Samsara\u2019s expanding DBNRR across the core at >115% and large customers at >120%, growing contribution from emerging products (contributing 15% of NNACV), accelerating international growth (contributing 17% NNACV), and strength across key verticals (e.g., Construction)."
+    },
+    {
+      "company": "Samsara",
+      "fact_category": "Financials",
+      "fact_summary": "International growth is contributing 17% of Samsara's Net New Annual Contract Value (NNACV).",
+      "is_recent_update": true,
+      "original_sentence": "We are further encouraged by Samsara\u2019s expanding DBNRR across the core at >115% and large customers at >120%, growing contribution from emerging products (contributing 15% of NNACV), accelerating international growth (contributing 17% NNACV), and strength across key verticals (e.g., Construction)."
+    },
+    {
+      "company": "Rubrik",
+      "fact_category": "Financials",
+      "fact_summary": "Rubrik can drive 20%+ ARR growth long-term.",
+      "is_recent_update": false,
+      "original_sentence": "We highlight Rubrik in the current macro environment as a best-in-class growth asset that can drive 20%+ ARR growth long-term with an elevated FCF margin expansion cadence."
+    },
+    {
+      "company": "Adobe (ADBE)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Adobe to $570 from $640.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month price target to $570 (vs. $640 prior) on the back of the recent sell-off due to macroeconomic uncertainty."
+    },
+    {
+      "company": "Autodesk (ADSK)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Autodesk to $270 from $295.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month price target to $270 (vs. $295 prior) as we mark-to-market our target multiples on the back of the recent sell-off across broader software."
+    },
+    {
+      "company": "Couchbase (BASE)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Couchbase to $15 from $16.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month price target to $15 (vs. $16 prior) as we mark-to-market our target multiples on the back of the recent sell-off due to macroeconomic uncertainty."
+    },
+    {
+      "company": "Bentley Systems (BSY)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Bentley Systems to $41 from $42.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month price target to $41 (vs. $42 prior) as we mark-to-market our target multiples on the back of the recent selloff in software."
+    },
+    {
+      "company": "Con\ufb02uent (CFLT)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Con\ufb02uent to $25 from $31.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month price target to $25 (vs. $31 prior) as we adjust our target multiple to re\ufb02ect recent sell-off in software."
+    },
+    {
+      "company": "Salesforce (CRM)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Salesforce to $340 from $400.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month Price Target to $340 (vs. $400 prior) as we adjust our target multiple to re\ufb02ect the broader de-rating in software, particularly to better align with large cap peers."
+    },
+    {
+      "company": "Dropbox (DBX)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs reiterated its 12-month price target for Dropbox at $20.",
+      "is_recent_update": true,
+      "original_sentence": "We reiterate our 12-month price target of $20 while opting to remove our EV/Sales multiple, which we believe is appropriate given Dropbox\u2019s slowing growth pro\ufb01le and solid FCF generation."
+    },
+    {
+      "company": "Dropbox (DBX)",
+      "fact_category": "Financials",
+      "fact_summary": "Dropbox's forward operating outlook is largely centered around profitability, with 38% Operating Margin (OpM) and 35% Free Cash Flow Margin (FCFM) expected in FY25E.",
+      "is_recent_update": true,
+      "original_sentence": "As such, we believe that forward operating outlook will be largely centered around pro\ufb01tability (38% OpM, 35% FCFM in FY25E)."
+    },
+    {
+      "company": "Datadog (DDOG)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Datadog to $127 from $162.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month price target to $127 (vs. $162 prior) as we modestly reduce our EV/Sales in light of recent sell-off in software."
+    },
+    {
+      "company": "Dynatrace (DT)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Dynatrace to $56 from $70.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month Price Target to $56 (vs. $70 prior) as we update our multiple to mark-to-market given the recent sell-off in software."
+    },
+    {
+      "company": "Elastic (ESTC)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Elastic to $91 from $121.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month price target to $91 (vs. $121 prior) as we mark-to-market our target EV/Sales multiple to Elastic\u2019s Rule-Of-30 peers."
+    },
+    {
+      "company": "GitLab (GTLB)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for GitLab to $63 from $80.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month price target to $63 (vs. $80 prior) and lower our EV/Sales multiple to mark-to-market in light of de-rating across broader software."
+    },
+    {
+      "company": "Informatica (INFA)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Informatica to $18 from $20.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month Price Target to $18 (vs. $20 prior)."
+    },
+    {
+      "company": "Intuit (INTU)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Intuit to $750 from $860.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month price target to $750 (vs. $860 prior) as we update our multiples to mark-to-market given the recent sell-off in software."
+    },
+    {
+      "company": "Samsara (IOT)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Samsara to $46 from $50.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month price target to $46 (vs. $50 prior) as we mark-to-market our multiple for the recent de-rating in broader software."
+    },
+    {
+      "company": "MongoDB (MDB)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for MongoDB to $220 from $335.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month Price Target to $220 (vs. $335 prior) as we lower our EV/Sales multiple to better re\ufb02ect MongoDB\u2019s forward growth pro\ufb01le to commensurate with Rule-of-35+ peers, and introduce an EV/FCF multiple of 28x to re\ufb02ect MongoDB\u2019s progress in delivering material positive FCF\u2019s in the past two years and our expectation for continued FCF growth ahead (>40% from FY25-27)."
+    },
+    {
+      "company": "Monday.com (MNDY)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Monday.com to $320 from $400.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month price target to $320 (from $400 prior) as we mark-to-market in light of the de-rating across broader software."
+    },
+    {
+      "company": "Microsoft (MSFT)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs' 12-month price target for Microsoft is $450.",
+      "is_recent_update": true,
+      "original_sentence": "Our 12-month price target to $450 is derived from an equal weighting of a DCF (~3% perpetuity growth rate, unchanged), 33x Q5-Q8 EV/FCF , and 27x Q5-Q8 P/E."
+    },
+    {
+      "company": "ServiceNow (NOW)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs reiterated its 12-month price target for ServiceNow at $1,150.",
+      "is_recent_update": true,
+      "original_sentence": "We reiterate our 12-month Price Target of $1,150."
+    },
+    {
+      "company": "Oracle (ORCL)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Oracle to $145 from $165.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month Price Target to $145 (vs. $165 prior) as we mark-to-market in light of the de-rating across broader software."
+    },
+    {
+      "company": "Procore Technologies (PCOR)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Procore Technologies to $87 from $95.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month Price Target to $87 (vs. $95 prior) as we modestly lower our EV/Sales multiple to better align with vertical SaaS peers."
+    },
+    {
+      "company": "PagerDuty (PD)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for PagerDuty to $16 from $18.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month Price Target to $16 (vs. $18 prior) as we update our target multiple following the sell-off in software stocks."
+    },
+    {
+      "company": "Rubrik (RBRK)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs reiterated its 12-month price target for Rubrik at $82.",
+      "is_recent_update": true,
+      "original_sentence": "We reiterate our 12-month Price Target of $82."
+    },
+    {
+      "company": "RingCentral (RNG)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for RingCentral to $30 from $36.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month Price Target to $30 (vs. $36 prior) as we lower our multiple to mark-to-market given the derating in broader software while re\ufb02ecting UCaaS peers with slowing growth trajectories."
+    },
+    {
+      "company": "Snow\ufb02ake (SNOW)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Snow\ufb02ake to $205 from $225.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month price target to $205 (vs. $225 prior) as we mark-to-market our multiple for the recent de-rating in broader software."
+    },
+    {
+      "company": "Atlassian (TEAM)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Atlassian to $305 from $370.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month price target to $305 (vs. $370 prior) as we update our multiples to re\ufb02ect the recent de-rating across broader software."
+    },
+    {
+      "company": "Twilio (TWLO)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Twilio to $130 from $185.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month price target to $130 (vs. $185 prior) as we market-to-market our multiple given the de-rating across broader software while opting to remove EV/Sales multiple, which we believe is appropriate given that the company has reached maturity at scale with steady revenue growth."
+    },
+    {
+      "company": "Workday (WDAY)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Workday to $275 from $345.",
+      "is_recent_update": true,
+      "original_sentence": "We raise our 12-month price target to $275 (vs. $345 prior) as we mark-to-market our multiple given the de-rating across broader software."
+    },
+    {
+      "company": "Weave Communications (WEAV)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Weave Communications to $10 from $15.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month Price Target to $10 (vs. $15 prior) as we update our target multiple following the sell-off in software stocks."
+    },
+    {
+      "company": "ZoomInfo Technologies (ZI)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for ZoomInfo Technologies to $7.50 from $8.40.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month Price Target to $7 .50 (vs. $8.40 prior) as we mark-to-market our multiple given the recent de-rating in broader software."
+    },
+    {
+      "company": "ZoomInfo Technologies (ZI)",
+      "fact_category": "Financials",
+      "fact_summary": "ZoomInfo's profitability profile for FY25E includes 36% Operating Margin (OpM) and 36% Free Cash Flow Margin (FCFM).",
+      "is_recent_update": true,
+      "original_sentence": "As such, we believe that investors will lean towards ZoomInfo\u2019s pro\ufb01tability pro\ufb01le (36% OpM, 36% FCFM in FY25E) when evaluating the company\u2019s forward operating outlook."
+    },
+    {
+      "company": "Zoom Video Communications (ZM)",
+      "fact_category": "Price Target",
+      "fact_summary": "Goldman Sachs lowered its 12-month price target for Zoom Video Communications to $82 from $86.",
+      "is_recent_update": true,
+      "original_sentence": "We lower our 12-month price target to $82 (vs. $86 prior) as we update our target multiple following the sell-off in software stocks."
+    },
+    {
+      "company": "Zoom Video Communications (ZM)",
+      "fact_category": "Financials",
+      "fact_summary": "Zoom's profitability profile for FY25E includes 39% Operating Margin (OpM) and 36% Free Cash Flow Margin (FCFM).",
+      "is_recent_update": true,
+      "original_sentence": "As such, we believe that investors will lean towards Zoom\u2019s pro\ufb01tability pro\ufb01le (39% OpM, 36% FCFM in FY25E) when evaluating the company\u2019s forward operating outlook."
+    }
+  ],
+  "file_Id": "Americas Technology_ Software_ Navigating Turbulence Part VIII_ Mark-to-Market for Potential Tariff Impact.pdf"
+}

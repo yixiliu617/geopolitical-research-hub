@@ -1,0 +1,74 @@
+{
+  "central_thesis": "Best Buy (BBY) demonstrates strong profitability and operational efficiency, leading to a 'Buy' rating and significant upside potential despite some top-line challenges.",
+  "sub_claims": [
+    {
+      "claim": "Best Buy exceeded profitability expectations in 4Q26.",
+      "evidence_list": [
+        {
+          "evidence_type": "Fact",
+          "content": "BBY reported 4Q26 adj. EPS of $2.61, above the GS estimate of $2.50 and consensus (Factset) of $2.46.",
+          "is_objective": true,
+          "credibility_assessment": "High, based on reported financial results and comparison to analyst/consensus estimates from Factset."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "Adj. EBIT margin increased 8 bps y/y to 5.0%, above GS/Cons. estimates of 4.9%/4.9%.",
+          "is_objective": true,
+          "credibility_assessment": "High, based on reported financial results and comparison to analyst/consensus estimates."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "Domestic gross margin increased 3 bps y/y to 20.9%, above the GS estimate of 20.8%.",
+          "is_objective": true,
+          "credibility_assessment": "High, based on reported financial results and comparison to analyst estimates."
+        }
+      ]
+    },
+    {
+      "claim": "Operational improvements and cost management are driving margin strength.",
+      "evidence_list": [
+        {
+          "evidence_type": "Fact",
+          "content": "The approximately flat gross margin rate included growth in Best Buy Ads and Marketplace",
+          "is_objective": true,
+          "credibility_assessment": "High, as it details specific operational drivers contributing to gross margin."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "Domestic adj. SG&A expense decreased -1.8% y/y due to lower compensation expenses, and lower Best Buy Health expenses.",
+          "is_objective": true,
+          "credibility_assessment": "High, as it provides specific reasons for the decrease in operating expenses."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "The adj. SG&A expense ratio decreased 11 bps y/y to 15.9%, in-line with the GS estimate of 15.9%.",
+          "is_objective": true,
+          "credibility_assessment": "High, based on reported financial results and comparison to analyst estimates."
+        }
+      ]
+    },
+    {
+      "claim": "Goldman Sachs maintains a strong positive outlook and price target for BBY.",
+      "evidence_list": [
+        {
+          "evidence_type": "Opinion",
+          "content": "We are Buy rated on BBY with a 12-month price target of $93 based on our downside/base/upside case EV/EBITDA multiples of 6.5x/7.0x/7.5x.",
+          "is_objective": false,
+          "credibility_assessment": "High, as it is the direct recommendation from the report's author, Goldman Sachs, supported by a valuation methodology."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "BBY 12m Price Target: $93.00 Price: $61.59 Upside: 51.0%",
+          "is_objective": true,
+          "credibility_assessment": "High, these are specific figures and a calculated upside based on the analyst's target and current market price."
+        },
+        {
+          "evidence_type": "Fact",
+          "content": "Dividend yield (%) 4.4 6.2 7.4 8.9",
+          "is_objective": true,
+          "credibility_assessment": "High, these are specific forecasted numbers provided by Goldman Sachs Research estimates, indicating a positive trend."
+        }
+      ]
+    }
+  ]
+}

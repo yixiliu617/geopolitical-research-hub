@@ -1,0 +1,32 @@
+{
+  "bearish_views": [
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bearish_debate_point": "Broadcom's supply chain capabilities are currently insufficient to meet the high demand for its TPU products, potentially limiting upside.",
+      "exact_sentences_in_the_file": "We believe Broadcom is seeing even higher TPU demand (FY26 and FY27) than its supply chain capabilities (continued upside to existing backlog), and the team is working to unlock more supply over the next few months."
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bearish_debate_point": "Meta Platforms is slowing down its future-generation XPU ASIC roadmaps mid-term, which could impact Broadcom's long-term revenue from this customer.",
+      "exact_sentences_in_the_file": "For Meta, we acknowledge some changes on future-gen programs (2nm Olympus, targeted for CY28 ramp) but continue to see current gen programs (Athena, Iris, Arke) driving $5\u2013$6B in ASIC revenues this year and next and the overall commitment to ASICs/Broadcom remains high at Meta. Meta is slowing down its future gen XPU ASIC roadmaps mid-term, but Broadcom\u2019s other ASIC customers are accelerating their roadmaps - AI XPU customer diversity will help to mitigate a slowdown by any one customer\u2026"
+    },
+    {
+      "company": "Broadcom Inc",
+      "ticker": "AVGO",
+      "sector": "Semiconductors",
+      "industry": "IT Hardware",
+      "observation_date": "2026-03-01",
+      "bearish_debate_point": "Broadcom faces risk from unexpected negative shocks to the global economy or regional end markets, which could reduce demand for its products.",
+      "exact_sentences_in_the_file": "If the global economy or any regional end market suffers unexpected negative shocks that lead to changes in demand for Broadcom\u2019s products, we may reassess our estimates and our Overweight rating."
+    }
+  ],
+  "file_Id": "JPM_Broadcom_Inc_F1Q26_P_2026-03-02_5221106.pdf"
+}

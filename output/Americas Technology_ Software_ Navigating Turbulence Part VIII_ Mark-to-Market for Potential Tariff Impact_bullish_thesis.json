@@ -1,0 +1,199 @@
+{
+  "central_thesis": "The software sector is poised for a compelling upside opportunity in CY26, driven by stabilizing fundamentals, robust free cash flow generation capabilities, attractive valuations, and the transformative long-term catalyst of Generative AI, despite near-term macroeconomic and tariff-related uncertainties.",
+  "sub_claims": [
+    {
+      "claim": "Software fundamentals are stabilizing and showing signs of improvement after a period of deceleration.",
+      "evidence_list": [
+        {
+          "evidence_type": "Opinion",
+          "content": "The worst is behind us for software fundamentals with leading growth indicators (cRPO, NER, new logos) stabilizing in C2H24 after a multi-year deceleration from peak levels.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment"
+        },
+        {
+          "evidence_type": "Data",
+          "content": "NER slightly in\ufb02ected to 112% after 10 consecutive quarters of decline and 1 quarter of stability.",
+          "is_objective": true,
+          "credibility_assessment": "High credibility - specific data point"
+        },
+        {
+          "evidence_type": "Data",
+          "content": "QoQ customer growth remained stable at +3% in C2H24.",
+          "is_objective": true,
+          "credibility_assessment": "High credibility - specific data point"
+        },
+        {
+          "evidence_type": "Data",
+          "content": "cRPO growth (YoY) broadly stable through C2H24, outpacing coverage NTM revenue growth expectations.",
+          "is_objective": true,
+          "credibility_assessment": "High credibility - specific data point"
+        },
+        {
+          "evidence_type": "Data",
+          "content": "Companies in our coverage are entering CY25 with a slightly higher proportion of committed revenue vs. NTM guidance relative to the prior years (68% vs. 67% in C1Q24).",
+          "is_objective": true,
+          "credibility_assessment": "High credibility - specific data point"
+        }
+      ]
+    },
+    {
+      "claim": "Software companies possess strong financial resilience and the ability to preserve Free Cash Flow (FCF) through cost agility.",
+      "evidence_list": [
+        {
+          "evidence_type": "Opinion",
+          "content": "Management teams remain well-equipped to preserve FCF through cost agility, with Gen-AI investments unaffected.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment"
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "FCF growth can remain resilient if our slowdown scenario transpires.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment based on sensitivity analysis"
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "Software models provide room to adjust variable costs, particularly in S&M, without compromising strategic R&D investments like Gen-AI.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment of business model"
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "The sector is structurally more pro\ufb01table as companies right-sized their cost structures following a post-COVID growth slowdown (CY22-24).",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment"
+        },
+        {
+          "evidence_type": "Data",
+          "content": "Software companies today are expected to deliver an average 20% FCFM in the NTM (per Consensus, Exhibit 13).",
+          "is_objective": true,
+          "credibility_assessment": "High credibility - consensus estimate"
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "Variable cost leverage can likely blunt the impact of any potential revenue growth slowdown.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment"
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "Companies are already running leaner following a multi-year period of workforce optimization and vendor consolidation.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment"
+        },
+        {
+          "evidence_type": "Data",
+          "content": "OpM\u2019s are only expected to expand +200 bps across our coverage in CY25, with many companies highlighting additional GTM hiring and investments in R&D for Gen-AI initiatives.",
+          "is_objective": true,
+          "credibility_assessment": "High credibility - specific data point/expectation"
+        }
+      ]
+    },
+    {
+      "claim": "Current valuations for software companies are compelling and present significant upside potential.",
+      "evidence_list": [
+        {
+          "evidence_type": "Opinion",
+          "content": "At ~6x EV/Sales NTM, downside is modest if CY25 estimates are revised lower, while a re-rating to ~8x (normalized multiple) could unlock meaningful upside into CY26.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment with specific multiples"
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "We continue to highlight the disconnect between current valuations and fundamentals (GSe 46% discount to Intrinsic Value).",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment with specific discount"
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "The sector holistically is better positioned to absorb cuts given the -21%+ de-rating in EV/S (NTM) multiples, which is now near multi-year lows.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment with specific data"
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "Current valuation levels provide a solid entry point for the broader comp group, especially with prospects of a Gen-AI driven recovery in CY26.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment"
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "Our Intrinsic Value Analysis, which indicates that most of our coverage universe now trades at a discount.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment based on proprietary model"
+        },
+        {
+          "evidence_type": "Data",
+          "content": "Using a 4% yield, the average revenue multiple for our coverage would be 9.9x. As 9.9x remains higher than what the coverage is valued at currently (6.8x, excluding the stocks excluded in the Intrinsic Value Analysis), we believe there is room for upward revision in multiples.",
+          "is_objective": true,
+          "credibility_assessment": "High credibility - specific model output and comparison"
+        },
+        {
+          "evidence_type": "Data",
+          "content": "A 3% and 5% yield imply intrinsic values of 13.3x and 8.0x (+94% / +17%) from current levels, respectively.",
+          "is_objective": true,
+          "credibility_assessment": "High credibility - specific model output"
+        }
+      ]
+    },
+    {
+      "claim": "Generative AI (Gen-AI) is a powerful and transformative long-term catalyst for software growth and value creation.",
+      "evidence_list": [
+        {
+          "evidence_type": "Opinion",
+          "content": "We see AI as the sector\u2019s key catalyst, especially as focus moves from infra/training CapEx to inferencing use cases at the platform and application layers.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment"
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "Gen-AI is poised to drive the next leg of software growth despite short-term tariff-induced volatility.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment"
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "In a productivity-starved economy, Gen-Al is a compelling lever to offset hiring constraints and cost pressures, making AI readiness and operational agility central to navigating the next leg of the cycle.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment"
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "Laying the groundwork in fostering AI adoption could translate to growth upside in 2026.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment"
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "AI tools that drive internal productivity and cost optimization are best poised to see adoption.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment"
+        },
+        {
+          "evidence_type": "Example",
+          "content": "Platforms with hybrid consumption models (e.g., ServiceNow Assist, Salesforce\u2019s Agentforce, Zoom AI companion, etc.) are well positioned to scale AI experimentation and roll-out \ufb01rst within pockets of an organization.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment with examples"
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "Product innovation cycle in 2025 can pave the way to AI-driven value creation in 2026.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment"
+        },
+        {
+          "evidence_type": "Data",
+          "content": "Adobe generating over $125M of Al-speci\ufb01c ARR and in\ufb02uencing more than $3.5B of Al-enabled bookings; ServiceNow saw Pro Plus deals more than quadruple yoy, including 39 deals with 3+ Now Assist products; Salesforce counting 3,000 paid AgentForce customers and roughly $900M of combined Data Cloud and Al ARR; Intuit reporting a 20% higher ecosystem attach rate for Al-powered QuickBooks Live users; Microsoft disclosing a $13B annualized run rate from AI services; Datadog attributing 6% of both yoy growth (CY24) and total ARR to Al-native clients; Twilio reported $260M in revenue from customers building in the AI space.",
+          "is_objective": true,
+          "credibility_assessment": "High credibility - specific company data points"
+        },
+        {
+          "evidence_type": "Opinion",
+          "content": "These results con\ufb01rm that Al is moving from pilot to production, reinforcing our conviction that Al-ready, operationally disciplined franchises will emerge as clear winners once macro volatility subsides.",
+          "is_objective": false,
+          "credibility_assessment": "High credibility - analyst assessment"
+        }
+      ]
+    }
+  ]
+}

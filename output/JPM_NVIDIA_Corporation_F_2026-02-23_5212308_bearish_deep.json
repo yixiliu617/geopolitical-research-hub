@@ -1,0 +1,95 @@
+{
+  "bearish_views": [
+    {
+      "company": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-02-23",
+      "bearish_debate_point": "Uncertainty regarding H200 exports/sales to China despite strong customer appetite due to policy changes.",
+      "exact_sentences_in_the_file": "H200 shipments to China may still prove to be an upside lever (driving ~$3B of incremental revenue per 100k units shipped) following a recent policy change by the US Department of Commerce that shifts H200 exports to China/Macau from a \u201cpresumption of denial\u201d to \u201ccase-by-case review\u201d(link), though exports/sales still appear to be in limbo (despite strong appetite from China customers)."
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-02-23",
+      "bearish_debate_point": "Rising input costs, particularly memory, could pressure margin expectations.",
+      "exact_sentences_in_the_file": "We anticipate a keen focus on management\u2019s commentary around (among other things) backlog growth, customer engagements/datacenter segment growth for CY27 (as a read-through on capex growth), margin expectations amid rising input costs (particularly memory) and the rising competitive threat from AI ASICs/XPUs."
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-02-23",
+      "bearish_debate_point": "Rising competitive threat from AI ASICs/XPUs.",
+      "exact_sentences_in_the_file": "We anticipate a keen focus on management\u2019s commentary around (among other things) backlog growth, customer engagements/datacenter segment growth for CY27 (as a read-through on capex growth), margin expectations amid rising input costs (particularly memory) and the rising competitive threat from AI ASICs/XPUs."
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-02-23",
+      "bearish_debate_point": "Sustainability of gross margins at mid-70% level is uncertain due to the upcoming Rubin ramp being potentially margin dilutive.",
+      "exact_sentences_in_the_file": "We expect management to affirm a near-term mid-70% expectation (which we think is within reach), though confidence on the sustainability of GM at that level into the back half of the year remains an open question, given the upcoming Rubin ramp (likely to initially be margin dilutive) and possible pressure from component cost inflation."
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-02-23",
+      "bearish_debate_point": "Sustainability of gross margins at mid-70% level is uncertain due to possible pressure from component cost inflation.",
+      "exact_sentences_in_the_file": "We expect management to affirm a near-term mid-70% expectation (which we think is within reach), though confidence on the sustainability of GM at that level into the back half of the year remains an open question, given the upcoming Rubin ramp (likely to initially be margin dilutive) and possible pressure from component cost inflation."
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-02-23",
+      "bearish_debate_point": "Perception of market share loss relative to AI ASICs/XPUs as AI workloads shift towards inference from training.",
+      "exact_sentences_in_the_file": "A broader, more overarching theme that we think has weighed on the stock is the perception of share loss relative to AI ASICs/XPUs, as the aggregate mix of AI workloads rapidly shifts more towards inference (where specialized/custom silicon can be especially beneficial) and away from training (where NVDA is the undisputed leader)."
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-02-23",
+      "bearish_debate_point": "Macroeconomic uncertainty could weigh on PC gaming demand trends.",
+      "exact_sentences_in_the_file": "Although PC gaming demand seems resilient to macroeconomic weakness, any macro uncertainty could weigh on PC gaming demand trends. Given NVDA\u2019s ~53% exposure to the PC gaming segment, any consumer PC gaming weakness poses downside risk to our estimates."
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-02-23",
+      "bearish_debate_point": "Consumer PC gaming weakness poses downside risk to revenue and earnings estimates.",
+      "exact_sentences_in_the_file": "Although PC gaming demand seems resilient to macroeconomic weakness, any macro uncertainty could weigh on PC gaming demand trends. Given NVDA\u2019s ~53% exposure to the PC gaming segment, any consumer PC gaming weakness poses downside risk to our estimates."
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-02-23",
+      "bearish_debate_point": "Lower than expected deployment of NVIDIA's GPUs into data center applications or a significant decrease in the adoption of deep learning by hyperscale customers.",
+      "exact_sentences_in_the_file": "NVIDIA\u2019s GPUs could gain lower than expected deployment into data center applications as hyperscale customers further adopt deep learning as a new and effective way of processing large unstructured data sets. Any significant decrease in the adoption of deep learning by hyperscale customers or increase in competition could result in downside risk to our revenue and earnings estimates."
+    },
+    {
+      "company": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "sector": "Semiconductors & Semiconductor Capital Equipment",
+      "industry": "IT Hardware",
+      "observation_date": "2026-02-23",
+      "bearish_debate_point": "Increase in competition in data center applications could result in downside risk to revenue and earnings estimates.",
+      "exact_sentences_in_the_file": "NVIDIA\u2019s GPUs could gain lower than expected deployment into data center applications as hyperscale customers further adopt deep learning as a new and effective way of processing large unstructured data sets. Any significant decrease in the adoption of deep learning by hyperscale customers or increase in competition could result in downside risk to our revenue and earnings estimates."
+    }
+  ],
+  "file_Id": "JPM_NVIDIA_Corporation_F_2026-02-23_5212308.pdf"
+}

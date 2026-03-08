@@ -1,0 +1,41 @@
+{
+  "research_metadata": {
+    "topic": "Ukraine War Impact on Global Macro & Sectors",
+    "date_performed": "2026-03-07",
+    "source": "Google AI Search Synthesis"
+  },
+  "findings": [
+    {
+      "category": "Macro",
+      "region": "European Union",
+      "impact": "Negative",
+      "details": "GDP growth reduced by ~2pp over 2022-2023 due to energy reliance.",
+      "key_drivers": ["Energy volatility", "Structural inflation", "Trade realignment"],
+      "context": "The EU faced a historic 'unplugging' from Russian pipeline gas, with prices surging 144% in 2022."
+    },
+    {
+      "category": "Macro",
+      "region": "United States",
+      "impact": "Neutral/Mixed",
+      "details": "Indirect impact via inflation and aggressive Fed rate hikes.",
+      "key_drivers": ["Commodity prices", "Monetary policy", "Energy exports"],
+      "context": "US inflation hit 40-year highs, but the US solidified its position as a leading global LNG exporter."
+    },
+    {
+      "category": "Sector",
+      "topic": "Aerospace & Defense",
+      "impact": "Highly Positive",
+      "details": "Massive increases in national defense budgets and stockpile replenishment.",
+      "key_drivers": ["Military spending", "Geopolitical tension"],
+      "context": "Rheinmetall stock surged +1,500% as European nations committed to long-term rearmament."
+    },
+    {
+      "category": "Sector",
+      "topic": "Energy",
+      "impact": "Positive",
+      "details": "Record profits for oil and gas producers.",
+      "key_drivers": ["Oil $70-90/bbl", "Supply constraints"],
+      "context": "ExxonMobil and Chevron benefited from a multi-year 'geopolitical risk premium' in crude prices."
+    }
+  ]
+}
